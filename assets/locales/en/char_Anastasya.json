@@ -39,7 +39,7 @@
     "1": "Palestar Edict: Doom 2-Hit Stellar Swirl DMG",
     "2": "Palestar Edict: Doom 3-Hit Stellar Swirl DMG"
   },
-  "a4ScNote": "Stellar-Conduct: each Polestar Field tick (and the instant buff on creation) gives +2 stacks instead of 1 — set the Polestar stacks in the Stellar-Conduct reaction settings accordingly.",
+  "a4ScNote": "Polestar Field: +2 stacks per release (instead of 1).",
   "c6TriumphSc": "C6 Triumph (on swap) Stellar-Conduct DMG",
   "c6TriumphSs": "C6 Triumph (on swap) Stellar Swirl DMG",
   "c6DoomSc": "C6 Doom 3rd Hit (on tap) Stellar-Conduct DMG",
