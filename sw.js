@@ -1,4 +1,4 @@
-/* Genshin Optimizer service worker — makes repeat visits load from the browser cache.
+/* Stellar Optimizer service worker — makes repeat visits load from the browser cache.
  * - content-hashed files (name-XXXXXXXX.ext): cache-first (they never change)
  * - other same-origin GET files (e.g. locale JSON): stale-while-revalidate
  * - page navigations (index.html): network-first, fall back to the cache after 3s / offline
