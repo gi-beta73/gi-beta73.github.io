@@ -130,7 +130,6 @@
   "artifactUsage": "Artifact is used in the following character builds: ",
   "chooseArtifact": "Choose an artifact",
   "header": {
-    "description": "Every artifact you own, with its main stat, substats and roll value.",
     "guide": "Guide",
     "duplicates": "Show duplicates",
     "add": "Add artifact"

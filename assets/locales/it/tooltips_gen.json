@@ -708,5 +708,35 @@
     "description": {
       "0": "Una meccanica speciale. Mette in pausa la durata di un effetto, impedendo che il conto alla rovescia proceda fino al termine dell'effetto che ha attivato il congelamento."
     }
+  },
+  "11370001": {
+    "name": "Mortaio a tiro diretto: Bombardamento ravvicinato",
+    "description": {
+      "0": "L'attacco caricato speciale di Valeriy. Utilizzando un attacco caricato quando dispone di almeno 40 punti di <strong>Slancio d'impatto</strong>, consuma tutti i punti a disposizione <strong></strong>per scatenare questo attacco caricato speciale, infliggendo <electro>DAN da Electro ad area</electro> di fronte a sé e ottenendo 15 accumuli di <strong>Direttiva d'assalto</strong>.",
+      "1": "Quando l'attacco caricato speciale viene utilizzato di nuovo, gli accumuli di <strong>Direttiva d'assalto</strong> vengono ripristinati.",
+      "2": "Entro 0,8 s dall'utilizzo dell'abilità elementale <strong>Difesa attiva: Baluardo d'attacco</strong> o del Tripudio elementale <strong>Fuoco concentrato: Raffica fulminante</strong>, se Valeriy possiede almeno 40 punti di <strong>Slancio d'impatto</strong>, il suo attacco normale successivo viene convertito nell'attacco caricato speciale <strong>Mortaio a tiro diretto: Bombardamento ravvicinato</strong>."
+    }
+  },
+  "11370002": {
+    "name": "Direttiva d'assalto",
+    "description": {
+      "0": "Un effetto speciale che Valeriy ottiene dopo aver eseguito l'attacco caricato speciale <strong>Mortaio a tiro diretto: Bombardamento ravvicinato</strong>. Aumenta diversi tipi di <electro>DAN da Electro</electro> a seconda che Valeriy si trovi o meno nello stato di <strong>Splendore: Astroconduzione</strong>.",
+      "1": [
+        " Se Valeriy è nello stato di <strong>Splendore: Astroconduzione</strong>, quando un personaggio attivo nelle vicinanze all'interno del gruppo usa un attacco normale, un attacco caricato, un attacco in picchiata, un'abilità elementale o un Tripudio elementale per infliggere <electro>DAN da Electro</electro> considerati come DAN da reazione di Astroconduzione a un avversario, viene consumato 1 accumulo di <strong>Direttiva d'assalto</strong> per aumentare i suddetti DAN in base all'ATT di Valeriy.",
+        " Se Valeriy non è nello stato di <strong>Splendore: Astroconduzione</strong>, quando un personaggio attivo nelle vicinanze all'interno del gruppo usa un attacco normale, un attacco caricato, un attacco in picchiata, un'abilità elementale o un Tripudio elementale per infligge <electro>DAN da Electro</electro> a un avversario, viene consumato 1 accumulo di <strong>Direttiva d'assalto</strong> per aumentare i suddetti DAN in base all'ATT di Valeriy."
+      ],
+      "2": "Quando una singola iterazione di <electro>DAN da Electro</electro> colpisce più avversari contemporaneamente, il numero di accumuli di <strong>Direttiva d'assalto</strong> consumati dipende dal numero di avversari colpiti."
+    }
+  },
+  "11370003": {
+    "name": "Slancio d'impatto",
+    "description": {
+      "0": "Un'energia speciale che Valeriy utilizza per potenziare le sue capacità di combattimento. Il suo massimo iniziale è 100. Quando possiede almeno 40 punti di <strong>Slancio d'impatto</strong>, può eseguire l'attacco caricato speciale <strong>Mortaio a tiro diretto: Bombardamento ravvicinato</strong>.",
+      "1": "Valeriy può ottenere <strong>Slancio d'impatto</strong>:",
+      "2": [
+        " utilizzando la sua abilità elementale <strong>Difesa attiva: Baluardo d'attacco</strong>;",
+        " dopo aver sbloccato il talento d'ascensione \"Avanzata con fuoco di copertura\", mentre il suo Tripudio elementale <strong>Fuoco concentrato: Raffica fulminante</strong> è attivo, quando un personaggio attivo vicino del gruppo colpisce un avversario con un attacco di <electro>Electro</electro>."
+      ]
+    }
   }
 }

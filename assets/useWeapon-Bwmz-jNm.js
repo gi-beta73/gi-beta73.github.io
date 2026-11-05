@@ -1,0 +1,1 @@
+import{a as e}from"./Artifacts-BzVnP-1s.js";import{t}from"./useDatabase-DOsGxo9H.js";function n(n=``){let r=t();return e(r.weapons,n)}export{n as t};

@@ -31,7 +31,6 @@
   "tcBuild": "TC Build",
   "chooseWeapon": "Choose a weapon",
   "header": {
-    "description": "Every weapon you own: level, refinement and who is using it.",
     "add": "Add weapon"
   },
   "filters": {

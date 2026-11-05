@@ -75,7 +75,8 @@
     "misc": "Misc. Stats"
   },
   "notActive": "(Unactivated)",
-  "activeDatabase": "Active database. Switch databases in Settings.",
+  "activeDatabase": "Active database",
   "mainNav": "Main",
-  "openMenu": "Open menu"
+  "openMenu": "Open menu",
+  "optimizationTarget": "Optimization target"
 }

@@ -703,5 +703,35 @@
     "description": {
       "0": "A special mechanic. Pauses an effect's duration, preventing it from counting down until the effect that triggered the freeze ends."
     }
+  },
+  "11370001": {
+    "name": "Direct-Fire Mortar: Point-Blank Bombardment",
+    "description": {
+      "0": "Valeriy's special Charged Attack. Using a Charged Attack while he has at least 40 <strong>Impact Momentum</strong> consumes all <strong>Impact Momentum</strong> to unleash this special Charged Attack instead, dealing <electro>AoE Electro DMG</electro> in front of him and granting 15 stacks of <strong>Offensive Directive</strong>.",
+      "1": "When this special Charged Attack is used again, the <strong>Offensive Directive</strong> stack count will be refreshed.",
+      "2": "Within 0.8s after using the Elemental Skill <strong>Active Defense: Bastion Charge</strong> or the Elemental Burst <strong>Focused Fire: Lightning Salvo</strong>, if Valeriy has at least 40 <strong>Impact Momentum</strong>, the next Normal Attack he uses will be converted to the special Charged Attack <strong>Direct-Fire Mortar: Point-Blank Bombardment</strong>."
+    }
+  },
+  "11370002": {
+    "name": "Offensive Directive",
+    "description": {
+      "0": "A special effect Valeriy gains after performing the special Charged Attack <strong>Direct-Fire Mortar: Point-Blank Bombardment</strong>. It increases different types of <electro>Electro DMG</electro> depending on whether Valeriy is in the <strong>Radiance: Stellar-Conduct</strong> state. If Valeriy is:",
+      "1": [
+        "In the <strong>Radiance: Stellar-Conduct</strong> state: When a nearby active character in the party deals <electro>Electro DMG</electro> considered Stellar-Conduct reaction DMG to an opponent with a Normal Attack, Charged Attack, Plunging Attack, Elemental Skill, or Elemental Burst, 1 stack of <strong>Offensive Directive</strong> is consumed to increase that DMG, with the increase based on Valeriy's ATK;",
+        "Not in the <strong>Radiance: Stellar-Conduct</strong> state: When a nearby active character in the party deals <electro>Electro DMG</electro> to an opponent with a Normal Attack, Charged Attack, Plunging Attack, Elemental Skill, or Elemental Burst, 1 stack of <strong>Offensive Directive</strong> is consumed to increase that DMG, with the increase based on Valeriy's ATK."
+      ],
+      "2": "When a single instance of <electro>Electro DMG</electro> hits multiple opponents simultaneously, <strong>Offensive Directive</strong> stacks are consumed based on the number of opponents hit."
+    }
+  },
+  "11370003": {
+    "name": "Impact Momentum",
+    "description": {
+      "0": "A special energy Valeriy uses to enhance his combat capabilities. Its initial maximum is 100. When he has at least 40 <strong>Impact Momentum</strong>, he can perform the special Charged Attack <strong>Direct-Fire Mortar: Point-Blank Bombardment</strong>.",
+      "1": "Valeriy can gain <strong>Impact Momentum</strong> in the following ways:",
+      "2": [
+        "By using his Elemental Skill <strong>Active Defense: Bastion Charge</strong>;",
+        "After unlocking the Ascension Talent \"Advance With the Creeping Barrage,\" while his Elemental Burst <strong>Focused Fire: Lightning Salvo</strong> is active, when a nearby active character in the party hits an opponent with an <electro>Electro</electro> attack."
+      ]
+    }
   }
 }

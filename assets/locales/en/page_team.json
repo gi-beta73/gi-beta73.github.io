@@ -38,7 +38,11 @@
     "deleteBtn": "Delete Team",
     "addCharBtn": "Add Character",
     "toFieldBtn": "To Field",
-    "onFieldBtn": "On-field Character"
+    "onFieldBtn": "On-field Character",
+    "buffsTitle": "Team buffs",
+    "buffsEmpty": "Add a character to see the team's resonance, Moonsign, Hexerei and reaction buffs.",
+    "noResonance": "No elemental resonance with this lineup.",
+    "removeBtn": "Remove from team"
   },
   "exportModal": {
     "msg": "Copied team data to clipboard.",

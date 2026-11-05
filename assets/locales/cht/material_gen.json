@@ -24289,5 +24289,11 @@
   },
   "DamagedFlint": {
     "name": "破損的燧石"
+  },
+  "Valeriy": {
+    "name": "瓦列里"
+  },
+  "ValeriysStellaFortuna": {
+    "name": "瓦列里的命星"
   }
 }

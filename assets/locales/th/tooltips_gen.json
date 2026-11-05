@@ -702,5 +702,35 @@
     "description": {
       "0": "กลไกพิเศษชนิดหนึ่ง โดยเอฟเฟกต์ที่ถูกแช่แข็งจะไม่ถูกหักระยะเวลาต่อเนื่องอีก จนกว่าเอฟเฟกต์ที่ทำให้เกิดการแช่แข็งจะสิ้นสุดลง"
     }
+  },
+  "11370001": {
+    "name": "Direct-Fire Mortar: Point-Blank Bombardment",
+    "description": {
+      "0": "การชาร์จโจมตีพิเศษของ Valeriy เมื่อทำการชาร์จโจมตีในขณะที่มี <strong>Impact Momentum</strong> อย่างน้อย 40 หน่วย จะใช้ <strong>Impact Momentum</strong> ทั้งหมด เพื่อเปลี่ยนเป็นการชาร์จโจมตีพิเศษนี้แทน สร้าง<electro>ความเสียหายไฟฟ้าวงกว้าง</electro>ข้างหน้า และได้รับ <strong>Offensive Directive</strong> 15 ชั้น",
+      "1": "เมื่อใช้ชาร์จโจมตีพิเศษอีกครั้ง จะรีเฟรชจำนวนชั้นของ <strong>Offensive Directive</strong>",
+      "2": "ภายใน 0.8 วินาทีหลังจากใช้สกิลธาตุ <strong>Active Defense: Bastion Charge</strong> หรือท่าไม้ตาย <strong>Focused Fire: Lightning Salvo</strong> หาก Valeriy มี <strong>Impact Momentum</strong> อย่างน้อย 40 หน่วย การโจมตีปกติครั้งต่อไปของ Valeriy จะเปลี่ยนเป็นการชาร์จโจมตีพิเศษ <strong>Direct-Fire Mortar: Point-Blank Bombardment</strong>"
+    }
+  },
+  "11370002": {
+    "name": "Offensive Directive",
+    "description": {
+      "0": "เอฟเฟกต์พิเศษที่จะได้รับหลังจาก Valeriy ทำการชาร์จโจมตีพิเศษ <strong>Direct-Fire Mortar: Point-Blank Bombardment</strong> ซึ่งจะเพิ่ม<electro>ความเสียหายไฟฟ้า</electro>ประเภทต่าง ๆ ขึ้นอยู่กับว่า Valeriy อยู่ในสถานะ<strong>เจิดจรัส: นำไฟฟ้าดารา</strong> หรือไม่ หาก Valeriy:",
+      "1": [
+        "อยู่ในสถานะ<strong>เจิดจรัส: นำไฟฟ้าดารา</strong>: เมื่อการโจมตีปกติ, ชาร์จโจมตี, โจมตีพุ่งลงจากอากาศ, สกิลธาตุ หรือท่าไม้ตายของตัวละครที่เข้าร่วมการต่อสู้ในขณะนั้นที่อยู่ใกล้เคียงของทีม สร้าง<electro>ความเสียหายไฟฟ้า</electro>ซึ่งถูกนับเป็นความเสียหายจากปฏิกิริยานำไฟฟ้าดาราแก่ศัตรู จะใช้ <strong>Offensive Directive</strong> 1 ชั้น เพื่อเพิ่มความเสียหายที่สร้าง โดยค่าความเสียหายที่เพิ่มขึ้นจะขึ้นอยู่กับพลังโจมตีของ Valeriy;",
+        "ไม่อยู่ในสถานะ <strong>เจิดจรัส: นำไฟฟ้าดารา</strong>: เมื่อการโจมตีปกติ, ชาร์จโจมตี, โจมตีพุ่งลงจากอากาศ, สกิลธาตุ หรือท่าไม้ตายของตัวละครที่เข้าร่วมการต่อสู้ในขณะนั้นที่อยู่ใกล้เคียงของทีม สร้าง<electro>ความเสียหายไฟฟ้า</electro>แก่ศัตรู จะใช้ <strong>Offensive Directive</strong> 1 ชั้น เพื่อเพิ่มความเสียหายที่สร้าง โดยค่าความเสียหายที่เพิ่มขึ้นจะขึ้นอยู่กับพลังโจมตีของ Valeriy"
+      ],
+      "2": "เมื่อ<electro>ความเสียหายไฟฟ้า</electro> 1 ครั้งโดนศัตรูหลายตัวพร้อมกัน จะใช้จำนวนชั้นของ <strong>Offensive Directive</strong> ตามจำนวนศัตรูที่โดนโจมตี"
+    }
+  },
+  "11370003": {
+    "name": "Impact Momentum",
+    "description": {
+      "0": "พลังงานพิเศษของ Valeriy ที่ใช้สำหรับเสริมพลังการต่อสู้ มีขีดจำกัดเริ่มต้นที่ 100 หน่วย เมื่อมี <strong>Impact Momentum</strong> อย่างน้อย 40 หน่วย จะสามารถใช้ชาร์จโจมตีพิเศษ <strong>Direct-Fire Mortar: Point-Blank Bombardment</strong> ได้",
+      "1": "Valeriy สามารถรับ <strong>Impact Momentum</strong> ได้ผ่านวิธีดังต่อไปนี้:",
+      "2": [
+        "เมื่อใช้สกิลธาตุ <strong>Active Defense: Bastion Charge</strong>;",
+        "หลังจากปลดล็อกพรสวรรค์เพิ่มเติม \"Advance With the Creeping Barrage\" และเมื่อการโจมตี<electro>ธาตุไฟฟ้า</electro>ของตัวละครที่เข้าร่วมการต่อสู้ในขณะนั้น ที่อยู่ใกล้เคียงของทีมโดนศัตรู ขณะอยู่ในช่วงเวลาต่อเนื่องของท่าไม้ตาย <strong>Focused Fire: Lightning Salvo</strong>"
+      ]
+    }
   }
 }

@@ -698,5 +698,35 @@
     "description": {
       "0": "Một cơ chế đặc biệt. Các hiệu ứng bị Đóng Băng sẽ không bị trừ thời gian duy trì cho đến khi hiệu ứng kích hoạt Đóng Băng kết thúc."
     }
+  },
+  "11370001": {
+    "name": "Súng Cối Bắn Thẳng - Oanh Tạc Tầm Gần",
+    "description": {
+      "0": "Trọng Kích đặc biệt của Valeriy. Thi triển Trọng Kích khi có ít nhất 40 điểm <strong>Thế Năng Xung Kích</strong>, sẽ tiêu hao toàn bộ <strong>Thế Năng Xung Kích</strong> và chuyển sang thi triển Trọng Kích đặc biệt này, gây <electro>Sát Thương Phạm Vi Nguyên Tố Lôi</electro> về phía trước và nhận 15 tầng <strong>Chỉ Lệnh Tấn Công</strong>.",
+      "1": "Khi thi triển Trọng Kích đặc biệt lần nữa, số tầng <strong>Chỉ Lệnh Tấn Công</strong> sẽ được làm mới.",
+      "2": "Trong vòng 0.8s sau khi thi triển Kỹ Năng Nguyên Tố <strong>Phòng Ngự Tấn Công - Pháo Đài Thần Tốc</strong> hoặc Kỹ Năng Nộ <strong>Tiêu Điểm Hỏa Lực - Sấm Sét Oanh Kích</strong>, nếu Valeriy có ít nhất 40 điểm <strong>Thế Năng Xung Kích</strong>, thì Tấn Công Thường lần sau mà Valeriy thực hiện sẽ đổi thành Trọng Kích đặc biệt <strong>Súng Cối Bắn Thẳng - Oanh Tạc Tầm Gần</strong>."
+    }
+  },
+  "11370002": {
+    "name": "Chỉ Lệnh Tấn Công",
+    "description": {
+      "0": "Hiệu quả đặc biệt Valeriy nhận được sau khi thi triển Trọng Kích đặc biệt <strong>Súng Cối Bắn Thẳng - Oanh Tạc Tầm Gần</strong>. Dựa trên việc Valeriy có đang trong trạng thái <strong>Tỏa Sáng: Tinh-Siêu Dẫn</strong> hay không, sẽ giúp tăng các loại <electro>Sát Thương Nguyên Tố Lôi</electro> khác nhau. Nếu Valeriy:",
+      "1": [
+        "Đang trong trạng thái <strong>Tỏa Sáng: Tinh-Siêu Dẫn</strong>: Khi Tấn Công Thường, Trọng Kích, Tấn Công Khi Đáp, Kỹ Năng Nguyên Tố hoặc Kỹ Năng Nộ của nhân vật ra trận hiện tại trong đội ở gần gây <electro>Sát Thương Nguyên Tố Lôi</electro> được xem là sát thương phản ứng Tinh-Siêu Dẫn lên kẻ địch, sẽ tiêu hao một tầng <strong>Chỉ Lệnh Tấn Công</strong> để tăng sát thương gây ra, mức tăng dựa trên Tấn Công của Valeriy.",
+        "Không trong trạng thái <strong>Tỏa Sáng: Tinh-Siêu Dẫn</strong>: Khi Tấn Công Thường, Trọng Kích, Tấn Công Khi Đáp, Kỹ Năng Nguyên Tố hoặc Kỹ Năng Nộ của nhân vật ra trận hiện tại trong đội ở gần gây <electro>Sát Thương Nguyên Tố Lôi</electro> lên kẻ địch, sẽ tiêu hao một tầng <strong>Chỉ Lệnh Tấn Công</strong> để tăng sát thương gây ra, mức tăng dựa trên Tấn Công của Valeriy."
+      ],
+      "2": "Nếu trong một lần <electro>Sát Thương Nguyên Tố Lôi</electro> đánh trúng nhiều kẻ địch cùng lúc, sẽ dựa trên số lượng kẻ địch trúng đòn để tiêu hao số tầng <strong>Chỉ Lệnh Tấn Công</strong>."
+    }
+  },
+  "11370003": {
+    "name": "Thế Năng Xung Kích",
+    "description": {
+      "0": "Năng lượng đặc biệt Valeriy dùng để cường hóa chiến đấu, giới hạn ban đầu là 100 điểm. Khi có ít nhất 40 điểm <strong>Thế Năng Xung Kích</strong>, có thể thi triển Trọng Kích đặc biệt <strong>Súng Cối Bắn Thẳng - Oanh Tạc Tầm Gần</strong>.",
+      "1": "Valeriy có thể nhận <strong>Thế Năng Xung Kích</strong> thông qua những cách sau:",
+      "2": [
+        "Thi triển Kỹ Năng Nguyên Tố <strong>Phòng Ngự Tấn Công - Pháo Đài Thần Tốc</strong>.",
+        "Sau khi mở khóa Thiên Phú Đột Phá \"Tiến Bước Cùng Với Màn Đạn\", trong thời gian duy trì Kỹ Năng Nộ <strong>Tiêu Điểm Hỏa Lực - Sấm Sét Oanh Kích</strong>, khi đòn tấn công <electro>Nguyên Tố Lôi</electro> của nhân vật ra trận hiện tại trong đội ở gần đánh trúng kẻ địch."
+      ]
+    }
   }
 }

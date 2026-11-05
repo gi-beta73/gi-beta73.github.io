@@ -8,7 +8,6 @@
     "import": "Import a team"
   },
   "header": {
-    "description": "Groups of up to four characters, with loadouts, buffs and enemy settings.",
     "create": "Create team",
     "import": "Import team"
   }

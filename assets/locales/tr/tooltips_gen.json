@@ -705,5 +705,35 @@
     "description": {
       "0": "Özel bir mekanik. Bir etkinin süresini duraklatır ve dondurma durumunu tetikleyen etki bitene kadar sürenin azalmasını engeller."
     }
+  },
+  "11370001": {
+    "name": "Doğrudan Atışlı Havan Topu: Hassas Bombardıman",
+    "description": {
+      "0": "Valeriy'nin özel Yüklü Saldırısı. En az 40 <strong>Darbe İvmesi</strong> varken Yüklü Saldırı kullanmak, tüm <strong>Darbe İvmesini</strong> tüketerek bunun yerine bu özel Yüklü Saldırıyı gerçekleştirir. Önündeki alana <electro>Elektrik Alan Hasarı</electro> verir ve 15 kademe <strong>Taarruz Emri</strong> kazandırır.",
+      "1": "Bu özel Yüklü Saldırı tekrar kullanıldığında <strong>Taarruz Emri</strong> kademe sayısı yenilenir.",
+      "2": "<strong>Aktif Savunma: Hisar Hücumu</strong> Element Becerisi veya <strong>Odaklı Ateş: Yıldırım Yaylımı</strong> Element Patlaması kullanıldıktan sonraki 0,8sn içinde Valeriy'nin en az 40 <strong>Darbe İvmesi</strong> varsa, kullanacağı bir sonraki Normal Saldırı <strong>Doğrudan Atışlı Havan Topu: Hassas Bombardıman</strong> özel Yüklü Saldırısına dönüşür."
+    }
+  },
+  "11370002": {
+    "name": "Taarruz Emri",
+    "description": {
+      "0": "Valeriy'nin <strong>Doğrudan Atışlı Havan Topu: Hassas Bombardıman</strong> özel Yüklü Saldırısını gerçekleştirdikten sonra kazandığı özel bir etki. Valeriy'nin <strong>Işıltı: Yıldız İletimi</strong> durumunda olup olmamasına bağlı olarak farklı türlerdeki <electro>Elektrik Hasarını</electro> artırır. Eğer Valeriy:",
+      "1": [
+        "<strong>Işıltı: Yıldız İletimi</strong> durumundaysa yakındaki aktif bir grup üyesi, bir düşmana Normal Saldırı, Yüklü Saldırı, Havadan Saldırı, Element Becerisi veya Element Patlaması ile Yıldız İletimi Tepkimesi Hasarı olarak kabul edilen <electro>Elektrik Hasarı</electro> verdiğinde 1 kademe <strong>Taarruz Emri</strong> tüketilir ve verilen Hasar Valeriy'nin Saldırısına göre artar.",
+        "<strong>Işıltı: Yıldız İletimi</strong> durumunda değilse yakındaki aktif bir grup üyesi, bir düşmana Normal Saldırı, Yüklü Saldırı, Havadan Saldırı, Element Becerisi veya Element Patlaması ile <electro>Elektrik Hasarı</electro> verdiğinde 1 kademe <strong>Taarruz Emri</strong> tüketilir ve verilen Hasar Valeriy'nin Saldırısına göre artar."
+      ],
+      "2": "Tek seferde verilen <electro>Elektrik Hasarı</electro> aynı anda birden fazla düşmana isabet ettiğinde, <strong>Taarruz Emri</strong> kademeleri isabet alan düşman sayısına göre tüketilir."
+    }
+  },
+  "11370003": {
+    "name": "Darbe İvmesi",
+    "description": {
+      "0": "Valeriy'nin savaş kabiliyetlerini geliştirmek için kullandığı özel bir enerji. Başlangıçtaki maksimum değeri 100'dür. En az 40 <strong>Darbe İvmesi</strong> biriktiğinde, <strong>Doğrudan Atışlı Havan Topu: Hassas Bombardıman</strong> özel Yüklü Saldırısını gerçekleştirebilir.",
+      "1": "Valeriy aşağıdaki yollarla <strong>Darbe İvmesi</strong> kazanabilir:",
+      "2": [
+        "<strong>Aktif Savunma: Hisar Hücumu</strong> Element Becerisini kullanarak.",
+        "\"Genişleyen Yaylım Ateşiyle İlerleme\" Yükseltme Yeteneğini açtıktan sonra, <strong>Odaklı Ateş: Yıldırım Yaylımı</strong> Element Patlaması etkinken, yakında bulunan bir grup üyesi bir düşmana Element Türü <electro>Elektrik</electro> olan bir saldırı ile vurduğunda."
+      ]
+    }
   }
 }

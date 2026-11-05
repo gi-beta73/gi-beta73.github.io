@@ -700,5 +700,35 @@
     "description": {
       "0": "Uma mecânica especial. Pausa a duração de um efeito, impedindo que continue a contagem regressiva até que o efeito que ativou o congelamento acabe."
     }
+  },
+  "11370001": {
+    "name": "Disparo de Morteiro: Bombardeio de Curta Distância",
+    "description": {
+      "0": "Ataque Carregado especial de Valeriy. Ao realizar um Ataque Carregado enquanto possui pelo menos 40 pontos de <strong>Energia de Choque</strong>, consumirá toda a <strong>Energia de Choque</strong> para lançar este Ataque Carregado especial em seu lugar, causando <electro>Dano Electro em uma AdE</electro> à sua frente e concedendo 15 acúmulos de <strong>Ordem de Ataque</strong>.",
+      "1": "Ao usar este Ataque Carregado especial novamente, o número de acúmulos de <strong>Ordem de Ataque</strong> será redefinido.",
+      "2": "Dentro de 0.8s após usar a Habilidade Elemental <strong>Defesa de Ofensiva: Ataque Relâmpago da Fortaleza</strong> ou o Supremo <strong>Ponto de Fogo: Invasão Relâmpago</strong>, se Valeriy possuir pelo menos 40 pontos de <strong>Energia de Choque</strong>, o próximo Ataque Normal que ele realizar será convertido no Ataque Carregado especial <strong>Disparo de Morteiro: Bombardeio de Curta Distância</strong>."
+    }
+  },
+  "11370002": {
+    "name": "Ordem de Ataque",
+    "description": {
+      "0": "Efeito especial obtido após Valeriy realizar seu Ataque Carregado especial <strong>Disparo de Morteiro: Bombardeio de Curta Distância</strong>. Aumenta o <electro>Dano Electro</electro> de formas diferentes se Valeriy estiver no estado <strong>Brilho Reluzente: Supercondutor Estelar</strong>. Se Valeriy:",
+      "1": [
+        " Estiver no estado <strong>Brilho Reluzente: Supercondutor Estelar</strong>: quando o personagem ativo da equipe causar <electro>Dano Electro</electro> que é considerado Dano de Supercondutor Estelar com seu Ataque Normal, Carregado, Imersivo, Habilidade Elemental ou Supremo, consome 1 de <strong>Ordem de Ataque</strong> para aumentar o Dano causado baseado no ATQ de Valeriy.",
+        " Se não estiver no estado <strong>Brilho Reluzente: Supercondutor Estelar</strong>: quando o personagem ativo da equipe causar <electro>Dano Electro</electro> contra o inimigo com seu Ataque Normal, Carregado, Imersivo, Habilidade Elemental ou Supremo, consome 1 de <strong>Ordem de Ataque</strong> para aumentar o Dano causado baseado no ATQ de Valeriy."
+      ],
+      "2": "Se o <electro>Dano Electro</electro> atingir mais de um inimigo ao mesmo tempo, consumirá a quantidade de acúmulos de <strong>Ordem de Ataque</strong> de acordo com a quantidade de inimigos atingidos."
+    }
+  },
+  "11370003": {
+    "name": "Energia de Choque",
+    "description": {
+      "0": "Energia especial usada para fortalecer Valeriy em batalha. Máximo inicial de 100. Ao possuir pelo menos 40 de <strong>Energia de Choque</strong>, pode fazer o Ataque Carregado especial <strong>Disparo de Morteiro: Bombardeio de Curta Distância</strong>.",
+      "1": "Valeriy pode obter <strong>Energia de Choque</strong> das seguintes maneiras:",
+      "2": [
+        " Ao lançar a Habilidade Elemental <strong>Defesa de Ofensiva: Ataque Relâmpago da Fortaleza</strong>.",
+        " Quando os ataques do personagem ativo de Tipo Elemental <electro>Electro</electro> da equipe atingirem o inimigo após desbloquear o Talento Passivo \"Na Companhia de Balas\" e na duração do Supremo <strong>Ponto de Fogo: Invasão Relâmpago</strong>."
+      ]
+    }
   }
 }

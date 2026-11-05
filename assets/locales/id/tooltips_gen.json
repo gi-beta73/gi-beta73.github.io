@@ -702,5 +702,35 @@
     "description": {
       "0": "Mekanisme khusus. Durasi efek yang terkena Frozen tidak akan berkurang lagi sampai efek Frozen yang memicunya berakhir.____"
     }
+  },
+  "11370001": {
+    "name": "Direct-Fire Mortar: Point-Blank Bombardment",
+    "description": {
+      "0": "Charged Attack khusus milik Valeriy. Saat melakukan Charged Attack dengan minimum 40 poin <strong>Impact Momentum</strong>, seluruh <strong>Impact Momentum</strong> akan dikonsumsi dan serangannya akan berubah menjadi Charged Attack khusus ini: mengakibatkan <electro>Electro DMG Area</electro> ke arah di depan dan mendapatkan 15 lapis <strong>Offensive Directive</strong>.",
+      "1": "Saat melancarkan Charged Attack khusus sekali lagi, jumlah lapisan <strong>Offensive Directive</strong> akan diperbarui.",
+      "2": "Dalam kurun 0,8 detik setelah melancarkan Elemental Skill <strong>Active Defense: Bastion Charge</strong> atau Elemental Burst <strong>Focused Fire: Lightning Salvo</strong>, jika Valeriy memiliki setidaknya 40 poin <strong>Impact Momentum</strong>, maka Normal Attack berikutnya yang dilancarkan Valeriy akan berubah menjadi Charged Attack spesial <strong>Direct-Fire Mortar: Point-Blank Bombardment</strong>."
+    }
+  },
+  "11370002": {
+    "name": "Offensive Directive",
+    "description": {
+      "0": "Efek khusus yang diperoleh Valeriy setelah melakukan Charged Attack khusus <strong>Direct-Fire Mortar: Point-Blank Bombardment</strong>. Meningkatkan jenis <electro>Electro DMG</electro> yang berbeda tergantung apakah Valeriy berada dalam status <strong>Radiance: Stellar-Conduct</strong> atau tidak. Jika Valeriy:",
+      "1": [
+        "Berada dalam status <strong>Radiance: Stellar-Conduct</strong>: Saat Normal Attack, Charged Attack, Plunging Attack, Elemental Skill, atau Elemental Burst milik Karakter aktif di sekitar dalam party mengakibatkan <electro>Electro DMG</electro> yang dianggap sebagai DMG reaksi Stellar-Conduct terhadap musuh, maka Valeriy akan mengonsumsi 1 lapis <strong>Offensive Directive</strong> untuk meningkatkan DMG yang diakibatkan berdasarkan ATK Valeriy.",
+        "Tidak berada dalam status <strong>Radiance: Stellar-Conduct</strong>: Saat Normal Attack, Charged Attack, Plunging Attack, Elemental Skill, atau Elemental Burst milik Karakter aktif di sekitar dalam party mengakibatkan <electro>Electro DMG</electro> terhadap musuh, akan mengonsumsi 1 lapis <strong>Offensive Directive</strong> untuk meningkatkan DMG yang diakibatkan berdasarkan ATK Valeriy."
+      ],
+      "2": "Saat satu kali <electro>Electro DMG</electro> mengenai beberapa musuh secara bersamaan, lapisan <strong>Offensive Directive</strong> yang dikonsumsi akan disesuaikan berdasarkan jumlah musuh yang terkena."
+    }
+  },
+  "11370003": {
+    "name": "Impact Momentum",
+    "description": {
+      "0": "Energi khusus milik Valeriy yang digunakan untuk memperkuat kemampuan bertempurnya. Batas awalnya adalah 100 poin. Saat memiliki setidaknya 40 poin <strong>Impact Momentum</strong>, Valeriy dapat melancarkan Charged Attack khusus <strong>Direct-Fire Mortar: Point-Blank Bombardment</strong>.",
+      "1": "Valeriy dapat memperoleh <strong>Impact Momentum</strong> melalui cara berikut:",
+      "2": [
+        "Saat melancarkan Elemental Skill <strong>Active Defense: Bastion Charge</strong>.",
+        "Setelah membuka Talenta Ascension \"Advance With the Creeping Barrage\", selama durasi Elemental Burst <strong>Focused Fire: Lightning Salvo</strong> aktif dan ada serangan Karakter aktif di sekitar dalam party dengan jenis elemen <electro>Electro</electro> yang mengenai musuh."
+      ]
+    }
   }
 }
