@@ -69,5 +69,8 @@
       "delCharNotInImport": "Assume the import is your full inventory of characters. Characters in the GO Inventory that don't exist in the import will be deleted.",
       "keepCharNotInImport": "Assume the import is a partial inventory of characters. Nothing will be deleted."
     }
+  },
+  "header": {
+    "description": "Language and display options, and the databases saved in this browser."
   }
 }

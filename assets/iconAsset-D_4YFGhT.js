@@ -1,0 +1,1 @@
+import{lt as e,n as t}from"./CharIconSideElement-Bf0PuP0-.js";function n(n,r,i){let a=t(n,r),o=e(n,`icon`,r);return i&&a?a:o||``}export{n as t};

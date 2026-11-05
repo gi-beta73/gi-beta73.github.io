@@ -30,7 +30,11 @@
     }
   },
   "inventoryCard": {
-    "title": "GO Inventory"
+    "title": "Your inventory",
+    "loadouts_one": "{{count}} character loadout",
+    "loadouts_other": "{{count}} character loadouts",
+    "recentTeams": "Recent teams",
+    "allTeams": "All teams"
   },
   "vidGuideCard": {
     "title": "Video Guides"
@@ -74,5 +78,12 @@
         "action": "Open the optimizer"
       }
     }
+  },
+  "hero": {
+    "title": "Plan builds with what you own",
+    "addCharacters": "Add characters",
+    "createTeam": "Create a team",
+    "openTeams": "Open your teams",
+    "importData": "Import data"
   }
 }

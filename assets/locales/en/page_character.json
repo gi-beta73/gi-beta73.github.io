@@ -128,5 +128,9 @@
     "count_other": "{{count}} of 4 characters picked",
     "hint": "Pick in team order. The first character is the one on the field.",
     "done": "Done"
+  },
+  "header": {
+    "description": "The characters you play: level, talents, constellation and gear. Click a card to edit it.",
+    "add": "Add character"
   }
 }

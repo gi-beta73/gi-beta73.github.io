@@ -1,0 +1,1 @@
+import{o as e}from"./rolldown-runtime-C0FnF6B9.js";import{t}from"./DatabaseContext-CutI7oYd.js";import{Lr as n}from"./useTranslation-BSALappx.js";var r=e(n());function i(){let{database:e}=(0,r.useContext)(t);return e}export{i as t};

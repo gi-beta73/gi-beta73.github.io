@@ -128,5 +128,25 @@
   "builds_one": "{{count}} Build",
   "builds_other": "{{count}} Builds",
   "artifactUsage": "Artifact is used in the following character builds: ",
-  "chooseArtifact": "Choose an artifact"
+  "chooseArtifact": "Choose an artifact",
+  "header": {
+    "description": "Every artifact you own, with its main stat, substats and roll value.",
+    "guide": "Guide",
+    "duplicates": "Show duplicates",
+    "add": "Add artifact"
+  },
+  "filters": {
+    "title": "Filters",
+    "active_one": "{{count}} active",
+    "active_other": "{{count}} active"
+  },
+  "bulk": {
+    "title": "Bulk actions",
+    "hint_one": "Applies to the {{count}} artifact that matches your filters.",
+    "hint_other": "Applies to the {{count}} artifacts that match your filters.",
+    "unequip": "Unequip from characters",
+    "lock": "Lock",
+    "unlock": "Unlock",
+    "delete": "Delete unlocked artifacts"
+  }
 }
