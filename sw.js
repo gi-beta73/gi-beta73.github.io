@@ -1,9 +1,10 @@
 /* Genshin Optimizer service worker — makes repeat visits load from the browser cache.
  * - content-hashed files (name-XXXXXXXX.ext): cache-first (they never change)
- * - other same-origin GET files (e.g. locale JSON): stale-while-revalidate
+ * - other same-origin GET files (e.g. locale JSON): network-first (must match the deployed code),
+ *   falling back to cache after 3s / offline
  * - page navigations (index.html): network-first, fall back to cache after 3s / offline
  */
-const CACHE = 'go-cache-v1'
+const CACHE = 'go-cache-v2'
 const HASHED = /-[A-Za-z0-9_-]{8}\.[a-z0-9]+$/i
 
 self.addEventListener('install', () => self.skipWaiting())
@@ -27,22 +28,6 @@ async function cacheFirst(req) {
   const res = await fetch(req)
   if (res.ok) cache.put(req, res.clone())
   return res
-}
-
-async function staleWhileRevalidate(req, event) {
-  const cache = await caches.open(CACHE)
-  const hit = await cache.match(req)
-  const update = fetch(req)
-    .then((res) => {
-      if (res.ok) cache.put(req, res.clone())
-      return res
-    })
-    .catch(() => hit)
-  if (hit) {
-    event.waitUntil(update)
-    return hit
-  }
-  return update
 }
 
 async function networkFirst(req) {
@@ -73,6 +58,6 @@ self.addEventListener('fetch', (event) => {
   } else if (HASHED.test(url.pathname)) {
     event.respondWith(cacheFirst(req))
   } else {
-    event.respondWith(staleWhileRevalidate(req, event))
+    event.respondWith(networkFirst(req))
   }
 })
