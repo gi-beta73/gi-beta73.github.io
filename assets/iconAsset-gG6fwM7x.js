@@ -1,0 +1,1 @@
+import{lt as e,n as t}from"./CharIconSideElement-CZh-ZquV.js";function n(n,r,i){let a=t(n,r),o=e(n,`icon`,r);return i&&a?a:o||``}export{n as t};

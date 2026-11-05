@@ -1,0 +1,1 @@
+function e(e,t,n){return(Array(n+1).join(t)+e).slice(-n)}function t(e,t){if(!e.length)return t.length;if(!t.length)return e.length;let n=[];for(let r=0;r<=t.length;r++){n[r]=[r];for(let i=1;i<=e.length;i++)n[r][i]=r===0?i:Math.min(n[r-1][i]+1,n[r][i-1]+1,n[r-1][i-1]+(e[i-1]===t[r-1]?0:1))}return n[t.length][e.length]}export{e as n,t};

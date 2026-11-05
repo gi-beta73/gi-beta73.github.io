@@ -4,7 +4,7 @@
   "description": "",
   "constellationName": "",
   "auto": {
-    "name": "test Danica Normal Attack",
+    "name": "Danica Normal Attack",
     "fields": {
       "normal": {
         "0": "<strong>Normal Attack</strong>",
@@ -66,9 +66,9 @@
     }
   },
   "skill": {
-    "name": "testDanica Elemental Skill",
+    "name": "Danica Elemental Skill",
     "description": {
-      "0": "testSwings her chain and anchor, dealing <electro>AoE Electro DMG</electro> to nearby opponents and summoning an <strong>Anchor</strong> that follows the current on-field character's movements.",
+      "0": "Swings her chain and anchor, dealing <electro>AoE Electro DMG</electro> to nearby opponents and summoning an <strong>Anchor</strong> that follows the current on-field character's movements.",
       "1": "<br/>",
       "2": "While the <strong>Anchor</strong> is present, it will assist in combat in different ways depending on whether Danica is on the field.",
       "3": "<strong>When Danica is Off-Field</strong>",
@@ -133,7 +133,7 @@
   "burst": {
     "name": "Danica's Elemental Burst",
     "description": {
-      "0": "test Commanding the battlefield with the poise of the Tsaritsa's handmaiden, launches a 5-hit wide-range attack, dealing <electro>AoE Electro DMG</electro>.",
+      "0": "Commanding the battlefield with the poise of the Tsaritsa's handmaiden, launches a 5-hit wide-range attack, dealing <electro>AoE Electro DMG</electro>.",
       "1": "<br/>",
       "2": "<strong>Radiance: Stellar-Conduct</strong>:",
       "3": [
@@ -191,9 +191,9 @@
     }
   },
   "passive1": {
-    "name": "testAscension Talent 1",
+    "name": "Ascension Talent 1",
     "description": {
-      "0": "test<strong>Anchor</strong> decreases the <electro>Electro RES</electro> of nearby enemies by 15%.",
+      "0": "<strong>Anchor</strong> decreases the <electro>Electro RES</electro> of nearby enemies by 15%.",
       "1": "<br/>",
       "2": "<strong>Radiance: Stellar-Conduct</strong>: Further decreases the <electro>Electro RES</electro> of nearby enemies by 15% and their <cryo>Cryo RES</cryo> by 30%."
     }
@@ -201,13 +201,13 @@
   "passive2": {
     "name": "Ascension Talent 2",
     "description": {
-      "0": "test After casting <strong>「Entry Skill E2」</strong>, Danica's own ATK increases by 20%.",
+      "0": "After casting <strong>「Entry Skill E2」</strong>, Danica's own ATK increases by 20%.",
       "1": "After casting <strong>「On-Field Skill E2」</strong>, Danica's own ATK SPD increases by 20%, and when the Special Anchor's Normal Attack hits an enemy, she additionally gains 25 <strong>Excited</strong> points. The above effects can stack up to 3 times.",
       "2": "The above effects last until exiting the current Defense Maid or Battle Maid state. Re-triggering will refresh the Duration."
     }
   },
   "passive3": {
-    "name": "test Stellar Talent",
+    "name": "Stellar Talent",
     "description": {
       "0": "When party members trigger Superconduct, it will be changed to Stellar-Conduct, and party members' Base Stellar-Conduct DMG will be increased based on Danica's ATK: Every point of ATK she has increases the Base Stellar-Conduct DMG by 0.7%. The maximum increase that can be gained this way is 14%.",
       "1": "Additionally, when Danica is within a <tooltip ns=tooltips_gen baseKey18=11330003 values=[]><strong>Polestar Field</strong></tooltip>, she will enter the <strong>Radiance: Stellar-Conduct</strong> state."
@@ -216,20 +216,20 @@
   "passive": {
     "name": "Life Talent",
     "description": {
-      "0": "test When your own Characters in the party are under the effect of Sheer Cold, Movement SPD increases by 10% and Stamina consumption decreases by 10%."
+      "0": "When your own Characters in the party are under the effect of Sheer Cold, Movement SPD increases by 10% and Stamina consumption decreases by 10%."
     }
   },
   "constellation1": {
-    "name": "test C1",
+    "name": "C1",
     "description": {
-      "0": "testWhen Danica uses <strong>\"Entry Skill E2\"</strong> or <strong>\"On-Field Skill E2\"</strong>, she restores 20 Elemental Energy for herself. This effect can trigger at most once every 14 seconds.",
+      "0": "When Danica uses <strong>\"Entry Skill E2\"</strong> or <strong>\"On-Field Skill E2\"</strong>, she restores 20 Elemental Energy for herself. This effect can trigger at most once every 14 seconds.",
       "1": "Additionally, the <strong>Defense Maid</strong> enhancement effect in <strong>Elemental Burst</strong> is increased by 80%, and the <strong>Battle Maid</strong> enhancement effect is increased by 120%."
     }
   },
   "constellation2": {
-    "name": "testC2",
+    "name": "C2",
     "description": {
-      "0": "While the test Anchor is present, Danica grants 7 stacks of \"Toast\" to all nearby Characters. When all nearby Characters have consumed a total of 6 stacks of \"Toast\", the active Character on the field additionally gains 1 stack of \"Toast\".",
+      "0": "While the Anchor is present, Danica grants 7 stacks of \"Toast\" to all nearby Characters. When all nearby Characters have consumed a total of 6 stacks of \"Toast\", the active Character on the field additionally gains 1 stack of \"Toast\".",
       "1": "\"Toast\": When a party Character triggers a Stellar-Conduct reaction, 1 stack of \"Toast\" will be consumed, increasing the DMG dealt. This increase is equivalent to 100% of Danica's ATK.",
       "2": "Additionally, when Danica triggers a Stellar-Conduct reaction while in Battle Maid Mode, all current stacks of \"Toast\" she possesses will be consumed. Each stack increases the DMG dealt, with each increase equivalent to 150% of Danica's ATK.",
       "3": "Resummoning the Anchor or refreshing its Duration will reset the stacks of \"Toast\"."
@@ -243,21 +243,21 @@
     }
   },
   "constellation4": {
-    "name": "testC4",
+    "name": "C4",
     "description": {
-      "0": "test When the active on-field Character under the protection of Danica's Shield deals Stellar-Conduct DMG to opponents, regenerates 3 Elemental Energy for the other nearby party members. This effect can trigger at most once every 3.5s.",
+      "0": "When the active on-field Character under the protection of Danica's Shield deals Stellar-Conduct DMG to opponents, regenerates 3 Elemental Energy for the other nearby party members. This effect can trigger at most once every 3.5s.",
       "1": "Additionally, when Danica enters the Battle Maid state, a Shield will also be generated. If Danica leaves the field while the Shield is active, it will be destroyed."
     }
   },
   "constellation5": {
-    "name": "testC5",
+    "name": "C5",
     "description": {
       "0": "Increases the Level of <strong><tooltip ns=char_Danica_gen baseKey18=skill>Elemental Skill</tooltip></strong> by 3.",
       "1": "Maximum upgrade level is 15."
     }
   },
   "constellation6": {
-    "name": "test C6",
+    "name": "C6",
     "description": {
       "0": "While the test anchor is present, the Stellar-Conduct DMG dealt by nearby characters in the party is increased by 20%.",
       "1": "Additionally, when Danica enters the <tooltip ns=tooltips_gen baseKey18=11470004 values=[]><strong>Defense Maid</strong></tooltip> state, every 1,000 ATK Danica has increases the Stellar-Conduct DMG dealt by the on-field character by 10%, up to a maximum of 40%.",

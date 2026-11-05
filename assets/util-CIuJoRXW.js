@@ -1,0 +1,1 @@
+var e=[`hp_`,`def_`,`atk_`];function t(t){return e.includes(t)?`%`:``}export{t};

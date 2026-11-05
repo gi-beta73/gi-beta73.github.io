@@ -45,5 +45,34 @@
       "translator": "Translations Manager",
       "TC": "TC Correspondent"
     }
+  },
+  "gettingStarted": {
+    "title": "Set up your first build",
+    "subtitle": "Four steps from an empty inventory to an optimized team. Everything is saved in this browser.",
+    "hide": "Hide",
+    "done": "Done",
+    "steps": {
+      "characters": {
+        "title": "Add your characters",
+        "description": "Pick the characters you play, then set their level, talents and constellation.",
+        "action": "Add characters"
+      },
+      "artifacts": {
+        "title": "Bring in artifacts and weapons",
+        "description": "Import a GOOD file from an artifact scanner, or add artifacts by hand on the Artifacts page.",
+        "action": "Import a file",
+        "scanners": "Find a scanner"
+      },
+      "team": {
+        "title": "Build a team",
+        "description": "Put up to four characters together so team buffs, resonance and reactions are counted.",
+        "action": "Create a team"
+      },
+      "optimize": {
+        "title": "Optimize a build",
+        "description": "Choose the damage number to maximize and let the optimizer search your artifacts.",
+        "action": "Open the optimizer"
+      }
+    }
   }
 }

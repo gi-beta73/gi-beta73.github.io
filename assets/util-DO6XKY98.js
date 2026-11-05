@@ -1,0 +1,1 @@
+var e=e=>`roll${Math.floor(Math.max(e,0)/4)+1}`;export{e as t};

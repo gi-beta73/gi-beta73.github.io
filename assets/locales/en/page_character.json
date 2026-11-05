@@ -117,5 +117,16 @@
     "loadoutsWith": "Team Loadouts with <2/>",
     "addLoAndTeam": "Add new Loadout+Team",
     "addTeam": "Add new Team"
+  },
+  "empty": {
+    "title": "No characters yet",
+    "description": "Add the characters you play, then set their level, talents, constellation and gear in the character editor. Characters added here can be used in any team.",
+    "add": "Add characters"
+  },
+  "multiSelect": {
+    "count_one": "{{count}} of 4 characters picked",
+    "count_other": "{{count}} of 4 characters picked",
+    "hint": "Pick in team order. The first character is the one on the field.",
+    "done": "Done"
   }
 }

@@ -28,5 +28,6 @@
     "bow": "Bow",
     "catalyst": "Catalyst"
   },
-  "tcBuild": "TC Build"
+  "tcBuild": "TC Build",
+  "chooseWeapon": "Choose a weapon"
 }

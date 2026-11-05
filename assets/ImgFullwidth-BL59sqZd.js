@@ -1,0 +1,1 @@
+import{N as e,P as t}from"./CardThemed-C36am6QE.js";e();var n=t(`img`)({width:`100%`,height:`auto`});export{n as t};

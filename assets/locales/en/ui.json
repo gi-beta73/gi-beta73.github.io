@@ -74,5 +74,6 @@
     "stamina_buffs": "Stamina Buffs",
     "misc": "Misc. Stats"
   },
-  "notActive": "(Unactivated)"
+  "notActive": "(Unactivated)",
+  "activeDatabase": "Active database. Switch databases in Settings."
 }
