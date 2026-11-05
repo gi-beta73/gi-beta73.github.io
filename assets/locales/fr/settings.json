@@ -56,12 +56,5 @@
       "swap": "Échange"
     },
     "currentDB": "Base de données actuelle"
-  },
-  "sillyCard": {
-    "desc": "Nous avons emprunté (avec permission) tous les personnages de <strong>Silly Wisher</strong> et les avons intégrés à Stellar Optimizer.",
-    "toggle": {
-      "enabled": "Silly Optimizer activé",
-      "disabled": "Silly Optimizer désactivé"
-    }
   }
 }

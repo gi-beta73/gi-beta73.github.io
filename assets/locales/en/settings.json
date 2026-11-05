@@ -4,13 +4,6 @@
   "languageCard": {
     "languageFormat": "Language: {{language}}"
   },
-  "sillyCard": {
-    "desc": "We <1>stole</1> borrowed (with permission) all the character assets from <strong>Silly Wisher</strong> and gene spliced them into Stellar Optimizer.",
-    "toggle": {
-      "enabled": "Silly Optimizer Enabled",
-      "disabled": "Silly Optimizer Disabled"
-    }
-  },
   "count": {
     "chars": "Characters:",
     "arts": "Artifacts:",

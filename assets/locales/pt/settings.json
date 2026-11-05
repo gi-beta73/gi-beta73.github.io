@@ -59,12 +59,5 @@
     },
     "currentDB": "Base de Dados Atual"
   },
-  "sillyCard": {
-    "desc": "Nós <1>roubamos</1> pegamos (com permissão) as ilustrações de personagens do <strong>Silly Wisher</strong> emprestadas e as alteramos geneticamente no Stellar Optimizer.",
-    "toggle": {
-      "enabled": "Silly Optimizer Ativado",
-      "disabled": "Silly Optimizer Desativado"
-    }
-  },
   "letsnow": "Deixe nevar"
 }

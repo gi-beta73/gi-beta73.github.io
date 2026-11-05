@@ -64,6 +64,5 @@
     "base_stat_mod": "基本属性修正",
     "stamina_buffs": "体力buff",
     "misc": "杂项属性"
-  },
-  "sillyPageTitle": "Silly Optimizer"
+  }
 }

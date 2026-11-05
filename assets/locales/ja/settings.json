@@ -59,12 +59,5 @@
     },
     "currentDB": "選択中のデータベース"
   },
-  "sillyCard": {
-    "desc": "我々は <strong>Silly Wisher</strong> からすべてのキャラクターアセットを<1>盗み</1> (許可を得て)借用し、それらの遺伝子を Stellar Optimizer に組み換えました。",
-    "toggle": {
-      "enabled": "Silly Optimizer 有効",
-      "disabled": "Silly Optimizer 無効"
-    }
-  },
   "letsnow": "雪よ降れ"
 }

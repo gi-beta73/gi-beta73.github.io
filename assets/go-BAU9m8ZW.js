@@ -1,0 +1,1 @@
+var e=[`hit`,`avgHit`,`critHit`],t=[...e,`global`],n=[`spread`,`aggravate`],r=[`vaporize`,`melt`],i=[`pyro`,`cryo`,`hydro`,`electro`],a=[`max`,`mid`,`min`];export{t as a,i,r as n,a as o,e as r,n as t};
