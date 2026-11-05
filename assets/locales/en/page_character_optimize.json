@@ -135,6 +135,70 @@
         "2rain": "<0><0>Excluding<1></1> 3-Rainbow</0></0> would exclude 2-Set + 3-Rainbow builds: <2>AA<1>RRR</1></2> and <4>AAA<1>RR</1></4>.",
         "4rain": "<0><0>Excluding<1></1> 5-Rainbow</0></0> would exclude full 5-Rainbow builds: <2><0>RRRRR</0></2>."
       }
+    },
+    "heading": "Artifact sets",
+    "description": "Choose which set bonuses the optimizer may use, and turn on set effects that need a condition.",
+    "edit": "Edit",
+    "close": "Close",
+    "summary": {
+      "fourPc": "4-piece",
+      "twoPc": "2-piece",
+      "mixed": "Mixed pieces",
+      "effects": "Set effects",
+      "anySet": "Any set",
+      "noSet": "None",
+      "onlySet": "{{name}} only",
+      "someSets": "{{count}} of {{total}} sets",
+      "mixedBoth": "Allowed",
+      "mixedNone": "Not allowed",
+      "mixedOnly3": "2-piece + 3 mixed only",
+      "mixedOnly5": "5 mixed only",
+      "effectsOn_one": "{{count}} on",
+      "effectsOn_other": "{{count}} on",
+      "effectsNone": "None on"
+    },
+    "mixed": {
+      "title": "Mixed pieces",
+      "three": "One 2-piece bonus + 3 mixed pieces",
+      "five": "No set bonus, 5 mixed pieces",
+      "threeAlias": "Also called 3-rainbow",
+      "fiveAlias": "Also called 5-rainbow",
+      "legendSet": "same set",
+      "legendMixed": "any set"
+    },
+    "search": "Search sets",
+    "view": {
+      "label": "Which sets to show",
+      "owned": "Owned",
+      "all": "All",
+      "effects": "Effects on"
+    },
+    "bulk": {
+      "label2": "2-piece",
+      "label4": "4-piece",
+      "all": "All",
+      "none": "None"
+    },
+    "row": {
+      "twoPc": "2-pc",
+      "fourPc": "4-pc",
+      "allow": "Allow the {{num}}-piece bonus of {{name}}",
+      "pieces_one": "{{count}} piece",
+      "pieces_other": "{{count}} pieces",
+      "effects": "Effects",
+      "effectsOn_one": "Effects · {{count}} on",
+      "effectsOn_other": "Effects · {{count}} on",
+      "effectOf": "{{num}}-piece effect",
+      "excludedNote": "not used, the {{num}}-piece bonus is excluded",
+      "more": "More options for {{name}}",
+      "only4": "Use only this set for 4-piece"
+    },
+    "empty": "No sets match.",
+    "footer": {
+      "summary": "Allowed: 4-piece {{four}} of {{total}} sets, 2-piece {{two}} of {{total}}",
+      "resetEffects_one": "Turn off {{count}} set effect",
+      "resetEffects_other": "Turn off {{count}} set effects",
+      "done": "Done"
     }
   },
   "bonusStats": {

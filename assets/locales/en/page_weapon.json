@@ -15,7 +15,7 @@
   "buttonHint": "Note: the red buttons above only apply to <1>filtered weapons<1>",
   "equippedWeapon": "All Equipped Weapons",
   "weaponInInv": "All Unequipped Weapons",
-  "locationsTooltip": "Disable \"All Equipped Weapon\" to filter by specific characters",
+  "locationsTooltip": "Turn off \"Equipped\" to filter by specific characters",
   "subheadings": {
     "general": "General",
     "inventory": "Inventory"
@@ -37,7 +37,12 @@
   "filters": {
     "title": "Filters",
     "active_one": "{{count}} active",
-    "active_other": "{{count}} active"
+    "active_other": "{{count}} active",
+    "groups": {
+      "weapon": "Weapon"
+    },
+    "unequipped": "Unequipped",
+    "equipped": "Equipped"
   },
   "bulk": {
     "title": "Bulk actions",

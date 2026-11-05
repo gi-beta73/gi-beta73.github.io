@@ -132,5 +132,13 @@
   "header": {
     "description": "The characters you play: level, talents, constellation and gear. Click a card to edit it.",
     "add": "Add character"
+  },
+  "constellations": {
+    "title": "Constellations",
+    "level": "C{{level}} of {{max}}",
+    "setLevel": "Constellation level",
+    "active": "Active",
+    "locked": "Locked",
+    "tc": "Theorycraft"
   }
 }
