@@ -101,7 +101,7 @@
     "editor": {
       "buffOn": "Up",
       "buffs": "Buffs during this attack",
-      "buffsHint": "Untick a buff that is not up for this attack, or pick another of its states. A number limits it to the attack’s first hits, e.g. Shenhe’s quills or a buff that runs out.",
+      "buffsHint": "Each buff shows what it gives and how much more damage this attack deals with it. Untick one that is not up during this attack, pick another of its states, or limit it to the first hits (e.g. Shenhe’s quills).",
       "close": "Close",
       "done": "Done",
       "duplicate": "Duplicate",
@@ -125,7 +125,19 @@
       "stateHint": "Its state during this attack. The rotation’s is the one set in Team settings or on the character’s tabs.",
       "rotationState": "rotation",
       "extra": "Extra stats",
-      "extraHint": "Bonus stats for this attack only: a buff the game data does not have, or your own numbers. For the whole rotation, use Extra buffs."
+      "extraHint": "Bonus stats for this attack only: a buff the game data does not have, or your own numbers. For the whole rotation, use Extra buffs.",
+      "impactHeader": "Damage on this attack",
+      "impactDetail": "One hit: {{with}} with this buff, {{without}} without",
+      "needed": "needed",
+      "neededDetail": "The attack deals no damage without it: {{with}} per hit with it",
+      "idle": "No effect on this attack ({{count}})",
+      "allIdle": "None of the team’s buffs changes this attack’s damage.",
+      "unused": "Not in use now ({{count}})",
+      "unusedHint": "Passives of weapons and artifact sets the member does not have on now, and effects that are not unlocked. A weapon’s or set’s passive counts once Team Optimize picks it for the member.",
+      "notEquipped": "not equipped",
+      "notActive": "not active",
+      "allHitsCount": "all {{hits}} hits",
+      "ofHits": "of {{hits}} hits"
     },
     "empty": {
       "action": "Team settings",
@@ -194,7 +206,17 @@
       "ownDps": "own DPS",
       "constellation": "Constellation {{value}}",
       "share": "Its share of the team’s damage",
-      "shareDps": "Its share of the team’s DPS"
+      "shareDps": "Its share of the team’s DPS",
+      "untickedWeapon": "Not ticked: kept, no ticked weapon was free",
+      "stats": "Final stats",
+      "vsNow": "change vs equipped now",
+      "noAttacks": "No attacks in the rotation.",
+      "showDetails": "Stats and damage",
+      "hideDetails": "Hide stats and damage",
+      "hitsTitle": "Damage per hit, in the rotation",
+      "runWithout": "×{{hits}} without {{count}} limited buff",
+      "runWith": "×{{hits}} with every buff",
+      "attackHits": "×{{hits}} per rotation"
     },
     "rotation": {
       "add": "Add attack",
@@ -265,7 +287,8 @@
       "teamEnergy": "Energy for the team",
       "teamEnergyHint": "How much less Energy Recharge each member needs while someone in the team wields this weapon (e.g. from an Energy Recharge calculator).",
       "noEnergyNeed": "No ER req.",
-      "noEnergyNeedHint": "This member has no Energy Recharge requirement (set one in its Requirements): this value changes nothing for now."
+      "noEnergyNeedHint": "This member has no Energy Recharge requirement (set one in its Requirements): this value changes nothing for now.",
+      "tooFewTicked": "Tick one for each member: a member left without one keeps its current weapon."
     },
     "onField": {
       "label": "On the field",
