@@ -191,7 +191,10 @@
       "newWeapon": "New weapon",
       "energy": "ER requirement −{{value}}%",
       "dps": "Team DPS",
-      "ownDps": "own DPS"
+      "ownDps": "own DPS",
+      "constellation": "Constellation {{value}}",
+      "share": "Its share of the team’s damage",
+      "shareDps": "Its share of the team’s DPS"
     },
     "rotation": {
       "add": "Add attack",
@@ -200,7 +203,17 @@
       "info": "Add each member’s attacks and how often they hit in one rotation. The buffs are the ones that are on in Team settings and on the characters’ tabs: open an attack to turn off one that is not up during it, to put it in another state, or to limit one to its first hits (Shenhe’s quills, a buff that runs out).",
       "title": "Rotation",
       "importCount_one": "1 attack",
-      "importCount_other": "{{count}} attacks"
+      "importCount_other": "{{count}} attacks",
+      "remove": "Remove",
+      "select": "Select",
+      "selectAll": "All",
+      "selectNone": "None",
+      "selectDone": "Done",
+      "removeSelected": "Remove ({{count}})",
+      "removed_one": "Removed {{count}} attack",
+      "removed_other": "Removed {{count}} attacks",
+      "undo": "Undo",
+      "imported": "{{added}} added · {{updated}} updated"
     },
     "run": {
       "allKept": "Every member’s build is kept: nothing to optimize.",
