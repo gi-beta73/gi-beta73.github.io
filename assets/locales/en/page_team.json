@@ -273,6 +273,26 @@
     "rotationTime": {
       "label": "Rotation time",
       "info": "How long one rotation takes: damage is then shown per second (DPS). Leave it empty for the damage of one rotation."
+    },
+    "sens": {
+      "title": "What raises team damage",
+      "info": "Each cell: the team’s rotation damage with that one change on that member, against the result above (same rotation, buffs, artifacts and weapons). A roll is an average 5★ roll, as in the Improve tab’s Substat value.",
+      "substats": "+1 substat roll",
+      "talents": "+1 talent level",
+      "levels": "Level",
+      "level": "Level {{level}}",
+      "talent": {
+        "auto": "Normal Attack",
+        "skill": "Elemental Skill",
+        "burst": "Elemental Burst"
+      },
+      "readSubstat": "How to read it: one extra {{stat}} roll on <name/>’s artifacts raises the team’s damage by {{value}}.",
+      "readTalent": "How to read it: one more {{talent}} level on <name/> raises the team’s damage by {{value}}.",
+      "readLevel": "How to read it: <name/> at level {{level}} raises the team’s damage by {{value}}.",
+      "noGain": "No gain for this team:",
+      "showNoGain": "Show these rows",
+      "hideNoGain": "Hide these rows",
+      "max": "max"
     }
   }
 }
