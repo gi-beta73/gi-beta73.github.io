@@ -44,13 +44,19 @@
     <meta name="twitter:description" content="Free Genshin Impact optimizer: find the best artifacts, weapons and teams for every character from your own inventory, with full damage calculations, including new characters like Danica and the Tsaritsa." />
     <meta name="twitter:image" content="https://gi-beta73.github.io/og-image.png" />
     <script type="application/ld+json">{"@context":"https://schema.org","@graph":[{"@type":"WebSite","@id":"https://gi-beta73.github.io/#website","url":"https://gi-beta73.github.io/","name":"Stellar Optimizer","description":"Free Genshin Impact optimizer: find the best artifacts, weapons and teams for every character from your own inventory, with full damage calculations, including new characters like Danica and the Tsaritsa."},{"@type":"WebApplication","@id":"https://gi-beta73.github.io/#app","name":"Stellar Optimizer","url":"https://gi-beta73.github.io/","description":"Free Genshin Impact optimizer: find the best artifacts, weapons and teams for every character from your own inventory, with full damage calculations, including new characters like Danica and the Tsaritsa.","applicationCategory":"GameApplication","operatingSystem":"Any (web browser)","isAccessibleForFree":true,"offers":{"@type":"Offer","price":"0","priceCurrency":"USD"},"image":"https://gi-beta73.github.io/og-image.png"}]}</script>
-    <script type="module" crossorigin src="./assets/index-DtTpjezU.js"></script>
+    <!--
+      The page's colours from the first paint (the theme's: same as the app's CssBaseline, so
+      nothing changes when the app takes over), and the loading screen #root shows until then.
+    -->
+    <style>html,body{--lightningcss-light: ;--lightningcss-dark:initial;color-scheme:dark;background:#08080a;margin:0}.boot{box-sizing:border-box;color:#ece5d8a3;text-align:center;flex-direction:column;justify-content:center;align-items:center;min-height:100vh;padding:32px 24px 12vh;font:15px/1.6 system-ui,-apple-system,Segoe UI,Roboto,sans-serif;display:flex}.boot-logo{width:64px;height:64px;margin-bottom:20px}.boot h1{color:#ece5d8;margin:0 0 8px;font-size:1.35rem;font-weight:600;line-height:1.3}.boot p{max-width:560px;margin:0}.boot-bar{background:#d3bc8e29;border-radius:2px;width:168px;height:2px;margin:24px 0;position:relative;overflow:hidden}.boot-bar:after{content:"";background:#d3bc8e;border-radius:2px;width:40%;animation:1.3s ease-in-out infinite boot-slide;position:absolute;top:0;bottom:0;left:0}@keyframes boot-slide{0%{transform:translate(-100%)}to{transform:translate(250%)}}@media (prefers-reduced-motion:reduce){.boot-bar:after{opacity:.4;width:100%;animation:none}}.boot-links{font-size:13px}.boot a{color:#d3bc8e;text-decoration:none}.boot a:hover{text-decoration:underline}</style>
+    <noscript><style>.boot-bar{display:none}</style></noscript>
+    <script type="module" crossorigin src="./assets/index-DIhLUm-S.js"></script>
     <link rel="modulepreload" crossorigin href="./assets/rolldown-runtime-C0FnF6B9.js">
     <link rel="modulepreload" crossorigin href="./assets/useTranslation-B6SzyOea.js">
     <link rel="modulepreload" crossorigin href="./assets/DatabaseContext-eaSWAXC5.js">
     <link rel="modulepreload" crossorigin href="./assets/Button-Dsidp4mm.js">
     <link rel="modulepreload" crossorigin href="./assets/src-C5rAC8xo.js">
-    <link rel="modulepreload" crossorigin href="./assets/useBoolState-JnXe6_LL.js">
+    <link rel="modulepreload" crossorigin href="./assets/useBoolState-DPRou59I.js">
     <link rel="modulepreload" crossorigin href="./assets/string-CBw4g2_D.js">
     <link rel="modulepreload" crossorigin href="./assets/time-BdmGqE3U.js">
     <link rel="modulepreload" crossorigin href="./assets/MenuItem-CCDl_ha2.js">
@@ -63,7 +69,7 @@
     <link rel="modulepreload" crossorigin href="./assets/zodSchemas-gOLGX0th.js">
     <link rel="modulepreload" crossorigin href="./assets/go-BAU9m8ZW.js">
     <link rel="modulepreload" crossorigin href="./assets/weapon-8Umijmg-.js">
-    <link rel="modulepreload" crossorigin href="./assets/WeaponDataManager-CLrq7Rhm.js">
+    <link rel="modulepreload" crossorigin href="./assets/WeaponDataManager-C-vQyBOi.js">
     <link rel="modulepreload" crossorigin href="./assets/useDatabase-DOsGxo9H.js">
     <link rel="stylesheet" crossorigin href="./assets/src-DS9xVylJ.css">
     <link rel="stylesheet" crossorigin href="./assets/index-Cks4TgTy.css">
@@ -74,33 +80,20 @@
       (most AI crawlers) read. Keep it short and factual.
     -->
     <div id="root">
-      <main
-        style="
-          max-width: 640px;
-          margin: 18vh auto 0;
-          padding: 0 24px;
-          color: #8f8a80;
-          font: 15px/1.6 system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif;
-          text-align: center;
-        "
-      >
-        <h1 style="margin: 0 0 8px; color: #ece5d8; font-size: 1.4rem">
-          Stellar Optimizer: Genshin Impact artifact &amp; build optimizer
-        </h1>
-        <p style="margin: 0 0 12px">
+      <main class="boot">
+        <img class="boot-logo" src="./favicon.svg" alt="" width="64" height="64" />
+        <h1>Stellar Optimizer: Genshin Impact artifact &amp; build optimizer</h1>
+        <p>
           Find the best artifacts, weapons and teams for every character from
           your own inventory, with full damage calculations. Free, no account,
           runs in your browser.
         </p>
-        <p style="margin: 0">
-          <a href="danica-optimizer/" style="color: #d3bc8e">Danica best build</a>
-          ·
-          <a href="tsaritsa-optimizer/" style="color: #d3bc8e"
-            >Tsaritsa best build</a
-          >
-          ·
-          <a href="optimizers/" style="color: #d3bc8e">Character optimizers</a>
-          · <a href="faq/" style="color: #d3bc8e">FAQ</a>
+        <div class="boot-bar" role="progressbar" aria-label="Loading"></div>
+        <p class="boot-links">
+          <a href="danica-optimizer/">Danica best build</a>
+          · <a href="tsaritsa-optimizer/">Tsaritsa best build</a>
+          · <a href="optimizers/">Character optimizers</a>
+          · <a href="faq/">FAQ</a>
         </p>
         <noscript><p>Stellar Optimizer needs JavaScript to run.</p></noscript>
       </main>
