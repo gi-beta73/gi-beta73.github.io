@@ -80,12 +80,19 @@ footer{margin-top:48px;padding:24px 20px 40px;border-top:1px solid #22222a;color
 <p><a href="../optimizers/">All character optimizers</a> · <a href="../faq/">FAQ</a> · <a href="../">Open Stellar Optimizer</a></p>
 <p>Stellar Optimizer is not affiliated with or endorsed by HoYoverse. Genshin Impact and its characters are trademarks of their owners.</p>
 </footer>
-<script>if (location.hostname === "gi-beta73.github.io") {
+<script>(() => {
+  try {
+    const q = new URLSearchParams(location.search)
+    if (q.get('notrack') === 'off') localStorage.removeItem('stellar-notrack')
+    else if (q.has('notrack')) localStorage.setItem('stellar-notrack', '1')
+    if (localStorage.getItem('stellar-notrack')) return
+  } catch {}
+  if (location.hostname !== "gi-beta73.github.io") return
   const s = document.createElement('script')
   s.type = 'module'
   s.src = 'https://static.cloudflareinsights.com/beacon.min.js'
   s.dataset.cfBeacon = "{\"token\":\"ec971696b247424ca782ce28157bc5af\"}"
   document.head.appendChild(s)
-}</script>
+})()</script>
 </body>
 </html>

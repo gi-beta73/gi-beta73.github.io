@@ -7,8 +7,8 @@ The app itself needs JavaScript. The pages below are plain HTML.
 ## Computed DPS builds
 
 - [Danica Optimizer](https://gi-beta73.github.io/danica-optimizer/): best artifact sets, main stats, substats and weapons for Danica's DPS build, computed by the optimizer (best: 4-piece Disenchantment in Deep Shadow with Torrents of Spring), plus what Danica gives the party as a support
-- [Mitya Optimizer](https://gi-beta73.github.io/mitya-optimizer/): best artifact sets, main stats, substats and weapons for Mitya's DPS build, computed by the optimizer (best: 4-piece Disenchantment in Deep Shadow with Starsealed Edict)
-- [Tsaritsa (Anastasya) Optimizer](https://gi-beta73.github.io/tsaritsa-optimizer/): best artifact sets, main stats, substats and weapons for the Tsaritsa's DPS build, computed by the optimizer (best: 4-piece Disenchantment in Deep Shadow with Silverdawn)
+- [Mitya Optimizer](https://gi-beta73.github.io/mitya-optimizer/): best artifact sets, main stats, substats and weapons for Mitya's DPS build, computed by the optimizer (best: 4-piece Disenchantment in Deep Shadow with Starsealed Edict), plus what Mitya gives the party as a support
+- [Tsaritsa (Anastasya) Optimizer](https://gi-beta73.github.io/tsaritsa-optimizer/): best artifact sets, main stats, substats and weapons for the Tsaritsa's DPS build, computed by the optimizer (best: Stellar-Conduct team: 4-piece Disenchantment in Deep Shadow with Silverdawn; Stellar Swirl team: 4-piece Heart of the Furnace with Silverdawn), plus what the Tsaritsa gives the party as a support
 
 ## Site
 

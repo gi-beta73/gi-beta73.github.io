@@ -105,12 +105,19 @@
         <noscript><p>Stellar Optimizer needs JavaScript to run.</p></noscript>
       </main>
     </div>
-    <script>if (location.hostname === "gi-beta73.github.io") {
+    <script>(() => {
+  try {
+    const q = new URLSearchParams(location.search)
+    if (q.get('notrack') === 'off') localStorage.removeItem('stellar-notrack')
+    else if (q.has('notrack')) localStorage.setItem('stellar-notrack', '1')
+    if (localStorage.getItem('stellar-notrack')) return
+  } catch {}
+  if (location.hostname !== "gi-beta73.github.io") return
   const s = document.createElement('script')
   s.type = 'module'
   s.src = 'https://static.cloudflareinsights.com/beacon.min.js'
   s.dataset.cfBeacon = "{\"token\":\"ec971696b247424ca782ce28157bc5af\"}"
   document.head.appendChild(s)
-}</script>
+})()</script>
   </body>
 </html>

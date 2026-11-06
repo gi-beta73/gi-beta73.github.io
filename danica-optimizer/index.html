@@ -114,8 +114,7 @@ footer{margin-top:48px;padding:24px 20px 40px;border-top:1px solid #22222a;color
 <p class="note">Damage relative to the best weapon, with 4-piece Disenchantment in Deep Shadow and the best main stats and substats for each weapon.</p>
 <h2 id="how">How this was calculated</h2>
 <ul>
-<li>Role: DPS. Situation: Battle Maid on-field, in Radiance: Stellar-Conduct, after her Elemental Burst.</li>
-<li>Maximized: On-Field Skill E2 damage (Stellar-Conduct), as an average hit (CRIT Rate × CRIT DMG).</li>
+<li>DPS build. Situation: Battle Maid on-field, in Radiance: Stellar-Conduct, after her Elemental Burst. Maximized: On-Field Skill E2 damage (Stellar-Conduct), as an average hit (CRIT Rate × CRIT DMG).</li>
 <li>Level 90, talents 9/9/9, constellation 0.</li>
 <li>Artifacts: 5★ +20 with KQM Standards substats: 2 rolls of every substat plus 20 more placed by the optimizer, at most 2 per artifact and none on a piece whose main stat is the same stat.</li>
 <li>Weapons: level 90, 5★ at refinement 1 and 4★ at refinement 5.</li>
@@ -143,12 +142,19 @@ footer{margin-top:48px;padding:24px 20px 40px;border-top:1px solid #22222a;color
 <p><a href="../optimizers/">All character optimizers</a> · <a href="../faq/">FAQ</a> · <a href="../">Open Stellar Optimizer</a></p>
 <p>Stellar Optimizer is not affiliated with or endorsed by HoYoverse. Genshin Impact and its characters are trademarks of their owners.</p>
 </footer>
-<script>if (location.hostname === "gi-beta73.github.io") {
+<script>(() => {
+  try {
+    const q = new URLSearchParams(location.search)
+    if (q.get('notrack') === 'off') localStorage.removeItem('stellar-notrack')
+    else if (q.has('notrack')) localStorage.setItem('stellar-notrack', '1')
+    if (localStorage.getItem('stellar-notrack')) return
+  } catch {}
+  if (location.hostname !== "gi-beta73.github.io") return
   const s = document.createElement('script')
   s.type = 'module'
   s.src = 'https://static.cloudflareinsights.com/beacon.min.js'
   s.dataset.cfBeacon = "{\"token\":\"ec971696b247424ca782ce28157bc5af\"}"
   document.head.appendChild(s)
-}</script>
+})()</script>
 </body>
 </html>
