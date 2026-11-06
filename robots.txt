@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://gi-beta73.github.io/sitemap.xml
