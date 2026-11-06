@@ -343,8 +343,7 @@
     "substats": "Substats",
     "mainStats": "Main stats",
     "emptySlot": "(empty)",
-    "current": "current",
-    "mainCaption": "Each main stat at 5★ +20 in place of the current one (same set and substats), against this build now."
+    "current": "current"
   },
   "farm": {
     "title": "What to farm",
