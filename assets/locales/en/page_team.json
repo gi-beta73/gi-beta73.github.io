@@ -101,7 +101,7 @@
     "editor": {
       "buffOn": "Up",
       "buffs": "Buffs during this attack",
-      "buffsHint": "Untick a buff that is not up for this attack. A number limits it to the attack’s first hits, e.g. Shenhe’s quills or a buff that runs out.",
+      "buffsHint": "Untick a buff that is not up for this attack, or pick another of its states. A number limits it to the attack’s first hits, e.g. Shenhe’s quills or a buff that runs out.",
       "close": "Close",
       "done": "Done",
       "duplicate": "Duplicate",
@@ -114,11 +114,18 @@
       "limitHint": "Up for the first hits only (e.g. quills). All hits by default.",
       "more": "More hits",
       "noBuffs": "No conditional buffs are on in this team. Turn them on in Team settings or on each character’s tabs.",
-      "noImpact": "no effect",
+      "noImpact": "No effect on this attack",
       "reaction": "Reaction",
       "remove": "Remove",
       "teamBuffs": "Team",
-      "allHits": "all hits"
+      "allHits": "all hits",
+      "onField": "On the field during these hits",
+      "onFieldHint": "Buffs for the active character (e.g. Mitya’s C1) go to whoever is on the field. Pick another member for hits that land while they are, e.g. a skill that keeps hitting after a switch.",
+      "state": "State during this attack",
+      "stateHint": "Its state during this attack. The rotation’s is the one set in Team settings or on the character’s tabs.",
+      "rotationState": "rotation",
+      "extra": "Extra stats",
+      "extraHint": "Bonus stats for this attack only: a buff the game data does not have, or your own numbers. For the whole rotation, use Extra buffs."
     },
     "empty": {
       "action": "Team settings",
@@ -182,13 +189,15 @@
       "equipWarn_other": "Equips the new builds on {{count}} members (saved builds are updated instead). Artifacts move from whoever wears them now.",
       "sameWeapon": "Same weapon",
       "newWeapon": "New weapon",
-      "energy": "ER requirement −{{value}}%"
+      "energy": "ER requirement −{{value}}%",
+      "dps": "Team DPS",
+      "ownDps": "own DPS"
     },
     "rotation": {
       "add": "Add attack",
       "empty": "No attacks yet. A support without attacks still counts through the buffs it gives.",
       "import": "From multi-target",
-      "info": "Add each member’s attacks and how often they hit in one rotation. The buffs are the ones that are on in Team settings and on the characters’ tabs: open an attack to turn off one that is not up during it, or to limit one to its first hits (Shenhe’s quills, a buff that runs out).",
+      "info": "Add each member’s attacks and how often they hit in one rotation. The buffs are the ones that are on in Team settings and on the characters’ tabs: open an attack to turn off one that is not up during it, to put it in another state, or to limit one to its first hits (Shenhe’s quills, a buff that runs out).",
       "title": "Rotation",
       "importCount_one": "1 attack",
       "importCount_other": "{{count}} attacks"
@@ -206,9 +215,10 @@
       "setup": "setting up the search",
       "searching": "searching {{total}} builds",
       "summary": "{{count}} of {{total}} members optimized",
-      "how": "Each member is optimized in turn for the whole rotation’s damage, the others fixed, the biggest damage dealer first. Rounds repeat until no build changes.",
+      "how": "Each member is optimized in turn for the whole rotation’s damage, the others fixed, the biggest damage dealer first. Rounds repeat until no build changes; then members trade pieces and weapons where the team gains.",
       "weapon": "weapon {{weapon}}/{{weapons}}",
-      "energyFor": "energy check:"
+      "energyFor": "energy check:",
+      "exchange": "exchanges between members"
     },
     "slot": {
       "circlet": "Circlet",
@@ -220,7 +230,6 @@
     "weapons": {
       "toggle": "Choose weapons too",
       "count": "{{allowed}} of {{total}} weapons allowed",
-      "hint": "Each member tries the allowed weapons of its type.",
       "choose": "Choose",
       "title": "Weapons to choose from",
       "desc": "Each member tries the ticked weapons of its type, along with its artifacts. A passive counts only when it is on for that character. An energy weapon in the team lowers each member’s Energy Recharge requirement by what you set for that member: click ⚡ on it.",
@@ -244,6 +253,26 @@
       "teamEnergyHint": "How much less Energy Recharge each member needs while someone in the team wields this weapon (e.g. from an Energy Recharge calculator).",
       "noEnergyNeed": "No ER req.",
       "noEnergyNeedHint": "This member has no Energy Recharge requirement (set one in its Requirements): this value changes nothing for now."
+    },
+    "onField": {
+      "label": "On the field",
+      "info": "Who is on the field during the rotation’s hits, unless an attack says otherwise (open it to change it). Buffs for the active character, like Mitya’s C1 CRIT DMG, go to them, and the ones for off-field characters to the others. Elsewhere the app counts the team’s first member as on the field."
+    },
+    "attack": {
+      "onField": "on the field"
+    },
+    "extra": {
+      "title": "Extra buffs",
+      "info": "Buffs the game data does not have, like food, an Abyss blessing or your own numbers. For the whole team or one member: they count on its hits and in its stats and requirements.",
+      "count_one": "{{count}} buff",
+      "count_other": "{{count}} buffs",
+      "team": "Whole team",
+      "add": "Add a stat"
+    },
+    "currentDps": "Team DPS now",
+    "rotationTime": {
+      "label": "Rotation time",
+      "info": "How long one rotation takes: damage is then shown per second (DPS). Leave it empty for the damage of one rotation."
     }
   }
 }
