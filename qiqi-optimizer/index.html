@@ -3,22 +3,23 @@
 <head>
 <meta charset="utf-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1" />
-<title>Qiqi Optimizer: Best Artifacts, Weapons &amp; Build Calculator | Stellar Optimizer</title>
-<meta name="description" content="Find the best artifacts, weapon and team for Qiqi in Genshin Impact. Stellar Optimizer calculates Qiqi's damage from your own inventory, free and in your browser." />
+<title>Qiqi Optimizer: Build Calculator for Your Own Artifacts | Stellar Optimizer</title>
+<meta name="description" content="Optimize Qiqi's build in Genshin Impact from your own artifacts: the optimizer tries the combinations you own and calculates Qiqi's damage. Free, in your browser." />
+<meta name="robots" content="noindex, follow" />
 <link rel="canonical" href="https://gi-beta73.github.io/qiqi-optimizer/" />
 <meta name="theme-color" content="#08080a" />
 <link rel="icon" type="image/svg+xml" href="../favicon.svg" />
 <meta property="og:type" content="website" />
 <meta property="og:site_name" content="Stellar Optimizer" />
-<meta property="og:title" content="Qiqi Optimizer: Best Artifacts, Weapons &amp; Build Calculator | Stellar Optimizer" />
-<meta property="og:description" content="Find the best artifacts, weapon and team for Qiqi in Genshin Impact. Stellar Optimizer calculates Qiqi's damage from your own inventory, free and in your browser." />
+<meta property="og:title" content="Qiqi Optimizer: Build Calculator for Your Own Artifacts | Stellar Optimizer" />
+<meta property="og:description" content="Optimize Qiqi's build in Genshin Impact from your own artifacts: the optimizer tries the combinations you own and calculates Qiqi's damage. Free, in your browser." />
 <meta property="og:url" content="https://gi-beta73.github.io/qiqi-optimizer/" />
 <meta property="og:image" content="https://gi-beta73.github.io/og-image.png" />
 <meta name="twitter:card" content="summary_large_image" />
-<meta name="twitter:title" content="Qiqi Optimizer: Best Artifacts, Weapons &amp; Build Calculator | Stellar Optimizer" />
-<meta name="twitter:description" content="Find the best artifacts, weapon and team for Qiqi in Genshin Impact. Stellar Optimizer calculates Qiqi's damage from your own inventory, free and in your browser." />
+<meta name="twitter:title" content="Qiqi Optimizer: Build Calculator for Your Own Artifacts | Stellar Optimizer" />
+<meta name="twitter:description" content="Optimize Qiqi's build in Genshin Impact from your own artifacts: the optimizer tries the combinations you own and calculates Qiqi's damage. Free, in your browser." />
 <meta name="twitter:image" content="https://gi-beta73.github.io/og-image.png" />
-<script type="application/ld+json">{"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":"https://gi-beta73.github.io/qiqi-optimizer/","url":"https://gi-beta73.github.io/qiqi-optimizer/","name":"Qiqi Optimizer: Best Artifacts, Weapons & Build Calculator | Stellar Optimizer","description":"Find the best artifacts, weapon and team for Qiqi in Genshin Impact. Stellar Optimizer calculates Qiqi's damage from your own inventory, free and in your browser.","isPartOf":{"@id":"https://gi-beta73.github.io/#website"},"breadcrumb":{"@id":"https://gi-beta73.github.io/qiqi-optimizer/#breadcrumb"}},{"@type":"BreadcrumbList","@id":"https://gi-beta73.github.io/qiqi-optimizer/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Stellar Optimizer","item":"https://gi-beta73.github.io/"},{"@type":"ListItem","position":2,"name":"Character optimizers","item":"https://gi-beta73.github.io/optimizers/"},{"@type":"ListItem","position":3,"name":"Qiqi Optimizer","item":"https://gi-beta73.github.io/qiqi-optimizer/"}]},{"@type":"WebSite","@id":"https://gi-beta73.github.io/#website","url":"https://gi-beta73.github.io/","name":"Stellar Optimizer"}]}</script>
+<script type="application/ld+json">{"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":"https://gi-beta73.github.io/qiqi-optimizer/","url":"https://gi-beta73.github.io/qiqi-optimizer/","name":"Qiqi Optimizer: Build Calculator for Your Own Artifacts | Stellar Optimizer","description":"Optimize Qiqi's build in Genshin Impact from your own artifacts: the optimizer tries the combinations you own and calculates Qiqi's damage. Free, in your browser.","isPartOf":{"@id":"https://gi-beta73.github.io/#website"},"breadcrumb":{"@id":"https://gi-beta73.github.io/qiqi-optimizer/#breadcrumb"}},{"@type":"BreadcrumbList","@id":"https://gi-beta73.github.io/qiqi-optimizer/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Stellar Optimizer","item":"https://gi-beta73.github.io/"},{"@type":"ListItem","position":2,"name":"Character optimizers","item":"https://gi-beta73.github.io/optimizers/"},{"@type":"ListItem","position":3,"name":"Qiqi Optimizer","item":"https://gi-beta73.github.io/qiqi-optimizer/"}]},{"@type":"WebSite","@id":"https://gi-beta73.github.io/#website","url":"https://gi-beta73.github.io/","name":"Stellar Optimizer"}]}</script>
 <style>*{box-sizing:border-box}
 body{margin:0;background:#08080a;color:#ece5d8;font:16px/1.6 system-ui,-apple-system,"Segoe UI",Roboto,sans-serif}
 a{color:#d3bc8e}
@@ -29,11 +30,26 @@ header img{width:26px;height:26px}
 h1{font-size:2rem;line-height:1.2;margin:32px 0 8px}
 h2{font-size:1.15rem;margin:32px 0 8px}
 .lead{color:#b8b2a7;font-size:1.05rem}
+.note{color:#8f8a80;font-size:.9rem}
 .badge{display:inline-block;padding:2px 10px;border-radius:999px;background:#d3bc8e22;color:#e6d5b1;font-size:.8rem;font-weight:600}
 .cta{display:inline-block;margin:16px 0;padding:12px 22px;border-radius:10px;background:#d3bc8e;color:#14120e;font-weight:700;text-decoration:none}
 ul{padding-left:20px}
 .chips{display:flex;flex-wrap:wrap;gap:8px;list-style:none;padding:0}
 .chips a{display:inline-block;padding:4px 12px;border:1px solid #2c2c36;border-radius:999px;text-decoration:none;color:#ece5d8}
+.summary{margin:20px 0 4px;padding:6px 20px 10px;border:1px solid #2c2c36;border-radius:12px;background:#101014}
+.summary h2{margin:12px 0 4px}
+.summary dl{display:grid;grid-template-columns:max-content 1fr;gap:6px 18px;margin:10px 0}
+.summary dt{color:#8f8a80}
+.summary dd{margin:0}
+table{width:100%;border-collapse:collapse;margin:8px 0 4px;font-size:.95rem}
+th,td{text-align:left;padding:7px 10px;border-bottom:1px solid #1d1d24;vertical-align:top}
+th{color:#8f8a80;font-weight:600;font-size:.78rem;text-transform:uppercase;letter-spacing:.04em}
+td.n{text-align:right;white-space:nowrap;font-variant-numeric:tabular-nums}
+td.r{width:2.2em;color:#8f8a80}
+td small{display:block;color:#8f8a80}
+.bar{display:inline-block;height:6px;margin-right:8px;border-radius:3px;background:#d3bc8e;vertical-align:middle;opacity:.75}
+dl.faq dt{margin-top:22px;font-weight:700}
+dl.faq dd{margin:6px 0 0;color:#cfc8bb}
 footer{margin-top:48px;padding:24px 20px 40px;border-top:1px solid #22222a;color:#8f8a80;font-size:.85rem}</style>
 </head>
 <body>
@@ -45,10 +61,10 @@ footer{margin-top:48px;padding:24px 20px 40px;border-top:1px solid #22222a;color
 <h2>What you can do for Qiqi</h2>
 <ul>
 <li>Find the best artifact set and main stats for Qiqi from the artifacts you own.</li>
-<li>Compare weapons and see how each one changes Qiqi's damage, healing or shields.</li>
+<li>Try other weapons and compare how each build changes Qiqi's damage, healing or shields.</li>
 <li>Build teams with buffs, resonances and reactions, and read every talent's damage number.</li>
 <li>Set minimum stats such as Energy Recharge or CRIT Rate and only see builds that reach them.</li>
-<li>Find out which artifacts are worth leveling next.</li>
+<li>Find out which substats and artifacts are worth leveling next.</li>
 </ul>
 
 <h2>Qiqi: combat talents</h2>
@@ -61,7 +77,7 @@ footer{margin-top:48px;padding:24px 20px 40px;border-top:1px solid #22222a;color
 <ul class="chips"><li><a href="../aloy-optimizer/">Aloy</a></li><li><a href="../charlotte-optimizer/">Charlotte</a></li><li><a href="../chongyun-optimizer/">Chongyun</a></li><li><a href="../citlali-optimizer/">Citlali</a></li><li><a href="../cryo-traveler-optimizer/">Cryo Traveler</a></li><li><a href="../diona-optimizer/">Diona</a></li><li><a href="../escoffier-optimizer/">Escoffier</a></li><li><a href="../eula-optimizer/">Eula</a></li><li><a href="../freminet-optimizer/">Freminet</a></li><li><a href="../ganyu-optimizer/">Ganyu</a></li><li><a href="../kaeya-optimizer/">Kaeya</a></li><li><a href="../kamisato-ayaka-optimizer/">Kamisato Ayaka</a></li><li><a href="../layla-optimizer/">Layla</a></li><li><a href="../lohen-optimizer/">Lohen</a></li><li><a href="../mika-optimizer/">Mika</a></li><li><a href="../odette-optimizer/">Odette</a></li><li><a href="../rosaria-optimizer/">Rosaria</a></li><li><a href="../sandrone-optimizer/">Sandrone</a></li><li><a href="../shenhe-optimizer/">Shenhe</a></li><li><a href="../skirk-optimizer/">Skirk</a></li><li><a href="../tsaritsa-optimizer/">Tsaritsa (Anastasya)</a></li><li><a href="../wriothesley-optimizer/">Wriothesley</a></li></ul>
 </main>
 <footer>
-<p><a href="../optimizers/">All character optimizers</a> · <a href="../">Open Stellar Optimizer</a></p>
+<p><a href="../optimizers/">All character optimizers</a> · <a href="../faq/">FAQ</a> · <a href="../">Open Stellar Optimizer</a></p>
 <p>Stellar Optimizer is not affiliated with or endorsed by HoYoverse. Genshin Impact and its characters are trademarks of their owners.</p>
 </footer>
 <script>if (location.hostname === "gi-beta73.github.io") {

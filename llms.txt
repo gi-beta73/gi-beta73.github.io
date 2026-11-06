@@ -1,0 +1,16 @@
+# Stellar Optimizer
+
+> Free Genshin Impact artifact and build optimizer that runs in the browser, with no account. It finds the best artifacts, main stats and weapons for each character from the player's own inventory, using full damage calculations, and supports upcoming characters such as Danica and the Tsaritsa (Anastasya) from beta data.
+
+The app itself needs JavaScript. The pages below are plain HTML.
+
+## Computed best builds
+
+- [Danica Optimizer](https://gi-beta73.github.io/danica-optimizer/): best artifact sets, main stats, substats and weapons for Danica, computed by the optimizer (best: 4-piece Disenchantment in Deep Shadow with Torrents of Spring)
+- [Tsaritsa (Anastasya) Optimizer](https://gi-beta73.github.io/tsaritsa-optimizer/): best artifact sets, main stats, substats and weapons for the Tsaritsa, computed by the optimizer (best: 4-piece Disenchantment in Deep Shadow with Silverdawn)
+
+## Site
+
+- [FAQ](https://gi-beta73.github.io/faq/): what the optimizer does, data privacy, importing artifacts
+- [Character optimizers](https://gi-beta73.github.io/optimizers/): links to every character
+- [Stellar Optimizer](https://gi-beta73.github.io/): the optimizer app
