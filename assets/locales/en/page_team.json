@@ -223,7 +223,9 @@
       "runWith": "×{{hits}} with every buff",
       "attackHits": "×{{hits}} per rotation",
       "stale": "Found with an earlier rotation or settings: what changed since is not in it.",
-      "runAgain": "Run again"
+      "runAgain": "Run again",
+      "setRulesUnmet": "Its allowed sets: no build fits, kept",
+      "setRulesWhy": "No build of the artifacts it may use keeps to the sets allowed on its Optimize tab (with its main stats, artifact levels and the inventory settings), so it kept its build. Allow more sets or artifacts."
     },
     "rotation": {
       "add": "Add attack",
