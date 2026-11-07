@@ -1,1 +1,0 @@
-import{H as e,U as t}from"./useTranslation-BSALappx.js";e();var n=t(`img`)({width:`100%`,height:`auto`});export{n as t};

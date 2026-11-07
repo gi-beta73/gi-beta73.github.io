@@ -1,1 +1,0 @@
-import{H as e,U as t}from"./useTranslation-BSALappx.js";e();var n=t(`span`,{name:`SqBadge`,slot:`Root`})(({theme:e,color:t=`primary`})=>({display:`inline-block`,padding:`.25em .4em`,lineHeight:1,textAlign:`center`,whiteSpace:`nowrap`,verticalAlign:`baseline`,borderRadius:`.25em`,backgroundColor:e.palette[t]?.main,color:e.palette[t]?.contrastText}));export{n as t};

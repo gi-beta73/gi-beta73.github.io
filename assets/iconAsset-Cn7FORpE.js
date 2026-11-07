@@ -1,1 +1,0 @@
-import{st as e,t}from"./portraits-C92k6en_.js";function n(n,r,i){let a=t(n,r),o=e(n,`icon`,r);return i&&a?a:o||``}export{n as t};
