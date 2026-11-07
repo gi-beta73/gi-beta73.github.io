@@ -150,7 +150,6 @@
       "hit": "Non-crit"
     },
     "member": {
-      "kept": "Build kept",
       "noRequirements": "Any main stats and sets",
       "optimize": "Optimize artifacts",
       "requirements": "Requirements",
@@ -181,6 +180,9 @@
       "buildName": "{{team}} (team optimized)",
       "cancel": "Cancel",
       "discard": "Discard",
+      "builds": "Team builds",
+      "buildBest": "The best build found",
+      "buildChanges": "The best build, with other artifacts on",
       "equip": "Equip",
       "equipConfirm": "Equip",
       "equipped": "Equipped",
@@ -197,6 +199,9 @@
       "meta_other": "Found in {{seconds}} s, {{count}} rounds",
       "unmet_one": "{{count}} requirement not met",
       "unmet_other": "{{count}} requirements not met",
+      "reachesNeeds": "{{value}}, needs {{min}}",
+      "unmetWhy": "No build reaches it with this member’s settings: its main stats, the sets it may use, the artifact levels and the weapons ticked. This build gets the closest. Lower the requirement, or allow more.",
+      "unmetKept": "Kept as it is: its build does not reach it.",
       "equipWarn_one": "Equips the new build on 1 member (a saved build is updated instead). Artifacts move from whoever wears them now.",
       "equipWarn_other": "Equips the new builds on {{count}} members (saved builds are updated instead). Artifacts move from whoever wears them now.",
       "sameWeapon": "Same weapon",
@@ -216,7 +221,9 @@
       "hitsTitle": "Damage per hit, in the rotation",
       "runWithout": "×{{hits}} without {{count}} limited buff",
       "runWith": "×{{hits}} with every buff",
-      "attackHits": "×{{hits}} per rotation"
+      "attackHits": "×{{hits}} per rotation",
+      "stale": "Found with an earlier rotation or settings: what changed since is not in it.",
+      "runAgain": "Run again"
     },
     "rotation": {
       "add": "Add attack",
@@ -246,6 +253,9 @@
       "error": "Team Optimize stopped:",
       "noAttacks": "Add the rotation’s attacks first.",
       "preparing": "Preparing…",
+      "alternatives": "Next best builds",
+      "buildsLabel": "Builds",
+      "buildsInfo": "How many team builds to find: the best one, then the next best ones (each changes one member’s artifacts).",
       "round": "Round {{round}}",
       "setup": "setting up the search",
       "searching": "searching {{total}} builds",
@@ -274,9 +284,8 @@
       "groupCount": "{{allowed}} of {{total}}",
       "none": "No weapon of this type.",
       "levelRef": "Lv. {{level}} · R{{refinement}}",
-      "passivesFor": "Passives for",
       "passive": "Passive",
-      "passiveHint": "Saved on this character’s loadout: its pages use the same settings.",
+      "passiveHint": "Saved on each character’s loadout: its pages use the same settings.",
       "off": "Off",
       "allow": "Allow",
       "energy": "Energy",
@@ -303,7 +312,26 @@
       "count_one": "{{count}} buff",
       "count_other": "{{count}} buffs",
       "team": "Whole team",
-      "add": "Add a stat"
+      "for": "For",
+      "addStat": "Add a stat",
+      "value": "Value",
+      "remove": "Remove",
+      "zero": "At 0 it does nothing: enter its value."
+    },
+    "transfer": {
+      "export": "Export",
+      "import": "Import",
+      "copied": "Rotation copied as JSON",
+      "copyFailed": "Could not copy",
+      "title": "Import a team rotation",
+      "desc": "Paste a rotation exported from Team optimize. The members in it get its attacks; the others keep theirs.",
+      "label": "Rotation JSON",
+      "invalid": "This is not a team rotation export.",
+      "attacks_one": "{{count}} attack",
+      "attacks_other": "{{count}} attacks",
+      "time": "Rotation time: {{time}} s",
+      "skipped": "Not in this team, skipped:",
+      "cancel": "Cancel"
     },
     "currentDps": "Team DPS now",
     "rotationTime": {
@@ -329,6 +357,13 @@
       "showNoGain": "Show these rows",
       "hideNoGain": "Hide these rows",
       "max": "max"
+    },
+    "runDialog": {
+      "title": "Optimize team",
+      "desc": "Untick the main stats a member will not use: its search gets smaller and the run faster. All are ticked by default.",
+      "size": "≈ {{size}} builds to search",
+      "cancel": "Cancel",
+      "start": "Start"
     }
   }
 }

@@ -1,0 +1,1 @@
+import{st as e}from"./SheetUtil-C6LKaM_t.js";function t(t,n){return e(t,`icon`,n)||``}export{t};
