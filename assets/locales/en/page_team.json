@@ -137,7 +137,9 @@
       "notEquipped": "not equipped",
       "notActive": "not active",
       "allHitsCount": "all {{hits}} hits",
-      "ofHits": "of {{hits}} hits"
+      "ofHits": "of {{hits}} hits",
+      "critCapped": "CRIT Rate is {{value}} without it: already over the 100% cap",
+      "capped": "Capped at {{value}}"
     },
     "empty": {
       "action": "Team settings",
