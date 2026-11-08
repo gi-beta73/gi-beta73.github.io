@@ -150,29 +150,33 @@
       "hit": "Non-crit"
     },
     "member": {
-      "noRequirements": "Any main stats and sets",
       "optimize": "Optimize artifacts",
       "requirements": "Requirements",
-      "setsLimited": "some sets excluded",
-      "tc": "TC build: kept as it is"
+      "tc": "TC build: kept as it is",
+      "constraints": "Constraints",
+      "setsExcluded": "Excluded",
+      "mixedSets": "Mixed sets",
+      "allSetsHint": "Any set and any mix",
+      "setsCount": "{{allowed}}/{{total}} sets",
+      "allSets": "All sets",
+      "effectsOn": "Set effects on",
+      "noEffectsHint": "Set effects count only when on: click to turn them on",
+      "effectsCount": "{{count}} effects",
+      "effectsCount_one": "{{count}} effect",
+      "noEffects": "No effects"
     },
     "pool": {
       "count": "{{count}} artifacts to choose from",
-      "excluded": "Use excluded artifacts",
-      "excludedHint": "The ones excluded on a member’s Optimize tab.",
-      "level": "Level",
+      "excluded": "Excluded artifacts",
+      "level": "Artifact level",
       "level16": "+16 and up",
-      "levelAny": "Any level",
-      "maxMain": "Count main stats at +20",
-      "maxMainHint": "For artifacts you still plan to level.",
-      "others": "Take from characters outside the team",
-      "othersHint": "Off: only unequipped artifacts and the team’s own.",
+      "levelAny": "Any",
+      "maxMain": "Main stats at +20",
+      "others": "Other characters’ artifacts",
       "title": "Inventory",
-      "setEffects": "Before running, turn on the set effects your rotation relies on, like Noblesse Oblige or Tenacity of the Millelith, in each member’s Requirements → Artifact sets. Effects that are off are not counted, so a support’s team-buff set cannot be chosen for it.",
-      "weaponPassives": "Weapon passives count only when they are on for the character, and an energy weapon lowers each member’s Energy Recharge requirement by what you set for that member: both under Choose → Settings."
+      "effects": "Set effects count only when on (Requirements → Artifact sets)"
     },
     "requirements": {
-      "desc": "Stats the build must reach, and the main stats and sets it may use. These are the settings of this character’s Optimize tab.",
       "mainStats": "Main stats",
       "title": "Requirements"
     },
@@ -275,8 +279,7 @@
     "tab": "Team optimize",
     "title": "Team optimize",
     "weapons": {
-      "toggle": "Choose weapons too",
-      "count": "{{allowed}} of {{total}} weapons allowed",
+      "toggle": "Weapons too",
       "choose": "Choose",
       "title": "Weapons to choose from",
       "desc": "Each member tries the ticked weapons of its type, along with its artifacts. A passive counts only when it is on for that character. An energy weapon in the team lowers each member’s Energy Recharge requirement by what you set for that member: click ⚡ on it.",
@@ -295,11 +298,24 @@
       "settings": "Settings",
       "energySetHint": "Less Energy Recharge each member needs while someone in the team wields it. Click to change.",
       "energyAdd": "Gives energy? Set how much less Energy Recharge each member needs",
-      "teamEnergy": "Energy for the team",
-      "teamEnergyHint": "How much less Energy Recharge each member needs while someone in the team wields this weapon (e.g. from an Energy Recharge calculator).",
-      "noEnergyNeed": "No ER req.",
-      "noEnergyNeedHint": "This member has no Energy Recharge requirement (set one in its Requirements): this value changes nothing for now.",
-      "tooFewTicked": "Tick one for each member: a member left without one keeps its current weapon."
+      "teamEnergy": "ER needed",
+      "teamEnergyHint": "How much less Energy Recharge each member needs while someone in the team wields this weapon.",
+      "noEnergyNeedHint": ": no Energy Recharge requirement, so this changes nothing yet",
+      "tooFewTicked": "Tick one for each member: a member left without one keeps its current weapon.",
+      "delete": "Delete",
+      "deleteLabel": "Delete from inventory",
+      "deleteHeld": "Equipped by",
+      "deleteHeldHint": ": give them another weapon first",
+      "deleteTitle": "Delete",
+      "locked": "Locked",
+      "deleteEquipped": "Equipped by",
+      "deleteReplaced": ", who gets",
+      "deleteInstead": "instead.",
+      "deleteCancel": "Cancel",
+      "deleteConfirm": "Delete",
+      "noPassive": "No passive effects",
+      "add": "Add",
+      "swap": "Change weapon"
     },
     "onField": {
       "label": "On the field",
@@ -338,7 +354,7 @@
     "currentDps": "Team DPS now",
     "rotationTime": {
       "label": "Rotation time",
-      "info": "How long one rotation takes: damage is then shown per second (DPS). Leave it empty for the damage of one rotation."
+      "info": "How long one rotation takes, for the DPS. Saved for this team."
     },
     "sens": {
       "title": "What raises team damage",
@@ -362,10 +378,18 @@
     },
     "runDialog": {
       "title": "Optimize team",
-      "desc": "Untick the main stats a member will not use: its search gets smaller and the run faster. All are ticked by default.",
       "size": "≈ {{size}} builds to search",
       "cancel": "Cancel",
       "start": "Start"
+    },
+    "short": {
+      "eleMas": "EM",
+      "enerRech_": "ER",
+      "heal_": "Healing"
+    },
+    "header": {
+      "total": "Rotation DMG",
+      "dps": "DPS"
     }
   }
 }
