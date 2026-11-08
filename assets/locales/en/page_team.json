@@ -237,7 +237,9 @@
       "compare": "Compare with equipped",
       "belowNow": "Below your current builds ({{value}})",
       "belowNowSets_one": "can’t keep their current build: it breaks their allowed sets (Requirements → Artifact sets)",
-      "belowNowSets_other": "can’t keep their current builds: they break their allowed sets (Requirements → Artifact sets)"
+      "belowNowSets_other": "can’t keep their current builds: they break their allowed sets (Requirements → Artifact sets)",
+      "belowNowWeapons_one": "can’t keep their current weapon: it isn’t ticked in Weapons to choose from",
+      "belowNowWeapons_other": "can’t keep their current weapons: they aren’t ticked in Weapons to choose from"
     },
     "rotation": {
       "add": "Add attack",
