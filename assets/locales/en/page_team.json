@@ -155,7 +155,6 @@
       "tc": "TC build: kept as it is",
       "constraints": "Constraints",
       "setsExcluded": "Excluded",
-      "mixedSets": "Mixed sets",
       "allSetsHint": "Any set and any mix",
       "setsCount": "{{allowed}}/{{total}} sets",
       "allSets": "All sets",
@@ -163,7 +162,11 @@
       "noEffectsHint": "Set effects count only when on: click to turn them on",
       "effectsCount": "{{count}} effects",
       "effectsCount_one": "{{count}} effect",
-      "noEffects": "No effects"
+      "noEffects": "No effects",
+      "setsAllowed": "Allowed",
+      "more": "+{{count}} more",
+      "noMixed": "No mixed sets",
+      "noMixedPc": "Mixed sets: no {{pieces}}-pc"
     },
     "pool": {
       "count": "{{count}} artifacts to choose from",
