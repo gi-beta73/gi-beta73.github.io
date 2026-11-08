@@ -1,1 +1,0 @@
-import{H as e,V as t}from"./useTranslation-B6SzyOea.js";t();var n=e(`span`,{name:`SqBadge`,slot:`Root`})(({theme:e,color:t=`primary`})=>({display:`inline-block`,padding:`.25em .4em`,lineHeight:1,textAlign:`center`,whiteSpace:`nowrap`,verticalAlign:`baseline`,borderRadius:`.25em`,backgroundColor:e.palette[t]?.main,color:e.palette[t]?.contrastText}));export{n as t};
