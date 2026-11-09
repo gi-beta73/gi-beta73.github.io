@@ -1,0 +1,1 @@
+import{o as e}from"./rolldown-runtime-C0FnF6B9.js";import{Dr as t,Er as n,Lr as r,Or as i,Tr as a,_r as o}from"./useTranslation-C0CXZ-Cu.js";i(),n();var s=e(r()),c=e(o()),l=[`value`],u=s.createContext();function d(e){let{value:n}=e,r=a(e,l);return(0,c.jsx)(u.Provider,t({value:n??!0},r))}var f=()=>s.useContext(u)??!1;export{f as n,d as t};

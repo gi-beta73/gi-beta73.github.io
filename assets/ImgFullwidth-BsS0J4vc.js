@@ -1,0 +1,1 @@
+import{H as e,U as t}from"./useTranslation-C0CXZ-Cu.js";e();var n=t(`img`)({width:`100%`,height:`auto`});export{n as t};

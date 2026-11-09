@@ -1,0 +1,1 @@
+import{n as e,o as t}from"./rolldown-runtime-C0FnF6B9.js";import{Lr as n}from"./useTranslation-C0CXZ-Cu.js";function r(e){return i.Children.toArray(e).filter(e=>i.isValidElement(e))}var i,a=e((()=>{i=t(n())})),o=e((()=>{a()}));export{r as n,a as r,o as t};
