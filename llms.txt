@@ -1,6 +1,6 @@
 # Stellar Optimizer
 
-> Free Genshin Impact artifact and build optimizer that runs in the browser, with no account. It finds the best artifacts, main stats and weapons for each character from the player's own inventory, using full damage calculations, and supports upcoming characters such as Danica and the Tsaritsa (Anastasya) from beta data.
+> Free Genshin Impact artifact and build optimizer that runs in the browser, with no account. It finds the best artifacts, main stats and weapons for each character from the player's own inventory, using full damage calculations, and supports upcoming characters such as Danica and Tsaritsa (Anastasya) from beta data.
 
 The app itself needs JavaScript. The pages below are plain HTML.
 
