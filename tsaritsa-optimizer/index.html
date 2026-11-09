@@ -162,11 +162,12 @@ footer{margin-top:48px;padding:24px 20px 40px;border-top:1px solid #22222a;color
     else if (q.has('notrack')) localStorage.setItem('stellar-notrack', '1')
     if (localStorage.getItem('stellar-notrack')) return
   } catch {}
-  if (location.hostname !== "gi-beta73.github.io") return
+  const token = {"gi-beta73.github.io":"ec971696b247424ca782ce28157bc5af","stellaroptimizer.com":"cb9d851f67d541428fdf3ef910d61702"}[location.hostname.replace(/^www./, '')]
+  if (!token) return
   const s = document.createElement('script')
   s.type = 'module'
   s.src = 'https://static.cloudflareinsights.com/beacon.min.js'
-  s.dataset.cfBeacon = "{\"token\":\"ec971696b247424ca782ce28157bc5af\"}"
+  s.dataset.cfBeacon = JSON.stringify({ token })
   document.head.appendChild(s)
 })()</script>
 </body>
