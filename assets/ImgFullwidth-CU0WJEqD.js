@@ -1,1 +1,0 @@
-import{H as e,V as t}from"./useTranslation-BGRQLB-9.js";t();var n=e(`img`)({width:`100%`,height:`auto`});export{n as t};

@@ -1,1 +1,0 @@
-import{st as e}from"./SheetUtil-DjyOuoOf.js";function t(t,n){return e(t,`icon`,n)||``}export{t};
