@@ -1084,7 +1084,7 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
-## genshin-optimizer - 1.1.6 (AGPL-3.0-or-later)
+## genshin-optimizer - 1.2.0 (AGPL-3.0-or-later)
 
 Stellar Optimizer
 Copyright (c) 2026-present, the Stellar Optimizer contributors
