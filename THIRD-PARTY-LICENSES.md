@@ -1086,23 +1086,7 @@ SOFTWARE.
 
 ## genshin-optimizer - 1.3.0 (AGPL-3.0-or-later)
 
-Stellar Optimizer
-Copyright (c) 2026-present, the Stellar Optimizer contributors
-
-This program is free software: you can redistribute it and/or modify it under
-the terms of the GNU Affero General Public License as published by the Free
-Software Foundation, either version 3 of the License, or (at your option) any
-later version. The full text is below.
-
-Stellar Optimizer is licensed under the AGPLv3 effective 2026-11-10. It is based
-on Genshin Optimizer (https://github.com/frzyc/genshin-optimizer) by frzyc and
-contributors, licensed under the MIT License: that code remains available under
-those terms, and its MIT notice is retained in LICENSE-MIT as that license
-requires. Releases up to and including v1.1.5 were licensed under the MIT License.
-
--------------------------------------------------------------------------------
-
-                    GNU AFFERO GENERAL PUBLIC LICENSE
+GNU AFFERO GENERAL PUBLIC LICENSE
                        Version 3, 19 November 2007
 
  Copyright (C) 2007 Free Software Foundation, Inc. <https://fsf.org/>

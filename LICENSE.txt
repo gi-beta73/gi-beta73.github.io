@@ -6,11 +6,9 @@ the terms of the GNU Affero General Public License as published by the Free
 Software Foundation, either version 3 of the License, or (at your option) any
 later version. The full text is below.
 
-Stellar Optimizer is licensed under the AGPLv3 effective 2026-11-10. It is based
-on Genshin Optimizer (https://github.com/frzyc/genshin-optimizer) by frzyc and
-contributors, licensed under the MIT License: that code remains available under
-those terms, and its MIT notice is retained in LICENSE-MIT as that license
-requires. Releases up to and including v1.1.5 were licensed under the MIT License.
+Stellar Optimizer is based on Genshin Optimizer
+(https://github.com/frzyc/genshin-optimizer) by frzyc and contributors, whose
+copyright and permission notice is kept at the end of this file, as it requires.
 
 -------------------------------------------------------------------------------
 
@@ -678,10 +676,9 @@ For more information on this, and how to apply and follow the GNU AGPL, see
 
 -------------------------------------------------------------------------------
 
-The MIT notice of the original Genshin Optimizer code (see above):
+The copyright and permission notice of the original Genshin Optimizer code:
 
-MIT License
-
+Genshin Optimizer (https://github.com/frzyc/genshin-optimizer)
 Copyright (c) 2020-present, frzyc
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
