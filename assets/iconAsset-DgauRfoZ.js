@@ -1,0 +1,1 @@
+import{st as e}from"./SheetUtil-BIAKPdhK.js";function t(t,n){return e(t,`icon`,n)||``}export{t};
