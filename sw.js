@@ -7,7 +7,7 @@
  */
 // Named after the build (stamped at build time): each deploy is a new worker, which deletes the
 // previous cache on activation and takes over the open pages (they then reload onto the new build)
-const CACHE = 'go-cache-mwfzo6bc'
+const CACHE = 'go-cache-mwg0cnkg'
 const HASHED = /-[A-Za-z0-9_-]{8}\.[a-z0-9]+$/i
 const DAY_MS = 24 * 60 * 60 * 1000
 const MAX_AGE_MS = 30 * DAY_MS
