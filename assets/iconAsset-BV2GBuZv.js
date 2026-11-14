@@ -1,0 +1,1 @@
+import{ct as e}from"./SheetUtil-B5jMVMsN.js";function t(t,n){return e(t,`icon`,n)||``}export{t};
