@@ -10,5 +10,18 @@
   "header": {
     "create": "Create team",
     "import": "Import team"
+  },
+  "toolbar": {
+    "search": "Search teams",
+    "filtered": "{{count}} of {{total}} teams"
+  },
+  "card": {
+    "addMember": "Add a member",
+    "openMember": "Open {{name}} in {{team}}",
+    "level": "Lv. {{level}}",
+    "levelLabel": "Level",
+    "talents": "Talents",
+    "loadout": "Loadout",
+    "build": "Build"
   }
 }
