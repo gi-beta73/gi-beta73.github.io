@@ -316,6 +316,7 @@
       "all": "All",
       "fiveStar": "Only 5★",
       "leveled": "Level 80 and up",
+      "pickNone": "None",
       "groupCount": "{{allowed}} of {{total}}",
       "none": "No weapon of this type.",
       "levelRef": "Lv. {{level}} · R{{refinement}}",
