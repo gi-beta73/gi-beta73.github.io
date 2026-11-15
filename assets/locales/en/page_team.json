@@ -13,7 +13,8 @@
     "importBtn": "Import",
     "error": {
       "verifi": "Data verification failed.",
-      "import": "Data Import failed."
+      "import": "Data Import failed.",
+      "multiOpt": "This is a character's multi-target setup, not a team: import it in that character's Optimize tab"
     }
   },
   "teamDelModal": {

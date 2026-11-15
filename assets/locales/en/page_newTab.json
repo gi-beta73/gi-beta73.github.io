@@ -12,5 +12,10 @@
     "1": "Close this tab 🔪, and use the new tab 🆕",
     "2": "Close the new tab ↩️, and once you are sure this is the one and ONLY tab remaining 🔂, you can refresh this page 🔄"
   },
-  "refresh": "Refresh Page"
+  "refresh": "Refresh Page",
+  "storageError": {
+    "title": "Your data could not be opened",
+    "body": "The browser's database did not open. Your data stay saved in this browser.",
+    "reload": "Reload"
+  }
 }

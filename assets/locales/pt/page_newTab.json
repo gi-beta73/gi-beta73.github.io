@@ -12,5 +12,10 @@
     "1": "Fechar esta aba 🔪 e usar a aba nova 🆕",
     "2": "Ou fechar a aba nova ↩️ e após ter certeza de que esta é a ÚNICA 🔂, recarregar esta página 🔄."
   },
-  "refresh": "Recarregar Página"
+  "refresh": "Recarregar Página",
+  "storageError": {
+    "title": "Não foi possível abrir seus dados",
+    "body": "O banco de dados do navegador não abriu. Seus dados continuam salvos neste navegador.",
+    "reload": "Recarregar"
+  }
 }

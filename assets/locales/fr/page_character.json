@@ -71,7 +71,9 @@
     },
     "optAlert": {
       "feasibilty": "Il peut y avoir des substats supplémentaires qui devraient être distribuées aux statistiques sans scaling pour garantir que la solution est réalisable."
-    }
+    },
+    "noDistributionAlert": "Aucune répartition ne respecte les filtres de stats : sous-stats conservées",
+    "noDistributionTip": "Abaissez les filtres de stats ou répartissez plus de jets"
   },
   "tabTeambuff": {
     "team_reso": "Résonance de l'équipe",

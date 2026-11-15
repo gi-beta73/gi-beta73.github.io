@@ -12,5 +12,10 @@
     "1": "Cerrar esta pestaña 🔪 y usar la nueva pestaña 🆕",
     "2": "Cerrar la nueva pestaña ↩️ y, una vez que estés seguro de que esta es la única pestaña restante 🔂, puedes actualizar esta página 🔄"
   },
-  "refresh": "Actualizar Página"
+  "refresh": "Actualizar Página",
+  "storageError": {
+    "title": "No se pudieron abrir tus datos",
+    "body": "La base de datos del navegador no se abrió. Tus datos siguen guardados en este navegador.",
+    "reload": "Recargar"
+  }
 }

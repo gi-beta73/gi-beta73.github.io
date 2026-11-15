@@ -90,7 +90,9 @@
       "scalesWith": "O Objetivo de Otimização atual aumenta com: ",
       "distribute": ". O programa distribuirá apenas entre esses atributos.",
       "feasibilty": "Podem sobrar secundários que devem ser distribuídos manualmente em atributos irrelevantes para que a configuração seja possível."
-    }
+    },
+    "noDistributionAlert": "Nenhuma distribuição atende aos filtros de atributos: subatributos mantidos",
+    "noDistributionTip": "Reduza os filtros de atributos ou distribua mais roladas"
   },
   "tabTeambuff": {
     "team_reso": "Ressonância da Equipe",

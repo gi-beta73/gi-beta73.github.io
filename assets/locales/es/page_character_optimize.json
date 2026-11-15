@@ -49,5 +49,6 @@
         "4rain": "<0><0>Excluir<1></1> 5-Arcoíris</0></0> excluiría construcciones completas de 5-Arcoíris: <2><0>RRRRR</0></2>."
       }
     }
-  }
+  },
+  "emptyTarget": "Este objetivo no suma nada: revisa sus condiciones de talento"
 }

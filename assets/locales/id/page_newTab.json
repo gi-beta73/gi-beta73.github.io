@@ -12,5 +12,10 @@
     "1": "Tutup tab ini🔪, dan gunakan tab baru🆕.",
     "2": "Tutup tab baru↩️, dan setelah kamu yakin ini adalah satu-satunya tab🔂, kamu dapat merefresh halaman ini🔄."
   },
-  "refresh": "Refresh Halaman"
+  "refresh": "Refresh Halaman",
+  "storageError": {
+    "title": "Data Anda tidak dapat dibuka",
+    "body": "Basis data browser tidak dapat dibuka. Data Anda tetap tersimpan di browser ini.",
+    "reload": "Muat ulang"
+  }
 }

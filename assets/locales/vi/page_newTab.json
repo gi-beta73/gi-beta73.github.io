@@ -12,5 +12,10 @@
     "1": "Đóng tab này 🔪 và chuyển qua dùng tab mới 🆕",
     "2": "Đóng tab mới mở ↩️ và chỉ sau khi bạn chắc chắn rằng đây là tab Stellar Optimizer DUY NHẤT còn đang mở 🔂, ấn tải lại trang này 🔄"
   },
-  "refresh": "Tải lại trang"
+  "refresh": "Tải lại trang",
+  "storageError": {
+    "title": "Không thể mở dữ liệu của bạn",
+    "body": "Không mở được cơ sở dữ liệu của trình duyệt. Dữ liệu của bạn vẫn được lưu trong trình duyệt này.",
+    "reload": "Tải lại"
+  }
 }

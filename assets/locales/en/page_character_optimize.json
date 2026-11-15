@@ -262,6 +262,7 @@
     "invalidTarget": "INVALID TARGET"
   },
   "selectTargetFirst": "Select an Optimization Target first",
+  "emptyTarget": "This target adds up to nothing: check its talent conditionals",
   "generateButton": {
     "cancel": "Cancel",
     "generateBuilds": "Generate Builds"

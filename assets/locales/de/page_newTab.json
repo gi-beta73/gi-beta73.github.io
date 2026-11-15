@@ -12,5 +12,10 @@
     "1": "Diesen Tab schließen 🔪, und den neuen Tab nutzen 🆕",
     "2": "Den neuen Tab schließen ↩️, und nur dann wenn du auch WIRKLICH sicher bist, dass dies hier der EINZIGE offene Tab ist 🔂, diese Seite neu laden🔄"
   },
-  "refresh": "Seite neu Laden"
+  "refresh": "Seite neu Laden",
+  "storageError": {
+    "title": "Deine Daten konnten nicht geöffnet werden",
+    "body": "Die Datenbank des Browsers ließ sich nicht öffnen. Deine Daten bleiben in diesem Browser gespeichert.",
+    "reload": "Neu laden"
+  }
 }

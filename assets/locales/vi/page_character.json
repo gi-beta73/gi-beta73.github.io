@@ -84,7 +84,9 @@
       "scalesWith": "Mục tiêu Tối Ưu và yêu cầu tối thiểu đã chọn sẽ phụ thuộc vào: ",
       "distribute": ". Thuật toán sẽ chỉ phân phối chỉ số cho các dòng phụ được nêu.",
       "feasibilty": "Có thể sẽ có một số lần nhảy chỉ số thừa ra được phân phối cho các thuộc tính không phụ thuộc để hướng đi này khả thi."
-    }
+    },
+    "noDistributionAlert": "Không có cách phân bổ nào thỏa bộ lọc chỉ số: giữ nguyên chỉ số phụ",
+    "noDistributionTip": "Hạ bộ lọc chỉ số, hoặc phân bổ thêm lượt"
   },
   "tabTeambuff": {
     "team_reso": "Cộng Hưởng Đội",

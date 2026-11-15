@@ -41,7 +41,9 @@
     },
     "maxTotalRolls": "La configuración actual solo puede tener un máximo de <strong>{{value}}</strong> tiradas.",
     "maxRolls": "Esta subestadística puede tener un máximo de 30 tiradas.",
-    "maxRollsMain": "Debido a que al menos una estadística principal tiene el mismo atributo, esta subestadística puede tener un máximo de {{value}} tiradas."
+    "maxRollsMain": "Debido a que al menos una estadística principal tiene el mismo atributo, esta subestadística puede tener un máximo de {{value}} tiradas.",
+    "noDistributionAlert": "Ninguna distribución cumple los filtros de estadísticas: se mantienen las subestadísticas",
+    "noDistributionTip": "Baja los filtros de estadísticas o distribuye más tiradas"
   },
   "tabTeambuff": {
     "team_reso": "Resonancia de Equipo",

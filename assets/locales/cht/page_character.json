@@ -47,7 +47,9 @@
     },
     "maxTotalRolls": "A \"valid\" build can only have a maximum of 45 rolls.",
     "maxRolls": "This substat can have a maximum of 30 rolls.",
-    "maxRollsMain": "Because at least one mainstat has the same stat, this substat can have a maximum of {{value}} rolls."
+    "maxRollsMain": "Because at least one mainstat has the same stat, this substat can have a maximum of {{value}} rolls.",
+    "noDistributionAlert": "沒有滿足屬性篩選的分配：副詞條保持不變",
+    "noDistributionTip": "降低屬性篩選，或分配更多詞條數"
   },
   "tabTeambuff": {
     "team_reso": "元素共鳴",

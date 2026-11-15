@@ -127,5 +127,6 @@
     "newArt": "Novo Artefato",
     "oldArt": "Artefato Anterior",
     "tcArt": "Artefato Teorizado"
-  }
+  },
+  "emptyTarget": "Este alvo não soma nada: verifique as condições de talento"
 }

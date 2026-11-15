@@ -4,5 +4,9 @@
   },
   "multiTarget": {
     "addNewTarget": "เพิ่มเป้าหมาย"
+  },
+  "tabTheorycraft": {
+    "noDistributionAlert": "ไม่มีการกระจายที่ตรงตามตัวกรองค่าสถานะ: คงค่าสถานะรองไว้",
+    "noDistributionTip": "ลดตัวกรองค่าสถานะ หรือกระจายจำนวนครั้งเพิ่ม"
   }
 }

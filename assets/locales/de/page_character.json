@@ -44,7 +44,9 @@
     },
     "gcsimDialog": {
       "title": "gcsim Export"
-    }
+    },
+    "noDistributionAlert": "Keine Verteilung erfüllt die Werte-Filter: Nebenwerte bleiben unverändert",
+    "noDistributionTip": "Senke die Werte-Filter oder verteile mehr Rolls"
   },
   "teammateUsing": {
     "weapon": "Truppenmitglied <strong><1></1></strong> benutzt diese Waffe.",

@@ -75,5 +75,6 @@
     "newArt": "Neues Artefakt",
     "oldArt": "Altes Artefakt",
     "tcArt": "TC Artefakt"
-  }
+  },
+  "emptyTarget": "Dieses Ziel ergibt nichts: Prüfe seine Talentbedingungen"
 }

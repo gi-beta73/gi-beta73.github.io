@@ -12,5 +12,10 @@
     "1": "Fermer cet onglet 🔪, et utiliser le nouvel onglet 🆕",
     "2": "Fermez le nouvel onglet ️, et une fois que vous êtes sûr que c'est le seul et unique onglet restant 🔂, vous pouvez rafraîchir cette page 🔄."
   },
-  "refresh": "Actualiser la page"
+  "refresh": "Actualiser la page",
+  "storageError": {
+    "title": "Impossible d'ouvrir vos données",
+    "body": "La base de données du navigateur ne s'est pas ouverte. Vos données restent enregistrées dans ce navigateur.",
+    "reload": "Recharger"
+  }
 }

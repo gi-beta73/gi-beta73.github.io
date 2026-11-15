@@ -89,7 +89,9 @@
       "scalesWith": "선택된 최적화 대상과 제한 조건은 다음과 같습니다: ",
       "distribute": ". 계산은 해당 부옵션에만 분배합니다.",
       "feasibilty": "가능한 조합을 위해 퍼센트가 아닌 깡 옵션에 분배 될 수 있습니다."
-    }
+    },
+    "noDistributionAlert": "스탯 필터를 만족하는 분배가 없습니다: 부옵션 유지",
+    "noDistributionTip": "스탯 필터를 낮추거나 더 많은 롤을 분배하세요"
   },
   "tabTeambuff": {
     "team_reso": "파티 원소 공명",

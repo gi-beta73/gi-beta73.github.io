@@ -123,5 +123,6 @@
     "newArt": "New Artifact",
     "oldArt": "Old Artifact",
     "tcArt": "TC Artifact"
-  }
+  },
+  "emptyTarget": "このターゲットは0です：天賦の条件を確認してください"
 }

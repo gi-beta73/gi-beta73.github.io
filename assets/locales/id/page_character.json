@@ -47,7 +47,9 @@
     },
     "maxTotalRolls": "Build \"valid\" hanya dapat memiliki maksimal 45 roll.",
     "maxRolls": "Substat ini dapat memiliki maksimal 30 roll.",
-    "maxRollsMain": "Karena setidaknya satu mainstat memiliki stat yang sama, substat ini dapat memiliki maksimal {{value}} roll"
+    "maxRollsMain": "Karena setidaknya satu mainstat memiliki stat yang sama, substat ini dapat memiliki maksimal {{value}} roll",
+    "noDistributionAlert": "Tidak ada distribusi yang memenuhi filter stat: substat dipertahankan",
+    "noDistributionTip": "Turunkan filter stat, atau distribusikan lebih banyak roll"
   },
   "tabTeambuff": {
     "team_reso": "Team Resonance",

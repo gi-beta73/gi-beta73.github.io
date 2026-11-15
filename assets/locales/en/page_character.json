@@ -98,6 +98,8 @@
     "maxRolls": "This substat can have a maximum of 30 rolls.",
     "maxRollsMain": "Because at least one main stat has the same attribute, this substat can have a maximum of {{value}} rolls.",
     "feasibilityAlert": "The current substat distribution requires at least <strong>{{minSubLines}}</strong> lines of substats. Need to assign <strong>{{minOtherRolls}}</strong> rolls to other substats for this solution to be feasible.",
+    "noDistributionAlert": "No distribution meets the stat filters: substats kept",
+    "noDistributionTip": "Lower the stat filters, or distribute more rolls",
     "optAlert": {
       "scalesWith": "The selected Optimization target and constraints scales with: ",
       "distribute": ". The solver will only distribute stats to these substats.",

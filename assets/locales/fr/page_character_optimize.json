@@ -119,5 +119,6 @@
   "compareArtModal": {
     "newArt": "Nouveau artéfact",
     "oldArt": "Ancien artéfact"
-  }
+  },
+  "emptyTarget": "Cette cible ne donne rien : vérifiez ses conditions de talent"
 }

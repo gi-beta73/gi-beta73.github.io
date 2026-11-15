@@ -116,5 +116,6 @@
     "newArt": "Thánh Di Vật Mới",
     "oldArt": "Thánh Di Vật Cũ",
     "tcArt": "Thánh Di Vật TC"
-  }
+  },
+  "emptyTarget": "Mục tiêu này bằng 0: hãy kiểm tra điều kiện thiên phú"
 }

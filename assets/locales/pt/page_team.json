@@ -15,5 +15,10 @@
   "loadout": {
     "name": "Nome do Loadout",
     "desc": "Descrição do Loadout"
+  },
+  "importForm": {
+    "error": {
+      "multiOpt": "Esta é uma configuração multialvo de um personagem, não uma equipe: importe-a na aba Otimizar desse personagem"
+    }
   }
 }

@@ -2,5 +2,10 @@
   "team": {
     "name": "Truppenname",
     "desc": "Truppenbeschreibung"
+  },
+  "importForm": {
+    "error": {
+      "multiOpt": "Das ist eine Mehrziel-Einstellung eines Charakters, kein Team: Importiere sie im Optimieren-Tab des Charakters"
+    }
   }
 }

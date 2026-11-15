@@ -14,5 +14,10 @@
   "loadout": {
     "name": "Tên Bộ Trang Bị",
     "desc": "Mô Tả Bộ Trang Bị"
+  },
+  "importForm": {
+    "error": {
+      "multiOpt": "Đây là thiết lập đa mục tiêu của nhân vật, không phải đội: hãy nhập trong thẻ Tối ưu của nhân vật đó"
+    }
   }
 }

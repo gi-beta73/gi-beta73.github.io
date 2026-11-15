@@ -47,7 +47,9 @@
     },
     "maxTotalRolls": "一套“有效”配置最多只能有45条副词条。",
     "maxRolls": "这个副词条最多只能有30条。",
-    "maxRollsMain": "因为至少一项主词条具有相同属性，这项副词条最多只能有{{value}}条。"
+    "maxRollsMain": "因为至少一项主词条具有相同属性，这项副词条最多只能有{{value}}条。",
+    "noDistributionAlert": "没有满足属性筛选的分配：副词条保持不变",
+    "noDistributionTip": "降低属性筛选，或分配更多词条数"
   },
   "tabTeambuff": {
     "team_reso": "队伍共鸣",

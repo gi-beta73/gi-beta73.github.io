@@ -111,5 +111,9 @@
     "rv": "RV",
     "cv": "CV",
     "tcBuild": "A theorycraft build has no artifacts to show on a card"
+  },
+  "buffSource": {
+    "resonance": "Elemental Resonance",
+    "reaction": "Reaction"
   }
 }

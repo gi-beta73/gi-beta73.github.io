@@ -92,5 +92,6 @@
     "allowEquip": "Izinkan menggunakan artefak dari"
   },
   "buildCompleted": "Build Selesai",
-  "notifyTooltip": "Mainkan suara saat build selesai dibuat. Juga akan menampilkan prompt alarm saat keluar tab."
+  "notifyTooltip": "Mainkan suara saat build selesai dibuat. Juga akan menampilkan prompt alarm saat keluar tab.",
+  "emptyTarget": "Target ini bernilai nol: periksa kondisi talentanya"
 }
