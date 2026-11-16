@@ -1,0 +1,1 @@
+import{ut as e}from"./SheetUtil-DjrxRAcs.js";function t(t,n){return e(t,`icon`,n)||``}export{t};
