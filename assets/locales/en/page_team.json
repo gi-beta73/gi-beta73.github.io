@@ -601,7 +601,7 @@
         "everyThree": "Every 3 rotations",
         "unused": "Unused",
         "details": "Energy details",
-        "flatTip": "Energy per rotation from character abilities or effects shared by every build.",
+        "flatTip": "Energy per rotation from character abilities or effects shared by every build. From a written rotation it includes the random Energy of the member’s Normal and Charged Attack hits.",
         "particles": "Particle energy",
         "flatShort": "Bonus energy",
         "cost": "Burst cost"

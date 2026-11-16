@@ -1,0 +1,1 @@
+import{ut as e}from"./SheetUtil-BLGv6ypn.js";function t(t,n){return e(t,`icon`,n)||``}export{t};
