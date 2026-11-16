@@ -1,0 +1,1 @@
+import{ut as e}from"./SheetUtil-D7vCaSV5.js";function t(t,n){return e(t,`icon`,n)||``}export{t};
