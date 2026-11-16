@@ -1,12 +1,13 @@
 {
-  "anchorCond": "Anchor is present",
-  "maidCond": "Maid Form",
-  "defenseMaid": "Defense Maid (after Entry Skill E2)",
-  "battleMaid": "Battle Maid (after On-Field Skill E2)",
-  "burstEnhCond": "Elemental Burst cast in Radiance: Stellar-Conduct (Maid Form enhanced)",
+  "anchorCond": "Storm Anchor is present",
+  "maidCond": "Attendant Form",
+  "defenseMaid": "Maid: Royal Guard (after Will to Protect)",
+  "battleMaid": "Maid: Cleaner (after Will to Purge)",
+  "burstEnhCond": "Elemental Burst cast in Radiance: Stellar-Conduct (Attendant Form enhanced)",
   "hit1ScDmg": "1-Hit Stellar-Conduct DMG (Radiance)",
   "hit5ScDmg": "5-Hit Stellar-Conduct DMG (Radiance)",
-  "a4Cond": "On-Field Skill E2 casts in Battle Maid (ATK SPD stacks)",
-  "c2ToastCond": "\"Toast\" stack consumed by a Stellar-Conduct reaction",
-  "c2SelfToastCond": "\"Toast\" stacks Danica consumes on her Stellar-Conduct hit (Battle Maid)"
+  "a4Cond": "Will to Purge casts in Maid: Cleaner (ATK SPD stacks)",
+  "c2ToastCond": "\"Let Us Toast\" stack consumed by a Stellar-Conduct reaction",
+  "c2SelfToastCond": "\"Let Us Toast\" stacks Danica consumes on her Stellar-Conduct hit (Maid: Cleaner, up to 2)",
+  "c2DecreeDmg": "Will to Purge with Cleaning Decree (once per combat, 150%)"
 }

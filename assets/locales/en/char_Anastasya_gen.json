@@ -1,6 +1,6 @@
 {
   "name": "Anastasya",
-  "title": "",
+  "title": "Frostcrown Revival",
   "description": "",
   "constellationName": "",
   "auto": {
@@ -77,12 +77,12 @@
       "6": "<br/>",
       "7": "<strong>Hold</strong>",
       "8": "Gains the Blessing of <strong>Honor</strong> and demonstrates the consummate skill at arms passed down by the imperial court.",
-      "9": "In this mode, Anastasya's Normal Attacks are replaced by a sequence of up to 5 attacks with the <strong>Blessed Spear: Dolgomernoye</strong>, dealing <cryo>AoE Cryo DMG</cryo> that cannot be overridden by other Elemental Infusions. She cannot perform Charged Attacks in this mode.",
+      "9": "In this mode, Anastasya's Normal Attacks are replaced by a sequence of up to 5 attacks with the <strong>Blessed Spear: Dolgomernoye</strong>, dealing <cryo>AoE Cryo DMG</cryo> that cannot be overridden by other Elemental Infusions. She cannot perform Charged Attacks in this mode. In addition, Anastasya's interruption resistance is increased, and she can move on water.",
       "10": "<strong>Radiance: Stellar Glimmer</strong>: The final instance of DMG from each Normal Attack performed with the <strong>Blessed Spear</strong> becomes <cryo>AoE Cryo DMG</cryo> that is considered DMG from the corresponding Stellar Glimmer reaction."
     },
     "skillParams": {
-      "0": "Instantaneous Tap DMG",
-      "1": "Instantaneous Hold DMG",
+      "0": "Tap Skill DMG",
+      "1": "Hold Skill DMG",
       "2": "Palestar Crown Cryo DMG",
       "3": "Palestar Crown Stellar-Conduct/Stellar Swirl DMG",
       "4": "1-Hit Cryo DMG",
@@ -131,17 +131,17 @@
       "0": "Anastasya's current <tooltip ns=tooltips_gen baseKey18=11490001 values=[]><strong>Blessing</strong></tooltip> determines which Elemental Burst she can use and how she wields the power of <tooltip ns=tooltips_gen baseKey18=11490002 values=[]><strong>Sealing</strong></tooltip>.",
       "1": "<br/>",
       "2": "<strong>To the New World</strong>",
-      "3": "Can be used while Anastasya holds the Blessing of <strong>Love</strong>. Deals <cryo>AoE Cryo DMG</cryo> and <tooltip ns=tooltips_gen baseKey18=11490005 values=[]><strong>freezes</strong></tooltip> the Palestar Crown's duration.",
+      "3": "Can be used while Anastasya holds the Blessing of <strong>Love</strong>. Deals <cryo>AoE Cryo DMG</cryo> and pauses the Palestar Crown's duration timer.",
       "4": "During this time, all nearby party members deal increased Stellar Glimmer reaction DMG, and the Palestar Crown deals 1 additional instance of <cryo>AoE Cryo DMG</cryo> that is considered Stellar-Conduct reaction DMG with each attack. Anastasya also <tooltip ns=tooltips_gen baseKey18=11490002 values=[]><strong>Seals</strong></tooltip> herself when she switches off-field during this time. When her <strong>Sealed</strong> state ends, she can use the special unsealing Elemental Skill <tooltip ns=tooltips_gen baseKey18=11490003 values=[]><strong>Palestar Edict: Triumph</strong></tooltip>.",
       "5": "<br/>",
       "6": "<strong>The Evernight Yields to Dawn</strong>",
-      "7": "Can be used while Anastasya holds the Blessing of <strong>Honor</strong>. Unleashes the power of the <strong>Blessed Spear</strong>, dealing <cryo>AoE Cryo DMG</cryo> considered Stellar-Conduct reaction DMG, and <tooltip ns=tooltips_gen baseKey18=11490005 values=[]><strong>freezes</strong></tooltip> the Blessing's duration.",
+      "7": "Can be used while Anastasya holds the Blessing of <strong>Honor</strong>. Unleashes the power of the <strong>Blessed Spear</strong>, dealing <cryo>AoE Cryo DMG</cryo> considered Stellar-Conduct reaction DMG, and pauses the Blessing's duration timer.",
       "8": "Anastasya also <tooltip ns=tooltips_gen baseKey18=11490002 values=[]><strong>Seals</strong></tooltip> up to 3 other party members. When the <strong>Sealed</strong> state ends, Anastasya can use the special unsealing Elemental Skill <tooltip ns=tooltips_gen baseKey18=11490004 values=[]><strong>Palestar Edict: Doom</strong></tooltip>.",
       "9": "<br/>",
       "10": "<strong>Radiance: Stellar Glimmer</strong>: All Stellar-Conduct reaction DMG described above is instead dealt as <cryo>AoE Cryo DMG</cryo> that is considered DMG from the corresponding Stellar Glimmer reaction."
     },
     "skillParams": {
-      "0": "To the New World Instantaneous DMG",
+      "0": "To the New World Skill DMG",
       "1": "To the New World Stellar Glimmer Reaction DMG Increase",
       "2": "Palestar Crown Stellar-Conduct/Stellar Swirl DMG",
       "3": "Triumph Stellar-Conduct/Stellar Swirl DMG",
@@ -198,7 +198,7 @@
       "0": "While Anastasya is in the party, Stellar Glimmer reactions triggered by any party member gain the following effects:",
       "1": [
         "<strong>Stellar-Conduct</strong>: The Polestar Field will be further enhanced each time it grants a buff, and creating a Starlight Prism will cause the Field to generate a buff instantly;",
-        "<strong>Stellar Swirl</strong>: Stellar Swirl's base reaction multiplier is increased by 15%. Newly created Stellar Vortices and Drifting Vortices are also immediately raised to Level 2. This level increase can trigger once every 1s."
+        "<strong>Stellar Swirl</strong>: Stellar Swirl's base reaction multiplier is increased by 10%. Newly created Stellar Vortices and Drifting Vortices are also immediately raised to Level 2. This level increase can trigger once every 1s."
       ]
     }
   },
@@ -229,7 +229,7 @@
     "description": {
       "0": "After Anastasya uses her Elemental Skill, <strong>Polestar's Divine Judgment</strong>, the following effects apply based on her current Blessing:",
       "1": [
-        " <strong>Love</strong>: The CRIT DMG of Stellar Glimmer Reaction DMG dealt by all party members is increased by 60% for 30s;",
+        " <strong>Love</strong>: The CRIT DMG of Stellar Glimmer Reaction DMG dealt by all nearby party members is increased by 50% for 30s;",
         " <strong>Honor</strong>: Anastasya's Normal Attacks, Elemental Burst <strong>The Evernight Yields to Dawn</strong>, and special Unsealing Elemental Skill <tooltip ns=tooltips_gen baseKey18=11490004 values=[]><strong>Palestar Edict: Doom</strong></tooltip> deal 125% of their original DMG for 15s."
       ],
       "2": "<br/>",
@@ -261,11 +261,11 @@
     "description": {
       "0": "After Anastasya uses her Elemental Skill, <strong>Polestar's Divine Judgment</strong>, the following effects apply based on her current Blessing:",
       "1": [
-        " <strong>Love</strong>: The next time another character is switched onto the field, an effect equivalent to <tooltip ns=tooltips_gen baseKey18=11490003 values=[]><strong>Palestar Edict: Triumph</strong></tooltip> is triggered, dealing 250% of its original DMG. Additionally, Stellar Glimmer Reaction DMG dealt by all nearby party members is <tooltip ns=tooltips_gen baseKey18=11190007 values=[]><strong>Elevated</strong></tooltip> by 10%;",
-        " <strong>Honor</strong>: The next time the Elemental Skill is tapped, an effect equivalent to the third attack of <tooltip ns=tooltips_gen baseKey18=11490004 values=[]><strong>Palestar Edict: Doom</strong></tooltip> is triggered, dealing 200% of its original DMG. If the other party members are not <tooltip ns=tooltips_gen baseKey18=11490002 values=[]><strong>Sealed</strong></tooltip>, Anastasya is considered to possess the <tooltip ns=char_Anastasya_gen baseKey18=passive1><strong>Accolades</strong></tooltip> of all party members for this attack. Additionally, Stellar Glimmer Reaction DMG dealt by Anastasya is <tooltip ns=tooltips_gen baseKey18=11190007 values=[]><strong>Elevated</strong></tooltip> by 20%."
+        " <strong>Love</strong>: The next time another character is switched onto the field, an effect equivalent to <tooltip ns=tooltips_gen baseKey18=11490003 values=[]><strong>Palestar Edict: Triumph</strong></tooltip> is triggered, dealing 200% of its original DMG. Additionally, Stellar Glimmer Reaction DMG dealt by all nearby party members is <tooltip ns=tooltips_gen baseKey18=11190007 values=[]><strong>Elevated</strong></tooltip> by 10%;",
+        " <strong>Honor</strong>: The next time the Elemental Skill is tapped, an effect equivalent to the third attack of <tooltip ns=tooltips_gen baseKey18=11490004 values=[]><strong>Palestar Edict: Doom</strong></tooltip> is triggered, dealing 250% of its original DMG. If the other party members are not <tooltip ns=tooltips_gen baseKey18=11490002 values=[]><strong>Sealed</strong></tooltip>, Anastasya is considered to possess the <tooltip ns=char_Anastasya_gen baseKey18=passive1><strong>Accolades</strong></tooltip> of all party members for this attack. This effect is removed when other party members' <tooltip ns=tooltips_gen baseKey18=11490002 values=[]><strong>Sealed</strong></tooltip> status ends. Additionally, Stellar Glimmer Reaction DMG dealt by Anastasya is <tooltip ns=tooltips_gen baseKey18=11190007 values=[]><strong>Elevated</strong></tooltip> by 20%."
       ],
       "2": "<br/>",
-      "3": "The above effects last for 30s and can be triggered once every 15s. They are removed when other party members' <tooltip ns=tooltips_gen baseKey18=11490002 values=[]><strong>Sealed</strong></tooltip> status ends."
+      "3": "The above effects last for 30s and can be triggered once every 15s."
     }
   }
 }

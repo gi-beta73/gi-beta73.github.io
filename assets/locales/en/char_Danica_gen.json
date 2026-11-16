@@ -1,10 +1,10 @@
 {
   "name": "Danica",
-  "title": "",
+  "title": "Winter Palace's Attendant Shadow",
   "description": "",
   "constellationName": "",
   "auto": {
-    "name": "Danica Normal Attack",
+    "name": "Canon of Cleanliness",
     "fields": {
       "normal": {
         "0": "<strong>Normal Attack</strong>",
@@ -66,37 +66,38 @@
     }
   },
   "skill": {
-    "name": "Danica Elemental Skill",
+    "name": "Scouring Anchor",
     "description": {
-      "0": "Swings her chain and anchor, dealing <electro>AoE Electro DMG</electro> to nearby opponents and summoning an <strong>Anchor</strong> that follows the current on-field character's movements.",
-      "1": "<br/>",
-      "2": "While the <strong>Anchor</strong> is present, it will assist in combat in different ways depending on whether Danica is on the field.",
-      "3": "<strong>When Danica is Off-Field</strong>",
-      "4": "When the current on-field character in the party hits opponents with <electro>Electro</electro> or <cryo>Cryo</cryo> attacks, the <strong>Anchor</strong> will launch a Coordinated Attack, dealing <electro>AoE Electro DMG</electro> at the opponents' location. This effect can trigger at most once every 1.5s.",
-      "5": "<strong>When Danica is On-Field</strong>",
-      "6": "Danica's Normal Attacks will be converted into Special Attacks using the anchor, dealing <electro>Electro DMG</electro> that cannot be overridden by infusion. This DMG is considered Normal Attack DMG.",
+      "0": "Swings her chain and anchor to deal <electro>AoE Electro DMG</electro> to nearby opponents and summon a <strong>Storm Anchor</strong>, an indispensable tool for any maid.",
+      "1": "The <strong>Storm Anchor</strong> follows your own active character and assists in combat in different ways depending on whether or not Danica is on the field. If Danica is:",
+      "2": [
+        "<strong>Off field</strong>: The <strong>Storm Anchor</strong> performs a coordinated attack that deals <electro>AoE Electro DMG</electro> when your active character's <electro>Electro</electro> or <cryo>Cryo</cryo> attacks hit an opponent. This effect can be triggered once every 1.5s;",
+        "<strong>On field</strong>: Danica uses the <strong>Storm Anchor</strong> for her Normal Attacks, dealing <electro>Electro DMG</electro> that cannot be overridden by any other elemental infusion. She cannot perform Charged or Plunging Attacks."
+      ],
+      "3": "<br/>",
+      "4": "Additionally, Danica can accumulate the special resource <tooltip ns=tooltips_gen baseKey18=11470001 values=[\"50\",\"25\",\"100\"]><strong>Will to Cleanse</strong></tooltip> while the <strong>Storm Anchor</strong> is present. She gains this resource when another active character in your party hits an opponent with an <electro>Electro</electro> or <cryo>Cryo</cryo> attack, or when her own Normal Attacks using the <strong>Storm Anchor</strong> hit an opponent.",
+      "5": "Once <strong>Will to Cleanse</strong> reaches its maximum, Danica can consume all her <strong>Will to Cleanse</strong> to use a special Elemental Skill based on whether or not she is on the field. If Danica is:",
+      "6": [
+        "<strong>Off field</strong>: Switching to Danica unleashes the special Elemental Skill <tooltip ns=tooltips_gen baseKey18=11470002 values=[]><strong>Will to Protect</strong></tooltip>, creating a Royal Aegis and causing her to enter <tooltip ns=tooltips_gen baseKey18=11470004 values=[]><strong>Maid: Royal Guard</strong></tooltip> form;",
+        "<strong>On field</strong>: Danica can use the special Elemental Skill <tooltip ns=tooltips_gen baseKey18=11470003 values=[]><strong>Will to Purge</strong></tooltip> and enter <tooltip ns=tooltips_gen baseKey18=11470004 values=[]><strong>Maid: Cleaner</strong></tooltip> form."
+      ],
       "7": "<br/>",
-      "8": "<strong>Excitement</strong>",
-      "9": "While the Anchor is present, Danica can accumulate <tooltip ns=tooltips_gen baseKey18=11470001 values=[\"50\",\"25\",\"100\"]><strong>Excitement</strong></tooltip> by performing anchor Special Normal Attacks or by having the current on-field character in the party hit opponents with <cryo>Cryo</cryo> or <electro>Electro</electro> attacks. When Excitement reaches its maximum, depending on whether Danica is on-field, all Excitement can be consumed to unleash different special Elemental Skills and enter the corresponding Maid Form:",
-      "10": "<strong>Defense Maid</strong>",
-      "11": "When Danica is off-field, switch to bring Danica on-field, automatically triggering <tooltip ns=tooltips_gen baseKey18=11470002 values=[]><strong>\"Entry Skill E2\"</strong></tooltip>, and entering <strong>Defense Maid</strong>. Generates a Shield for the on-field character and refreshes the Anchor's Duration. During this time, <strong>\"On-Field Skill E2\"</strong> cannot be triggered.",
-      "12": "<strong>Battle Maid</strong>",
-      "13": "When Danica is on-field, the Elemental Skill will be replaced by <tooltip ns=tooltips_gen baseKey18=11470003 values=[\"5\"]><strong>\"On-Field Skill E2\"</strong></tooltip>. After using it, Danica enters <strong>Battle Maid</strong>. While in this state, after using \"On-Field Skill E2\", the anchor Special Normal Attacks can skip certain Normal Attack combo hits. During this time, <strong>\"Entry Skill E2\"</strong> cannot be triggered.",
-      "14": "<br/>",
-      "15": "Additionally, when the Anchor disappears, Danica will exit the Maid Form. While the Anchor is present, Battle Maid and Defense Maid cannot coexist — upon entering one Maid Form, the other cannot be entered."
+      "8": "Casting <strong>Scouring Anchor</strong> again while a <strong>Storm Anchor</strong> is present will not remove the existing <strong>Storm Anchor</strong>.",
+      "9": "<br/>",
+      "10": "<i>Different jobs call for different approaches. No one understands this better than the head maid, a master of efficiency.</i>"
     },
     "skillParams": {
       "0": "Skill DMG",
-      "1": "Entry Skill E2 Stellar-Conduct DMG",
-      "2": "On-Field E2 Stellar-Conduct DMG",
-      "3": "Anchor Coordinated Attack DMG",
+      "1": "Will to Protect DMG",
+      "2": "Will to Purge DMG",
+      "3": "Storm Anchor Coordinated Attack DMG",
       "4": "Shield DMG Absorption",
-      "5": "Anchor Normal Attack 1-Hit Electro DMG",
-      "6": "Anchor Normal Attack 2-Hit Electro DMG",
-      "7": "Anchor Normal Attack 3-Hit Electro DMG",
-      "8": "Anchor Normal Attack 4-Hit Electro DMG",
-      "9": "Anchor Duration",
-      "10": "Entry Skill E2 CD",
+      "5": "Storm Anchor Normal Attack 1-Hit Electro DMG",
+      "6": "Storm Anchor Normal Attack 2-Hit Electro DMG",
+      "7": "Storm Anchor Normal Attack 3-Hit Electro DMG",
+      "8": "Storm Anchor Normal Attack 4-Hit Electro DMG",
+      "9": "Storm Anchor Duration",
+      "10": "Will to Protect CD",
       "11": "Skill CD",
       "12": "",
       "13": "",
@@ -131,19 +132,20 @@
     }
   },
   "burst": {
-    "name": "Danica's Elemental Burst",
+    "name": "Rite to Cleanse the World",
     "description": {
-      "0": "Commanding the battlefield with the poise of the Tsaritsa's handmaiden, launches a 5-hit wide-range attack, dealing <electro>AoE Electro DMG</electro>.",
+      "0": "Takes command of the battlefield as befits the Tsaritsa's trusted retainer, unleashing 5 consecutive attacks that each deal <electro>AoE Electro DMG</electro>.",
       "1": "<br/>",
       "2": "<strong>Radiance: Stellar-Conduct</strong>:",
       "3": [
-        "The 1st and 5th hits additionally deal <electro>AoE Electro DMG</electro> that is considered Stellar-Conduct reaction DMG.",
-        "For a period of time after use, if Danica is in Maid Mode, the current Maid Mode will be Enhanced, granting the corresponding Enhancement effect based on the current mode:"
+        "The first and fifth attacks deal additional <electro>AoE Electro DMG</electro> that is considered Stellar-Conduct reaction DMG;",
+        "For 20s after using her Elemental Burst, Danica also gains additional enhancements while in an <tooltip ns=tooltips_gen baseKey18=11470004 values=[]><strong>Attendant Form</strong></tooltip>, depending on the form she is in. If Danica is in:"
       ],
-      "4": "When Danica is in <tooltip ns=tooltips_gen baseKey18=11470004 values=[]><strong>Defense Maid</strong></tooltip> mode, increases ATK for all Characters in the party.",
-      "5": "When Danica is in <tooltip ns=tooltips_gen baseKey18=11470005 values=[]><strong>Battle Maid</strong></tooltip> mode, immediately restores all Excited energy and increases the DMG dealt by Danica's <strong>\"On-Field Skill E2\"</strong>.",
-      "6": "<br/>",
-      "7": "When Maid Mode ends, the Enhancement effect will be removed."
+      "4": "<strong>Maid: Royal Guard</strong> form: Increases the ATK of all party members;",
+      "5": "<strong>Maid: Cleaner</strong> form: Fills Danica's <tooltip ns=tooltips_gen baseKey18=11470001 values=[\"50\",\"25\",\"100\"]><strong>Will to Cleanse</strong></tooltip> to its maximum and increases the DMG dealt by the special Elemental Skill <tooltip ns=tooltips_gen baseKey18=11470003 values=[]><strong>Will to Purge</strong></tooltip>.",
+      "6": "The corresponding enhancements are removed when Danica leaves her <strong>Attendant Form</strong>.",
+      "7": "<br/>",
+      "8": "<i>Perhaps the oath has never passed her lips, but she knows she will do everything in her power to protect her master, stopping at nothing to sweep all obstacles from her master's path.</i>"
     },
     "skillParams": {
       "0": "1-Hit Electro DMG/Stellar-Conduct DMG",
@@ -151,7 +153,7 @@
       "2": "5-Hit Electro DMG/Stellar-Conduct DMG",
       "3": "ATK Bonus Ratio",
       "4": "Max ATK Bonus",
-      "5": "On-Field E2 DMG Increase",
+      "5": "Will to Purge DMG Increase",
       "6": "Buff Duration",
       "7": "CD",
       "8": "Energy Cost",
@@ -191,78 +193,82 @@
     }
   },
   "passive1": {
-    "name": "Ascension Talent 1",
+    "name": "Hymn of Ancient Waves",
     "description": {
-      "0": "<strong>Anchor</strong> decreases the <electro>Electro RES</electro> of nearby enemies by 15%.",
-      "1": "<br/>",
-      "2": "<strong>Radiance: Stellar-Conduct</strong>: Further decreases the <electro>Electro RES</electro> of nearby enemies by 15% and their <cryo>Cryo RES</cryo> by 30%."
+      "0": "The <strong>Storm Anchor</strong> also reduces nearby opponents' <electro>Electro RES</electro> by 15%.",
+      "1": "<strong>Radiance: Stellar-Conduct</strong>: Opponents near the <strong>Storm Anchor</strong> have their <electro>Electro RES</electro> reduced by an additional 15% and their <cryo>Cryo RES</cryo> reduced by 30%."
     }
   },
   "passive2": {
-    "name": "Ascension Talent 2",
+    "name": "Time to Clean House",
     "description": {
-      "0": "After casting <strong>「Entry Skill E2」</strong>, Danica's own ATK increases by 20%.",
-      "1": "After casting <strong>「On-Field Skill E2」</strong>, Danica's own ATK SPD increases by 20%, and when the Special Anchor's Normal Attack hits an enemy, she additionally gains 25 <strong>Excited</strong> points. The above effects can stack up to 3 times.",
-      "2": "The above effects last until exiting the current Defense Maid or Battle Maid state. Re-triggering will refresh the Duration."
+      "0": "After using <tooltip ns=tooltips_gen baseKey18=11470003 values=[]><strong>Will to Purge</strong></tooltip>, Danica gains 20% ATK SPD, and her Normal Attacks using the <strong>Storm Anchor</strong> grant her an additional 25 <tooltip ns=tooltips_gen baseKey18=11470001 values=[\"50\",\"25\",\"100\"]><strong>Will to Cleanse</strong></tooltip> when they hit an opponent. The above effects can stack up to 3 times.",
+      "1": "Danica gains 20% ATK after using <tooltip ns=tooltips_gen baseKey18=11470002 values=[]><strong>Will to Protect</strong></tooltip>.",
+      "2": "Each of these effects lasts until its corresponding <tooltip ns=tooltips_gen baseKey18=11470004 values=[]><strong>Attendant Form</strong></tooltip> ends."
     }
   },
   "passive3": {
-    "name": "Stellar Talent",
+    "name": "Stellar Jubilee: Nothing Overlooked",
     "description": {
-      "0": "When party members trigger Superconduct, it will be changed to Stellar-Conduct, and party members' Base Stellar-Conduct DMG will be increased based on Danica's ATK: Every point of ATK she has increases the Base Stellar-Conduct DMG by 0.7%. The maximum increase that can be gained this way is 14%.",
+      "0": "When party members trigger Superconduct, it will be changed to Stellar-Conduct, and party members' Base Stellar-Conduct DMG will be increased based on Danica's ATK: Every 100 ATK she has increases the Base Stellar-Conduct DMG by 0.7%. The maximum increase that can be gained this way is 14%.",
       "1": "Additionally, when Danica is within a <tooltip ns=tooltips_gen baseKey18=11330003 values=[]><strong>Polestar Field</strong></tooltip>, she will enter the <strong>Radiance: Stellar-Conduct</strong> state."
     }
   },
   "passive": {
-    "name": "Life Talent",
+    "name": "Unbothered by Frost and Snow",
     "description": {
-      "0": "When your own Characters in the party are under the effect of Sheer Cold, Movement SPD increases by 10% and Stamina consumption decreases by 10%."
+      "0": "Increases your own party members' Movement SPD by 10% and reduces their Stamina consumption by 10% in extremely cold environments."
     }
   },
   "constellation1": {
-    "name": "C1",
+    "name": "Service in the Frozen Palace",
     "description": {
-      "0": "When Danica uses <strong>\"Entry Skill E2\"</strong> or <strong>\"On-Field Skill E2\"</strong>, she restores 20 Elemental Energy for herself. This effect can trigger at most once every 14 seconds.",
-      "1": "Additionally, the <strong>Defense Maid</strong> enhancement effect in <strong>Elemental Burst</strong> is increased by 80%, and the <strong>Battle Maid</strong> enhancement effect is increased by 120%."
+      "0": "Danica regenerates 20 Elemental Energy when she uses the special Elemental Skill <tooltip ns=tooltips_gen baseKey18=11470003 values=[]><strong>Will to Purge</strong></tooltip> or <tooltip ns=tooltips_gen baseKey18=11470002 values=[]><strong>Will to Protect</strong></tooltip>. This effect can be triggered once every 14s.",
+      "1": "Additionally, using the Elemental Burst <tooltip ns=char_Danica_gen baseKey18=burst><strong>Rite to Cleanse the World</strong></tooltip> increases the enhancements for <tooltip ns=tooltips_gen baseKey18=11470004 values=[]><strong>Maid: Cleaner</strong></tooltip> form by 120% and the enhancements for <tooltip ns=tooltips_gen baseKey18=11470004 values=[]><strong>Maid: Royal Guard</strong></tooltip> form by 80%."
     }
   },
   "constellation2": {
-    "name": "C2",
+    "name": "Stillness Amid Searing Sands",
     "description": {
-      "0": "While the Anchor is present, Danica grants 7 stacks of \"Toast\" to all nearby Characters. When all nearby Characters have consumed a total of 6 stacks of \"Toast\", the active Character on the field additionally gains 1 stack of \"Toast\".",
-      "1": "\"Toast\": When a party Character triggers a Stellar-Conduct reaction, 1 stack of \"Toast\" will be consumed, increasing the DMG dealt. This increase is equivalent to 100% of Danica's ATK.",
-      "2": "Additionally, when Danica triggers a Stellar-Conduct reaction while in Battle Maid Mode, all current stacks of \"Toast\" she possesses will be consumed. Each stack increases the DMG dealt, with each increase equivalent to 150% of Danica's ATK.",
-      "3": "Resummoning the Anchor or refreshing its Duration will reset the stacks of \"Toast\"."
+      "0": "Every time Danica enters combat, she can immediately use the special Elemental Skill <tooltip ns=tooltips_gen baseKey18=11470002 values=[]><strong>Will to Protect</strong></tooltip>.",
+      "1": "For 6s after using this special Elemental Skill in this way, Danica gains <strong>Cleaning Decree</strong>: during this time, Danica can hold Normal Attack to use the special Elemental Skill <tooltip ns=tooltips_gen baseKey18=11470003 values=[]><strong>Will to Purge</strong></tooltip>, dealing 150% of its original DMG and switching to <tooltip ns=tooltips_gen baseKey18=11470004 values=[]><strong>Maid: Cleaner</strong></tooltip> form. <strong>Cleaning Decree</strong> is removed when Danica leaves the field.",
+      "2": "The above effects can be triggered at most once per combat.",
+      "3": "<br/>",
+      "4": "When summoning the <strong>Storm Anchor</strong>, Danica also grants 10 stacks of <strong>Let Us Toast</strong> to all nearby party members.",
+      "5": "Characters with this effect consume 1 stack of <strong>Let Us Toast</strong> when dealing Stellar-Conduct reaction DMG, increasing that DMG by an amount equal to 80% of Danica's ATK.",
+      "6": "Additionally, when Danica deals Stellar-Conduct reaction DMG in <tooltip ns=tooltips_gen baseKey18=11470004 values=[]><strong>Maid: Cleaner</strong></tooltip> form, she can consume up to 2 stacks of <strong>Let Us Toast</strong>, increasing that DMG by an amount equal to 350% of her ATK.",
+      "7": "Resetting the <strong>Storm Anchor</strong>'s duration or using the special Elemental Skill <strong>Will to Purge</strong> by holding Normal Attack resets the number of <strong>Let Us Toast</strong> stacks held by all nearby party members."
     }
   },
   "constellation3": {
-    "name": "C3",
+    "name": "Shadow in a Forest of Blades",
     "description": {
-      "0": "Increases the Level of <strong><tooltip ns=char_Danica_gen baseKey18=burst>Elemental Burst</tooltip></strong> by 3.",
+      "0": "Increases the Level of <tooltip ns=char_Danica_gen baseKey18=burst><strong>Rite to Cleanse the World</strong></tooltip> by 3.",
       "1": "Maximum upgrade level is 15."
     }
   },
   "constellation4": {
-    "name": "C4",
+    "name": "Shield in the Bitter Cold",
     "description": {
-      "0": "When the active on-field Character under the protection of Danica's Shield deals Stellar-Conduct DMG to opponents, regenerates 3 Elemental Energy for the other nearby party members. This effect can trigger at most once every 3.5s.",
-      "1": "Additionally, when Danica enters the Battle Maid state, a Shield will also be generated. If Danica leaves the field while the Shield is active, it will be destroyed."
+      "0": "Other nearby party members regenerate 3 Elemental Energy when the active character protected by Royal Aegis deals Stellar-Conduct reaction DMG to an opponent. This effect can be triggered once every 3.5s.",
+      "1": "Danica also creates a Royal Aegis when she enters <tooltip ns=tooltips_gen baseKey18=11470004 values=[]><strong>Maid: Cleaner</strong></tooltip> form. This shield lasts until she leaves this form or leaves the field."
     }
   },
   "constellation5": {
-    "name": "C5",
+    "name": "Mediation Amid Discord",
     "description": {
-      "0": "Increases the Level of <strong><tooltip ns=char_Danica_gen baseKey18=skill>Elemental Skill</tooltip></strong> by 3.",
+      "0": "Increases the Level of <tooltip ns=char_Danica_gen baseKey18=skill><strong>Scouring Anchor</strong></tooltip> by 3.",
       "1": "Maximum upgrade level is 15."
     }
   },
   "constellation6": {
-    "name": "C6",
+    "name": "The Star That Wakes Ere Dawn Breaks",
     "description": {
-      "0": "While the test anchor is present, the Stellar-Conduct DMG dealt by nearby characters in the party is increased by 20%.",
-      "1": "Additionally, when Danica enters the <tooltip ns=tooltips_gen baseKey18=11470004 values=[]><strong>Defense Maid</strong></tooltip> state, every 1,000 ATK Danica has increases the Stellar-Conduct DMG dealt by the on-field character by 10%, up to a maximum of 40%.",
-      "2": "When entering the <tooltip ns=tooltips_gen baseKey18=11470005 values=[]><strong>Battle Maid</strong></tooltip> state, every 500 ATK Danica has increases her own on-field Skill E2's CRIT Rate by 2.5% and the CRIT DMG dealt by 25%. CRIT Rate can be increased by up to 10% and CRIT DMG by up to 100%.",
-      "3": "The above effects last until exiting the current Maid state."
+      "0": "Nearby party members' Stellar-Conduct reaction DMG is <tooltip ns=tooltips_gen baseKey18=11190007 values=[]><strong>elevated</strong></tooltip> by 15% while the <strong>Storm Anchor</strong> is present.",
+      "1": "Additionally, Danica's <tooltip ns=tooltips_gen baseKey18=11470004 values=[]><strong>Attendant Forms</strong></tooltip> gain the following enhancements:",
+      "2": "<strong>Maid: Royal Guard</strong> form: Increases the Stellar-Conduct reaction DMG dealt by your active character by 10% for every 1000 ATK Danica has, up to a maximum increase of 40%;",
+      "3": "<strong>Maid: Cleaner</strong> form: Danica's special Elemental Skill <tooltip ns=tooltips_gen baseKey18=11470003 values=[]><strong>Will to Purge</strong></tooltip> gains 2.5% CRIT Rate and 25% CRIT DMG for every 500 ATK she has. These bonuses are capped at 10% CRIT Rate and 100% CRIT DMG.",
+      "4": "These form-specific enhancements last until Danica leaves the corresponding <strong>Attendant Form</strong>."
     }
   }
 }

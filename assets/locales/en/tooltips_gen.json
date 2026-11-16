@@ -604,45 +604,42 @@
     }
   },
   "11470001": {
-    "name": "test Excited",
+    "name": "Will to Cleanse",
     "description": {
-      "0": "testWhile the anchor is present, Danica accumulates <strong>Excitement</strong>. Excitement can be gained in the following ways:",
+      "0": "While the Storm Anchor is present, Danica accumulates Will to Cleanse in the following ways:",
       "1": [
-        "When Danica is off-field, when the active Character on the team hits an enemy with <electro>Electro</electro> or <cryo>Cryo</cryo> attacks, 50 points are gained, triggered at most once every 0.1 seconds;",
-        "When Danica is on-field, when the Special Anchor's Normal Attacks hit enemies, 25 points are gained, with Excitement gained this way at most once per Normal Attack hit."
+        "While off the field, Danica gains 50 Will to Cleanse when your active character's Electro or Cryo attacks hit an opponent. This effect can be triggered once every 0.1s;",
+        "While on the field, Danica gains 25 Will to Cleanse when her Normal Attacks using the Storm Anchor hit an opponent. Each attack in her Normal Attack sequence can grant Will to Cleanse this way only once."
       ],
       "2": "<br/>",
-      "3": "Additionally, when Danica is in the <strong>Defense Maid</strong> state, Danica can only gain Excitement when the active Character on the team hits enemies with <electro>Electro</electro> or <cryo>Cryo</cryo> attacks; when in the <strong>Combat Maid</strong> state, Danica can only gain Excitement by landing hits with <strong>Special Anchor Normal Attacks</strong>.",
+      "3": "Additionally, in Maid: Royal Guard form, Danica can only gain Will to Cleanse when your active character's Electro or Cryo attacks hit an opponent; in Maid: Cleaner form, she can only gain Will to Cleanse by hitting opponents with Normal Attacks using the Storm Anchor.",
       "4": "<br/>",
-      "5": "When Excitement reaches the maximum of 100 points, Danica can consume all Excitement to unleash the special Elemental Skill <strong>\"Entry Skill E2\"</strong> or <strong>\"On-Field Skill E2\"</strong>, and enter the corresponding <strong>Maid Form</strong> based on how it is used."
+      "5": "Danica can consume all her Will to Cleanse once it reaches the maximum of 100 to use a special Elemental Skill and enter the corresponding Attendant Form. The Skill and form depend on whether or not she is on the field."
     }
   },
   "11470002": {
-    "name": "test\"Entry Skill E2\"",
+    "name": "Will to Protect",
     "description": {
-      "0": "testDanica swings her anchor chain to rapidly close in on enemies, then slams the anchor into the ground, dealing <electro>Electro DMG</electro> in an AoE, considered as Stellar-Conduct reaction DMG.",
-      "1": "<br/>",
-      "2": "After using this ability, Danica enters the <strong>Guardian Maid</strong> state, gaining the following effects:",
-      "3": [
-        "Refreshes the anchor's Duration;",
-        "Generates a Shield for the current active Character in the party. The Shield lasts until the Guardian Maid state ends, and its DMG Absorption scales with Danica's ATK, with 250% effectiveness against <electro>Electro DMG</electro>."
-      ]
+      "0": "A special Elemental Skill used when Danica is switched in from off-field with maximum Will to Cleanse.",
+      "1": "Deals AoE Electro DMG that is considered Stellar-Conduct reaction DMG, resets the duration of the Storm Anchor, and creates a Royal Aegis. The shield's DMG Absorption scales with Danica's ATK and has 250% effectiveness against Electro DMG. It lasts until Danica leaves Maid: Royal Guard form."
     }
   },
   "11470003": {
-    "name": "test\"On-Field Skill E2\"",
+    "name": "Will to Purge",
     "description": {
-      "0": "testSwings the anchor chain to rapidly close in on enemies, then slams the ship anchor into the ground, dealing a large amount of <electro>AoE Electro DMG</electro> that is considered Stellar-Conduct reaction DMG.",
-      "1": "<br/>",
-      "2": "After using this skill, Danica enters <strong>Battle Maid</strong> and gains the following effects: Each time \"On-Field Skill E2\" is used, the next round's <strong>Special Anchor Normal Attack</strong> will skip one Normal Attack stage, up to a maximum of skipping to the last Normal Attack stage.",
-      "3": "<br/>",
-      "4": "After using <strong>\"On-Field Skill E2\"</strong> 5 times, Danica will exit <strong>Battle Maid</strong> and destroy the ship anchor."
+      "0": "A special Elemental Skill Danica can use while on the field with maximum Will to Cleanse.",
+      "1": "Deals AoE Electro DMG that is considered Stellar-Conduct reaction DMG."
     }
   },
   "11470004": {
-    "name": "testDefense Maid",
+    "name": "Attendant Form",
     "description": {
-      "0": "testThe state Danica enters after using her special Elemental Skill <strong>\"Entry Skill E2\"</strong>. While in this state, she provides a Shield to the active Character on the field and refreshes the Duration of <strong>Ship Anchor</strong>."
+      "0": "Danica enters the corresponding special form after using a special Elemental Skill at maximum Will to Cleanse.",
+      "1": "Danica enters Maid: Royal Guard form after using the special Elemental Skill Will to Protect when switched in.",
+      "2": "Danica enters Maid: Cleaner form after using the special Elemental Skill Will to Purge while on the field.",
+      "3": "<br/>",
+      "4": "Maid: Royal Guard: Resets the duration of the Storm Anchor upon entering this form.",
+      "5": "Maid: Cleaner: Each use of the special Elemental Skill Will to Purge while in this form causes Danica's Normal Attack sequence using the Storm Anchor to skip 1 attack in the sequence, up to the first 3 attacks in the sequence. After 5 uses of the special Elemental Skill Will to Purge, the Storm Anchor is destroyed, causing Danica to leave this form."
     }
   },
   "11470005": {
@@ -652,7 +649,7 @@
     }
   },
   "11490001": {
-    "name": "Transcendence and Blessings",
+    "name": "Blessings",
     "description": {
       "0": "When Anastasya uses her Elemental Skill <strong>Polestar's Divine Judgment</strong>, she unleashes her power in different ways and gains a different Blessing depending on whether the skill is tapped or held.",
       "1": [
@@ -692,7 +689,7 @@
       "2": [
         "Stage 1: Performs a series of slashes with the <strong>Blessed Spear: Dolgomernoye</strong>, dealing multiple instances of <cryo>AoE Cryo DMG</cryo> that cannot be overridden by other Elemental Infusions and are considered Elemental Skill DMG, followed by a final instance of <cryo>AoE Cryo DMG</cryo> that is considered Stellar-Conduct reaction DMG;",
         "Stage 2: Leaps forward and performs a slash, dealing <cryo>AoE Cryo DMG</cryo> that is considered Stellar-Conduct reaction DMG;",
-        "Stage 3: Fires the <strong>Blessed Spear</strong> as an arrow, dealing greater <cryo>AoE Cryo DMG</cryo> considered Stellar-Conduct reaction DMG and ending the Blessed target's freeze effect."
+        "Stage 3: Fires the <strong>Blessed Spear</strong> as an arrow, dealing greater <cryo>AoE Cryo DMG</cryo> considered Stellar-Conduct reaction DMG and ending the duration pause on Blessings."
       ],
       "3": "<br/>",
       "4": "<strong>Radiance: Stellar Glimmer</strong>: The Stellar-Conduct reaction DMG described above is instead dealt as <cryo>AoE Cryo DMG</cryo> considered DMG from the corresponding Stellar Glimmer reaction."
