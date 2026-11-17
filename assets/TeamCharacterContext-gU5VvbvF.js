@@ -1,0 +1,1 @@
+import{o as e}from"./rolldown-runtime-C0FnF6B9.js";import{Lr as t}from"./useTranslation-C0CXZ-Cu.js";var n=(0,e(t()).createContext)({teamChar:{},team:{},loadoutDatum:{}});export{n as t};
