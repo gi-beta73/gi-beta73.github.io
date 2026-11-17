@@ -1,0 +1,516 @@
+{
+  "boss": {
+    "1001061": "Tulpa Hidromimético - Vórtice turbulento",
+    "1001062": "Magmadragón Candente - Llamas férvidas",
+    "1001063": "Autómata Fuentenigma - Máquina de control con arsenal devastador",
+    "1002061": "Cepa Abismática - Transformación del vacío",
+    "1002062": "Tortuga ondulada aguerrida - Égida atronadora",
+    "1002063": "Ídolo Pipilpan aguerrido - Maestro del engaño",
+    "1003061": "Dragón Aciagoeterno - Configuración aniquiladora",
+    "1003062": "Cangrejo hogarpétreo aguerrido - Bombardeo en masa",
+    "1003063": "Comando filoígneo aguerrido - Arsenal letal",
+    "1004061": "Señor Nochescarcha - Odio resentido",
+    "1004062": "Lamparero aguerrido - Eco desconsolador",
+    "1004063": "Senescal Cryo aguerrida - Espada ensangrentada",
+    "1005061": "Bautista Sacrílego - Melodía frenética",
+    "1005062": "Iktomisaurio aguerrido - Hielo severo",
+    "1005063": "Generador de Campo Experimental - Energía potencial extrema",
+    "1006061": "Susurrador de Pesadillas de las Profundidades Insondables - Filo del devastador",
+    "1006063": "Emperador Piroacorazado - Conquista predestinada",
+    "1007061": "Mandrágora hexadecatónica aguerrida - Enredadera tempestuosa",
+    "1007062": "Puñopato - Arsenal pesado",
+    "1008061": "Selenogeco Radiante - Colmillos enredados",
+    "1009061": "Glaciolobo aguerrido - Ánima gélida",
+    "1009063": "“El que abrió los ojos” - Arrogancia desdeñosa",
+    "1010061": "Sombra de la Pionera Fuentenigma de Matrices de Observación Navegadora - Voluntad de enjambre",
+    "1010063": "Autómata Fuentenigma - Máquina configuracional - Cizalla separadora",
+    "1011061": "León Quimérico Alado - Fuerza devastadora",
+    "1011062": "Senescal Anemo aguerrida - Filo traicionero",
+    "1012061": "Escultor Domovói aguerrido - Viento tallador",
+    "1012063": "Espadachina Protectora Surcanieves - Reverberación infinita",
+    "1013061": "Anclamareas - Devoración tempestuosa"
+  },
+  "lore": {
+    "1001061": "Un monstruo con forma humana formado a partir de agua.\nInnumerables voluntades se han disuelto en el agua que, como el universo, estaba originalmente llena de almas ansiosas por nacer.\nInmersos bajo esa agua, y debido a la incipiente perturbación de una línea ley, el sufrimiento y el odio se han entrelazado y retorcido en lo que antes tenía forma humana. Así, esa trágica disolución pronto se repetirá...",
+    "1001062": "Un monstruo que produce calor de forma continua para mantenerse en movimiento.\nUn intento fallido de crear sabiduría a partir de energía pura que contiene cierto remanente de una gran raza pero que, a su vez, posee una consciencia equivalente a la de una piedra.\nAunque este ser no es muy distinto a un cadáver, el despiadado flujo de la perturbación de línea ley le ha transmitido el resentimiento de los difuntos, lo que ha infundido su instinto de combate con pensamientos viles y peligrosos.",
+    "1001063": "Una máquina de unas ruinas ancestrales diseñada para ejercer control.\nEn el pasado, una antigua y poderosa raza utilizó este tipo de máquinas para controlar el funcionamiento de la ciudad. Aunque su civilización cayó hace tiempo, estas máquinas aún conservan una gran autoridad.\nEn lo más profundo de esta alteración de línea ley, el módulo de energía central que se había deteriorado a lo largo de los años se ha restaurado, e incluso se ha “sobrecargado” hasta niveles peligrosos. Ahora, esta máquina ya no está sujeta a su diseño original, por lo que puede liberarse de las cadenas de este planeta y usar libremente su terrorífico arsenal devastador.",
+    "1002061": "Un monstruo del Abismo que crece como una planta parasitaria.\nAgente de la corrosión continua de este mundo, este distorsionador es capaz de extraer recuerdos de las capas más profundas de la tierra para luego reconstruirlos con gran intensidad gracias al poder del Abismo. Debido a la extrema perturbación de la línea ley, el odio propagado por las raíces de esta criatura se ha convertido en un despiadado filo que causa un sufrimiento inimaginable para quienes osan desafiarlo.",
+    "1002062": "Un reptil que normalmente es muy afable y se mueve con lentitud. Algunas personas lo consideran un símbolo de buena suerte y sabiduría. Sin embargo, cuando lo necesita, este ente tan particular ataca ferozmente a sus enemigos y usa su robusta coraza como martillo con el que los aplasta.\nDebido a la extrema perturbación de la línea ley, su aspecto se ha retorcido y ahora lucha con una insaciable sed de sangre que le ha convertido en un trueno capaz de atacar y de defenderse.",
+    "1002063": "Un Ídolo Pipilpan que hace el papel de Ténoch. Gracias a su excelente truco de magia con sombreros y sus tácticas bélicas, puede atacar desde múltiples ángulos y castigar a los impulsivos.\nDebido a la extrema perturbación de la línea ley, este actor paranoico ahora ataca rechazando y estrangulando. Si no tienes cuidado, acabarás reducido a polvo, igual que los oponentes del mismísimo Ténoch.",
+    "1003061": "Una máquina de guerra con aspecto de dragón tan aterradora como el soberano que en la antigüedad gobernó estas vastas tierras.\nLa existencia de este misterioso monstruo mecánico e incansable es prueba de que la legendaria nación que desapareció alcanzó hitos que los mortales nunca deberían haber logrado.\nLa larga exposición a una alteración de línea ley ha cambiado su estructura física y la ha hecho desarrollar una extraordinaria lógica de adaptación a tareas de exterminio, lo que la convierte en la pesadilla más letal que puede haber en el campo de batalla.",
+    "1003062": "Un cangrejo que vive dentro de una caracola. Es pariente lejano de los Cangrejos Acorazados de Fontaine. Aunque por lo general es bastante dócil y apenas tiene un instinto agresivo, no son raros los casos en los que un cangrejo hogarpétreo ha luchado hasta la muerte para proteger el territorio de los suyos. En esos momentos, su naturaleza dócil se transforma en el combustible que alimenta su furia.\nEn las ilusiones más retorcidas de las líneas ley, el cangrejo hogarpétreo luchador que no era rival para muchos enemigos ha pulido sus técnicas de ataque tras una búsqueda constante de un poder que le haga capaz de vencer a los rivales más poderosos. De hecho, ha obtenido grandes resultados en este aspecto...",
+    "1003063": "Un oficial de élite de los Opríchniks Fatui experto en utilizar su gran espada para combatir cuerpo a cuerpo contra sus enemigos.\nYa sea en la guerra contra la calamidad oscura o contra los ignorantes que osan interponerse en el camino de los ideales de la Zarina, los Comandos, que suelen cargar directamente desde la primera línea, son quienes más bajas causan. Este veterano aguerrido que ha sufrido sus derrotas se ha convertido en una temible parte de las líneas ley. Después de tanto tiempo expuesto a una corriente turbulenta y retorcida, su imagen residual apunta con su espada, la cual utilizó en el pasado para luchar hasta la muerte, a todo contendiente que venga a aplacar su agitación.",
+    "1004061": "Una majestuosa criatura que camina con orgullo a través de la noche escarchada, capaz de blandir un antiguo poder que el Señor del Cielo ya dominó hace tiempo. Sin embargo, bajo la indescriptible perturbación de esta línea ley, ha perdido toda majestuosidad que poseía y se ha convertido en un peligroso depredador que recibe a los intrusos con un gélido filo.",
+    "1004062": "Aunque la luz de la vida de los valientes guerreros que lucharon contra la calamidad oscura ya se ha desvanecido, su voluntad inquebrantable sigue en pie, y la persona que juró dar caza a la Cacería salvaje continúa con su incansable batalla incluso a día de hoy. Al estar bajo la influencia de la retorcida perturbación de esta alteración de línea ley, considera que cualquier intruso es tan peligroso como la Cacería salvaje, por lo que deben ser purgados aunque ello le cueste su propia muerte.",
+    "1004063": "Una agente especial de élite de los Fatui. Fue elegida desde pequeña, entrenada durante muchos años y repudiada en incontables ocasiones, hasta que se convirtió en una de los soldados más sobresalientes de todas las filas de los Fatui, con unas habilidades extraordinarias y una fidelidad férrea.\nLamentablemente, en esta alteración de línea ley tan peligrosa, el ansia de combate de esta Senescal ha devorado toda huella de razón que le quedaba, lo que la ha sumido en un bucle sangriento en el que solo desea descargar su furia sobre los intrusos.",
+    "1005061": "Una criatura del Abismo que, tras un proceso de “evolución”, ha desarrollado más extremidades de lo normal. Es capaz de utilizar varios tipos de poderes elementales.\nEn los retorcidos recuerdos de la línea ley, se ha convertido en una frenética destructora capaz de levantar una marea catastrófica con su poder blasfemo.",
+    "1005062": "Un saurio capaz de aprovechar su plumaje para realizar poderosos saltos. Los Iktomisaurios también son la única especie de saurio que ha aprendido a entrar en un estado de espiritismo.\nHa contemplado cómo los retorcidos recuerdos de esta línea devoraron todo el sufrimiento y toda la tristeza, y los convirtieron en una gélida ventisca que trae consigo un caos infinito.",
+    "1005063": "Una creación del Instituto de Investigación Científica e Ingeniería de Energía Cinética de Fontaine que posee unos efectos capaces de contrarrestar la fuerza de la gravedad. Cierto accidente ha hecho que pierda por completo el control.\nBajo los efectos de la perturbación de la línea ley, su núcleo se ha vuelto extremadamente frenético, lo que convierte a su campo de gravedad en un violento tsunami que parece querer arrasar con todo cuanto hay a su paso...",
+    "1006061": "Una criatura del Abismo que acecha a través de fisuras en las profundidades insondables, observando el mundo en silencio. Se dice que su siniestra forma sin rostro no es más que una proyección, pues su verdadero cuerpo solo existe como una masa amorfa de energía pura del Abismo.\nImpulsada por la alteración caótica de las líneas ley, sus susurros frenéticos y delirantes se transformaron en un poder cortante destinado a desgarrar el orden pacífico de este mundo...",
+    "1006063": "Uno de los dos soberanos que una vez se alzó en la cima de los Engendros Fontamarinos de Fontamar, y protagonista de numerosas historias entre marineros. Evitando ser presa, continúa cazando y devorando mientras crece sin cesar, en búsqueda constante de conchas adecuadas para convertirlas en su nueva armadura.\nDebido a las turbulencias de las líneas ley, su naturaleza violenta se ha intensificado tanto que ahora arrasa como si fuera un pequeño ejército, atacando a todo lo que vea. Una calamidad en movimiento con forma de cangrejo...",
+    "1007061": "Una mandrágora excepcionalmente grande, probablemente producida a través de un extenso proceso de selección artificial. Si bien se desconoce el objetivo original de su cultivo, el organismo tiene un perfil de comportamiento territorial atípico que sugiere que pudo haber sido el producto de un experimento controlado.\nBajo la extrema perturbación de la línea ley, mutó de forma hace mucho tiempo y está determinada a controlar los vientos aullantes para dejar que sus esporas devoren todo el terreno.",
+    "1007062": "Una máquina de kuuvahki con una forma muy particular y hecha con una amalgama de piezas de metal desechadas y rodamientos mecánicos. Su característico aspecto parece deberse a los peculiares gustos de su creadora. Aunque no se queda atrás con respecto a las punteras armas de guerra de los Fatui en cuanto a potencia y resistencia, sigue siendo un juguete con forma de pato que ataca dando puñetazos.\nAl haber sido modificado debido a la perturbación extrema de la línea ley, la imagen de este mecanismo se ha transformado en una fábrica móvil repleta de armas y blindaje. Un solo descuido y los asaltapatitos te ahogarán como si de un tsunami se tratara...",
+    "1008061": "Un antiguo monstruo que se siente atraído por la luz de la luna y habita en las profundidades rocosas. La acumulación gradual de energía kuuvahki ha cristalizado su cuerpo en partes claramente segmentadas con forma de mecanismo. Estas partes pueden endurecerse y formar púas de piedra que usa para repeler a los intrusos.\nDebido a la extrema perturbación de las líneas ley, los segmentos generados por la catalización del kuuvahki han empezado a crecer descontroladamente, entrelazándose entre sí como una red colosal que intenta devorar la montaña entera.",
+    "1009061": "Un lobo solitario alejado de la manada local cuya melena turquesa indica que procede de un linaje de tierras lejanas.\nBajo la influencia de las turbulencias de las líneas ley, los recuerdos de sus ancestros han sido retorcidos hasta convertirse en una horrible maldición. Un odio gélido ha invadido su ser, forzando a la bestia a arrasar con todo lo que alcance su vista.",
+    "1009063": "Una creación de una de las sombras que emanó del todopoderoso ser primordial. Residía en lo alto de los cielos, pero cayó al mundo terrenal tras abrir los ojos. Posee el poder de supervisar y contrarrestar ataques elementales.\nBajo el asalto de las turbulentas líneas ley y la caótica inundación de información corrupta, su naturaleza, antaño arrogante, se ha retorcido en un impulso de destrucción puro que lo lleva a aniquilar todo lo que vea.",
+    "1010061": "Originalmente, se trataba de una máquina cooperativa de apoyo a las investigaciones lunares, pero con el tiempo se le concedió un poder y unas responsabilidades que iban mucho más allá de su propósito original.\nTras haberse distorsionado y corroído durante tanto tiempo debido a la alteración de línea ley, su núcleo y sus sondas se han sobrescrito por completo. Ya no queda en ella nada de su propósito original, y ahora lo único que la impulsa es una voluntad destructiva que ordena a incontables enjambres mecánicos arrasar con todo ser viviente.",
+    "1010063": "Una máquina de fabricación que se utilizaba en ruinas de la antigüedad. Los antiguos señores de las ruinas empleaban estas máquinas capaces de cambiar de forma para llevar a cabo todo tipo de tareas de fabricación.\nDebido a la caótica reestructuración causada por el torrente de la línea ley, su coraza resistente a la lava se ha transformado en una armadura, y la prodigiosa fuerza con la que erigía colosales ciudades se ha convertido en unas gigantescas tenazas. La antigua orden de “fabricar” se corrompió y fue remplazada por el deseo de destruir, lo que la impulsa a ejecutar sin descanso la “gran causa” de reducirlo todo a escombros.",
+    "1011061": "Uno de los monstruos quiméricos producto de la bioalquimia que fueron desechados.\nBajo el reflejo extremadamente distorsionado de la línea ley, su poder para controlar los elementos se ha vuelto mucho más frenético, de manera que los rugientes rayos y tormentas que se desatan bajo su control no dejan nada a su paso.",
+    "1011062": "Una agente especial de élite de los Fatui. Se mueve junto a los demás soldados según las órdenes y la misión en la que estén. También actúa de manera independiente o colaborando con los soldados de todas partes de Teyvat para labores de espionaje, contravigilancia, protección, eliminación de personas, etc.\nDesgraciadamente, en esta alteración de línea ley tan extremadamente peligrosa, el yo de la Senescal ha sido devorado por la corrosión de una corriente caótica, dejando tan solo un cascarón curtido en innumerables batallas que, guiado por su instinto, desenvaina su filo gélido contra todo aquel que ose acercarse.",
+    "1012061": "Un escultor de hielo supremo con un físico curtido en mil batallas, capaz de transformar el elemento Anemo en un hacha y un cincel.\nBajo un desbordamiento de la línea ley más retorcido y grotesco que su ya deplorable sentido estético, este escultor ha caído en una locura inspiradora sin remedio. Está decidido a tallar carne y hueso con unos vientos aullantes, a sellar almas en un hielo supremo indestructible, y arde en deseos de convertir a todos los intrusos en sus obras maestras más recientes de esta exposición de monstruosidades.",
+    "1012063": "Una antigua snegovik que goza de gran prestigio entre los de su raza, y a quien se le encomendó la importante misión de “proteger a los snegovik durante toda su vida”.\nBajo la caótica influencia del torrente de la línea ley, su obsesión vacía de proteger se ha reducido a un mero instinto asesino. Ahora acecha entre las sombras del ataúd helado, lista para transformarse en cualquier momento en una despiadada e impredecible espada de hielo que desgarra a todo ser vivo que ose acercarse.",
+    "1013061": "Un volkodlak de fuerza descomunal nacido del gran deseo de una antigua civilización de explorar libremente las profundidades acuáticas.\nBajo las enloquecidas turbulencias de la línea ley distorsionada, el inigualable linaje que dormitaba en su interior se ha desatado por completo, de manera que su cuerpo ya no solo ignora la presión extrema de las profundidades marinas, sino que rebosa de una fuerza brutal capaz de enfrentarse a las invisibles corrientes abisales. Ahora que ha perdido toda su cordura, ha jurado reducir a polvo todo cuanto se cruce en su camino."
+  },
+  "mechanics": {
+    "1001061": [
+      {
+        "name": "Tulpas Semimiméticos gemelos",
+        "text": "Debido a la perturbación de la línea ley, durante el desafío, aparecerán <color=#FFD780FF>Tulpas Semimiméticos (hasta un máximo de 2)</color> cada cierto tiempo. Tras un tiempo, el Tulpa Hidromimético absorberá al Semimimético para <color=#FFD780FF>fortalecerse</color>, lo que le <color=#FFD780FF>regenerará una gran cantidad de Vida</color>, aumentará su tamaño y su ATQ y hará que realice ataques más peligrosos.\nPuedes evitar que haga esto si <color=#FFD780FF>congelas</color> a los Tulpas Semimiméticos o los eliminas atacándolos o utilizando Reacciones Elementales."
+      },
+      {
+        "name": "Ráfaga torrencial",
+        "text": "Debido a la perturbación de la línea ley, durante el combate, el Tulpa Hidromimético creará un escudo, entrará en estado de recarga y preparará la habilidad “Ráfaga torrencial”. Si logra liberarla, <color=#FFD780FF>tu personaje en uso será derrotado directamente</color>.\nCuando el Tulpa Hidromimético cree su escudo, el TdE de las Habilidades Elementales y Definitivas de todos los miembros del equipo se reiniciará y recuperarán Energía Elemental, espíritu de lucha y astucia serpentina. Rompe el escudo antes de que el Tulpa Hidromimético termine de recargar para interrumpir la Ráfaga torrencial."
+      }
+    ],
+    "1001062": [
+      {
+        "name": "Dualidad del piroclasto",
+        "text": "Empieza en forma “geohumana”, en la que <color=#FFD780FF>todas sus RES Elementales y su RES Física son altas</color>. Tras recibir <color=#FF9999FF>Daño Pyro</color> cierto número de veces, entrará por completo en forma de “dragón flamígero” y <color=#FFD780FF>su RES Física y todas sus RES Elementales (a excepción de la RES Pyro) se reducirán considerablemente</color>. Tras recibir <color=#FF9999FF>Daño Pyro</color> de manera continua, podrá soportar daño adicional periódicamente y, tras recibir <color=#FF9999FF>Daño Pyro</color> cierto número de veces mientras está en estado de dragón flamígero, sufrirá una quemadura desmedida durante la cual quedará paralizado y <color=#FFD780FF>todas sus RES Elementales y su RES Física se reducirán aún más</color>. Tras estar paralizado durante un tiempo, volverá a su forma geohumana."
+      },
+      {
+        "name": "Efecto de TdE",
+        "text": "Tras recibir <color=#80C0FFFF>Daño Hydro</color> o <color=#99FFFFFF>Daño Cryo</color>, volverá progresivamente a la forma geohumana en la que la RES es mayor."
+      },
+      {
+        "name": "Solidificación calcinadora",
+        "text": "Debido a la perturbación de la línea ley, aumenta adicionalmente todas las RES del enemigo, así como la cantidad de veces necesaria que hay que infligirle Daño Pyro para hacer que cambie de forma."
+      }
+    ],
+    "1001063": [
+      {
+        "name": "Modo purga preventivo",
+        "text": "Una vez que comience el combate, entrará inmediatamente en “modo purga”, el cual <color=#FFD780FF>aumenta considerablemente todas sus RES Elementales y su RES Física</color>, y generará “ímpetu torrencial” mientras ataca. Cuanto mayor sea el ímpetu torrencial, más rápidamente girará y más daño infligirá.\nTras recibir <color=#99FFFFFF>Daño Cryo</color>, perderá ímpetu torrencial. Cuando este esté por debajo de cierta cantidad, se detendrá, de modo que dejará de ejecutar su ataque giratorio, <color=#FFD780FF>todas sus RES Elementales y su RES Física se reducirán considerablemente</color>, y su <color=#99FFFFFF>RES Cryo</color> <color=#FFD780FF>disminuirá adicionalmente</color>.\nLa primera vez que deje de ejecutar su ataque giratorio cada vez que entre en modo purga, creará orbes elementales adicionales."
+      },
+      {
+        "name": "Modo de contraataque reforzado",
+        "text": "Si un personaje en uso permanece en <color=#FFD780FF>estado de bendición noctámbula</color> durante cierto tiempo, el enemigo entrará en “modo de contraataque reforzado” y usará unos potentes rayos rastreadores para atacar, pero <color=#FFD780FF>todas sus RES Elementales y su RES Física se reducen</color>.\nTras recibir <color=#99FFFFFF>Daño Cryo</color> cierto número de veces mientras está en este estado, dejará de atacar y <color=#FFD780FF>todas sus RES Elementales y su RES Física se reducirán aún más</color>."
+      },
+      {
+        "name": "Diseño antidaño",
+        "text": "Debido a la perturbación de la línea ley, todas las RES del enemigo aumentan aún más y pierde menos ímpetu torrencial al recibir <color=#99FFFFFF>Daño Cryo</color>. Cuando está en modo de contraataque reforzado, sus RES se reducirán menos."
+      }
+    ],
+    "1002061": [
+      {
+        "name": "Abismático",
+        "text": "Puede modificar su propia forma para convertirse en un poderoso enemigo para atacar."
+      },
+      {
+        "name": "Ataque de corrosión destructiva",
+        "text": "Algunos de sus ataques aplicarán el estado de “corrosión destructiva”, el cual es acumulable y hace que tu personaje en uso pierda Vida después de cierto periodo de tiempo."
+      },
+      {
+        "name": "Protección de vacío",
+        "text": "Debido a la perturbación de la línea ley, la Cepa Abismática se defenderá con una protección de vacío mientras lucha. Deberás usar <color=#FFD780FF>un determinado número de ataques elementales</color> para romper su protección de vacío. Al hacerlo, recibirá una vez una gran cantidad de daño en función de todo el daño que haya mitigado la protección, tras lo cual entrará en un estado debilitado durante un largo tiempo. <color=#FFD780FF>Los ataques elementales de naturaleza noctámbula</color> romperán la protección con más eficacia y harán que el enemigo reciba más daño cuando dicha protección se rompa. Un tiempo después de entrar en estado debilitado, la Cepa Abismática intentará volver a crear una protección de vacío."
+      },
+      {
+        "name": "Rezo sombrío de aversión",
+        "text": "Debido a la perturbación de la línea ley, si no rompes la protección de vacío después de un largo tiempo, la Cepa Abismática realizará un “Rezo sombrío de aversión” para entrar en estado de recarga. Si, pasado un tiempo, la protección de vacío sigue sin ser destruida, liberará un Rezo sombrío de aversión que <color=#FFD780FF>derrotará directamente a tu personaje en uso</color>."
+      }
+    ],
+    "1002062": [
+      {
+        "name": "Protección de espinas eléctricas",
+        "text": "Tras <color=#FFD780FF>recibir cierta cantidad de ataques</color>, crea una protección de espinas eléctricas que, mientras está activa, refleja los ataques que recibe para infligir daño a los personajes cercanos. Utiliza Reacciones Elementales para <color=#FFD780FF>consumir la energía Electro de la protección</color> y romperla."
+      },
+      {
+        "name": "Trueno persistente",
+        "text": "Debido a la perturbación de la línea ley, cada vez que este enemigo sea atacado, el progreso de creación de su protección de espinas eléctricas aumentará considerablemente, pero retrocederá gradualmente con el tiempo. Además, también aumenta notablemente la cantidad de daño elemental que se necesita para romper la protección."
+      }
+    ],
+    "1002063": [
+      {
+        "name": "Espectáculo de sombreros",
+        "text": "Durante el combate, creará aún más sombreros y se esconderá en uno de ellos, tras lo que cambiará la posición de dichos sombreros. Tras hacer esto una cierta cantidad de veces, si <color=#FFD780FF>el sombrero en el que se esconde recibe daño de Electrocargado o Electrocargado Lunar</color>, los sombreros dejarán de cambiar de posición.\nInflige cierta cantidad de daño al <color=#FFD780FF>sombrero en el que se esconde el enemigo</color> para destruir todos los sombreros, revelar al enemigo, infligirle una vez una gran cantidad de daño y hacer que entre en estado debilitado durante cierto tiempo. Las <color=#FFD780FF>reacciones de Electrocargado o Electrocargado Lunar</color> son más eficaces para romper el sombrero. El daño que recibe el enemigo cuando el sombrero se rompa será mayor en función del <color=#80C0FFFF>Daño Hydro</color>, <color=#FFACFFFF>Daño Electro</color> o el <color=#FFD780FF>daño de Electrocargado o Electrocargado Lunar</color> que haya recibido el sombrero."
+      },
+      {
+        "name": "Sombreros del rechazo",
+        "text": "Debido a la perturbación de la línea ley, el enemigo atacará con una poderosa habilidad llamada “Sombreros del rechazo”, con la cual lanza continuamente sombreros que infligen <color=#FFACFFFF>una gran cantidad de Daño Electro</color>, y que tienen una <color=#FFD780FF>elevada capacidad de interrupción</color>."
+      }
+    ],
+    "1003061": [
+      {
+        "name": "Contramedidas urgentes",
+        "text": "Debido a la perturbación de la línea ley, liberará una corriente de energía cada vez que reciba daño equivalente a un determinado porcentaje de su Vida. Además, cambiará de forma según el tipo de Daño Elemental que más haya recibido durante ese tiempo, lo que <color=#FFD780FF>aumenta considerablemente su RES a ese elemento</color>."
+      },
+      {
+        "name": "Mecánica de combate múltiple",
+        "text": "Debido a la perturbación de la línea ley, comenzará luchando en el suelo. Si no libera una corriente de energía en un largo periodo de tiempo, pasará a atacar desde el aire."
+      },
+      {
+        "name": "Compartimentos acorazados de los núcleos",
+        "text": "Debido a la perturbación de la línea ley, los núcleos de sus distintas partes del cuerpo estarán protegidos, por lo que no quedará paralizado tras atacarlos, ni tampoco se eliminará la RES Elemental que tenga."
+      }
+    ],
+    "1003062": [
+      {
+        "name": "Semillas hogarpétreas",
+        "text": "Durante el combate, esparcirá por el campo semillas hogarpétreas que explotan tras un breve periodo de tiempo. Si estas reciben <color=#FFD780FF>daño de las reacciones de Florecimiento, Crepitar, Sobreflorecimiento o Florecimiento Lunar</color> antes de explotar, se transformarán y redirigirán sus ataques al cangrejo hogarpétreo, infligiéndole daño en función del daño total que hayan recibido las propias semillas."
+      },
+      {
+        "name": "Semillas ermitañas inflamables",
+        "text": "Debido a la perturbación de la línea ley, las semillas hogarpétreas explotarán violentamente tras recibir Daño Pyro, lo que lanzará al personaje por los aires y le infligirá una gran cantidad de daño."
+      },
+      {
+        "name": "Bombardeo grandioso del Zar",
+        "text": "Debido a la perturbación de la línea ley, al comenzar la batalla, el cangrejo hogarpétreo se elevará, esparcirá una gran cantidad de semillas hogarpétreas y empezará a cargar. Una vez que haya terminado de cargar, detonará las semillas hogarpétreas para infligir daño en una gran AdE, <color=#FFD780FF>derrotar directamente a tu personaje en uso</color> y aumentar considerablemente todas sus RES durante cierto tiempo. Mientras carga, creará una protección que se puede destruir <color=#FFD780FF>transformando cierta cantidad de semillas hogarpétreas</color>. Esto interrumpirá la carga del cangrejo hogarpétreo y lo paralizará."
+      }
+    ],
+    "1003063": [
+      {
+        "name": "Multiescudo",
+        "text": "Durante el combate, el enemigo activará su kit eléctrico y creará un “multiescudo experimental” especial para defenderse. Dicho escudo se autorregenerará hasta cierto punto cada cierto tiempo. Rompe las 3 capas del escudo para evitar que lo active y, así, paralizar al enemigo. Puedes hacer uso del <color=#FFD780FF>daño de Electrocargado y Electrocargado Lunar</color> para romperlo más eficazmente. Cada vez que destruyas una capa del escudo, se infligirá una gran cantidad de daño al enemigo una vez y se generarán orbes elementales adicionales."
+      },
+      {
+        "name": "Bombardeo eléctrico",
+        "text": "Al activarse, el kit eléctrico infligirá Daño Electro en una gran AdE y realizará continuamente ataques Electro durante cierto tiempo. Si logras evitar que se active, el equipamiento del enemigo se averiará y <color=#FFD780FF>su RES Electro se reducirá considerablemente</color>."
+      },
+      {
+        "name": "Emergencia de potencia aumentada",
+        "text": "Debido a la perturbación de la línea ley, la multiescudo experimental aumenta todas las RES Elementales (a excepción de la RES Electro) y posee una mayor capacidad de autorregeneración, pero tras recibir <color=#FFD780FF>daño de Electrocargado o Electrocargado Lunar</color>, la velocidad de autorregeneración se reducirá considerablemente. La duración del ataque y el daño infligido por el kit eléctrico aumentan considerablemente si este llega a activarse."
+      }
+    ],
+    "1004061": [
+      {
+        "name": "Estado de velo oscuro",
+        "text": "Durante la batalla, entra en el estado de “velo oscuro”, el cual <color=#FFD780FF>aumenta considerablemente todas sus RES</color>. Tras recibir <color=#FFD780FF>daño cierto número de veces</color>, saldrá del estado de velo oscuro y su tipo elemental cambiará al elemento del que más daño recibió durante dicho estado. Además, <color=#FFD780FF>se volverá inmune al daño de ese elemento y también será afectado por él</color>."
+      },
+      {
+        "name": "Luminosidad lunar",
+        "text": "Al anularse el estado de velo oscuro, las <color=#FFD780FF>Reacciones Lunares</color> se vuelven más eficaces. Si ha recibido mucho daño de Reacciones Lunares al salir de este estado, no cambiará a ningún tipo elemental y <color=#FFD780FF>no obtendrá ni inmunidad al daño ni será afectado por ningún elemento</color>."
+      }
+    ],
+    "1004062": [
+      {
+        "name": "Deambulación pesarosa",
+        "text": "Al comienzo de la batalla, estará en el estado de “deambulación”. Reduce toda su Vida para hacerle entrar en el estado de “Cacería salvaje”."
+      },
+      {
+        "name": "Pesar pálido",
+        "text": "En el estado de Cacería salvaje, recuperará toda su Vida después de cierto tiempo incluso aunque ya la hubiera perdido toda. Solo podrás derrotarlo del todo si reduces su Vida Máx. por completo. <color=#FFD780FF>Al reducir toda su Vida o al usar una habilidad fortalecida por presagio lunar: resplandor ascendente</color>, entrará brevemente en el estado de “pesar pálido”. Si le infliges daño mientras está en este estado, su Vida Máx. se reducirá en cierta cantidad equivalente al daño infligido. Dicha cantidad será mayor si tu presagio lunar es de resplandor ascendente."
+      },
+      {
+        "name": "Arrasamiento espectral",
+        "text": "En el estado de Cacería salvaje, durante el combate aparecerán Espectros de los Páramos cada cierto tiempo. Si no los derrotas en cierto límite de tiempo, el enemigo usará “Cosecha”, lo que infligirá una gran cantidad de Daño en el AdE, purgará a todos los Espectros de los Páramos y recuperará Vida Máx. en función de la que les quedara a los Espectros. Debido a la perturbación de la línea ley, los Espectros de los Páramos tendrán una mayor Vida Máx. y, al purgarlos, el enemigo también recuperará una mayor cantidad de Vida Máx."
+      }
+    ],
+    "1004063": [
+      {
+        "name": "Ejecución desenfrenada",
+        "text": "Durante el combate, consumirá una parte de su Vida para realizar una “Ejecución” que, al golpear a un personaje, le hará recuperar cierta cantidad de Vida a la Senescal Cryo y aplicará un pacto vital al personaje golpeado. Mientras el pacto esté activo, el personaje recibirá daño continuo. Este ataque infligirá más daño a los personajes que tengan un pacto vital."
+      },
+      {
+        "name": "Caza sangrienta",
+        "text": "Debido a la perturbación de la línea ley, este enemigo tendrá una mayor capacidad de interrupción y de RES a interrupción. Cuando vaya a realizar “Ejecución”, entrará en el estado de “caza sangrienta” y creará un escudo para protegerse. Mientras el escudo esté activo, el enemigo <color=#FFD780FF>aplicará continuamente pactos vitales a todos los personajes</color>. Cuando su escudo se rompa, recibirá una gran cantidad de daño."
+      }
+    ],
+    "1005061": [
+      {
+        "name": "Protección elemental - Frenesí cambiante",
+        "text": "Debido a la perturbación de la línea ley, a comenzar el combate, el enemigo creará sucesivamente <color=#FFD780FF>protecciones Electro, Pyro e Hydro</color> para defenderse y cambiará su modo de ataque según el tipo de protección elemental activada. Tras <color=#FFD780FF>romper una protección con Reacciones Elementales</color>, el enemigo recibirá una gran cantidad de daño en función del <color=#FFD780FF>daño mitigado por dicha protección</color>, tras lo cual cambiará su forma elemental y activará la protección elemental correspondiente. Una vez que rompas las tres protecciones, quedará paralizado por un tiempo."
+      }
+    ],
+    "1005062": [
+      {
+        "name": "Onda sónica - Legato",
+        "text": "Debido a la perturbación de la línea ley, todas sus RES Elementales aumentan. Durante el combate, saltará con más frecuencia, quedará suspendido en el aire durante un tiempo y atacará constantemente con poderosas ondas sónicas mientras permanece suspendido en el aire."
+      },
+      {
+        "name": "Granizo abrupto - Ofensiva extensa",
+        "text": "Durante el combate, creará una <color=#FFD780FF>protección Cryo</color> para defenderse y saltará para preparar el Granizo abrupto. Después de un tiempo liberará dicho granizo y <color=#FFD780FF>derrotará directamente a tu personaje en uso</color>. <color=#FFD780FF>Rompe la protección con Reacciones Elementales</color> para derribar al enemigo, infligirle gran cantidad de daño en función del <color=#FFD780FF>daño mitigado por dicha protección</color> e interrumpir la preparación de dicho ataque. Cuando el enemigo esté preparando dicho ataque, todos los miembros de tu equipo <color=#FFD780FF>recuperarán Energía Elemental, espíritu de lucha o astucia serpentina</color>. Si después de un tiempo no rompes su protección, en el suelo aparecerán “campos de granizo” <color=#FFD780FF>que podrás destruir uno a uno con Reacciones Elementales</color> para romper poco a poco la protección Cryo del enemigo."
+      },
+      {
+        "name": "Vórtice disruptor",
+        "text": "Debido a la perturbación de la línea ley, cuando el enemigo esté preparando la habilidad “Granizo abrupto”, en el campo de batalla aparecerá un “vórtice disruptor” que inflige Daño Cryo en el AdE <color=#FFD780FF>tanto a aliados como a enemigos</color>. Cuando el vórtice disruptor golpea al enemigo, su <color=#FFD780FF>RES Anemo</color> se reducirá y su protección se debilitará.\nEl vórtice disruptor puede ser afectado por efectos de atracción y, así, alterar su trayectoria."
+      }
+    ],
+    "1005063": [
+      {
+        "name": "Núcleo gravitacional - Sobrecarga excesiva",
+        "text": "#Debido a la perturbación de la línea ley, durante el combate creará un campo de gravedad reducida que aumentará significativamente la altura a la que saltan los personajes. Cada vez que un personaje salte hasta cierta altura, su ATQ aumentará considerablemente durante 1.5{NON_BREAK_SPACE}s. Mientras el campo esté activo, cada cierto tiempo <color=#FFD780FF>generará en el suelo ondas de choque gravitacionales que no se pueden esquivar</color>. El poder y la frecuencia de las ondas de choque gravitacionales se fortalecerán una vez cada 5{NON_BREAK_SPACE}s. Cada vez que el enemigo sea golpeado con un <color=#FFD780FF>Ataque Descendente</color>, se anulará 1 carga de dicho fortalecimiento."
+      },
+      {
+        "name": "Núcleo tenaz",
+        "text": "Debido a la perturbación de la línea ley, su núcleo ousía se ha vuelto más resistente, por lo que su campo de gravedad reducida no se desactivará tras recibir <color=#FFD780FF>3 ataques pneuma</color>."
+      }
+    ],
+    "1006061": [
+      {
+        "name": "Escudo insondable: Plaga de raíz profunda",
+        "text": "Debido a la perturbación de la línea ley, el Susurrador de Pesadillas de las Profundidades Insondables acumulará poder del Abismo para crear un escudo protector extremadamente resistente. El <color=#FFD780FF>daño de Reacción Lunar</color> es especialmente efectivo para destruirlo. Después de que el enemigo despliegue su escudo, la primera vez que este reciba daño de Reacción Lunar, se crearán orbes elementales adicionales. Cuando el escudo es destruido, el Susurrador de Pesadillas de las Profundidades Insondables recibe una gran cantidad de daño una vez y entra en un estado debilitado por un breve periodo de tiempo."
+      },
+      {
+        "name": "Asalto de la grieta",
+        "text": "Debido a la perturbación de la línea ley, el Susurrador de Pesadillas de las Profundidades Insondables entrará en estado de carga e invocará múltiples Pescadores de las Profundidades Insondables durante el combate. Si la carga se completa, infligirá daño en un área extensa y consumirá a todos los Pescadores. Derrotar a los Pescadores durante la carga romperá su escudo e interrumpirá la carga."
+      }
+    ],
+    "1006063": [
+      {
+        "name": "Astas fundentes",
+        "text": "Los cuernos fundentes gemelos, ubicados en la parte superior del cuerpo del Emperador Piroacorazado, son órganos <color=#FFD780FF>Pyro</color> que le permiten desatar ataques elementales más devastadores y le otorgan capacidades defensivas aún más poderosas. Cuando el Emperador Piroacorazado realiza ciertos ataques, sus cuernos fundentes gemelos se encuentran <color=#FFD780FF>cerca del suelo</color>, proporcionando una excelente oportunidad para <color=#FFD780FF>usar Reacciones Elementales para destruirlos</color>. Una vez que el elemento Pyro dentro de los cuernos gemelos fundidos sea eliminado, estos serán destruidos, el jefe recibirá una gran cantidad de daño una vez y los cuernos necesitarán un tiempo para restaurarse."
+      },
+      {
+        "name": "Escolta escudero",
+        "text": "Debido a la perturbación de la línea ley, el Emperador Piroacorazado invocará Cangrejos Acorazados Robustos para que lo asistan durante el combate. Los Cangrejos Acorazados Robustos canalizan Pyro continuamente hacia los cuernos fundentes gemelos. Una vez que su energía Pyro se agote por completo, serán derrotados. Cuando un Cangrejo Acorazado Robusto sea derrotado, perderá el control y se estrellará contra el Emperador Piroacorazado, sobrecargando el elemento Pyro dentro de sus cuernos gemelos fundidos y dañándolos. El Emperador Piroacorazado también recibirá daño adicional en proporción al daño total que haya recibido previamente el Cangrejo Acorazado Robusto. Puede haber un máximo de tres Cangrejos Acorazados Robustos en el campo de batalla a la vez."
+      },
+      {
+        "name": "Coronación radiante",
+        "text": "Debido a la perturbación de la línea ley, el Emperador Piroacorazado ejecutará “Coronación radiante” durante el combate, cargando brevemente antes de infligir daño en un área extensa. Destruir los cuernos fundentes gemelos interrumpirá la carga."
+      }
+    ],
+    "1007061": [
+      {
+        "name": "Estado aglomerado potenciado",
+        "text": "Debido a la perturbación de la línea ley, al comienzo de la batalla, el jefe entrará en “estado aglomerado”, lo cual <color=#FFD780FF>aumentará enormemente todas sus RES</color>. Este estado consumirá constantemente su energía de aglomeración. Infligirle Daño <color=#FFD780FF>Pyro o Electro</color> hará que consuma dicha energía más rápido. Cuando se le agote la energía de aglomeración, el jefe usará “Propagaesporas” y pasará al “estado dividido”."
+      },
+      {
+        "name": "Estado dividido",
+        "text": "Cuando el jefe entre en “estado dividido”, se dividirá en una gran cantidad de esporas. Cuando estas reciban daño, infligirán al jefe un porcentaje de daño en función del daño total que hayan recibido. Este volverá al “estado aglomerado” después de haber estado un tiempo en el dividido. Si el número de esporas en el campo de batalla es menor que cierta cantidad, el jefe entrará en “estado aglomerado frágil”, lo cual <color=#FFD780FF>reducirá considerablemente todas sus RES</color> y debilitará su capacidad de combate. Por otro lado, si derrotas a todas las esporas generadas durante el “estado dividido”, el jefe saldrá de dicho estado antes de tiempo y pasará al estado aglomerado frágil."
+      },
+      {
+        "name": "Estructura hueca",
+        "text": "Debido a la perturbación de la línea ley, cuando el jefe se encuentre en estado dividido o estado aglomerado frágil, su <color=#FFD780FF>RES Anemo se reducirá considerablemente</color>."
+      }
+    ],
+    "1007062": [
+      {
+        "name": "Modo “pato aniquilador acorazado”",
+        "text": "Debido a la perturbación de la línea ley, tras comenzar el combate, el jefe entrará en el modo “pato aniquilador acorazado”, lo que aumentará su agresividad, creará para él una protección que <color=#FFD780FF>aumenta todas sus RES</color> e invocará unos asaltapatitos mecánicos flotantes que te intentarán molestarte para entretenerte."
+      },
+      {
+        "name": "Asaltapatitos mecánicos de baja resistencia",
+        "text": "<color=#FFD780FF>Si infliges daño de Electrocargado o Electrocargado Lunar múltiples veces o infliges el suficiente daño directo como para destruir a los asaltapatitos</color>, harás que dejen de funcionar. Los asaltapatitos que dejen de funcionar perderán el control, se estrellarán contra el Puñopato e infligirán cierta cantidad de daño a su protección. Al destruir dicha protección de esta manera, el Puñopato saldrá del modo “pato aniquilador acorazado”, se sobrecargará, quedará paralizado y su <color=#FFD780FF>RES Electro se reducirá considerablemente durante un tiempo</color>."
+      },
+      {
+        "name": "Sistema de salto de frecuencia rápido",
+        "text": "Debido a la perturbación de la línea ley, los asaltapatitos mecánicos se robustecerán, de manera que tendrás que <color=#FFD780FF>infligirles daño de Electrocargado o Electrocargado Lunar más veces</color>, o <color=#FFD780FF>infligirle más cantidad de daño directo</color> para hacer que dejen de funcionar. El <color=#FFD780FF>daño de Electrocargado o Electrocargado Lunar</color> será más eficaz para destruir a los asaltapatitos. Cuando estos pierdan el control y se estrellen contra el Puñopato, el daño que le inflijan aumentará en función del <color=#FFD780FF>daño total que reciban</color>."
+      }
+    ],
+    "1008061": [
+      {
+        "name": "Reverberación errante",
+        "text": "Tras comenzar el combate, el jefe dejará un ancla lunar en el suelo y saltará a un punto elevado para preparar “Reverberación errante”. Tras un tiempo, lanzará un poderoso ataque en una gran AdE. Usa <color=#FFD780FF>métodos eficaces contra el elemento Geo</color> para destruir las múltiples capas Geo del ancla lunar. Al destruirla, se interrumpirá la preparación de la habilidad y se le infligirá una gran cantidad de daño al jefe. Cuanto más daño reciba el ancla lunar durante la preparación, mayor será el daño que recibirá el jefe cuando sea destruida. Debido a la perturbación de línea ley, atacar el ancla lunar con <color=#FFD780FF>Geo</color> aumentará aún más el daño infligido al jefe."
+      },
+      {
+        "name": "Roca inamovible",
+        "text": "Debido a la perturbación de la línea ley, las múltiples capas de protección Geo del Ancla Lunar se volverán más resistentes."
+      },
+      {
+        "name": "Crisálida radiante",
+        "text": "Durante el combate, el jefe manipulará el elemento Geo para aplicar una crisálida radiante a los personajes y aumentar su propia RES Geo. Los personajes atrapados en la crisálida radiante <color=#FFD780FF>infligirán menos daño y recibirán menos curación</color>. Cuando <color=#FFD780FF>la Vida de un personaje llegue al máximo por medio de curación</color>, dicho personaje se liberará de la crisálida radiante y ganará el efecto “desenredo”, el cual mejora las capacidades durante un breve periodo de tiempo. Si cualquier personaje del equipo logra liberarse, el jefe perderá la RES Geo otorgada por la crisálida radiante."
+      }
+    ],
+    "1009061": [
+      {
+        "name": "Espíritu de lobo ancestral - Manifestación",
+        "text": "Al comienzo del combate, el jefe invocará un espíritu de lobo ancestral que lo apoyará en la batalla. Debido a la perturbación de la línea ley, <color=#FFD780FF>mientras esté protegido por el espíritu del lobo, el jefe no recibirá daño</color>. Como ente incorpóreo, el espíritu de lobo ancestral posee una protección Cryo especial que solo podrá romperse al causar <color=#FFD780FF>reacciones de Torbellino Pyro o Electro</color>. Tras eliminar su protección, el espíritu de lobo ancestral desaparecerá, y el jefe quedará paralizado durante cierto tiempo y recibirá una gran cantidad de daño de contragolpe. Cuanto más daño mitigue el jefe mientras la protección esté activa, más alto será el daño del contragolpe. Además, el <color=#FFD780FF>Daño Pyro y Anemo</color> también aumentará aún más el daño del contragolpe."
+      }
+    ],
+    "1009063": [
+      {
+        "name": "Control de supervisión",
+        "text": "Al comienzo del combate, “El que abrió los ojos” entrará en el estado de “control de supervisión”, con el que registrará por separado la cantidad de veces que reciba Daño Elemental <color=#FFD780FF>Pyro/Hydro/Electro/Cryo</color>. Cuando haya recibido 5 veces daño de alguno de dichos elementos, saldrá de este estado y <color=#FFD780FF>registrará ese elemento como objetivo de la supervisión</color>. Si no logra monitorear ningún elemento, el registro quedará vacío e infligirá Daño Geo una vez. Tras concluir el control de supervisión por primera vez, el jefe volverá a entrar en este modo después de cierto intervalo. Debido a la perturbación de la línea ley, la segunda fase de supervisión será más larga y el elemento que ya haya sido registrado necesitará dañarlo un número mucho mayor de veces antes de volver a ser objetivo de la supervisión. Debido a la perturbación de la línea ley, “El que abrió los ojos” contará con RES Elementales y Física mejoradas durante el control de la supervisión."
+      },
+      {
+        "name": "Delirio fenomenológico",
+        "text": "Tras completar dos monitoreos elementales, “El que abrió los ojos” se elevará en el aire y se preparará para usar “Delirio fenomenológico”, con lo que liberará los elementos que haya monitoreado e invocará dos “estrellas elementales activas” de los elementos correspondientes. Si el registro de elementos está vacío, invocará “estrellas elementales inertes” con <color=#FFD780FF>todas las RES Elementales y RES Física bastante elevadas</color>. Si el jefe invoca dos estrellas elementales activas de elementos diferentes, ambas podrán eliminarse de forma más sencilla. Cuando las estrellas elementales activas son destruidas, el jefe recibe gran cantidad de daño del elemento registrado. Si se destruye una estrella elemental inerte, se infligirá Daño Geo al jefe. <color=#FFD780FF>Destruye todas las estrellas elementales</color> para interrumpir la preparación de Delirio fenomenológico. Si no se logran destruir ambas estrellas en el tiempo límite, estas estallarán, infligiendo gran cantidad de Daño en el AdE."
+      }
+    ],
+    "1010061": [
+      {
+        "name": "Campo de supresión: Bucle de energía",
+        "text": "Al comienzo del combate, el jefe desplegará 4 sondas que se defienden con una <color=#FFD780FF>protección Hydro</color> y creará un campo de supresión especial que generará un <color=#FFD780FF>escudo de energía de campo</color> para sí mismo y aumentará <color=#FFD780FF>todas sus RES excepto la RES Cryo y Electro</color>. Tras un tiempo con dicho campo activo, el jefe ejecutará un “Golpe alfa”, el cual inflige daño en una gran AdE, y recogerá todas las sondas, lo que le otorgará una <color=#FFD780FF>protección Hydro</color> con la absorción de daño correspondiente a la cantidad de sondas que haya recogido. Si no logra recoger ninguna sonda, solo obtendrá una pequeña protección Hydro."
+      },
+      {
+        "name": "Escudo de energía de campo",
+        "text": "Debido a la perturbación de línea ley, cuando se destruya el escudo de energía de campo del jefe, el campo de supresión también se desintegrará, de manera que el jefe recibirá una gran cantidad de daño de contragolpe y quedará brevemente paralizado. Además, cada vez que el jefe se vea <color=#FFD780FF>afectado por las reacciones de Superconductor o Superconductor Estelar</color>, su escudo se reducirá en una cantidad fija. Asimismo, el <color=#FFD780FF>daño de las reacciones de Superconductor y Superconductor Estelar</color> no solo destruirá el escudo con mayor eficacia, sino que también aumentará aún más el daño de contragolpe que recibirá el jefe cuando el escudo sea destruido."
+      },
+      {
+        "name": "Sonda: Componente a presión",
+        "text": "Las sondas serán eliminadas cuando sus <color=#FFD780FF>protecciones Hydro sean destruidas</color> o cuando <color=#FFD780FF>reciban daño de Reacciones Elementales como Rompehielo o Derretido mientras estén congeladas</color>. Debido a la perturbación de línea ley, la protección del jefe se dañará cada vez que una sonda sea destruida."
+      }
+    ],
+    "1010063": [
+      {
+        "name": "Contramedidas combativas: Arranque en frío",
+        "text": "Al comienzo del combate, el jefe estará protegido por un <color=#FFD780FF>poderoso escudo</color> y todas sus RES Elementales y su RES Física serán muy altas. Mientras un personaje entre y se mantenga en estado de bendición noctámbula, el jefe acumulará progreso de “contramedidas combativas”. Debido a la perturbación de línea ley, cuando este alcance por primera vez el máximo de contramedidas combativas, perderá <color=#FFD780FF>todas la RES que obtuvo al comienzo del combate</color>, su <color=#FFD780FF>escudo</color> se destruirá y recibirá daño de contragolpe en función de la cantidad de daño que haya absorbido el escudo."
+      },
+      {
+        "name": "Electrocañonazo: Bomba de alta presión",
+        "text": "Tras alcanzar el progreso máximo de contramedidas combativas, el jefe activará unos dispositivos condensadores y desenterrará 2 trozos de flogisto sólido cuya energía absorberá para preparar un electrocañonazo. Dichos dispositivos generarán campos de fuerza con los que se protegerán. Para destruir los dispositivos condensadores, deberás <color=#FFD780FF>trepar primero por el flogisto sólido y entrar en los campos de fuerza</color>. Tras destruir todos los dispositivos condensadores, interrumpirás la carga del electrocañonazo y el jefe <color=#FFD780FF>quedará paralizado y recibirá daño de contragolpe</color>. Debido a la perturbación de línea ley, el progreso de contramedidas combativas se irá acumulando con el tiempo, pero también aumentará el umbral de progreso necesario para activar el electrocañonazo."
+      }
+    ],
+    "1011061": [
+      {
+        "name": "Clamatruenos: Escudo firme",
+        "text": "Debido a la perturbación de la línea ley, al comienzo del combate, el jefe usará el poder de su cabeza Electro para crear una <color=#FFD780FF>resistente protección Electro</color> con la que se defenderá. Cada cierto tiempo, sus dos cabezas cooperarán entre sí para infundir poder Anemo en la gran espada Electro y liberar una onda de choque Electro en una gran AdE. Si en ese momento el jefe se encuentra bajo los efectos de <color=#FFD780FF>esplendor: Destello Estelar</color>, la perturbación de sus poderes provocará un contragolpe que <color=#FFD780FF>dañará su protección</color>. Tras <color=#FFD780FF>destruir la protección</color> con Reacciones Elementales, el jefe dejará de atacar por cansancio, quedará paralizado, sus <color=#FFD780FF>RES Cryo y Anemo se reducirán considerablemente</color> y recibirá un gran daño de contragolpe en función del daño que haya mitigado la protección. El <color=#FFD780FF>daño de Destello Estelar</color> aumentará el daño de contragolpe que reciba el jefe cuando se destruya su protección."
+      },
+      {
+        "name": "Alentavientos: Asalto feroz",
+        "text": "Debido a la perturbación de la línea ley, durante el combate, el jefe usará el poder de su cabeza Electro, se alzará en el aire y girará rápidamente mientras dispara proyectiles huracanados para atacar. Al terminar de girar, creará un vórtice con el que intentará atraer y absorber los orbes Anemo del campo de batalla para recuperar su fuerza. Estos orbes pueden ser destruidos con <color=#FFD780FF>Daño Hydro/Pyro/Electro/Cryo</color>. También puedes dejar al jefe bajo los efectos de <color=#FFD780FF>esplendor: Destello Estelar</color> para impedir que absorba los orbes Anemo. Si no logra absorber la cantidad suficiente cuando el vórtice haya desaparecido, quedará paralizado inmediatamente y <color=#FFD780FF>sus RES Cryo y Anemo se reducirán considerablemente</color>."
+      }
+    ],
+    "1011062": [
+      {
+        "name": "Ejecución desenfrenada",
+        "text": "Durante el combate, consumirá una parte de su Vida para realizar una “Ejecución” que, al golpear a un personaje, le hará recuperar cierta cantidad de Vida a la Senescal Cryo y aplicará un pacto vital al personaje golpeado. Mientras el pacto esté activo, el personaje recibirá daño continuo. Este ataque infligirá más daño a los personajes que tengan un pacto vital."
+      },
+      {
+        "name": "Caza sangrienta: Traición",
+        "text": "Debido a la perturbación de la línea ley, la capacidad de interrupción y la RES a interrupción de este enemigo aumentan considerablemente, y al colapsar su postura cuando esté en el aire, realiza de inmediato una evasión para recuperar dicha postura. Cuando vaya a realizar “Ejecución”, entrará en el estado de “caza sangrienta” y creará un escudo para protegerse. Mientras el escudo esté activo, el enemigo <color=#FFD780FF>aplicará continuamente pactos vitales a todos los personajes</color>. Cuando su escudo se rompa, recibirá una gran cantidad de daño."
+      }
+    ],
+    "1012061": [
+      {
+        "name": "Jack Frost bocagrande",
+        "text": "Al comienzo del combate, el jefe usará el elemento Anemo para intentar crear una escultura de hielo supremo. Un tiempo después, la escultura se transformará en un “Jack Frost bocagrande” capaz de disparar continuamente bolas de nieve.\nSi logras hacer que el jefe quede afectado por <color=#FFD780FF>esplendor: Destello Estelar</color> mientras crea la escultura, esta se transformará en una escultura de animal inofensiva."
+      },
+      {
+        "name": "Inspiración desbordante",
+        "text": "Debido a la perturbación de la línea ley, <color=#FFD780FF>todas las RES Elementales y la RES Física del jefe aumentarán considerablemente al comienzo del combate</color>, y creará esculturas de hielo supremo con mayor frecuencia.\nCuando una escultura de hielo se transforme en una de animal, explotará tras un breve lapso de tiempo, infligirá cierta cantidad de daño al jefe, <color=#FFD780FF>reducirá todas sus RES Elementales y RES Física, y también reducirá adicionalmente su RES Anemo</color>. Este efecto <color=#FFD780FF>puede acumularse hasta 3 veces</color>."
+      }
+    ],
+    "1012063": [
+      {
+        "name": "Ataúd helado: Red cristalina gemela",
+        "text": "Durante el combate, cuando la Vida del jefe caiga por debajo de cierto porcentaje, se encerrará en un ataúd helado y usará la <color=#FFD780FF>protección Cryo</color> del ataúd para defenderse.\nMientras el ataúd helado esté activo, el jefe liberará continuamente un temporal gélido a su alrededor para atacar. Si el ataúd no es destruido, el jefe regenerará parte de su Vida y formará una espada de hielo para contraatacar. Sin embargo, si el ataúd helado en el que resguarda su vida es destruido, quedará debilitado durante un tiempo y recibirá daño de contragolpe. Debido a la perturbación de línea ley, <color=#FFD780FF>el ataúd será aún más resistente</color> y, un tiempo después de ser destruido por primera vez, el jefe <color=#FFD780FF>volverá a encerrarse en otro ataúd helado</color>."
+      },
+      {
+        "name": "Ataúd helado: Red cristalina deformada",
+        "text": "Mientras el <color=#FFD780FF>ataúd helado esté activo</color>, si el jefe se encuentra bajo los efectos de <color=#FFD780FF>esplendor: Destello Estelar</color>, <color=#FFD780FF>la protección Cryo del ataúd se transformará en un escudo capaz de absorber daño</color>. Una vez que el escudo sea destruido, el jefe recibirá una gran cantidad de daño de contragolpe."
+      }
+    ],
+    "1013061": [
+      {
+        "name": "Audacia gélida: Gran festín",
+        "text": "Debido a la perturbación de la línea ley, cada cierto tiempo, el jefe sacará una jarra de la que beberá con gran ímpetu, lo que le hará acumular una gran cantidad de audacia. Si al beber con ímpetu se encuentra bajo los efectos de <color=#FFD780FF>esplendor: Destello Estelar</color>, la eficacia con la que acumula audacia se verá reducida. Además, también se le restará audacia cuando reciba <color=#FFD780FF>Daño Electro</color>. Si lo que recibe es <color=#FFD780FF>Daño Electro considerado como daño de la reacción de Destello Estelar correspondiente</color>, la cantidad de audacia restada será mucho mayor."
+      },
+      {
+        "name": "Estado de temeridad: arremetida",
+        "text": "Debido a la perturbación de línea ley, cuando el jefe alcance el máximo de audacia, entrará en el “estado de temeridad: arremetida”, en el que sus ataques no solo se volverán más feroces, sino que también <color=#FFD780FF>creará un escudo con el que protegerse a sí mismo, todas sus RES Elementales (a excepción de la RES Electro) y su RES Física aumentarán considerablemente, y su RES Electro aumentará ligeramente</color>. Mientras se encuentre en este estado, la audacia del jefe se consumirá continuamente, <color=#FFD780FF>la cantidad de audacia restada al recibir Daño Electro aumentará</color>, y saldrá de dicho estado cuando se quede sin audacia. Cuando salga de este estado, el jefe recibirá una gran cantidad de daño de contragolpe. Cuanto mayor sea el daño absorbido por el escudo mientras se encuentra en el estado de temeridad: arremetida, más daño de contragolpe recibirá. El <color=#FFD780FF>Daño Electro de Destello Estelar</color> aumentará el daño de contragolpe que reciba el jefe cuando se destruya el escudo."
+      }
+    ]
+  },
+  "tags": {
+    "1001061": {
+      "good": "Personajes {SPRITE_PRESET#11003}",
+      "bad": "Personajes {SPRITE_PRESET#11002}"
+    },
+    "1001062": {
+      "good": "Personajes {SPRITE_PRESET#11007}{SPRITE_PRESET#11003}",
+      "bad": "Personajes {SPRITE_PRESET#11001}{SPRITE_PRESET#11002}"
+    },
+    "1001063": {
+      "good": "Personajes {SPRITE_PRESET#11001}"
+    },
+    "1002061": {
+      "good": "Daño Elemental frecuente  | Daño de naturaleza noctámbula"
+    },
+    "1002062": {
+      "good": "Daño de frecuencia baja",
+      "bad": "Daño de frecuencia alta"
+    },
+    "1002063": {
+      "good": "Reacciones Elementales {SPRITE_PRESET#11034} | Escudos"
+    },
+    "1003061": {
+      "good": "Varios tipos de Daño Elemental",
+      "bad": "Un único tipo de Daño Elemental"
+    },
+    "1003062": {
+      "good": "Reacciones Elementales {SPRITE_PRESET#11029}",
+      "bad": "Personajes {SPRITE_PRESET#11003}"
+    },
+    "1003063": {
+      "good": "Reacciones Elementales {SPRITE_PRESET#11034} | Personajes {SPRITE_PRESET#11004}"
+    },
+    "1004061": {
+      "good": "Daño elemental frecuente  | Varios tipos de Daño Elemental  | Daño de Reacciones Lunares"
+    },
+    "1004062": {
+      "good": "Presagio lunar: resplandor ascendente"
+    },
+    "1004063": {
+      "good": "Personajes con pacto vital  | Personajes con escudo"
+    },
+    "1005061": {
+      "good": "Personajes {SPRITE_PRESET#11001}{SPRITE_PRESET#11002}{SPRITE_PRESET#11007}"
+    },
+    "1005062": {
+      "good": "Personajes {SPRITE_PRESET#11003}  | Personajes a distancia  | Personajes que juntan enemigos",
+      "bad": "Personajes cuerpo a cuerpo"
+    },
+    "1005063": {
+      "good": "Personajes de Ataques Descendentes"
+    },
+    "1006061": {
+      "good": "Daño de Reacción Lunar"
+    },
+    "1006063": {
+      "good": "Personajes {SPRITE_PRESET#11002}",
+      "bad": "Personajes {SPRITE_PRESET#11003}"
+    },
+    "1007061": {
+      "good": "Personajes {SPRITE_PRESET#11003} {SPRITE_PRESET#11004}  | Personajes que juntan enemigos"
+    },
+    "1007062": {
+      "good": "Reacciones Elementales {SPRITE_PRESET#11034} | Personajes {SPRITE_PRESET#11004}"
+    },
+    "1008061": {
+      "good": "Personajes {SPRITE_PRESET#11006} | Personajes sanadores"
+    },
+    "1009061": {
+      "good": "Reacciones Elementales {SPRITE_PRESET#11028}{SPRITE_PRESET#11024}"
+    },
+    "1009063": {
+      "good": "Reacciones Elementales {SPRITE_PRESET#11027}{SPRITE_PRESET#11035}"
+    },
+    "1010061": {
+      "good": "Personajes {SPRITE_PRESET#11001}{SPRITE_PRESET#11004}  | Personajes a distancia",
+      "bad": "Personajes {SPRITE_PRESET#11002}  | Personajes cuerpo a cuerpo"
+    },
+    "1010063": {
+      "good": "Personajes con bendición noctámbula"
+    },
+    "1011061": {
+      "good": "Reacciones Elementales {SPRITE_PRESET#11022} | Personajes {SPRITE_PRESET#11001}"
+    },
+    "1011062": {
+      "good": "Personajes con pacto vital  | Personajes con escudo"
+    },
+    "1012061": {
+      "good": "Personajes de reacciones de Destello Estelar  | Personajes {SPRITE_PRESET#11005}"
+    },
+    "1012063": {
+      "good": "Personajes de reacciones de Destello Estelar  | Personajes {SPRITE_PRESET#11003}"
+    },
+    "1013061": {
+      "good": "Personajes de reacciones de Destello Estelar  | Personajes {SPRITE_PRESET#11004}"
+    }
+  },
+  "season": {
+    "5269001": "Campaña antinvasora",
+    "5269002": "Campaña feroz",
+    "5269003": "Campaña retumbante",
+    "5269004": "Campaña impetuosa",
+    "5269005": "Campaña sísmica",
+    "5269006": "Campaña de purificación",
+    "5269007": "Campaña devastadora",
+    "5269008": "Campaña quiebrajade",
+    "5269009": "Campaña aullahuracán",
+    "5269010": "Campaña ateridora",
+    "5269011": "Campaña sideral",
+    "5269012": "Campaña luminosa",
+    "5269013": "Campaña del oleaje"
+  }
+}

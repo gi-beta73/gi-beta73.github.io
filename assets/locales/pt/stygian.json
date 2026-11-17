@@ -1,0 +1,516 @@
+{
+  "boss": {
+    "1001061": "Tulpa Hydro: Vórtice Turbulento",
+    "1001062": "Estátua do Dragão de Lava: Chamas Ardentes",
+    "1001063": "Autômato da Fonte Secreta: Manopla Destruidora",
+    "1002061": "Umbo Tenebroso - Ilusão da Desolação",
+    "1002062": "Tartaruga Ondulada Forjada em Batalhas: Escudo Trovejante",
+    "1002063": "Ídolo Pippipan Veterano de Cem Batalhas: Mutação Instantânea",
+    "1003061": "Dragão Calamitoso: Mecanismo Aniquilador",
+    "1003062": "Caranguejo de Pedra Veterano: Um Milhão de Explosões",
+    "1003063": "Tropa de Choque Lâmina Flamejante Veterana: Arsenal Perigoso",
+    "1004061": "Nobre da Noite Gelada: Ódio e Fúria",
+    "1004062": "Portador da Lâmpada Veterano: Eco do Lamento",
+    "1004063": "Fatui Oficial do Gelo Veterano: Lâmina Sangrenta",
+    "1005061": "Batizador Iníquo: Fúria Ressonante",
+    "1005062": "Iktomissauro Veterano: Reminiscência Gélida",
+    "1005063": "Gerador de Campo Experimental: Potencial Extremo",
+    "1006061": "Lorde das Profundezas Desconhecidas: Sussurrador de Pesadelos - Lâmina Devastadora",
+    "1006063": "Imperador do Fogo e Ferro: Conquista Ordenada",
+    "1007061": "Mandrágora Hexadecagonal Veterana: Vinha Tempestade",
+    "1007062": "Marreco Marreta: Arsenal Blindado",
+    "1008061": "Lagartixa Radiante: Presas Entrelaçadas",
+    "1009061": "Lobo Glacial Veterano: Alma Cryo Gélida",
+    "1009063": "Despertado: Olhar Desdenhoso",
+    "1010061": "Sombra da Matriz de Controle da Fonte Pioneira Secreta: Vontade da Colmeia",
+    "1010063": "Autômato da Fonte Secreta: Mecanismo de Configuração — Tesoura da Dissolução",
+    "1011061": "Leão Alado Quimérico: Poder Destruidor",
+    "1011062": "Fatui Oficial do Vento Veterano: Lâmina Traiçoeira",
+    "1012061": "Escultor Domovoy Veterano: Talho Vendaval",
+    "1012063": "Guarda-Lâmina da Neve Errante: Reverberação Incessante",
+    "1013061": "Controlador das Ondas: Presa da Tempestade"
+  },
+  "lore": {
+    "1001061": "Um monstro humanóide formado pela aglomeração da água.\nIncontáveis vontades se dissolveram na água, que, como o universo, estava repleta de almas desejando nascer.\nSofrimento e ódio infundidos nessas águas se cruzaram, distorcendo o que um dia foi uma forma humana em meio ao caos embrionário das Linhas Ley. A trágica dissolução está prestes a se repetir...",
+    "1001062": "Um monstro que pode gerar calor continuamente para sustentar sua atividade.\nNão possuem sabedoria, nem consciência, são apenas o resultado do fracasso de uma raça superior.\nAs perturbações das Linhas Ley chegam a desordenar as coisas mortas, apesar de não serem diferentes delas, chegando ao ponto de infundirem o ódio nelas, bem como as memórias e instintos de batalha...",
+    "1001063": "Um dispositivo utilizado para controlar ruínas antigas. \nNo passado distante, uma raça antiga que outrora foi poderosa usava esse mecanismo para supervisionar o funcionamento de sua cidade. Mesmo agora, muito depois da queda de sua civilização, ele ainda retém uma autoridade imensa.\nNas profundezas das anomalias da Linha Ley, a energia do núcleo, outrora enfraquecida pelo passar do tempo, voltou a se reconstituir, alcançando até mesmo o nível extremamente perigoso de \"Sobrecarga\". Esse dispositivo possui uma potência aterradora, capaz de romper as amarras do planeta, sendo totalmente liberada além dos parâmetros originais de projeto, ativando sua terrível \"Manopla Destruidora\"...",
+    "1002061": "Como um monstro abissal que se espalha e cresce como uma planta.\nUm agente da corrosão que continua a corroer este mundo, capaz de extrair memórias relativamente profundas da terra e de reviver memórias ainda mais poderosas por meio da força do Abismo. Sob a projeção extremamente caótica das linhas ley, o ódio que antes se espalhava com as raízes desta criatura gradualmente se transforma em lâminas afiadas, prontas para infligir uma dor profunda aos desafiantes...",
+    "1002062": "Geralmente dócil e lento, este réptil é visto por alguns como um símbolo de sabedoria e boa sorte. No entanto, quando necessário, esse indivíduo especial também pode lançar ataques ferozes contra os desafiantes, transformando seu casco espesso em um pesado martelo que esmaga inimigos.\nSob a projeção extremamente caótica das linhas ley, sua imagem foi distorcida, assumindo uma postura belicosa e fanática, tornando-se um trovão que ataca e defende com igual ferocidade...",
+    "1002063": "Ídolo Pippipan inspirado em \"Tenoch\", mestre de truques de chapéu mirabolantes e estratégias de combate, é capaz de atacar de ângulos variados, fazendo os imprudentes pagarem caro...\nSob a projeção extremamente caótica das linhas ley, a obsessão do intérprete se concretiza numa ofensiva de rejeição e aniquilação. Um pequeno descuido do desafiante, e ele será reduzido a pó como os inimigos esmagados por \"Tenoch\"...",
+    "1003061": "Essa máquina de combate na forma de um dragão é um ser amedrontador, assim como o senhor que governou estas vastas terras.\nEsta monstruosidade mecânica misteriosa incansável parece ser a prova de que a lendária nação já dizimada de fato alcançou o que os mortais nunca deveriam alcançar.\nDevido a passar muito tempo exposto a contaminação das Linhas Ley, sua estrutura evoluiu, gerando uma lógica super destrutiva, e tornando-se um pesadelo mortal no campo de combate...",
+    "1003062": "Um caranguejo que vive dentro de conchas. Possui uma relação distante com o Caranguejo de Armadura de Fontaine. A maioria deles são dóceis e gentis, mas há histórias desses caranguejos lutarem até a morte para defenderem seu território, com sua gentil natureza transformando-se numa fúria selvagem.\nEntre as ilusões tortas das Linhas Ley, o Caranguejo de Pedra guerreiro que caiu contra uma hora de guerreiros reforjou sua habilidade ofensiva para sobreviver ao massacre de milhares de inimigos, uma empreitada que lhe rendeu um enorme sucesso...",
+    "1003063": "Um oficial de elite dos Oprichniki dos Fatui, especialista em combate próximo com uma lâmina gigante.\nSeja na guerra contra a calamidade escura ou contra os ignorantes que ficam no caminho dos ideais da Tsaritsa, aqueles avançam na ponta da lança são os que sofrem as mais pesadas baixas. Aqueles que sobrevivem cem batalhas para então caírem se tornam então memórias temerosas nas Linhas Ley. Devido à constante imersão nas correntes distorcidas, as sombras residuais erguem suas lâminas em uma batalha desesperada contra o desafiante que busca acabar com essa desordem...",
+    "1004061": "Um ser majestoso que caminha com orgulho pela noite coberta de gelo, empunhando poderes ancestrais há muito tempo domados pelo Senhor do Céu. Porém, sob a influência indescritível das Linhas Ley, sua nobreza solene foi usurpada pelo apetite feroz por presas e uma disposição para enfrentar intrusos com o gume gelado de uma lâmina...",
+    "1004062": "Um bravo guerreiro que resistiu à Calamidade Tenebrosa do passado. Embora o brilho de sua vida tenha se extinguido, sua determinação inflexível ainda não se dissipou, e aqueles que prometeram se tornar caçadores da Caçada Feroz continuam suas batalhas incessantes até hoje. Retorcidos pelas Linhas Ley caóticas, qualquer intruso que entre em seu campo de visão não é tratado diferente do que as mais ferozes abominações da Caçada Feroz e enfrenta toda a força de sua determinação e poder...",
+    "1004063": "Um agente de elite entre os Fatui. Selecionados enquanto crianças, eles podem se tornar um \"Oficial\" após muitos anos de treino e ensino, após incontáveis rodadas terem joeirado o campo. Eles são os soldados mais excepcionais entre os Fatui, com habilidade extraordinária e lealdade incondicional.\nInfelizmente, no caos perigoso das Linhas Ley, seu senso de razão há muito foi engolido por uma sede de batalha — uma que levou ela a impiedosamente caçar intrusos e submetê-los a um massacre de pura raiva...",
+    "1005061": "Um monstro do Abismo que através dos poderes obscuros do estígio, ganhou membros extras através da \"evolução\".É capaz de possuir múltiplos tipos de poderes elementais.\nNas memórias distorcidas das Linhas Ley, aparecem como destruidores frenéticos, erguendo-se uma onda após a outra com seus poderes calamitosos blasfemos...",
+    "1005062": "Pode usar sua plumagem para saltar, é o único tipo de Sauriano que compreende como entrar no estado Proferespírito.\nObservando a totalidade de sofrimento e arrependimento, foi consumido pelas memórias distorcidas das Linhas Ley, transformando-se em uma nevasca gélida que enfurece com os ventos de caos incompreensível...",
+    "1005063": "Um produto do Instituto de Pesquisas de Engenharia de Energia Cinética de Fontaine que perdeu o controle acidentalmente. Possui a habilidade de anular os efeitos da gravidade.\nTransformado pelas caóticas Linhas Ley, seu núcleo está instável, e o campo gravitacional que libera agora emerge com uma força de tsunamis para engolir a terra...",
+    "1006061": "Uma criatura do Abismo que se esgueira pelas fendas nas profundezas ocultas, silenciosamente assistindo esse mundo. Dizem que sua forma sinistra, sem rosto, não é nada além de uma projeção, enquanto seu verdadeiro corpo existe apenas como uma massa sem forma de energia abissal pura.\nMovido pela agitação das Linhas Ley caóticas, seus sussurros delirantes e frenéticos foram lapidados em um poder de corte direcionado a romper com a ordem mundial conquistada com muita dificuldade...",
+    "1006063": "Um dos dois soberanos que já estiveram no ápice das espécies das aberrações primordiais, e assunto de muitos contos entre marinheiros. Sem predadores naturais, continuará a caçar e se alimentar enquanto cresce, buscando constantemente conchas adequadas como novas armaduras.\nDistorcido pela perturbação das Linhas Ley, sua natureza violenta ficou tão intensa que agora ele ataca em descontrole como um exército pequeno, golpeando tudo que perceber, uma calamidade em formato de caranguejo em movimento...",
+    "1007061": "Uma Mandrágora excepcionalmente grande, provavelmente produzida por meio de seleção artificial prolongada. Embora o objetivo original por detrás de seu cultivo não ser mais conhecido, o organismo exibe um perfil de comportamento territorial atípico, o que sugere que foi criado como parte de um experimento.\nCom sua forma totalmente distorcida devido ao extremo distúrbio da Linha Ley, agora está determinada a utilizar os ventos uivantes para cobrir a terra com seus esporos...",
+    "1007062": "Um dispositivo Kuuvahki feito de ferro-velho e rolamentos mecânicos, lembrando vagamente, provavelmente devido a sua criadora, um pato. Sua resistência contra dano é comparável aos armamentos de ponta dos Fatui... Mas, ainda assim, é um pato de brinquedo que só pode socar contra seus inimigos com muita, muita força.\nDevido às transformações causadas pelas perturbações extremas das Linhas Ley, a projeção deste mecanismo evoluiu em uma fábrica móvel totalmente equipada com blindagem e armamento. Um movimento errado e um bando de Dispositivos Carregadores atropelará o adversário como um maremoto...",
+    "1008061": "Um monstro antigo atraído pelo luar, essa lagartixa vive nas profundezas das camadas de pedras. O acúmulo gradual de Kuuvahki cristalizou seu corpo em segmentos tão precisos quanto componentes mecânicos. Essas partes podem endurecer e formar espinhos de pedra usados para repelir intrusos.\nAfetado pelo extremo distúrbio das Linhas Ley, seus segmentos cristalizados por Kuuvahki crescem descontroladamente, se entrelaçando e colidindo juntos como uma enorme teia que parece determinada a devorar toda a cordilheira.",
+    "1009061": "Um lobo solitário que não se encaixa com a alcateia local; sua juba azul-esverdeada revela uma linhagem de terras distantes.\nEm meio ao turbilhão caótico da Energia da Linha Ley, as memórias ancestrais se distorceram numa Maldição terrível. Um ódio gélido permeia seu corpo, impelindo implacavelmente essa fera a despedaçar tudo o que seus olhos alcançam.",
+    "1009063": "Uma criação das sombras que emanou de um Grande ser primordial, um vigilante que outrora habitou os céus mais elevados, acabou caindo no mundo mortal ao abrir seus olhos, possuindo a autorização de monitorar e neutralizar ataques elementais.\nSob o bombardeio do fluxo de informações frenético e distorcido das Linhas Ley, sua essência arrogante se transformou em puro desejo de Destruição, levando-o a aniquilar tudo o que seus olhos alcançam.",
+    "1010061": "Originalmente desenvolvido como um mecanismo auxiliar para pesquisas lunares, acabou sendo dotado de poderes e responsabilidades muito além de sua concepção original.\nApós longa exposição à distorção e corrosão das Linhas Ley, seu núcleo e dispositivo de exploração foram completamente reescritos. Nenhum traço de seu propósito inicial sobreviveu. O que o impulsiona agora é apenas uma vontade destrutiva: comandar enxames infinitos para consumir toda forma de vida.",
+    "1010063": "Uma máquina de fabricação das ruínas ancestrais profundas. Os antigos senhores dessas ruínas utilizavam essas máquinas de forma mutável para realizar diversos trabalhos de construção.\nSob o fluxo caótico das correntes de Linha Ley, sua blindagem resistente à lava transformou-se em armadura, e o poder que erguia cidades colossais foi reforjado em garras gigantescas. Os antigos comandos de \"construção\" foram corrompidos pela vontade de \"destruição\", impulsionando-o a executar incessantemente a \"grande obra\" de reduzir tudo a escombros.",
+    "1011061": "Um produto da bioalquimia, um dos monstros artificiais abandonados.\nNo reflexo totalmente distorcido das Linhas Ley, seu domínio sobre os elementos se tornou ainda mais violento. Relâmpagos e vendavais surgem e rugem ao seu comando, não deixando nada em seu rastro...",
+    "1011062": "Uma agente de elite entre os Fatui. Dependendo de suas ordens e dos objetivos da missão, ela pode avançar e recuar ao lado de soldados, ou agir sozinha ou em conjunto com \"ativos infiltrados\" posicionados por todo o território para realizar coleta de informações, contrarreconhecimento, escolta, assassinatos e outras operações.\nTragicamente, em meio ao caos mortal das Linhas Ley desordenadas, o senso de identidade da Oficial foi consumido pela erosão de suas correntes turbulentas. Tudo o que resta é uma casca desgastada por batalhas, agindo puramente por instinto e apontando sua lâmina fria contra todos que ousam se aproximar...",
+    "1012061": "Um escultor de gelo com um corpo fortalecido por incontáveis testes, capaz de moldar Gelo Puro ao empunhar a Energia Anemo como martelo e cinzel.\nDistorcido pelas correntes da Linha Ley ainda mais assustadoramente do que seu próprio gosto artístico, o escultor sucumbiu a um frenesi de inspiração irreprimível. Ele agora busca talhar carne e osso com lufadas de vento uivantes e selar almas em Gelo Puro inquebrável, ansioso para transformar cada intruso perante ele na obra-prima mais recente nesta exposição da calamidade.",
+    "1012063": "Uma Snegovik antiga muito estimada pelo clã dela. No passado, a ela foi confiado o dever vitalício de proteger o povo dela.\nDistorcida pela enchente turbulenta nas Linhas Ley, a ilusão vazia que ela outrora chamou de \"proteção\" foi reduzida a um puro instinto pela matança. Oculta na sombra do Caixão de Gelo, ela aguarda, pronta para se tornar uma lâmina de gelo afiada e elusiva a qualquer momento, e destruir qualquer ser vivo que se aproxime.",
+    "1013061": "Um Volkodlak de poder incomparável, criado para realizar o grande sonho de uma antiga civilização de exploração subaquática.\nSob a influência enlouquecida da perturbação das Linhas Ley, a linhagem inigualável adormecida nela saiu completamente de controle. Sua forma física não só desafia os limites esmagadores da pressão nas profundezas do oceano, como agora surge um poder selvagem e gigantesco capaz de enfrentar diretamente Correntes Escuras invisíveis. Agora, com sua razão completamente consumida, está empenhada em destruir tudo em sua visão até sobrar somente pó."
+  },
+  "mechanics": {
+    "1001061": [
+      {
+        "name": "Dupla de Meias-Tulpas",
+        "text": "Afetado pela perturbação das Linhas Ley, <color=#FFD780FF>2 Meias-Tulpas</color> surgirão em intervalos durante o desafio. Após certo tempo, a Tulpa Hydro irá absorver as Meias-Tulpas para <color=#FFD780FF>se fortalecer</color>: <color=#FFD780FF>recuperará uma grande quantidade de Vida</color>, aumentará de tamanho, seu ATQ será elevado e lançará ataques ainda mais perigosos.\nUse ataques ou Reações Elementais para destruir as Meias-Tulpas a tempo ou <color=#FFD780FF>congele-as</color> para interromper essa absorção."
+      },
+      {
+        "name": "Torrente Destruidora",
+        "text": "Devido às perturbações das Linhas Ley, durante o desafio, o Tulpa Hydro colocará um Escudo e entrará no estado de carregamento, preparando-se para desencadear uma Torrente Destruidora. Se for lançada <color=#FFD780FF>o seu personagem ativo será derrotado imediatamente</color>.\nQuando o Tulpa Hydro colocar o Escudo, o tempo de recarga das Habilidades Elementais e Supremos de todos os membros da equipe será redefinido, e a Energia Elemental, Espírito Lutador e Sutileza da Serpente serão restaurados. Destrua o Escudo do Tulpa Hydro antes de carregar completamente para impedir que lance a Torrente Destruidora."
+      }
+    ],
+    "1001062": [
+      {
+        "name": "Gêmeos de Pedra Ardente",
+        "text": "Inicia no estado Humano Geo, possui <color=#FFD780FF>alta RES Física e contra todos os Elementos</color>. Depois de sofrer <color=#FF9999FF>Dano Pyro</color> uma certa quantidade de vezes, entra no estado Dragão Flamejante, <color=#FFD780FF>reduzindo ainda mais a RES Física e contra todos os Elementos, menos Pyro</color>. Ao continuar a sofrer <color=#FF9999FF>Dano Pyro</color>, sofrerá Dano adicional até um certo ponto, para que enquanto estiver no estado Dragão Flamejante e sofrer <color=#FF9999FF>Dano Pyro</color> uma certa quantidade de vezes, sofrerá Queimaduras e será paralisado, <color=#FFD780FF>reduzindo ainda mais a RES contra todos os Elementos e a RES Física</color>. Depois de ficar paralisado por um tempo, regenera-se para o estado Humano Geo."
+      },
+      {
+        "name": "Efeito de Recarga",
+        "text": "Ao receber <color=#80C0FFFF>Dano Hydro</color> ou <color=#99FFFFFF>Dano Cryo</color>, ele retornará gradualmente à forma Humanoide Geo com maior RES."
+      },
+      {
+        "name": "Solidificação do Calor",
+        "text": "Devido às perturbações das Linhas Ley, fortalece todas as RES dos inimigos ainda mais e aumenta o número de instâncias de Dano Pyro necessárias para mudar de forma."
+      }
+    ],
+    "1001063": [
+      {
+        "name": "Modo de Varredura Prévia",
+        "text": "Entra em Modo de Varredura imediatamente ao começar a batalha: <color=#FFD780FF>aumenta consideravelmente a RES Física e contra todos os Elementos</color>, e gera Energia Fluida enquanto ataca. Quanto maior a Energia Fluida, maior a velocidade do rodopio, e maior o Dano causado.\nDepois de sofrer <color=#99FFFFFF>Dano Cryo</color>, perde Energia Fluida, e quando perder Energia Fluida até um certo valor, interrompe o ataque rodopiante e <color=#FFD780FF>reduz consideravelmente a RES Física e contra todos os Elementos</color>. Além disso, <color=#FFD780FF>reduz ainda mais</color> a <color=#99FFFFFF>RES Cryo</color>.\nToda vez que interromper o primeiro ataque rodopiante após entrar no estado do Modo de Varredura, gera um Orbe Elemental adicional."
+      },
+      {
+        "name": "Estado de Combate Fortalecido",
+        "text": "Se o personagem ativo entrar e se mantiver no estado <color=#FFD780FF>Bênção do Espírito da Noite</color> por um certo tempo, o inimigo entrará no Estado de Combate Fortalecido, passando a fazer ataques de disparos rastreadores mais fortes, mas <color=#FFD780FF>reduzindo a RES Física e contra todos os Elementos</color>.\nQuando estiver nesse estado, depois de sofrer uma certa quantidade de vezes de <color=#99FFFFFF>Dano Cryo</color>, interromperá seus ataques e <color=#FFD780FF>reduzirá ainda mais a RES Física e contra todos os Elementos</color>."
+      },
+      {
+        "name": "Resistência Estruturada",
+        "text": "Afetado pela perturbação das Linhas Ley, todas as Resistências do inimigo poderoso aumentam ainda mais, e ele perderá menos \"Energia Fluida\" ao receber <color=#99FFFFFF>Dano Cryo</color>. Quando estiver no \"Estado de Combate Fortalecido\", a redução de suas Resistências será menor."
+      }
+    ],
+    "1002061": [
+      {
+        "name": "Mimetismo Abissal",
+        "text": "Um grande monstro escuro que veio das profundezas do Abismo, erodindo as memórias da terra. Pode se distorcer e se transformar em um inimigo poderoso que realiza ataques."
+      },
+      {
+        "name": "Apreensão",
+        "text": "Alguns ataques do monstro podem acumular o estado \"Apreensão\", que fará com que o personagem ativo da equipe perca Vida após um certo tempo."
+      },
+      {
+        "name": "Proteção da Escuridão",
+        "text": "Por estar sofrendo da perturbação das Linhas Ley, o Umbo Tenebroso lutará enquanto revela o Revestimento do Vazio. <color=#FFD780FF>Você pode realizar uma certa quantidade de ataques Elementais</color> para destruir o Revestimento do Vazio. Depois de destruí-lo, o Umbo Tenebroso sofrerá uma instância de Dano adicional baseado no Dano resistido pelo Revestimento do Vazio, e ficará Enfraquecido por um tempo. <color=#FFD780FF>Ataques com alinhamento Espírito da Noite</color> possuem uma eficácia maior para destruí-lo, e ao o destruir, sofrerá mais Dano. Depois de entrar no estado Enfraquecido por um tempo, o Umbo Tenebroso tentará reerguer seu Revestimento do Vazio novamente."
+      },
+      {
+        "name": "Ira: Súplica à Escuridão",
+        "text": "Por estar afetado pela perturbação das Linhas Ley, se o Revestimento do Vazio não for destruído por muito tempo, o Umbo Tenebroso realizará Ira: Súplica à Escuridão: entrará no estado de carregamento, e se depois de um tempo o Revestimento do Vazio não for destruído, lançará Choque da Escuridão Tenebroso, <color=#FFD780FF>derrotando o personagem ativo</color>."
+      }
+    ],
+    "1002062": [
+      {
+        "name": "Revestimento de Espinhos Trovejantes",
+        "text": "Após receber <color=#FFD780FF>um certo número de ataques</color>, ele implantará um \"Revestimento de Espinhos Trovejantes\": quando Revestimento sofrer ataques, redirecionará o Dano para os personagens próximos. O Revestimento pode ser quebrado usando Reações Elementais para <color=#FFD780FF>drenar a energia Electro do Revestimento</color>."
+      },
+      {
+        "name": "Trovejar Duradouro",
+        "text": "Por causa da perturbação das Linhas Ley, cada vez que sofrer um ataque, o progresso do Revestimento de Espinhos Trovejantes acumulará mais, mas o progresso reverterá com o passar do tempo. Além disso, o Elemento necessário para destruir o Revestimento de Espinhos Trovejantes terá um aumento notável."
+      }
+    ],
+    "1002063": [
+      {
+        "name": "Capas e Chapéus",
+        "text": "Durante a batalha, cria vários chapéus, e se esconde dentro de um deles, para depois trocar rapidamente a posição do chapéu. Depois de uma certa quantidade de trocas, <color=#FFD780FF>o chapéu que está escondido sofrer Dano de Eletricamente Carregado ou Carga Lunar</color>, interromperá temporariamente a troca de posição de todos os chapéus.\nDepois que causar uma certa quantidade de Dano contra <color=#FFD780FF>o chapéu que está escondido</color>, destrói todos os chapéus e revela-o, sofrendo uma instância de muito Dano entrando no estado enfraquecido. <color=#FFD780FF>Reações de Eletricamente Carregado ou Carga Lunar</color> tem maior eficácia para destruir os chapéus. Quando os chapéus forem destruídos, sofrerá Dano, esse Dano será aumentado com base no Dano <color=#80C0FFFF>Hydro</color>, <color=#FFACFFFF>Electro</color>, <color=#FFD780FF>Eletricamente Carregado ou Carga Lunar</color> que o chapéu sofreu."
+      },
+      {
+        "name": "Rejeição do Chapéu",
+        "text": "Por causa da perturbação das Linhas Ley, esse inimigo fará um poderoso ataque Rejeição do Chapéu: poderá jogar um chapéu que causa <color=#FFACFFFF>muito Dano Electro</color> por um tempo, e esse chapéu possui um <color=#FFD780FF>efeito interruptor forte</color>."
+      }
+    ],
+    "1003061": [
+      {
+        "name": "Contramedidas de Emergência",
+        "text": "Quando está sob influência da perturbação de Linha Ley, cada vez que sofre uma certa quantidade de Dano proporcional a Vida, lança uma onda de energia, e que troca o estado de acordo com o Tipo Elemental de Dano mais alto sofrido nesse período, <color=#FFD780FF>aumentando consideravelmente a RES Elemental correspondente</color>."
+      },
+      {
+        "name": "Mecânica Multi-Combate",
+        "text": "Quando está sob a influência de uma perturbação da Linha Ley, inicia a batalha no estado de combate terrestre. Se não lançar sua corrente de energia por muito tempo, trocará para o estado de combate aéreo."
+      },
+      {
+        "name": "Compartimento de Armadura Nuclear",
+        "text": "Devido a uma perturbação das Linhas Ley, os muitos núcleos da criatura estão protegidos, e não será paralisada quando eles forem atacadas, nem perderá o aumento de sua RES Elemental."
+      }
+    ],
+    "1003062": [
+      {
+        "name": "Sementes da Rocha",
+        "text": "Em uma batalha, Sementes da Rocha serão espalhadas pelo campo de batalha até explodirem depois de um certo tempo. Se essas sementes sofrerem <color=#FFD780FF>Dano de Florescimento, Germinação, Superflorescimento ou Florescimento Lunar</color> antes de explodirão, seus ataques serão convertidos para causarem Dano contra o Caranguejo de Pedra, causando Dano baseado na quantidade total de Dano que sofreram."
+      },
+      {
+        "name": "Ermitão Inflamável",
+        "text": "Por causa da perturbação das Linhas Ley, Sementes da Rocha explodirão após sofrerem Dano Pyro, atirando personagens atingidos pelos ares e causando muito Dano."
+      },
+      {
+        "name": "Bombardeio Czariano Todo-Poderoso",
+        "text": "Devido à perturbação da Linha Ley, após o início da batalha, o Caranguejo de Pedra saltará no ar, lançará várias Sementes da Rocha, então começará a carregar. Ele detonará as Sementes da Rocha, causando Dano sobre uma área ampla, <color=#FFD780FF>derrotando imediatamente seu personagem ativo atual</color> e aumentando imensamente sua própria RES por um período. Enquanto estiver carregando, o Caranguejo de Pedra se cobrirá com um Revestimento que pode ser destruído se receber uma certa quantidade de Dano <color=#FFD780FF>convertido de Sementes da Rocha</color>. Destruir o Revestimento interromperá o carregamento do Caranguejo de Pedra e o paralisará."
+      }
+    ],
+    "1003063": [
+      {
+        "name": "Escudo Múltiplo",
+        "text": "Em combate, o inimigo lançará um Escudo Experimental para se proteger enquanto se prepara para ativar o Conjunto Trovejante. O Escudo se reparará em uma certa quantidade periodicamente. Destruir as 3 camadas do Escudo impedirá que o Conjunto Trovejante seja ativado, paralisando o oponente. <color=#FFD780FF>Dano de Eletricamente Carregado e Carga Lunar</color> é mais eficaz em destruir o Escudo. Quando cada camada do Escudo for destruída, causará dano massivo no inimigo e serão gerados Orbes Elementais adicionais."
+      },
+      {
+        "name": "Saraivada de Raios",
+        "text": "Quando ativa com sucesso o Conjunto Trovejante, causa Dano Electro em uma grande AdE, e continua por um tempo realizando ataques Electro. Se interromper a ativação com sucesso, o equipamento do inimigo quebrará, <color=#FFD780FF>reduzindo consideravelmente a RES Electro</color>."
+      },
+      {
+        "name": "Surto de Energia de Emergência",
+        "text": "Afetado pela perturbação da Linha Ley, o Escudo Múltiplo Experimental aumenta todas as RES Elementais, exceto Electro, e suas habilidades de autorreparo são fortalecidas. Contudo, após sofrer <color=#FFD780FF>Dano de Eletricamente Carregado e Carga Lunar</color>, sua taxa de autorreparo será reduzida imensamente. Ao ser ativado, o Dano causado por Conjunto Trovejante é amplamente aumentado, assim como a duração de seus ataques."
+      }
+    ],
+    "1004061": [
+      {
+        "name": "Estado Véu Melancólico",
+        "text": "Quando em batalha, entrará no estado Véu Melancólico: <color=#FFD780FF>aumenta consideravelmente todas as RES</color>. Ao <color=#FFD780FF>sofrer uma certa quantidade de instâncias de Dano</color>, sairá do estado Véu Melancólico, e mudará o Tipo Elemental para o Elemento do Dano que recebeu mais durante o período de Véu Melancólico, <color=#FFD780FF>obtendo a Imunidade e os Efeitos Elementais correspondentes</color>."
+      },
+      {
+        "name": "Luar Puro",
+        "text": "Ao remover o estado Véu Melancólico, aumenta a eficiência do <color=#FFD780FF>Dano de Reações Lunares</color>. Ao sair do estado Véu Melancólico, se sofrer Dano altos de Reações Lunares, converte para o estado Sem Elemento, <color=#FFD780FF>não obtendo nenhum efeito de Imunidade a Dano Elemental e Encantamento Elemental</color>."
+      }
+    ],
+    "1004062": [
+      {
+        "name": "Lamento Vagante",
+        "text": "Quando a batalha começar, entra no estado Devaneio. Depois de perder toda a Vida, poderá entrar no estado Caçada Feroz."
+      },
+      {
+        "name": "Enlutado",
+        "text": "Quando está no estado de Caçada Feroz, mesmo que sua Vida seja reduzida a zero, recuperará sua Vida até o máximo depois de um período de tempo. Só pode ser derrotado quando sua Vida Máxima for reduzida a zero. <color=#FFD780FF>Reduza sua Vida completamente ou use Habilidades fortalecidas por Presságio Lunar: Reluzir Cheio</color> para o fazer entrar no estado Enlutado. Uma certa proporção de Dano causado durante esse estado será convertida para reduzir sua Vida Máxima. Se você possuir Presságio Lunar: Reluzir Cheio, essa proporção será aumentada."
+      },
+      {
+        "name": "Surto de Exilados",
+        "text": "Quando está no estado de Caçada Feroz, Exilados Selvagens aparecerão periodicamente. Se você não os derrotar dentro de um certo período, seus inimigos farão uma colheita, causando Dano em AdE massivo e derrotando os Exilados Selvagens, restaurando sua Vida Máxima de acordo com a Vida Máxima restante dos Exilados. Devido às perturbações das Linhas Ley, a Vida Máxima dos Exilados Selvagens é aumentada, e a proporção que a Vida Máxima do inimigo é restaurada ao colher Exilados é maior."
+      }
+    ],
+    "1004063": [
+      {
+        "name": "Caçada Veloz",
+        "text": "Quando estive em batalha, consome uma certa quantidade de Vida para fazer uma Caçada: ao atingir o personagem, esse inimigo regenera uma certa proporção de Vida, e aplica um Contrato de Vida na personagem atingida. Enquanto o Contrato de Vida existir, ele sofrerá o Dano recebido. A personagem que possuir o Contrato de Vida causará mais Dano."
+      },
+      {
+        "name": "Perseguição Sangrenta",
+        "text": "Devido às perturbações das Linhas Ley, as habilidades de interrupção do inimigo, bem como sua resistência contra interrupção são elevadas consideravelmente. Ao se preparar para Caçar, entra no estado Perseguição Sangrenta, criando um Escudo. Enquanto o Escudo estiver ativo, <color=#FFD780FF>aplicará continuamente os Contratos de Vida contra todos os personagens</color>. Depois que o Escudo for destruído, o inimigo sofrerá muito Dano."
+      }
+    ],
+    "1005061": [
+      {
+        "name": "Revestimento Elemental: Variante Frenética",
+        "text": "Devido a perturbação das linhas Ley, no começo da batalha, o inimigo revela <color=#FFD780FF>Revestimentos Electro, Pyro e Hydro</color> em sequência para se proteger, ajustando seus ataques para combinar com o Elemento ativo. <color=#FFD780FF>Destruir um Revestimento com Reações Elementais</color> causará muito Dano baseado na <color=#FFD780FF>quantidade de Dano absorvida pelo Revestimento</color>, e forçará o inimigo a trocar para outra forma Elemental, e a invocar o Revestimento correspondente. Quando todos os três Revestimentos forem destruídos, o inimigo será paralisado por um curto período de tempo."
+      }
+    ],
+    "1005062": [
+      {
+        "name": "Onda de Choque Sônica: Sequência",
+        "text": "Devido a perturbação das Linhas Ley, o inimigo ganha fortalecimento de todas as RES. Durante o combate, salta no ar com mais frequência, flutua no ar por um tempo e continuamente lança ondas de choque sônicas do ar."
+      },
+      {
+        "name": "Ataque Súbito Gélido: Assalto Prolongado",
+        "text": "Durante o combate, o inimigo aplicará um <color=#FFD780FF>Revestimento Cryo</color> para se proteger, saltar no ar e começar a carregar o Ataque Súbito Gélido. Após um certo tempo, lançará Ataque Súbito Gélido e <color=#FFD780FF>derrotará instantaneamente seu personagem ativo</color>. <color=#FFD780FF>Destrua o Revestimento Cryo com Reações Elementais</color> para derrubar o inimigo, interromper a preparação do ataque dele e causar uma única instância de Dano gigantesco baseado na <color=#FFD780FF>quantidade de Dano que o Revestimento absorveu</color>. Enquanto o inimigo está preparando esse ataque, todos os personagens na sua equipe <color=#FFD780FF>recuperarão Energia Elemental, Espírito Lutador ou Sutileza da Serpente</color>. Se o Revestimento não for destruído após um tempo, Zonas da Geada aparecerão no chão: <color=#FFD780FF>desencadeie Reações Elementais para destruir cada Zona da Geada</color> para gradualmente enfraquecer e eventualmente destruir o Revestimento Cryo."
+      },
+      {
+        "name": "Perturbação de Vórtice",
+        "text": "Devido a uma perturbação de Linhas Ley, quando o inimigo começar a carregar Ataque Súbito Gélido, uma Perturbação de Vórtice aparecerá no campo, causando Dano Anemo em AdE contra <color=#FFD780FF>inimigos e aliados</color>. Se o vórtice atingir o inimigo, sua <color=#FFD780FF>RES Cryo</color> será reduzida, bem como seu Revestimento.\nAlém disso, a Perturbação de Vórtice pode ser afetada por efeitos de puxão, que alteram sua trajetória de movimento."
+      }
+    ],
+    "1005063": [
+      {
+        "name": "Núcleo Gravitacional: Profundeza Crítica",
+        "text": "Devido a perturbação das Linhas Ley, o inimigo gera um Campo de Redução de Gravidade durante o combate, aumentando consideravelmente a altura dos saltos dos personagens. Cada vez que um personagem alcançar uma certa altura, seu ATQ é consideravelmente aumentado por 1.5s. Quando o campo está ativo, <color=#FFD780FF>ondas de choque gravitacionais inevitáveis surgirão do chão periodicamente</color>, ganhando 1 acúmulo de poder fortalecido e frequência a cada 5s. Cada <color=#FFD780FF>Ataque Imersivo</color> remove 1 acúmulo desse fortalecimento."
+      },
+      {
+        "name": "Núcleo Resiliente",
+        "text": "Devido a perturbação das Linhas Ley, o núcleo Ousia se torna mais forte, e o Campo de Redução da Gravidade permanecerá ativo, mesmo após sofrer <color=#FFD780FF>3 ataques Pneuma</color>."
+      }
+    ],
+    "1006061": [
+      {
+        "name": "Escudo das Profundezas: Praga Enraizada",
+        "text": "Afetado pela perturbação da Linha Ley, o Lorde das Profundezas Desconhecidas: Sussurrador de Pesadelos reunirá energia do Abismo para criar um escudo protetor extremamente resistente. <color=#FFD780FF>Dano de Reações Lunares</color> é especialmente eficaz em quebrá-lo. Quando um inimigo poderoso aplica um Escudo, a primeira vez que esse Escudo sofrer Dano de Reações Lunares, ele gera um Orbe Elemental adicional. Quando o escudo é destruído, o Lorde das Profundezas Desconhecidas: Sussurrador de Pesadelos sofre uma única instância de dano gigantesco e entra num estado enfraquecido por um breve período."
+      },
+      {
+        "name": "Ataque da Fenda",
+        "text": "Afetado pela perturbação da Linha Ley, o Lorde das Profundezas Desconhecidas: Sussurrador de Pesadelos entrará num estado de carga e invocará múltiplos Pescadores das Profundezas. Se a carga for concluída, causará dano em uma grande área e consumirá todos os Pescadores. Derrotar os Pescadores durante a carga quebra o escudo e interrompe a carga."
+      }
+    ],
+    "1006063": [
+      {
+        "name": "Chifres Fundidos",
+        "text": "Os chifres duplos fundidos localizados no alto do corpo do Imperador do Fogo e Ferro são órgãos <color=#FFD780FF>alinhados ao Pyro</color> que permitem ele lançar ataques elementais mais poderosos e concedem ainda mais capacidades defensivas. Quando o inimigo lança certos ataques, seus chifres duplos fundidos ficam <color=#FFD780FF>próximos ao chão</color>, fornecendo uma ótima oportunidade para <color=#FFD780FF>usar Reações Elementais para destruir os chifres duplos fundidos</color>. Quando o elemento Pyro nos chifres é removido, o oponente poderoso sofrerá uma única instância de dano gigantesco e não poderá restaurar os chifres por um breve período."
+      },
+      {
+        "name": "Escudeiro",
+        "text": "Afetado pela perturbação da Linha Ley, o Imperador do Fogo e Ferro invocará Caranguejos Escudo-Firme para auxiliar na batalha. Os Caranguejos Escudo-Firme canalizarão continuamente o elemento Pyro para os chifres duplos fundidos. Quando a energia Pyro for removida totalmente, eles serão derrotados. Quando um Caranguejo Escudo-Firme é derrotado, ele perderá o controle e se chocará contra o Imperador do Fogo e Ferro, sobrecarregando o elemento Pyro nos chifres duplos fundidos e os danificando. O Imperador do Fogo e Ferro também sofre dano adicional proporcional ao dano total que o Caranguejo Escudo-Firme recebeu anteriormente. Um máximo de três Caranguejos Escudo-Firme podem estar em campo simultaneamente."
+      },
+      {
+        "name": "Coroação Radiante",
+        "text": "Afetado pela perturbação da Linha Ley, o Imperador do Fogo e Ferro realizará \"Coroação Radiante\" em batalha, carregando brevemente antes de causar dano em uma grande área. Destruir os chifres duplos fundidos interrompe a carga."
+      }
+    ],
+    "1007061": [
+      {
+        "name": "Estado Aglomerado Poderoso",
+        "text": "Devido aos efeitos do distúrbio das Linhas Ley nesse Vilão, quando a batalha começa, ele entra no Estado Aglomerado, durante o qual <color=#FFD780FF>toda sua RES é drasticamente aumentada</color>. Enquanto nesse estado, a Energia de Aglomeração do Vilão é constantemente drenada. Causar <color=#FFD780FF>Dano Pyro ou Electro</color> ao Vilão drenará essa energia mais rapidamente. Quando sua Energia de Aglomeração for totalmente consumida, o Vilão lançará \"Floração de Esporos\" e trocará para o Estado Dividido."
+      },
+      {
+        "name": "Estado Dividido",
+        "text": "Uma grande quantidade de esporos vão se espalhar e dividir quando o Vilão entra no Estado Dividido. Quando esses esporos levam dano, uma porção do dano também é causada no Vilão, que sairá do Estado Dividido e retornará para o Estado Aglomerado após um certo tempo. Porém, se o número de esporos em campo cair abaixo de um certo número, o Vilão entrará no Estado Aglomerado Frágil, durante sua duração, <color=#FFD780FF>toda resistência é bastante reduzida</color> e suas habilidades de combate são reduzidas. Adicionalmente, se todos os esporos gerados no Estado Dividido forem derrotados, o Vilão sairá do Estado Dividido cedo e entrar no Estado Aglomerado Frágil."
+      },
+      {
+        "name": "Estrutura Oca",
+        "text": "Devido ao efeito do distúrbio das Linhas Ley nesse Vilão, quando no Estado Dividido ou Estado Aglomerado Frágil sua <color=#FFD780FF>RES Anemo é bastante reduzida</color>."
+      }
+    ],
+    "1007062": [
+      {
+        "name": "Modo de \"Patostrução Pesado\"",
+        "text": "Devido aos efeitos das perturbações das Linhas Ley, quando a batalha começar, esse Vilão entra no modo \"Patostrução Pesada\", do qual sua agressão aumenta. Também cria um Revestimento para si <color=#FFD780FF>que aumenta toda sua RES</color> e invoca Dispositivos Carregadores para te incomodar."
+      },
+      {
+        "name": "Dispositivos Carregadores de Baixa Resistência",
+        "text": "<color=#FFD780FF>Cause Dano de Carregado Eletricamente e/ou de Carga Lunar repetidamente, ou apenas cause Dano o suficiente</color> para perturbar esses dispositivos. Dispositivos Carregadores perturbados ficarão fora de controle, baterão no Marreco Marreta e causarão uma certa quantidade de Dano ao seu Revestimento. Ao destruir o Revestimento do Vilão dessa forma, você pode fazer com que ele saia do modo de \"Patostrução\" e ficar incapacitado devido à sobrecarga. Isso também <color=#FFD780FF>reduzirá imensamente a RES Electro do Vilão por um certo período</color>."
+      },
+      {
+        "name": "Sistema de Mudança Rápida de Frequência",
+        "text": "Devido aos efeitos das perturbações das Linhas Ley, os Dispositivos Carregadores se tornam mais resistentes — cause <color=#FFD780FF>mais instâncias de Dano de Eletricamente Carregado e/ou Carga Lunar</color>, ou <color=#FFD780FF>mais dano</color> a esses dispositivos para os interromper. <color=#FFD780FF>Dano de Eletricamente Carregado e Carga Lunar</color> causados a esses Dispositivos Carregadores serão mais efetivos, e quando perdem controle e batem contra o Marreco Marreta, o Dano causado a este último aumenta com base no <color=#FFD780FF>Dano total sofrido</color> pelos dispositivos."
+      }
+    ],
+    "1008061": [
+      {
+        "name": "Reverberação Errante",
+        "text": "Após o início da batalha, o Vilão deixará a Âncora da Pedra Lunar em campo, então saltará para um lugar alto e se preparará para usar Reverberação Errante. Após um tempo, desencadeará um golpe poderoso em AdE. Use <color=#FFD780FF>métodos adequados para lidar contra Geo</color> para destruir as múltiplas camadas de Revestimento Geo da Âncora da Pedra Lunar. Destruí-la interromperá o carregamento da habilidade e causará Dano massivo ao Vilão. Quanto mais Dano a Âncora da Pedra Lunar sofrer durante a fase de preparação, maior será o Dano causado ao Vilão quando a Âncora da Pedra Lunar for destruída. Devido aos distúrbios das Linhas Ley, usar ataques <color=#FFD780FF>Geo</color> contra a Âncora da Pedra Lunar aumentará ainda mais o Dano causado ao Vilão."
+      },
+      {
+        "name": "Rocha Imovível",
+        "text": "Devido aos efeitos dos distúrbios das Linhas Ley, o Revestimento Geo em camadas da Âncora da Pedra Lunar se tornou mais resiliente."
+      },
+      {
+        "name": "Casulos Brilhantes",
+        "text": "Durante o combate, o Vilão conduzirá Geo para aplicar Casulos Brilhantes aos personagens e aumentar sua própria RES Geo. Personagens presos nos Casulos Brilhantes <color=#FFD780FF>causam Dano reduzido e recebem menos cura</color>. <color=#FFD780FF>Quando a Vida de um personagem é completamente recuperada através da cura</color>, ele se liberta do casulo e obtém o efeito de Desemaranhado, temporariamente aprimorando sua habilidade. Quando qualquer personagem na equipe conseguir se libertar, o Vilão perderá a RES Geo concedida pelos Casulos Brilhantes."
+      }
+    ],
+    "1009061": [
+      {
+        "name": "Espírito do Lobo Ancestral: Manifestação",
+        "text": "No início da batalha, o Vilão invocará o \"Espírito do Lobo Ancestral\" para lutar ao seu lado. Afetado pela perturbação das Linhas Ley, <color=#FFD780FF>enquanto estiver sob a proteção do \"Espírito do Lobo Ancestral\", o Vilão é invulnerável a todo Dano</color>. O \"Espírito do Lobo Ancestral\", sendo uma entidade espiritual, possui um Revestimento Cryo especial que só pode ser destruído por meio de <color=#FFD780FF>Reação de Redemoinho Pyro ou Electro</color>. Quando o Revestimento for destruído, o espírito desaparecerá e o Vilão ficará brevemente Paralisado, sofrendo uma grande quantidade de Dano de contra-ataque. Quanto mais Dano o Revestimento absorver, maior será o Dano de contra-ataque; além disso, <color=#FFD780FF>Dano Pyro e Dano Anemo</color> aumentarão ainda mais o Dano de contra-ataque."
+      }
+    ],
+    "1009063": [
+      {
+        "name": "Supervisão Coordenada",
+        "text": "No começo da batalha, o Despertado entra no estado \"Supervisão Coordenada\". Nesse estado, ele registra separadamente o número de vezes que recebe Dano Elemental de <color=#FFD780FF>Pyro/Hydro/Electro/Cryo</color>. Quando o número de Danos sofridos de um Elemento específico atinge 5, ele sai desse estado e <color=#FFD780FF>registra esse elemento como alvo monitorado</color>. Se nenhum elemento for monitorado com sucesso, o registro fica vazio e ele causa Dano Geo. Após a primeira monitoração de Supervisão Coordenada, esse inimigo de elite irá reiniciá-la após um curto período de tempo. Devido à influência das Linhas Ley, o tempo de registro será prolongado, e elementos já monitorados exigem um número maior de ataques acumulados para serem monitorados novamente. Devido à perturbação das Linhas Ley, o Despertado terá aumento de RES Elemental e Física durante o período de Supervisão Coordenada."
+      },
+      {
+        "name": "Delírio dos Fenômenos",
+        "text": "Após completar o monitoramento de dois elementos, o Despertado voará para o alto, se preparando para invocar o Delírio dos Fenômenos, liberando os Tipos Elementais monitorados anteriormente e invocando duas Estrelas Elementais Ativas dos elementos correspondentes. Se o registro de elementos estiver vazio, ele invocará uma Estrela Elemental Inerte com <color=#FFD780FF>RES contra Todos os Elementos e RES Física elevadas</color>. Se o Vilão invocar duas Estrelas Elementais Ativas de elementos diferentes, ambas as estrelas se tornarão mais fáceis de serem destruídas. Quando uma Estrela Elemental Ativa for destruída, causará ao Vilão uma grande quantidade de Dano do elemento registrado. Se for uma Estrela Elemental Inerte que for destruída, causará Dano Geo ao Vilão. <color=#FFD780FF>Destrua todas as estrelas elementais</color> para interromper a preparação do Delírio dos Fenômenos. Se as duas estrelas elementais não forem destruídas dentro do tempo limite, elas causarão uma Explosão, gerando uma grande quantidade de Dano em uma AdE."
+      }
+    ],
+    "1010061": [
+      {
+        "name": "Campo de Supressão - Loop de Energia",
+        "text": "No início do combate, o Vilão implantará 4 dispositivos de detecção protegidos por <color=#FFD780FF>Revestimentos Hydro</color>, criando um Campo de Supressão especial. Esse campo gera um <color=#FFD780FF>Escudo de Energia</color> para o Vilão e aumenta <color=#FFD780FF>todas as RES do Vilão, exceto Cryo e Electro</color>. Após o Campo de Supressão ser mantido por algum tempo, o Vilão desencadeará um Ataque Alfa, causando dano em uma grande AdE, recolhe todos os dispositivos de detecção e, com base na quantidade recolhida, obtém um <color=#FFD780FF>Revestimento Hydro</color> com absorção proporcional à quantidade de dispositivos recolhidos. Fracassar em recuperar qualquer dispositivo de detecção só concederá um Revestimento Hydro fraco."
+      },
+      {
+        "name": "Campo de Força",
+        "text": "Devido à perturbação das Linhas Ley, quando o Escudo de Energia do campo de força do Vilão for destruído, o Campo de Supressão entrará em colapso, o Vilão sofrerá um grande dano de retaliação e ficará brevemente Paralisado. Além disso, sempre que o Vilão <color=#FFD780FF>for afetado pela Reação de Supercondutor ou Supercondutor Estelar</color>, perderá uma quantidade fixa de Escudo. <color=#FFD780FF>Dano das Reações de Supercondutor e Supercondutor Estelar</color> é mais eficaz em quebrar o Escudo e aumentará ainda mais o Dano de rebote sofrido quando o Escudo é destruído."
+      },
+      {
+        "name": "Dispositivo de Detecção - Componente Pressurizado",
+        "text": "Os dispositivos de detecção serão destruídos quando o <color=#FFD780FF>Revestimento Hydro for quebrado</color> ou quando <color=#FFD780FF>estiverem Congelados e receberem Dano de Reações Elementais como Quebrar Gelo ou Fusão</color>. Sob a influência da perturbação das Linhas Ley, sempre que um dispositivo de detecção for destruído, o Revestimento do Vilão será danificado."
+      }
+    ],
+    "1010063": [
+      {
+        "name": "Contramedidas Adaptativas - Inicialização Fria",
+        "text": "Ao iniciar o combate, o Vilão será protegido por um <color=#FFD780FF>Escudo forte</color> e ganhará RES contra Todos os Elementos e RES Física maiores. Quando um Personagem entra e mantém o estado de \"Bênção do Espírito da Noite\", o Vilão acumulará Progresso em \"Contramedidas Adaptativas\". Sob a influência da perturbação das Linhas Ley, após o Vilão completar o acúmulo de \"Contramedidas Adaptativas\" pela primeira vez, ele perderá <color=#FFD780FF>todo o aumento de RES obtido no início do combate</color>, seu <color=#FFD780FF>Escudo</color> será quebrado, então ele sofrerá Dano de rebote baseado na quantidade de Dano absorvido pelo Escudo."
+      },
+      {
+        "name": "Canhão Esférico de Raios - Pistão de Alta Pressão",
+        "text": "Quando o Progresso das Contramedidas Adaptativas estiver completo, o Vilão ativará o Mecanismo de Coleta, extraindo 2 unidades de Flogisto Sólido e absorvendo sua Energia para preparar o Canhão Esférico de Raios. O Mecanismo de Coleta gera um campo de força para se proteger. Você deve <color=#FFD780FF>escalar o Flogisto Sólido e entrar no campo de força</color> para destruí-lo. Ao destruir todos os Mecanismos de Coleta, o Carregamento do Canhão Esférico de Raios será interrompido, deixando o Vilão <color=#FFD780FF>Paralisado e sofrendo Dano de ricochete simultaneamente</color>. Devido à perturbação das Linhas Ley, o Progresso das Contramedidas Adaptativas se acumula com o tempo, mas o limite de Progresso necessário para acionar o Canhão Esférico de Raios também aumenta."
+      }
+    ],
+    "1011061": [
+      {
+        "name": "Invocação do Trovão: Escudo Robusto",
+        "text": "Devido aos efeitos do distúrbio das Linhas Ley, no início da batalha, o Vilão utilizará o poder de sua cabeça Electro para gerar um <color=#FFD780FF>Revestimento Electro resistente</color> para se proteger. Em intervalos regulares, as duas cabeças do Vilão agirão em conjunto, canalizando poder Anemo em seu espadão Electro para lançar uma grande onda de choque Electro. Se o Vilão estiver sob o efeito de <color=#FFD780FF>Brilho Reluzente: Brilho Estelar</color> nesse momento, seu poder será desestabilizado e causará um ricochete, <color=#FFD780FF>causando Dano ao seu Revestimento</color>. Assim que o <color=#FFD780FF>Revestimento for quebrado</color> através de Reações Elementais, o Vilão parará de atacar por exaustão e ficará paralisado. Sua <color=#FFD780FF>RES a Cryo e Anemo também será reduzida drasticamente</color>, e ele receberá uma única instância de Dano de ricochete massivo com base no Dano bloqueado pelo Revestimento. O <color=#FFD780FF>Dano da reação de Brilho Estelar</color> aumentará o Dano de ricochete que o Vilão sofre quando o Revestimento é quebrado."
+      },
+      {
+        "name": "Ventania: Ataque Feroz",
+        "text": "Devido aos efeitos da perturbação da Linha Ley, durante a batalha, o Vilão utilizará o poder de sua cabeça Anemo para levantar voo, circular rapidamente e atacar disparando Rajadas de Vento. Após terminar de circular, o Vilão criará um vórtice, tentando atrair e absorver Orbes Anemo no campo para recuperar seu poder. Após absorver Orbes Anemo suficientes, ele levantará voo mais uma vez e lançará outro ataque circular. Os Orbes Anemo podem ser destruídos com <color=#FFD780FF>Dano Hydro/Pyro/Electro/Cryo</color>. Você também pode colocar o Vilão sob o efeito de <color=#FFD780FF>Brilho Reluzente: Brilho Estelar</color> para impedi-lo de absorver os Orbes Anemo. Se o vórtice se dissipar antes que o Vilão tenha absorvido Orbes Anemo suficientes, ele ficará imediatamente paralisado. Sua <color=#FFD780FF>RES Cryo e RES Anemo também serão reduzidas imensamente</color>."
+      }
+    ],
+    "1011062": [
+      {
+        "name": "Caçada Veloz",
+        "text": "Quando estiver em batalha, consome uma certa proporção de Vida para fazer uma Caçada: ao atingir o personagem, esse inimigo regenera uma certa proporção de Vida e aplica um Contrato de Vida no personagem atingido. Enquanto o Contrato de Vida existir, o personagem afetado sofrerá Dano contínuo. Personagens com Contrato de Vida sofrem Dano aumentado deste ataque."
+      },
+      {
+        "name": "Perseguição Sangrenta: Traiçoeiro",
+        "text": "Devido às perturbações das Linhas Ley, as habilidades de interrupção do inimigo, bem como sua resistência contra interrupção, são elevadas consideravelmente. Quando sua postura é quebrada no ar, ela pode se esquivar imediatamente e se recompor rapidamente. Ao se preparar para Caçar, entra no estado Perseguição Sangrenta, criando um Escudo. Enquanto o Escudo estiver ativo, <color=#FFD780FF>aplicará continuamente os Contratos de Vida contra todos os personagens</color>. Depois que o Escudo for destruído, o inimigo sofrerá um Dano massivo."
+      }
+    ],
+    "1012061": [
+      {
+        "name": "Geladinho de Boca Grande",
+        "text": "Quando a batalha começa, o Vilão acumulará Energia Anemo para criar uma escultura de Gelo Puro. Após um breve tempo, a escultura se transformará num Geladinho de Boca Grande que dispara bolas de neve continuamente.\nInflija <color=#FFD780FF>Brilho Reluzente: Brilho Estelar</color> no Vilão enquanto ele estiver criando a escultura para interromper o processo e transformá-la numa estátua de um animal inofensivo."
+      },
+      {
+        "name": "Frenesi Criativo",
+        "text": "Devido aos efeitos da perturbação da Linha Ley, o Vilão <color=#FFD780FF>iniciará a batalha com RES contra Todos os Elementos e RES Física aumentadas drasticamente</color>, além de criar esculturas de Gelo Puro mais frequentemente.\nApós uma escultura de gelo ser transformada numa estátua de animal pequena, ela explodirá após um breve tempo, causando Dano ao Vilão e <color=#FFD780FF>reduzindo a sua RES contra Todos os Elementos e RES Física, enquanto reduz ainda mais sua RES Anemo</color>. Esse efeito pode <color=#FFD780FF>acumular até 3 vezes</color>."
+      }
+    ],
+    "1012063": [
+      {
+        "name": "Caixão de Gelo: Trama de Cristal Geminada",
+        "text": "Durante a batalha, quando a Vida dele cai abaixo de um certo limite, o Vilão recua para um Caixão de Gelo e ganha um <color=#FFD780FF>Revestimento Cryo</color> para se proteger.\nEnquanto o Caixão de Gelo estiver ativo, o Vilão lançará Tempestades de Gelo continuamente ao redor de si. Se o Caixão de Gelo não for destruído, o Vilão recuperará uma porção da própria Vida e criará espadas de gelo para lançar um contra-ataque. Contudo, se o Caixão de Gelo sustentando a vida dele for destruído, o Vilão entra num estado enfraquecido por um período e sofre Dano de retaliação. Devido à perturbação da Linha Ley, seu <color=#FFD780FF>Caixão de Gelo será mais resistente</color>. Em um breve período após ser destruído pela primeira vez, o Vilão <color=#FFD780FF>recuará para outro Caixão de Gelo</color>."
+      },
+      {
+        "name": "Caixão de Gelo: Trama de Cristal Distorcida",
+        "text": "Enquanto o <color=#FFD780FF>Caixão de Gelo estiver ativo</color>, se o Vilão for afetado por <color=#FFD780FF>Brilho Reluzente: Brilho Estelar</color>, <color=#FFD780FF>o Revestimento Cryo do Caixão de Gelo se transformará em um escudo que absorve Dano.</color> Quando o escudo for destruído, o Vilão sofrerá uma grande quantidade de Dano de retaliação."
+      }
+    ],
+    "1013061": [
+      {
+        "name": "Coragem Contra o Frio: Embriaguez Revigorante",
+        "text": "Devido aos efeitos da perturbação da Linha Ley, de tempos em tempos, o Vilão pegará um cantil térmico para beber avidamente, acumulando assim muito Valor de Bravura. Enquanto bebe, se o Vilão estiver sob a influência do efeito <color=#FFD780FF>Brilho Reluzente: Brilho Estelar</color>, a eficiência de acúmulo do Valor de Bravura irá diminuir. Além disso, o Valor de Bravura do Vilão será reduzido ao receber <color=#FFD780FF>Dano Electro</color>; se for <color=#FFD780FF>Dano Electro considerado Dano de Reação correspondente à Reação de Brilho Estelar</color>, seu Valor de Bravura será reduzido em uma quantidade ainda maior."
+      },
+      {
+        "name": "Ataque Valente",
+        "text": "Devido aos efeitos da perturbação da Linha Ley, quando o Valor de Bravura do Vilão atingir o máximo, ele entrará no estado Ataque Valente. Enquanto estiver neste estado, seus ataques serão mais ferozes. Ele também <color=#FFD780FF>gerará um escudo e aumentará imensamente todas as RES, exceto a RES Electro, que receberá um aumento pequeno</color>. Enquanto estiver no estado de Ataque Valente, o Valor de Bravura do Vilão será consumido continuamente. <color=#FFD780FF>Dano Electro também drenará mais Valor de Bravura do que o normal</color>. Ele sairá deste estado e sofrerá um grande Dano de retaliação quando o Valor de Bravura for esgotado. Quanto mais Dano o escudo absorver durante o estado Intrepidez: Investida Furacão, maior será o Dano de retaliação sofrido quando o estado acabar. <color=#FFD780FF>Dano da Reação de Brilho Estelar</color> aumentará o Dano de retaliação sofrido quando o escudo é quebrado."
+      }
+    ]
+  },
+  "tags": {
+    "1001061": {
+      "good": "Personagens {SPRITE_PRESET#11003}",
+      "bad": "Personagens {SPRITE_PRESET#11002}"
+    },
+    "1001062": {
+      "good": "Personagens {SPRITE_PRESET#11007}{SPRITE_PRESET#11003}",
+      "bad": "Personagens {SPRITE_PRESET#11001}{SPRITE_PRESET#11002}"
+    },
+    "1001063": {
+      "good": "Personagens {SPRITE_PRESET#11001}"
+    },
+    "1002061": {
+      "good": "Dano Elemental de Alta Frequência | Dano de Alinhamento Espírito da Noite"
+    },
+    "1002062": {
+      "good": "Dano de Baixa Frequência",
+      "bad": "Dano de Alta Frequência"
+    },
+    "1002063": {
+      "good": "Reações {SPRITE_PRESET#11034} | Escudos"
+    },
+    "1003061": {
+      "good": "Dano Multi-Elemental",
+      "bad": "Dano de Único Elemento"
+    },
+    "1003062": {
+      "good": "Reação Elemental {SPRITE_PRESET#11029}",
+      "bad": "Personagens {SPRITE_PRESET#11003}"
+    },
+    "1003063": {
+      "good": "{SPRITE_PRESET#11034}Reações Elementais |  Personagens {SPRITE_PRESET#11004}"
+    },
+    "1004061": {
+      "good": "Dano Elemental de Alta Frequência | Dano Multi-Elemental  | Dano de Reações Lunares"
+    },
+    "1004062": {
+      "good": "Presságio Lunar: Reluzir Cheio"
+    },
+    "1004063": {
+      "good": "Contrato de Vida da Personagem  |  Escudo da Personagem"
+    },
+    "1005061": {
+      "good": "Personagens {SPRITE_PRESET#11001}{SPRITE_PRESET#11002}{SPRITE_PRESET#11007}"
+    },
+    "1005062": {
+      "good": "{SPRITE_PRESET#11003}Personagens | Personagens de ataque à distância | Personagens de controle de grupo",
+      "bad": "Personagem de Ataque Corpo-a-Corpo"
+    },
+    "1005063": {
+      "good": "Personagem de Ataque Imersivo"
+    },
+    "1006061": {
+      "good": "Dano de Reações Lunares"
+    },
+    "1006063": {
+      "good": "Personagens {SPRITE_PRESET#11002}",
+      "bad": "Personagens {SPRITE_PRESET#11003}"
+    },
+    "1007061": {
+      "good": "{SPRITE_PRESET#11003}{SPRITE_PRESET#11004} Personagens | Personagens de Controle de Multidão"
+    },
+    "1007062": {
+      "good": "{SPRITE_PRESET#11034}Reações Elementais |  Personagens {SPRITE_PRESET#11004}"
+    },
+    "1008061": {
+      "good": "{SPRITE_PRESET#11006} Personagens | Personagens de Cura"
+    },
+    "1009061": {
+      "good": "Vantagem de reação de {SPRITE_PRESET#11028}{SPRITE_PRESET#11024}"
+    },
+    "1009063": {
+      "good": "Vantagem de reação de {SPRITE_PRESET#11027}{SPRITE_PRESET#11035}"
+    },
+    "1010061": {
+      "good": "{SPRITE_PRESET#11001}{SPRITE_PRESET#11004} Personagens  |  Personagens de Ataque à Distância",
+      "bad": "{SPRITE_PRESET#11002} Personagens  |  Personagens de Ataque Corpo-a-Corpo"
+    },
+    "1010063": {
+      "good": "Personagens com Bênção do Espírito da Noite"
+    },
+    "1011061": {
+      "good": "{SPRITE_PRESET#11022}Reações | {SPRITE_PRESET#11001} Personagens"
+    },
+    "1011062": {
+      "good": "Contrato de Vida da Personagem  |  Escudo da Personagem"
+    },
+    "1012061": {
+      "good": "Personagens de Brilho Estelar  | {SPRITE_PRESET#11005} personagens"
+    },
+    "1012063": {
+      "good": "Personagens de Brilho Estelar  | {SPRITE_PRESET#11003} personagens"
+    },
+    "1013061": {
+      "good": "Personagens de Brilho Estelar  | {SPRITE_PRESET#11004} personagens"
+    }
+  },
+  "season": {
+    "5269001": "Repelente da Incursão",
+    "5269002": "Campanha Feroz",
+    "5269003": "Operação Destruidora",
+    "5269004": "Campanha Heroica Veloz",
+    "5269005": "Julgamento do Tremor",
+    "5269006": "Expurgo da Praga",
+    "5269007": "Esmague e Destrua",
+    "5269008": "Batalha da Jade Estilhaçada",
+    "5269009": "Conflito Impetuoso",
+    "5269010": "Tremores Selvagens",
+    "5269011": "Batalha da Aura Estelar",
+    "5269012": "Batalha do Esplendor Cintilante",
+    "5269013": "Batalha em Meio a Grandes Ondas"
+  }
+}

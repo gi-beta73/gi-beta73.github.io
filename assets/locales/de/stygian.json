@@ -1,0 +1,516 @@
+{
+  "boss": {
+    "1001061": "Hydro-Imitator – Turbulenter Wirbel",
+    "1001062": "Lavadrachengestalt – Lodernde Flamme",
+    "1001063": "Geheimquellen-Automaton – Aufseher – Zerstörungswaffe",
+    "1002061": "Tiefenpflanze – Illusorisch finster",
+    "1002062": "Altgediente Zeltschildkröte – Trommelnde Ägide",
+    "1002063": "Altgedienter Star von Pipilpan – Teuflisch volatil",
+    "1003061": "Omendrache – Vernichter",
+    "1003062": "Altgedienter Felsenkrebs – Millionenfache Explosion",
+    "1003063": "Altgedienter Feuerklingen-Sturmtruppsoldat – Todesbewaffnung",
+    "1004061": "Himmelswächter der Frostnacht – Hass und Wut",
+    "1004062": "Altgedienter Lichthüter – Echos der Trauer",
+    "1004063": "Altgediente Frostdienerin – Blutbefleckte Klinge",
+    "1005061": "Lasterhafter Täufer – Resonanzzorn",
+    "1005062": "Altgedienter Iktomisaurier – Groll im Schnee",
+    "1005063": "Experimenteller Feldgenerator – Extremes Energiepotential",
+    "1006061": "Herr der verborgenen Tiefen – Flüsterer der Albträume – Schneide des Verwüsters",
+    "1006063": "Kaiser von Feuer und Eisen – Verhängte Eroberung",
+    "1007061": "Altgediente hexagonische Mandragora – Sturmrebe",
+    "1007062": "Prügelente – Gepanzertes Arsenal",
+    "1008061": "Glimmermondgecko – Verflochtene Reißzähne",
+    "1009061": "Kampferprobter Frostwolf – Gletscher-Seele",
+    "1009063": "Wachäugiger – Überhebliche Verachtung",
+    "1010061": "Schatten der Geheimquell-Steuerformation der Pioniere – Wille des Schwarms",
+    "1010063": "Geheimquellen-Automaton – Konfigurationsgerät – Spalter",
+    "1011061": "Chimärischer Flügellöwe – Überwältigend",
+    "1011062": "Altgediente Winddienerin – Tückische Klinge",
+    "1012061": "Altgedienter Domovoy-Schnitzer – Windträger",
+    "1012063": "Wandernde Wächterklinge im Schnee – Verweilende Euphonie",
+    "1013061": "Wellenbinder – Reißzahn des Sturms"
+  },
+  "lore": {
+    "1001061": "Ein Monster, welches mittels Kondensation von Wasser eine menschliche Form angenommen hat.\nEinst hat sich der Wille Unzähliger im Wasser aufgelöst, aber ursprünglich verhielt es sich mit dem Wasser wie mit dem Universum; erfüllt von Seelen, denen es danach verlangte, geboren zu werden.\nDas Leid und der Hass, die in diese Gewässer eingeflossen sind, haben das, was einstmals von menschlicher Gestalt war, inmitten des unvollkommenen Chaos des Flusses der Elemente verzerrt. Ein tragisches Ende, das sich schon bald wiederholen soll ...",
+    "1001062": "Ein Monster, das in der Lage ist, aus eigener Kraft kontinuierlich Wärme zu erzeugen, um aktiv zu bleiben.\nWeisheit lässt sich nicht aus reiner Energie gebären. Und so stellt dieses Wesen den gescheiterten Versuch eines großen Volkes dar und ist dabei ohne jegliche Intelligenz und Gefühle.\nObwohl es sich hierbei im Wesentlichen lediglich um einen Kadaver handelt, hat doch der aufgewühlte Fluss der Elemente den „Hass“ eines Toten auf dieses Wesen übertragen. Seinem Kampftrieb wurden hierdurch furchtbare und gefährliche Gedanken beigemischt.",
+    "1001063": "Eine Steuervorrichtung aus den alten Ruinen.\nIn der fernen Vergangenheit nutzte eine einst mächtige alte Zivilisation diese Vorrichtung, um den Betrieb ihrer Städte zu gewährleisten. Selbst jetzt, lange nach dem Untergang dieser Zivilisation, hat sie noch immer eine große Macht.\nIn den Tiefen des Chaos des Flusses der Elemente wurde die über die Jahre in Mitleidenschaft gezogene Kernenergie wiederhergestellt, ja sogar in einem gefährlichen Maße „übertaktet“. Diese Vorrichtung ist nun nicht mehr an ihre ursprünglichen Spezifikationen gebunden und in der Lage, sich von den Fesseln des Planeten zu befreien, um ihre entsetzliche „Zerstörungswaffe“ zum Einsatz zu bringen ...",
+    "1002061": "Ein Abgrundmonster, das wie ein parasitäres Gewächs wuchert und gedeiht.\nDieses verdreht-bizarre Geschöpf, das ständig diese Welt befällt, vermag es, der Erde tief sitzenden Erinnerungen habhaft zu werden, um sie mithilfe der Kraft des Abgrunds in noch stärkerer Form wieder aufleben zu lassen. Inmitten der extremen Störungen des Flusses der Elemente verwandelt sich die Abscheu, die einst mit den Wurzeln dieses Wesens verbreitet wurde, allmählich in eine scharfe Klinge, um den ankommenden Herausforderern tiefgreifendes Leid zuzufügen ...",
+    "1002062": "Ein in der Regel sanftmütiges, langsames, kriechendes Tier, das von einigen als Symbol für Glück und Weisheit angesehen wird. In entscheidenden Momenten kann dieses besondere Wesen jedoch auch einen raschen Angriff auf Herausforderer starten und seine robuste Schale in einen schweren Hammer verwandeln, um seine Feinde zu zerschmettern.\nInmitten der extremen Störungen des Flusses der Elemente wird sein Erscheinungsbild verzerrt, es tritt mit einem leidenschaftlich kriegerischen Auftreten in den Kampf ein und wird zu einem Donner der offensiven Abwehr ...",
+    "1002063": "Star von Pipilpan, dessen Ziel es ist, „Tenoch“ nachzustellen. Er ist geschickt in Hattricks und im Entwickeln von Kampfstrategien. Er kann aus vielen verschiedenen Winkeln angreifen und den Unvorsichtigen eine Lektion erteilen ...\nInmitten der extremen Störungen des Flusses der Elemente manifestiert sich die Paranoia des Darstellers in einer Angriffshaltung des Ablehnens und Erstickens. Ein kleiner Fehler des Herausforderers und er wird wie der von ‚Tenoch‘ zerquetschte Gegner zu Staub zermahlen ...",
+    "1003061": "Eine Kampfmaschine in Drachenform, die, wie ein Herrscher eines großen urzeitlichen Reiches, Angst und Schrecken verbreitet.\nDiese riesige, unermüdliche mechanische Bestie scheint zu beweisen, dass die in den Legenden untergegangenen Reiche ein Gebiet betraten, welches Sterblichen verwehrt bleiben muss.\nNach langem Befall durch die Elementar-Unruhen hat sich ihr Rahmen bereits verändert und hat eine ausgezeichnete Fähigkeit zur Anpassung an die Vernichtungsaufträge entwickelt, wodurch sie zu einem schrecklichen Albtraum auf dem Schlachtfeld geworden ist ...",
+    "1003062": "Eine in Schnecken- und Muschelschalen lebende Krabbenart, entfernt verwandt mit den in Fontaine beheimateten Panzerkrabben. Ursprünglich waren die meisten davon von sanftmütiger Natur und zeigten kaum Aggression. Im Kampf um das Territorium ihrer Gruppe sind sie jedoch auch dafür bekannt, bis zum Tod zu kämpfen. In solchen Fällen entwickeln die sanftmütigen Krabben eine unerwartete und nicht zu bändigende Aggressivität.\nIn der verzerrten Illusion des Flusses der Elemente trainierte der mächtige „Kämpfer“ der Felsenkrebse immer wieder seine Angriffsstrategien, um eine Kampfkraft zu entwickeln, mit der er Hunderte und Tausende von Gegnern in die Knie zwingen konnte. Schlussendlich erzielte er dabei beeindruckende Erfolge ...",
+    "1003063": "Ein Eliteoffizier der Fatui-Oprichniki. Er ist spezialisiert auf den Nahkampf und vertraut gegen seine Feinde auf eine riesige Klinge.\nOb im Krieg gegen die pechschwarze Katastrophe oder gegen jene Ignoranten, die es wagen, sich den Idealen der Zarin zu widersetzen; jene, die an vorderster Front kämpfen, erleiden die größten Verluste. Die alten Soldaten, die nach unzähligen Kämpfen bedauerlicherweise gefallen waren, wurden zu einem Teil der angsteinflößenden Erinnerungen des Flusses der Elemente. Nach langer Versenkung in der verzerrten Strömung richten die Abbilder der alten Soldaten ihre in ihrem Todeskampf verwendeten Klingen gegen den Herausforderer, der gekommen war, um den Aufruhr zu beenden ...",
+    "1004061": "Ein majestätisches Wesen, das stolz durch die frostige Nacht streift und uralte Kräfte einsetzt, die längst vom Herrn des Himmels gezähmt wurden. Doch gestört durch unbeschreibliche Unruhen des Flusses der Elemente hat es jede Verbindung zu Adel und Feierlichkeit verloren und sich stattdessen in einen wilden und tödlichen Jäger verwandelt. Besuchern offenbart es seine eisige Klinge ...",
+    "1004062": "Ein tapferer Krieger, der in uralten Tagen der pechschwarzen Katastrophe getrotzt hatte. Obwohl der Funke des Lebens in ihm längst erloschen ist, hat sich doch sein unbeugsamer Wille bis heute nicht verflüchtigt. So führen diejenigen, die sich der Jagd auf die Wilde Jagd verschrieben haben, bis heute ihren endlosen Kampf fort. Gestört durch die extremen Unruhen des Flusses der Elemente waren für ihn nun alle Besucher gleichbedeutend mit der tödlichen Wilden Jagd, die er mit all seiner Kraft und um jeden Preis vernichten musste ...",
+    "1004063": "Eine Elite-Agentin der Fatui. Schon im Kindesalter ausgewählt, muss sie sich einer langen Ausbildung und einem harten Training unterziehen und erst nach unzähligen Ausscheidungen, dem Erlernen herausragender Fähigkeiten und unendlicher Loyalität zählt sie zu den Besten der Besten in den Reihen der Fatui.\nLeider wurde inmitten der tödlichen Elementar-Unruhen ihr Verstand von der Gier nach Kampf verschlungen. Jetzt kennt sie nur noch den Kreislauf der unerbittlichen Jagd und lässt ihre pure, ungezügelte Wut an jedem aus, der es wagt, sich ihr zu nähern ...",
+    "1005061": "Ein magisches Wesen aus dem Abgrund, das sich aufgrund der Mächte des Abgrunds „weiterentwickelt“ hat und dem infolgedessen zusätzliche Extremitäten gewachsen sind. Es besitzt die Macht, verschiedene Elemente zu beschwören.\nIn den verworrenen Erinnerungen des Flusses der Elemente sprangen sie als verrückte Zerstörer hervor und entfesselten mit ihrer ketzerischen Kraft eine Katastrophe nach der anderen ...",
+    "1005062": "Kann mithilfe seiner übergroßen Schwingen springen und ist außerdem der einzige Saurier, der sich in den Zustand „Seelensprecher“ versetzen kann.\nEr war Zeuge alles Leidens und aller Trauer, vollkommen verzehrt von der verworrenen Erinnerungen des Flusses der Elemente, verwandelt in den bitteren Frost der Schneestürme, die endloses Chaos brachten ...",
+    "1005063": "Ein Werk des Forschungsinstituts für kinetische Energie Fontaine, das die Schwerkraft „ausgleichen“ kann. Ist durch einen Unfall außer Kontrolle geraten.\nDurch die Störungen des Flusses der Elemente beeinflusst, tobte sein Kern mit unglaublicher Heftigkeit und setzte Gravitationsenergie frei, die wie ein Tsunami anschwoll und drohte, das Land zu erschüttern ...",
+    "1006061": "Eine Kreatur, die aus dem Abgrund entsprungen ist. Sie kriecht durch die Spalten der verborgenen Tiefen und beobachtet diese Welt still und leise. Angeblich ist seine unheimliche, gesichtslose Gestalt nicht mehr als eine Projektion, während sein wahrer Körper nur als formlose Masse aus reiner Abgrundenergie existiert.\nAngetrieben von den Wirren des chaotischen Flusses der Elemente, wurde sein rasendes, wahnsinniges Flüstern zu einer schneidenden Kraft geschliffen, die darauf abzielt, die hart erkämpfte Ordnung der Welt in Stücke zu reißen ...",
+    "1006063": "Einer der beiden Herrscher, die alle anderen Fontemer-Mutanten dominieren und dereinst Legenden unter den Seeleuten waren. Die Panzerkrabbe, die keine natürlichen Feinde trifft und stets auf der Jagd und am Fressen ist, sucht während ihres Wachstums unentwegt nach einem geeigneten Schneckenhaus oder Muscheln, die ihr als neuer Panzer dienen können.\nVerdreht durch die Turbulenzen des Flusses der Elemente, hat sich ihre gewalttätige Natur nur noch weiter verstärkt, sodass sie mittlerweile wie eine kleine Armee wütet und alles angreift, was ihr in die Quere kommt; eine regelrechte Krabbenkatastrophe auf dem Vormarsch ...",
+    "1007061": "Eine außergewöhnlich große Mandragora. Es wird vermutet, dass sie durch einen ausgedehnten künstlichen Selektionsprozess erzeugt wurde. Obwohl das ursprüngliche Ziel ihrer Kultivierung nicht mehr bekannt ist, weist dieser Organismus ein atypisches territoriales Verhaltensprofil auf, das darauf hindeutet, dass sie möglicherweise das Ergebnis eines speziellen kontrollierten Experiments ist.\nInmitten des unvollendeten Chaos des Flusses der Elemente hat ihre Gestalt schon vor langer Zeit eine Metamorphose durchlaufen. Mittlerweile ist sie fest dazu entschlossen, mithilfe der heulenden Winde das Land vollständig mit ihren Sporen zu überziehen ...",
+    "1007062": "Eine Kuuvahki-Vorrichtung von seltsamer Form, hergestellt aus Metallschrott und mechanischen Kugellagern, die, entsprechend den Neigungen ihrer Schöpferin, eine teilweise Ähnlichkeit mit einer „Ente“ aufweist. Leistung und ihre Widerstandskraft können mit den modernsten Kriegswaffen der Fatui mithalten ... Dennoch ist und bleibt sie eine Spielzeug-Ente; eine Spielzeugente, die ihre Gegner mit sehr, sehr harten Schlägen einzudecken weiß.\nDie extreme Störung im Fluss der Elemente hatte eine Transformation zur Folge, durch die sich die Projektion zu einem regelrechten mobilen Arsenal entwickelt hat; voll ausgestattet mit Panzerung und Waffen. Nur eine falsche Bewegung, und ein Schwarm Sturmentlein wird den Herausforderer wie eine Flutwelle überrollen ...",
+    "1008061": "Ein uraltes Monster, das sich nach Mondlicht sehnt und tief in den Schichten von Felsen lebt. Die fortschreitende Ansammlung von Kuuvahki hat seinen Körper zu fein segmentierten, mechanismusartigen Teilen kristallisieren lassen. Diese sind in der Lage, sich zu verhärten und zu steinernen Spitzen geformt zu werden, um damit Eindringlinge abzuwehren.\nUnter dem Einfluss des extrem gestörten Flusses der Elemente wuchern seine durch Kuuvahki katalysierten Teile unkontrolliert. Sie verflechten und verweben sich miteinander, als versuchten sie, wie ein riesiges Netz, den ganzen Berg zu verschlingen.",
+    "1009061": "Ein einsamer Wolf, der sich vom örtlichen Rudel losgesagt hat und dessen blaugrüne Mähne auf eine Abstammung aus einem fernen Land hindeutet.\nInfolge des chaotischen Aufwallens des Flusses der Elemente haben sich die Erinnerungen seiner Vorfahren in einen schrecklichen Fluch verwandelt. Nun durchdringt ein eisiger Hass sein ganzes Wesen und treibt dieses Biest gnadenlos dazu, alles und jeden in seinem Blickfeld zu zerfetzen.",
+    "1009063": "Eine von der ursprünglichen Macht hervorgebrachte Schattenkreatur. Als Wächter bewohnte sie einst die höchsten Himmel, wurde jedoch in die Welt der Sterblichen verbannt, weil sie es gewagt hatte, ihre Augen zu öffnen. Sie verfügt über die Fähigkeit, Elementarangriffe zu überwachen und zu kontern.\nUnter dem Ansturm einer brutalen und chaotischen Flut korrupter Informationen aus dem Fluss der Elemente hat sich ihre einst hochmütige Natur ins reine Zerstörungsstreben verwandelt, das sie antreibt, alles in ihrem Blickfeld zu vernichten.",
+    "1010061": "Ursprünglich war dies nur ein Gerät zur Unterstützung bei der Mondforschung. Später wurden ihm jedoch Kräfte und Verantwortungen übertragen, die weit über seinen ursprünglichen Zweck hinausgehen.\nDa die Elementar-Unruhen es im Laufe der Zeit verzerrt und verdorben haben, wurden sein Kern und seine Erkennungsgeräte vollständig überschrieben. Der ursprüngliche Zweck, für den es entworfen wurde, ist komplett verloren gegangen. Alles, was es jetzt noch antreibt, ist ein zerstörerischer Wille, der endlose Maschinenhorden vorwärtstreibt, um jegliches Leben zu vernichten.",
+    "1010063": "Eine Maschine, die beim Bau alter Ruinen eingesetzt wurde. Die Besitzer jener alten Reiche nutzten diese Maschine, die ihre Form ändern konnte, um verschiedene Fertigungsaufgaben abzuschließen.\nInmitten der wilden Fluten der Flüsse der Elemente wurde ihre lavaresistente Hülle in eine Rüstung verwandelt. Die gewaltige Macht, die riesige Städte baute, wurde zu gigantischen Scheren geformt. Der ehemalige Befehl zum „Bauen“ wurde zum Drang zum „Zerstören“ verzerrt, der sie antreibt, das „große Unterfangen“ zur Verwandlung von allem in Trümmer endlos in die Tat umzusetzen.",
+    "1011061": "Ein Produkt der Bio-Alchimie, eines der ausrangierten, künstlich erschaffenen chimärischen Monster.\nIm völlig verzerrten Spiegelbild des Flusses der Elemente ist seine Kraft über die Elemente immer gewalttätiger geworden. Blitze und Sturmwinde toben und brausen auf seinen Befehl hin und hinterlassen nichts als Verwüstung ...",
+    "1011062": "Eine Eliteagentin der Fatui. Je nachdem, wie ihre Befehle und Missionsziele lauten, kann sie entweder gemeinsam mit Soldaten vorrücken und sich zurückziehen oder sich auf eigene Faust bzw. mit „eingeschleusten Agenten“ agieren, die im ganzen Land stationiert sind, um Aufklärungs-, Gegenaufklärungs-, Begleit-, Attentats- und andere Operationen durchzuführen.\nTragischerweise ging die Fähigkeit zur Selbsterkenntnis dieser Agentin inmitten des tödlichen Chaos’ des aus den Fugen geratenen Flusses der Elemente verloren. Alles, was übrig bleibt, ist eine vom Kampf gezeichnete Hülle, die einzig und allein aus Instinkt handelt und ihre kalte Klinge gegen jeden richtet, der es wagt, sich ihr zu nähern ...",
+    "1012061": "Ein Bildhauer für Eisskulpturen, dessen Körper durch unzählige Prüfungen gestählt wurde. Er ist in der Lage, „Ureis“ zu formen, indem er die Anemo-Kraft als Hammer und Meißel einsetzt.\nVon der Strömung des Flusses der Elemente völlig in den Bann gezogen, die nebenbei noch entsetzlicher ist als sein eigener künstlerischer Geschmack, ist dieser Bildhauer mittlerweile einem Rausch unbändiger Inspiration verfallen. Nun versucht er, Fleisch und Knochen mithilfe der heulenden Stürme zu meißeln und Seelen in unzerbrechlichem Ureis einzuschließen. Er ist regelrecht begierig darauf, jeden Eindringling, der sich ihm in den Weg stellt, in das neueste Meisterwerk seiner unheiligen Ausstellung zu verwandeln.",
+    "1012063": "Als uralte Snegovik, die von ihrem Klan hoch angesehen war, wurde ihr einst die lebenslange Aufgabe zugeteilt, ihr Volk zu beschützen.\nVerzerrt durch die turbulenten Fluten im Fluss der Elemente ist die hohle Illusion, die sie einst „Schutz“ nannte, zu einem reinen Instinkt verkommen; den zu töten! Verborgen im Schatten des eisigen Sarges lauert sie, allzeit bereit, sich in eine blitzschnelle Klinge aus Eis zu verwandeln und alles, was atmet, in Stücke zu zerfetzen.",
+    "1013061": "Ein Volkodlak von unvergleichlicher Stärke, erschaffen, um den großen Traum einer alten Zivilisation, ungehindert die Gewässer zu erkunden, zu verwirklichen.\nUnter dem rasenden Einfluss des Flusses der Elemente ist die unvergleichliche Blutlinie, die in ihm schlummerte, völlig außer Kontrolle geraten. Sein Körper trotzt nicht nur dem erdrückenden Druck der Tiefsee, sondern wird nun von einer wilden, überwältigenden Kraft durchströmt, mit der er selbst den unsichtbaren, finsteren Strömungen frontal die Stirn bieten kann. Nun, da er jeglichen Verstandes beraubt wurde, ist er fest entschlossen, alles in seinem Blickfeld in Stücke zu reißen und zu zermalmen."
+  },
+  "mechanics": {
+    "1001061": [
+      {
+        "name": "Unvollkommener Imitator-Zwilling",
+        "text": "Durch die Störungen des Flusses der Elemente beeinflusst, wird die Anzahl der während der Herausforderung in gewissen Abständen auftauchenden <color=#FFD780FF>„unvollkommenen Imitatoren“ auf 2 erhöht</color>. Nach einer gewissen Zeit wird der Hydro-Imitator die unvollkommenen Imitatoren absorbieren, um <color=#FFD780FF>sich zu stärken</color>: Er <color=#FFD780FF>stellt sich eine riesige Menge an LP wieder her</color>, wird größer, hat einen stärkeren ANG und kann nun gefährlichere Angriffe ausführen.\nMan kann den Absorptionsprozess unterbrechen, indem man unvollkommene Imitatoren rechtzeitig durch Angriffe oder Elementarreaktionen zerstört oder diese <color=#FFD780FF>einfriert</color>."
+      },
+      {
+        "name": "Tosende Flutwelle",
+        "text": "Durch die Störungen des Flusses der Elemente beeinflusst, wird der Hydro-Imitator während der Herausforderung seinen Schild aufbauen, Energie aufladen und sich darauf vorbereiten, seine „Tosende Flutwelle“ zu entfesseln. Wird die „Tosende Flutwelle“ erfolgreich entfesselt, <color=#FFD780FF>wird deine aktuelle Figur sofort ohnmächtig</color>.\nWenn der Hydro-Imitator seinen Schild aufbaut, werden die Abklingzeiten der Elementarfähigkeiten und Spezialfähigkeiten aller Truppenmitglieder zurückgesetzt. Außerdem werden ihnen Elementarenergie, Kampfgeist und List der Schlange wiederhergestellt. Zerstöre den Schild des Hydro-Imitators, bevor seine Energie vollständig aufgeladen ist, um ihn davon abzuhalten, seine „Tosende Flutwelle“ zu entfesseln."
+      }
+    ],
+    "1001062": [
+      {
+        "name": "Doppelte Lavagestalt",
+        "text": "Zunächst nimmt sie die Form „Geo-Mensch“ an, in der sie einen <color=#FFD780FF>hohen phys. WDS und einen hohen WDS gegen alle Elemente</color> besitzt. Nachdem sie eine bestimmte Menge <color=#FF9999FF>Pyro-Schaden</color> erlitten hat, wechselt sie vollständig zur Form „Drache der schmelzenden Flammen“, in der <color=#FFD780FF>ihr phys. WDS und ihr WDS gegen alle Elemente, außer gegen den Elementartyp Pyro, erheblich verringert werden</color>. Sobald sie weiteren <color=#FF9999FF>Pyro-Schaden</color> einstecken musste, wird sie phasenweise zusätzlichen Schaden erleiden. Nachdem sie in der Form „Drache der schmelzenden Flammen“ eine bestimmte Menge an <color=#FF9999FF>Pyro-Schaden</color> erlitten hat, tritt sie in den überhitzten Zustand ein, in welchem sie bewegungsunfähig ist. Außerdem werden ihr <color=#FFD780FF>WDS gegen alle Elemente und ihr phys. WDS weiter verringert</color>. Sobald der Zustand der Bewegungsunfähigkeit nach einer gewissen Zeit endet, kehrt sie wieder zur Form des „Geo-Menschen“ zurück."
+      },
+      {
+        "name": "Kühlungs-Effekt",
+        "text": "Nach Erleiden von <color=#80C0FFFF>Hydro-Schaden</color> oder <color=#99FFFFFF>Kryo-Schaden</color> wird sie allmählich in den „Geo-Mensch“-Zustand zurückkehren, in dem sie einen hohen Widerstand hat."
+      },
+      {
+        "name": "Kochend-heiße Verhärtung",
+        "text": "Durch die Störungen des Flusses der Elemente beeinflusst, erhöht sich weiter der WDS des starken Gegners gegen alle Elemente und phys. SCH. Die Menge an Pyro-Schaden, die zum Wechseln seiner Form benötigt werden, erhöht sich ebenfalls."
+      }
+    ],
+    "1001063": [
+      {
+        "name": "„Präemptiver Reinigungsmodus“",
+        "text": "Wechselt zu Beginn des Kampfes umgehend in den Reinigungsmodus: <color=#FFD780FF>Der WDS gegen alle Elemente und der phys. WDS werden stark erhöht</color>. Führt währenddessen Angriffe aus und erzeugt „Flüssigkeitsdruck“. Je höher der „Flüssigkeitsdruck“ ist, desto höher die Wirbelgeschwindigkeit sowie der verursachte Schaden.\nBeim Erleiden von <color=#99FFFFFF>Kryo-Schaden</color> wird der „Flüssigkeitsdruck“ verringert. Wenn der „Flüssigkeitsdruck“ unter einen bestimmten Wert sinkt, stellt er temporär seinen Wirbelangriff ein. Außerdem werden <color=#FFD780FF>sein Widerstand gegen alle Elemente und sein phys. WDS erheblich verringert</color>, wobei sein <color=#99FFFFFF>Kryo-WDS</color> <color=#FFD780FF>zusätzlich verringert wird</color>.\nErzeugt zusätzliche „Elementarkristalle“, wenn seine Wirbelangriffe das erste Mal aufhören."
+      },
+      {
+        "name": "„Verstärkter Gegenangriffsmodus“",
+        "text": "Dieser Gegner wechselt in den „verstärkten Gegenangriffsmodus“, wenn die aktive Figur für eine bestimmte Zeit in den Zustand <color=#FFD780FF>„Nachtseelensegen“</color> eingetreten ist. Hierbei greift er mit mächtigen Verfolgungsstrahlen an, während sein <color=#FFD780FF>Widerstand gegen alle Elemente und sein phys. WDS verringert werden</color>.\nErleidet er in diesem Modus eine bestimmte Menge <color=#99FFFFFF>Kryo-Schaden</color>, wird sein Angriff unterbrochen und sein <color=#FFD780FF>WDS gegen alle Elemente und sein phys. WDS werden weiter verringert</color>."
+      },
+      {
+        "name": "„Schadensresistente Struktur“",
+        "text": "Durch die Störungen des Flusses der Elemente beeinflusst, erhöht sich der WDS dieses starken Gegners gegen alle Elemente und phys. SCH noch weiter und er verliert beim Erleiden von <color=#99FFFFFF>Kryo-Schaden</color> noch weniger „Flüssigkeitsdruck“. Im „verstärkten Gegenangriffsmodus“ fällt die Verringerung seines WDS geringer aus."
+      }
+    ],
+    "1002061": [
+      {
+        "name": "Abgrundimitator",
+        "text": "Sie kann ihren Körper derartig verzerren, dass sie sich in einen mächtigen Gegner mit starken Angriffen verwandeln kann."
+      },
+      {
+        "name": "Korrosion",
+        "text": "Ihre bestimmten Angriffe können den stapelbaren Zustand „Korrosion“ verleihen, der dazu führt, dass deine aktuelle Figur nach einer bestimmten Zeit LP verliert."
+      },
+      {
+        "name": "Schutz der Finsternis",
+        "text": "Durch die Störungen des Flusses der Elemente beeinflusst, aktiviert die Tiefenpflanze die Schattenwelt-Ummantelung und kämpft gleichzeitig. Durch eine <color=#FFD780FF>bestimmte Anzahl von Elementarangriffen</color> kannst du die Schattenwelt-Ummantelung zerstören. Nach der Zerstörung der Ummantelung wird der Tiefenpflanze einmalig hoher Schaden in Höhe des von der Ummantelung abgewehrten Schadens zugefügt und sie wird eine längere Zeit geschwächt. <color=#FFD780FF>Mit Nachtseelen versehene Elementarangriffe</color> sind effizienter im Zerstören der Ummantelung. Hierbei wird zudem der Schaden erhöht, der der Tiefenpflanze beim Zerstören der Ummantelung zugefügt wird. Nach einer Zeit der Schwächung wird die Tiefenpflanze erneut versuchen, eine Schattenwelt-Ummantelung zu aktivieren."
+      },
+      {
+        "name": "Hasserfülltes, finsteres Gebet",
+        "text": "Durch die Störungen des Flusses der Elemente beeinflusst, führt die Tiefenpflanze, wenn ihre Schattenwelt-Ummantelung lange nicht zerstört wird, „Hasserfülltes, finsteres Gebet“ aus: Wenn sie sich im Aufladezustand befindet und ihre Schattenwelt-Ummantelung eine Zeit lang nicht zerstört wird, löst sie „Hasserfüllte, finstere Bombardierung“ aus, mit der <color=#FFD780FF>deine aktuelle Figur sofort ohnmächtig wird</color>."
+      }
+    ],
+    "1002062": [
+      {
+        "name": "Donnerdorn-Ummantelung",
+        "text": "Nachdem sie <color=#FFD780FF>einer bestimmten Anzahl Angriffen ausgesetzt war</color>, aktiviert die Zeltschildkröte die „Donnerdorn-Ummantelung“: Angriffe gegen sie werden auf Figuren in der Nähe reflektiert, solange die Ummantelung besteht. Nur durch <color=#FFD780FF>Aufbrauchen der Elektro-Attribute in der Ummantelung</color> mithilfe der Elementarreaktion kann sie zerstört werden."
+      },
+      {
+        "name": "Donner der Unendlichkeit",
+        "text": "Durch die Störungen des Flusses der Elemente beeinflusst, wird der Aktivierungsfortschritt der „Donnerdorn-Ummantelung“, wenn sie angegriffen wird, beschleunigt, der sich jedoch mit der Zeit wieder zurückbildet. Außerdem wird die für die Zerstörung der „Donnerdorn-Ummantelung“ benötigte Elementmenge erheblich erhöht."
+      }
+    ],
+    "1002063": [
+      {
+        "name": "Hut-Show",
+        "text": "Im Kampf erschafft der Gegner mehrere Hüte und verbirgt sich unter einem von ihnen. Anschließend wird die Position der Hüte schnell geändert. Wenn nach einer gewissen Zahl von Änderungen <color=#FFD780FF>der Hut, unter dem der Gegner sich verbirgt, Schaden durch „Unter Strom“ oder „Mond unter Strom“ nimmt</color>, wird die Positionsänderung der Hüte vorübergehend angehalten.\nFüge dem <color=#FFD780FF>Hut, der den Gegner verbirgt,</color> eine bestimmte Menge Schaden zu, um alle Hüte zu zerstören, den Gegner zum Vorschein zu bringen und ihm so einmal hohen Schaden zuzufügen, was ihn vorübergehend schwächt. Die <color=#FFD780FF>Reaktionen „Unter Strom“ und „Mond unter Strom“ </color> zerstören die Hüte effektiver. Der Schaden, der dem Gegner beim Zerstören des Hutes zugefügt wird, erhöht sich basierend auf dem dem Hut zugefügten <color=#80C0FFFF>Hydro-</color>, <color=#FFACFFFF>Elektro-</color>, <color=#FFD780FF>„Unter Strom“- und „Mond unter Strom“-Schaden</color>."
+      },
+      {
+        "name": "Hut ab... abgelehnt!",
+        "text": "Durch die Störungen des Flusses der Elemente beeinflusst, wendet der Gegner den mächtigen Angriff „Hut ab... abgelehnt!“ an: Sie schleudert fortlaufend Hüte, die <color=#FFACFFFF>hohen Elektro-Schaden</color> verursachen, ins Feld. Die Hüte haben zudem einen <color=#FFD780FF>mächtigen Unterbrechungseffekt</color>."
+      }
+    ],
+    "1003061": [
+      {
+        "name": "Maßnahmen gegen Unvorhergesehenes",
+        "text": "Durch die Störungen des Flusses der Elemente beeinflusst, wird nach dem Erleiden von Schaden in Höhe von einem bestimmten Prozentsatz an LP eine Strömung der Energie ausgelöst. Außerdem wechselt er gemäß dem Elementartyp, der ihm in diesem Zeitraum den höchsten Schaden zugefügt hat, die Form. <color=#FFD780FF>Erhöht den Widerstand gegen das entsprechende Element stark</color>."
+      },
+      {
+        "name": "Mehrfach-Kampfmechanismus",
+        "text": "Durch die Störungen des Flusses der Elemente beeinflusst, beginnt er den Kampf am Boden. Wechselt, wenn er über einen längeren Zeitraum keine Strömung der Energie freisetzt, in die Luft und beginnt zu kämpfen."
+      },
+      {
+        "name": "Kernrüstungs-Komponente",
+        "text": "Durch die Störungen des Flusses der Elemente beeinflusst, werden die vielen Kerne an seinem Körper geschützt. Er wird weder durch Treffer seiner Kerne gelähmt, noch wird dadurch sein Widerstand entfernt."
+      }
+    ],
+    "1003062": [
+      {
+        "name": "Felsensamen",
+        "text": "Verteilt während des Kampfes „Felsensamen“ auf dem Feld, die nach kurzer Zeit explodieren. Wenn sie vor der Explosion Schaden der <color=#FFD780FF>Reaktionen Sprießen, Flammenspross, Supraspross oder Mondspross</color> erlitten haben, werden sie umgewandelt und fügen stattdessen dem Felsenkrebs Schaden im Gesamtwert des selbst erlittenen Schadens zu."
+      },
+      {
+        "name": "Entzündliche Samen",
+        "text": "Durch die Störungen des Flusses der Elemente beeinflusst, explodieren die „Felsensamen“ mit großer Wucht, wenn sie Pyro-Schaden erleiden, schleudern die Figur weg und verursachen äußerst großen Schaden."
+      },
+      {
+        "name": "Großes königliches Bombardement",
+        "text": "Durch die Störungen des Flusses der Elemente beeinflusst, steigt der Felsenkrebs zu Beginn des Kampfes in die Luft, verteilt eine große Menge „Felsensamen“ und lädt auf. Nach vollständiger Aufladung explodieren seine „Felsensamen“ und verursachen großen Flächenschaden, wodurch <color=#FFD780FF>deine aktuelle Figur sofort ohnmächtig wird</color>. Sein Widerstand gegen alle Elemente und gegen phys. Schaden wird zudem eine Zeit lang stark erhöht. Während des Aufladens aktiviert der Felsenkrebs seine Ummantelung, die durch <color=#FFD780FF> die Umwandlung einer bestimmten Menge an Felsensamen</color> zerstört werden kann. Dadurch wird das Aufladen des Felsenkrebses unterbrochen und er wird gelähmt."
+      }
+    ],
+    "1003063": [
+      {
+        "name": "Mehrfachschild",
+        "text": "Während des Kampfes versucht der Gegner, sein Blitzfeuer-Set sowie seinen besonderen „Experimentellen Mehrfachschild“ zu aktivieren, um sich selbst zu schützen. Der Schild regeneriert sich in regelmäßigen Abständen selbst. Durch die Zerstörung von 3 Schichten des Schilds kannst du die Aktivierung des Blitzfeuer-Sets verhindern und den Gegner lähmen. Die Reaktionen <color=#FFD780FF>„Unter Strom“ und „Mond unter Strom“</color> sind effektiver im Zerstören des Schilds. Fügt bei Zerstörung jeder Schildschicht Gegnern 1-mal zusätzlich hohen Schaden zu und es entstehen zusätzliche Elementarkristalle."
+      },
+      {
+        "name": "Blitzfeuer",
+        "text": "Bei erfolgreicher Aktivierung des Blitzfeuer-Sets wird Elektro-Flächenschaden mit großer Reichweite verursacht und er führt im folgenden Zeitraum fortlaufend Elektro-Angriffe aus. Wenn die Aktivierung des Blitzfeuer-Sets verhindert wird, wird die Ausrüstung des Gegners beschädigt, wodurch sein <color=#FFD780FF>Elektro-Widerstand stark reduziert wird</color>."
+      },
+      {
+        "name": "Erhöhung der Notleistung",
+        "text": "Durch die Störungen des Flusses der Elemente beeinflusst, kann der „Experimentelle Mehrfachschild“ alle Widerstände außer dem gegen Elektro erhöhen und hat zudem eine stärkere Selbstheilungsfähigkeit. Nach dem Erleiden von <color=#FFD780FF>Schaden durch „Unter Strom“ und „Mond unter Strom“</color> verlangsamt sich die Selbstheilung erheblich. Nach Aktivierung des Blitzfeuer-Sets werden der verursachte Schaden stark erhöht und die Dauer von Angriffen stark verlängert."
+      }
+    ],
+    "1004061": [
+      {
+        "name": "Zustand „Verhüllt“",
+        "text": "Wechselt während des Kampfes in den Zustand „Verhüllt“: <color=#FFD780FF>Der WDS gegen alle Elemente wird stark erhöht</color>. Verlässt nach dem Erleiden <color=#FFD780FF>einer bestimmten Anzahl an Schäden</color> den Zustand „Verhüllt“ und wechselt den eigenen Elementartyp zu dem, der ihm im Zustand „Verhüllt“ am meisten Schaden zugefügt hat, und <color=#FFD780FF>erhält somit SCH-Immunität gegen das entsprechende Element und das entsprechende Elementarattribut</color>."
+      },
+      {
+        "name": "Klares Mondleuchten",
+        "text": "Beim Aufheben des Zustands „Verhüllt“ sind <color=#FFD780FF>SCH durch die Mondleuchten-Reaktion</color> effektiver. Wechselt, wenn er beim Verlassen des Zustands „Verhüllt“ relativ hohen Schaden durch die Mondleuchten-Reaktion erlitten hat, in den Zustand ohne Elementartyp, <color=#FFD780FF>in dem er keine SCH-Immunität gegen irgendein Element und keine Elementarattribute erhält</color>."
+      }
+    ],
+    "1004062": [
+      {
+        "name": "Trauriges Umherwandern",
+        "text": "Beginnt den Kampf im Zustand „Herumlaufen“ und tritt, wenn seine LP vollständig aufgebraucht sind, in den Zustand „Wilde Jagd“ ein."
+      },
+      {
+        "name": "Verblassende Trauer",
+        "text": "Stellt im Zustand „Wilde Jagd“ seine LP, selbst wenn diese vollständig aufgebraucht sind, nach einer Weile wieder auf den Höchstwert her. Er kann nur unterdrückt werden, wenn seine max. LP auf null reduziert werden. <color=#FFD780FF>Durch Reduzieren seiner max. LP auf null oder Anwenden von durch „Mondomen – Reifer Glanz“ verstärkten Fähigkeiten</color> kann er vorübergehend in den Zustand „Verblassende Trauer“ versetzt werden. Reduziert, wenn ihm in diesem Zustand Schaden zugefügt wird, seine max. LP einem gewissen Anteil des Schadens entsprechend. Wenn du über „Mondomen – Reifer Glanz“ verfügst, wird dieser Anteil erhöht."
+      },
+      {
+        "name": "Ansturm der Rückkehrer",
+        "text": "Wenn er sich im Zustand „Wilde Jagd“ befindet, tauchen im Kampf von Zeit zu Zeit „einsame Wanderer der Wildnis“ auf. Wenn du die „einsamen Wanderer der Wildnis“ nicht innerhalb einer bestimmten Zeit besiegst, führt er „Lebensentzug“ durch: Verursacht sehr hohen Flächenschaden und stellt seine max. LP basierend auf der verbleibenden max. LP der „einsamen Wanderer der Wildnis“ wieder her. Durch die Störungen des Flusses der Elemente beeinflusst, sind die max. LP der „einsamen Wanderer der Wildnis“ höher, und bei ihrer Vernichtung ist der Anteil der wiederhergestellten LP für ihn ebenfalls höher."
+      }
+    ],
+    "1004063": [
+      {
+        "name": "Schnelle Erlegung",
+        "text": "Verbraucht im Kampf einen bestimmten Anteil LP, um „Jagen um zu töten“ auszuführen: Stellt selbst beim Treffen einer Figur einen bestimmten Anteil an LP wieder her und wendet „Eid des Lebens“ auf die getroffene Figur an. Fügt, solange „Eid des Lebens“ existiert, dieser Figur fortlaufend Schaden zu. Erhöht den Schaden an der mit „Eid des Lebens“ belegten Figur, die diesen Angriff erleidet."
+      },
+      {
+        "name": "Blutige Jagd",
+        "text": "Durch die Störungen des Flusses der Elemente beeinflusst, werden seine Unterbrechungsfähigkeit und der Unterbrechungs-WDS erhöht. Tritt bei der Vorbereitung für „Jagen um zu töten“ in den Zustand „Blutige Jagd“ ein: Generiert einen Schild, um sich selbst zu schützen. <color=#FFD780FF>Wendet fortlaufend „Eid des Lebens“ auf alle Figuren an</color>, während der Schild besteht. Erleidet nach der Zerstörung des Schildes hohen Schaden."
+      }
+    ],
+    "1005061": [
+      {
+        "name": "Elementar-Ummantelung – Chaotischer Wandel",
+        "text": "Durch die Störungen des Flusses der Elemente beeinflusst, generiert dieser Gegner nach Beginn des Kampfs nacheinander <color=#FFD780FF>eine Elektro-Ummantelung, eine Pyro-Ummantelung und eine Hydro-Ummantelung</color>, um sich zu schützen. Ändert zudem seine Angriffe basierend auf dem Elementartyp der Elementar-Ummantelung. Nachdem du eine <color=#FFD780FF>Elementar-Ummantelung durch eine Elementarreaktion zerstört hast</color>, erleidet dieser Gegner einen hohen Schaden basierend auf dem <color=#FFD780FF>von der Ummantelung abgewehrten Schaden</color>, wechselt dann seine Elementarform und generiert die entsprechende Elementar-Ummantelung. Nachdem alle drei Ummantelungen zerstört wurden, ist dieser Gegner für eine Weile gelähmt."
+      }
+    ],
+    "1005062": [
+      {
+        "name": "Klangbebenwelle – Sequenz",
+        "text": "Durch die Störungen des Flusses der Elemente beeinflusst, verfügt er über einen starken Widerstand gegen alle Elemente und physischen Schaden. Katapultiert sich im Kampf in die Luft, verweilt dort für eine gewisse Zeit und greift ununterbrochen mit Klangbebenwellen an."
+      },
+      {
+        "name": "Blizzardangriff – Fegender Schlag",
+        "text": "Generiert im Kampf eine <color=#FFD780FF>Kryo-Ummantelung</color>, um sich selbst zu schützen, katapultiert sich in die Luft und bereitet sich auf „Blizzardangriff“ vor. Wendet kurz darauf „Blizzardangriff“ an und <color=#FFD780FF>besiegt deine aktive Figur direkt</color>. <color=#FFD780FF>Durch Zerstören der Ummantelung mit Elementarreaktionen</color> kannst du den Gegner auf den Boden zurückholen, ihm gemäß dem <color=#FFD780FF>von der Ummantelung abgewehrten Schaden</color> einmalig hohen Schaden zufügen und die Vorbereitung unterbrechen. Stellt, wenn dieser Gegner den oben genannten Angriff vorbereitet, all deinen Figuren die <color=#FFD780FF>Elementarenergie, den Kampfgeist oder die „List der Schlange“ wieder her</color>. Lässt, wenn die Ummantelung nicht zerstört wird, nach einiger Zeit am Boden „Blizzard-Formationen“ erscheinen: <color=#FFD780FF>Zerstöre die „Blizzard-Formationen“ nacheinander mit Elementarreaktionen</color>, um die Kryo-Ummantelung des Gegners allmählich zu durchbrechen."
+      },
+      {
+        "name": "Störungswirbel",
+        "text": "Durch die Störungen des Flusses der Elemente beeinflusst, erscheint auf dem Feld ein „Störungswirbel“, während sich dieser Gegner auf den „Blizzardangriff“ vorbereitet. Dieser Wirbel fügt <color=#FFD780FF>Freund und Feind gleichermaßen</color> Kryo-Flächenschaden zu. Verringert, wenn der „Störungswirbel“ diesen Gegner trifft, seinen <color=#FFD780FF>Anemo-WDS</color> und schwächt die Ummantelung.\nAußerdem kann der „Störungswirbel“ von Anziehungseffekten beeinflusst werden, wodurch seine Bewegungsbahn geändert wird."
+      }
+    ],
+    "1005063": [
+      {
+        "name": "Gravitationskern – Kritische Hochspannung",
+        "text": "#Durch die Störungen des Flusses der Elemente beeinflusst, wird im Kampf ein Gravitationsreduktionsfeld erzeugt, das die Sprunghöhe der Figuren erheblich erhöht. Erhöht jedes Mal, wenn die Figur auf eine bestimmte Höhe springt, den ANG der Figur 1,5{NON_BREAK_SPACE}s lang stark. Erzeugt zudem, während das Feld aktiv ist, in regelmäßigen Abständen <color=#FFD780FF>am Boden nicht ausweichbare Gravitationsdruckwellen</color>. Verstärkt alle 5{NON_BREAK_SPACE}s die Stärke und Frequenz der Gravitationsdruckwellen um 1 Stapelung. Entfernt bei jedem erlittenen <color=#FFD780FF>Angriff aus dem Fall</color> 1 Stapelung Verstärkung von den Gravitationsdruckwellen."
+      },
+      {
+        "name": "Robuster Kern",
+        "text": "Durch die Störungen des Flusses der Elemente beeinflusst, wurde sein Ousia-Kern noch widerstandsfähiger. Auch nach <color=#FFD780FF>drei Pneuma-Angriffen</color> wird sein Gravitationsreduktionsfeld nicht deaktiviert."
+      }
+    ],
+    "1006061": [
+      {
+        "name": "Tiefdunkler Schild – Tiefwurzfäule",
+        "text": "Durch die Störungen des Flusses der Elemente beeinflusst, wird der Herr der verborgenen Tiefen – Flüsterer der Albträume die Kraft des Abgrunds sammeln, um einen extrem widerstandsfähigen Schild zu erschaffen, mit dem er sich selber schützt. Dieser ist allerdings besonders anfällig für <color=#FFD780FF>Schaden durch Mondleuchten-Reaktionen</color> und lässt sich dadurch effektiv zerstören. Nachdem der starke Gegner einen Schild eingesetzt hat, werden zusätzliche Elementarkristalle erzeugt, wenn der Schild zum ersten Mal Schaden durch Mondleuchten-Reaktionen erleidet. Wird der Schild zerstört, erleidet der Herr der verborgenen Tiefen – Flüsterer der Albträume einmal heftigen Schaden und wird für eine bestimmte Zeit geschwächt."
+      },
+      {
+        "name": "Riss-Sturmangriff",
+        "text": "Durch den Fluss der Elemente beeinflusst, wird der Herr der verborgenen Tiefen – Flüsterer der Albträume damit beginnen, über längere Zeit Kraft zu tanken und dabei mehrere Angler der verborgenen Tiefen beschwören. Nachdem er genug Kraft getankt hat, wird er weitreichenden Flächenschaden verursachen und alle Angler verschlingen. Während der Aufladephase kannst du seinen Schild zerstören, indem du die Angler der verborgenen Tiefen besiegst und so seinen Aufladeprozess unterbrechen."
+      }
+    ],
+    "1006063": [
+      {
+        "name": "Geschmolzene Geweihe",
+        "text": "Bei den hochgewachsenen Hörnern geschmolzenen Feuers des Kaisers von Feuer und Eisen handelt es sich um <color=#FFD780FF>Pyro</color>-Organe, mit denen er furchterregende Elementarangriffe zu entfesseln weiß. Sie dienen außerdem als ausgezeichnete Verteidigung. Bei einigen Angriffen befinden sich seine Hörner geschmolzenen Feuers <color=#FFD780FF>gefährlich nah am Boden</color>. Nutze diese Chance und <color=#FFD780FF>verwende Elementarreaktionen, um sie zu zerstören</color>. Sobald das ihnen innewohnende Pyro-Element verbraucht ist, werden seine Hörner zerstört und er wird einmal zusätzlichen hohen Schaden erleiden. Anschließend benötigt er eine bestimmte Zeit, um seine Hörner wiederherzustellen."
+      },
+      {
+        "name": "Schildgeschützter Untergebener",
+        "text": "Durch die Störungen des Flusses der Elemente beeinflusst, beschwört der Kaiser von Feuer und Eisen bei einigen Angriffen „Starkschild-Panzerkrabben“, die ihn im Kampf unterstützten. Die Krabben werden seine Hörner geschmolzenen Feuers mit Pyro-Kraft versorgen; allerdings werden sie besiegt, sobald ihre eigene Pyro-Kraft erschöpft ist. Sobald eine „Starkschild-Panzerkrabbe“ besiegt ist, verliert sie die Kontrolle und wird krachend in den Kaiser von Feuer und Eisen prallen. Hierbei wird die in seinen Hörnern gespeicherte Pyro-Kraft überladen, wodurch die Hörner beschädigt werden und ihm zudem zusätzlicher Schaden zugefügt wird, der proportional zu dem Schaden ausfällt, den die „Starkschild-Panzerkrabbe“ selbst erlitten hat. Es können sich max. immer nur drei Panzerkrabben gleichzeitig auf dem Feld befinden."
+      },
+      {
+        "name": "Strahlende Krönung",
+        "text": "Durch den Fluss der Elemente beeinflusst, wird der Kaiser von Feuer und Eisen im Kampf „Strahlende Krönung“ einsetzen: Hierbei wird er für eine bestimmte Zeit Kraft tanken und anschließend weitreichenden Flächenschaden verursachen. Zerstöre seine Hörner geschmolzenen Feuers, um seinen Aufladeprozess zu unterbrechen."
+      }
+    ],
+    "1007061": [
+      {
+        "name": "Starker Ansammlungszustand",
+        "text": "Durch die Störungen des Flusses der Elemente beeinflusst, tritt dieser starke Gegner zu Beginn des Kampfes in den „Ansammlungszustand“ ein. Dabei werden <color=#FFD780FF>alle Widerstände extrem erhöht</color>. Dieser Zustand verbraucht allerdings fortlaufend „Ansammlungsenergie“. Der Verbrauch lässt sich beschleunigen, indem du ihm <color=#FFD780FF>Pyro- oder Elektro-Schaden</color> zufügst. Sobald die „Ansammlungsenergie“ dann verbraucht ist, entfesselt der starke Gegner einen „Sporenteppich“ und wechselt in den „Gespaltenen Zustand“."
+      },
+      {
+        "name": "Gespaltener Zustand",
+        "text": "Dieser starke Gegner wird eine gewaltige Menge Sporen ausstoßen, sobald er in den „Gespaltenen Zustand“ übergeht. Wenn die Sporen Schaden erleiden, fügen sie dem starken Gegner Schaden zu, der einem bestimmten Prozentsatz des gesamten erlittenen Schadens entspricht. Nach einer gewissen Zeit im „Gespaltenen Zustand“ kehrt er dann wieder in den „Ansammlungszustand“ zurück. Sollte unter diesem Umstand die Anzahl der Sporen auf dem Feld unter eine bestimmte Menge fallen, so wird der starke Gegner in den Zustand „Spröde Verklumpung“ verfallen, in welchem <color=#FFD780FF>alle seine Widerstände stark verringert werden</color> und seine Kampf-Fertigkeiten nachlassen. Der „Gespaltene Zustand“ kann außerdem vorzeitig beendet werden, wenn alle Sporen vernichtet werden, während dieser noch wirkt, wodurch er in den Zustand „Spröde Verklumpung“ gezwungen wird."
+      },
+      {
+        "name": "Hohlstruktur",
+        "text": "Durch die Störungen des Flusses der Elemente beeinflusst, wird der <color=#FFD780FF>Anemo-WDS</color> dieses starken Gegners <color=#FFD780FF>stark verringert</color>, sobald sich dieser im „Gespaltenen Zustand“ oder im Zustand „Spröde Verklumpung“ befindet."
+      }
+    ],
+    "1007062": [
+      {
+        "name": "Modus: „Volle Enten-Zerstörung“",
+        "text": "Durch die Störungen des Flusses der Elemente beeinflusst, wird dieser starke Gegner zu Beginn des Kampfs in den Modus „Volle Enten-Zerstörung“ eintreten, in welchem seine Aggression stark zunimmt. Außerdem wird er sich eine Ummantelung generieren, die <color=#FFD780FF>alle seine Widerstände erhöht</color> und er wird sich schwebende Sturmentlein zur Unterstützung herbeirufen, die dir das Leben schwer machen."
+      },
+      {
+        "name": "Minimalwiderstand-Sturmentlein",
+        "text": "<color=#FFD780FF>Heiz ihnen wiederholt mit den Reaktionen „Unter Strom“ und „Mond unter Strom“ ein oder füg ihnen einfach direkt ausreichend Schaden zu</color>, um ihre Systeme zu stören. Auf diese Weise durcheinandergebrachte Entlein werden dann die Kontrolle verlieren und mit Vollgas in die Prügelente donnern, wobei sie der Ummantelung von dieser eine bestimmte Menge Schaden zufügen. Sollte es dir gelingen, auf diese Weise ihre Ummantelung zu zerstören, kannst du dafür sorgen, dass sie ihren Modus „Volle Enten-Zerstörung“ verlässt, da sie überlädt, was sie letzten Endes handlungsunfähig macht. Außerdem kannst du dadurch gleichzeitig ihren <color=#FFD780FF>Elektro-Widerstand für eine bestimmte Zeit stark verringern</color>."
+      },
+      {
+        "name": "Hochfrequenz-Hüpfsystem",
+        "text": "Durch die Störungen des Flusses der Elemente beeinflusst, sind die Sturmentlein nun noch abgehärteter denn je: So bedarf es <color=#FFD780FF>noch mehr der Reaktionen Unter Strom und Mond unter Strom</color> oder <color=#FFD780FF>noch höheren Schaden</color>, um ihre Systeme zu stören. Insbesondere der <color=#FFD780FF>Schaden der beiden oben genannten Elementarreaktionen</color> kann sich dabei als besonders wirksam gegen sie erweisen. Auch gilt zu beachten, dass der Schaden, den diese der Prügelente zufügen können, wenn sie bei Kontrollverlust in sie reinkrachen, entsprechend dem <color=#FFD780FF>Gesamtschaden, den die Sturmentlein selbst erlitten haben</color>, erhöht wird."
+      }
+    ],
+    "1008061": [
+      {
+        "name": "Haltloser Nachhall",
+        "text": "Nach Beginn des Kampfes lässt dieser starke Gegner einen „Mondanker-Felsen“ an Ort und Stelle zurück und springt in die Höhe, um sich darauf vorzubereiten, „Haltloser Nachhall“ zu entfesseln: Nach einer bestimmten Zeit löst er einen mächtigen Flächenangriff aus. Du kannst dich der <color=#FFD780FF>Methoden, um mit Geo-Kraft fertig zu werden, bedienen</color>, um so die mehrschichtige Geo-Ummantelung des „Mondanker-Felsens“ und letztlich damit auch ihn selbst zu zerstören. Sollte es dir gelingen, den Felsen zu zerstören, unterbrichst du nicht nur die Vorbereitung der oben genannten Fähigkeit, sondern fügst dem starken Gegner auch enormen Schaden zu. Je höher der Schaden ist, den du dem „Mondanker-Felsen“ während der Vorbereitungszeit zufügst, desto höher ist auch der Schaden, den der starke Gegner erleidet, sobald der „Mondanker-Felsen“ zerstört wird. Beeinflusst durch die Störung des Flusses der Elemente erhöhen <color=#FFD780FF>Geo</color>-Angriffe auf den „Mondanker-Felsen“ den Schaden, den der starke Gegner erleidet, zusätzlich."
+      },
+      {
+        "name": "Unerschütterlicher Fels",
+        "text": "Aufgrund der Störung des Flusses der Elemente wird die mehrschichtige Geo-Ummantelung des „Mondanker-Felsens“ widerstandsfähiger."
+      },
+      {
+        "name": "Glimmerkokon",
+        "text": "Im Kampf wird sich dieser starke Gegner der Geo-Kraft bedienen und Figuren mit „Glimmerkokon“ belegen, wobei er außerdem seinen eigenen Geo-WDS erhöht. Figuren, die vom „Glimmerkokon“ gefesselt sind, <color=#FFD780FF>verursachen weniger Schaden und erhalten weniger Heilung</color>. <color=#FFD780FF>Stelle die LP der Figur durch Heilung wieder auf das Maximum her</color>, um sie aus dem „Glimmerkokon“ zu befreien und ihr den Effekt „Ausbruch“ zu verleihen, der ihre Kraft für kurze Zeit verstärkt. Sobald ein Truppenmitglied erfolgreich dem „Glimmerkokon“ entkommen ist, verliert der starke Gegner den Geo-WDS, den er durch diesen erhalten hat."
+      }
+    ],
+    "1009061": [
+      {
+        "name": "Wolfsahnengeist – Manifestation",
+        "text": "Zu Beginn des Kampfes wird dieser starke Gegner einen „Wolfsahnengeist“ beschwören, damit dieser ihm im Gefecht Unterstützung leistet. Den Störungen des Flusses der Elemente ausgesetzt, ist der starke Gegner, <color=#FFD780FF>während er vom Wolfsahnengeist beschützt wird, immun gegen jede Art von Schaden</color>. Als spirituelles Wesen verfügt der Wolfsahnengeist über eine besondere Kryo-Ummantelung, die nur durch <color=#FFD780FF>Pyro- und Elektro-Verwirbelungen beschädigt werden kann</color>. Sobald seine Ummantelung zerstört ist, verschwindet der Ahnengeist, der starke Gegner wird für kurze Zeit gelähmt und erleidet außerdem hohen Rückschlagsschaden. Je mehr Schaden er während der Dauer der Ummantelung abwehrt, desto größer wird der Rückschlagsschaden. Hierbei solltest du beachten, dass <color=#FFD780FF>Pyro- und Anemo-Schaden</color> den späteren Rückschlagsschaden noch weiter erhöhen können."
+      }
+    ],
+    "1009063": [
+      {
+        "name": "Wachsame Überwachung",
+        "text": "Zu Beginn des Kampfes tritt der Wachäugige in den Zustand „Wachsame Überwachung“. In diesem Zustand erfasst er separat die Anzahl der erlittenen <color=#FFD780FF>Pyro-/Hydro-/Elektro-/Kryo-</color>Schadenstreffer. Sobald die Anzahl der Treffer eines beliebigen Elementartyps 5 erreicht, verlässt er diesen Zustand und <color=#FFD780FF>legt dieses Element als Überwachungsziel fest</color>. Wird kein Element erfolgreich überwacht, bleiben die Elementaufzeichnungen leer und er verursacht einmal Geo-SCH. Nachdem der erste Zustand „Wachsame Überwachung“ geendet hat, wird der starke Gegner erst nach einem gewissen Intervall wieder in diesen Zustand eintreten. Aufgrund der Störungen des Flusses der Elemente wird die Dauer der zweiten Überwachungsphase verlängert und ein bereits überwachtes Element muss dabei eine viel größere Anzahl an Schadenstreffern auslösen, um erneut überwacht werden zu können. Aufgrund der Einflüsse des Flusses der Elemente hat der Wachäugige während seines Zustands „Wachsame Überwachung“ erhöhten WDS gegen alle Elemente und erhöhten phys. WDS."
+      },
+      {
+        "name": "„Delirium der Phänomene“",
+        "text": "Nach zwei erfolgreichen Element-Überwachungen erhebt sich der Wachäugige in die Lüfte und bereitet die Anwendung von „Delirium der Phänomene“ vor. Dabei werden die zuvor überwachten Elemente freigesetzt und zwei „aktive Elementarsterne“ der entsprechenden Elementartypen beschworen. Wenn die Elementaufzeichnungen leer sind, werden „träge Elementarsterne“ mit <color=#FFD780FF>höherem WDS gegen alle Elemente und phys. SCH</color> beschworen. Wenn der starke Gegner zwei „aktive Elementarsterne“ unterschiedlicher Elementartypen beschworen hat, werden die beiden leichter zerstörbar. Wenn ein „aktiver Elementarstern“ zerstört wurde, wird dem starken Gegner hoher Schaden seines aufgezeichneten Elements zugefügt, während er bei der Zerstörung eines „trägen Elementarsterns“ Geo-SCH erleidet. <color=#FFD780FF>Zerstöre alle Elementarsterne</color>, um die Vorbereitung von „Delirium der Phänomene“ zu stoppen. Sollten die zwei Elementarsterne nicht innerhalb der vorgegebenen Zeit zerstört werden, werden sie explodieren, was gewaltigen, weitreichenden Flächenschaden verursacht."
+      }
+    ],
+    "1010061": [
+      {
+        "name": "Unterdrückungsfeld: Energiezyklierer",
+        "text": "Zu Beginn des Kampfes stellt der starke Gegner 4 von <color=#FFD780FF>Hydro-Ummantelungen</color> geschützte Erkennungsgeräte auf und baut ein besonderes Unterdrückungsfeld auf, das für den starken Gegner einen <color=#FFD780FF>Kraftfeld-Schild</color> generiert und <color=#FFD780FF>all seine Widerstände außer den gegen die Elementartypen Kryo und Elektro</color> erhöht. Nachdem dieses Feld für einen bestimmten Zeitraum aktiv ist, löst der starke Gegner „Alpha-Überfall“ aus, wobei er großen Flächenschaden verursacht, zugleich alle Erkennungsgeräte zurückholt, und eine <color=#FFD780FF>Hydro-Ummantelung</color> erhält, deren Schildstärke auf der Anzahl der zurückgeholten Geräte basiert. Wenn kein Erkennungsgerät zurückgeholt wurde, erhält er nur eine schwache Hydro-Ummantelung."
+      },
+      {
+        "name": "Kraftfeld-Schild",
+        "text": "Den Störungen des Flusses der Elemente ausgesetzt, bricht das Unterdrückungsfeld, wenn der Kraftfeld-Schild des starken Gegners zerstört wird, auch zusammen, wodurch der starke Gegner einmal hohen Rückschlagsschaden erleidet und für kurze Zeit gelähmt wird. Außerdem wird eine bestimmte Menge am Schild verbraucht, jedes Mal, wenn der starke Gegner <color=#FFD780FF>von der Reaktion „Supraleiter“ oder „Stellar-Supraleiter“ beeinflusst ist</color>. <color=#FFD780FF>Der Schaden durch die Reaktionen „Supraleiter“ und „Stellar-Supraleiter“</color> kann nicht nur den Schild effizienter zerstören, sondern auch den Rückschlagsschaden, den der starke Gegner bei der Zerstörung des Schildes erleidet, weiter erhöhen."
+      },
+      {
+        "name": "Erkennungsgerät – Druckbeaufschlagte Komponente",
+        "text": "Erkennungsgeräte werden zerstört, wenn <color=#FFD780FF>ihre Hydro-Ummantelung gebrochen ist</color> oder <color=#FFD780FF>wenn sie nach dem Eintritt in den Zustand „Gefroren“ Schaden durch die Reaktion „Eisbrecher“, „Schmelzen“ oder andere Elementarreaktionen erleiden</color>. Beeinflusst durch die Störung des Flusses der Elemente wird die Ummantelung des starken Gegners beschädigt, jedes Mal, wenn ein Erkennungsgerät zerstört wird."
+      }
+    ],
+    "1010063": [
+      {
+        "name": "Adaptive Gegenmaßnahmen – Kaltstart",
+        "text": "Zu Beginn des Kampfes wird der starke Gegner durch <color=#FFD780FF>einen starken Schild</color> geschützt und erhält einen höheren WDS gegen alle Elemente und gegen phys. Schaden. Wenn eine Figur in den Zustand des Nachtseelensegens eintritt und diesen aufrechterhält, sammelt der starke Gegner den Fortschritt für seine „adaptiven Gegenmaßnahmen“ an. Sobald der starke Gegner unter dem Einfluss der Störung des Flusses der Elemente die Ansammlung der adaptiven Gegenmaßnahmen zum ersten Mal abgeschlossen hat, verliert er <color=#FFD780FF>alle Widerstände, die er zu Beginn des Kampfes erhalten hat</color>, sein <color=#FFD780FF>Schild</color> wird auch zerstört und er erleidet basierend auf dem vom Schild absorbierten Schaden Rückschlagsschaden."
+      },
+      {
+        "name": "Kugelblitz-Kanone – Hochdruckpumpe",
+        "text": "Sobald der Fortschritt für die adaptiven Gegenmaßnahmen komplett ist, wird der starke Gegner seinen Akkumulationsmechanismus in Gang setzen und 2 Stücke festes Phlogiston ausgraben, bevor er Energie darin zum Aufladen seiner Kugelblitz-Kanone absorbiert. Der Akkumulationsmechanismus wird ein Energiefeld erzeugen, um sich zu schützen. Man muss <color=#FFD780FF>zuerst das feste Phlogiston erklimmen und das Energiefeld betreten</color>, um ihn zu zerstören. Nachdem alle Akkumulationsmechanismen zerstört wurden, wird der Ladevorgang der Kugelblitz-Kanone unterbrochen; dadurch wird der starke Gegner <color=#FFD780FF>gelähmt und erleidet gleichzeitig Rückschlagsschaden</color>. Beeinflusst durch die Störung des Flusses der Elemente wird der Fortschritt für die adaptiven Gegenmaßnahmen mit der Zeit angesammelt, aber die Schwelle, die zum Auslösen der Kugelblitz-Kanone erforderlich ist, wird höher sein."
+      }
+    ],
+    "1011061": [
+      {
+        "name": "Donnerruf – Standhafter Schild",
+        "text": "Durch die Störungen des Flusses der Elemente beeinflusst, nutzt der starke Gegner zu Beginn des Kampfes die Kraft seines Elektro-Hauptes, um eine <color=#FFD780FF>widerstandsfähige Elektro-Ummantelung</color> zu erzeugen, die ihn schützt. In regelmäßigen Abständen arbeiten die beiden Häupter des starken Gegners zusammen, um Anemo-Kraft in das Elektro-Großschwert zu leiten und eine großflächige Elektro-Druckwelle freizusetzen. Steht der starke Gegner zu diesem Zeitpunkt unter dem Einfluss von <color=#FFD780FF>Leuchten – Stellarfunkeln</color>, erleidet er durch die Störung seiner Kräfte einen Rückschlag, der <color=#FFD780FF>seine Ummantelung beschädigt</color>. Nachdem die <color=#FFD780FF>Ummantelung durch Elementarreaktionen zerstört</color> wurde, stellt der starke Gegner erschöpft seinen Angriff ein und wird gelähmt. Gleichzeitig werden sein <color=#FFD780FF>Kryo- und sein Anemo-WDS stark verringert</color> und er erleidet 1-mal hohen Rückschlagsschaden, der sich nach dem von der Ummantelung abgewehrten Schaden richtet. <color=#FFD780FF>Schaden durch Stellarfunkeln-Reaktion</color> erhöht den Rückschlagsschaden, den der starke Gegner bei der Zerstörung der Ummantelung erleidet."
+      },
+      {
+        "name": "Sturmesstärke – Heftiger Ansturm",
+        "text": "Durch die Störungen des Flusses der Elemente beeinflusst, nutzt der starke Gegner im Kampf die Kraft seines Anemo-Hauptes, um in die Luft aufzusteigen und schnell herumzukreisen, wobei er Sturmgeschosse abfeuert. Nachdem er seine kreisende Bewegung beendet hat, erzeugt der starke Gegner einen Wirbel und versucht, Windkugeln auf dem Feld anzuziehen und zu absorbieren, um seine Kraft wiederherzustellen. Hat er genug Windkugeln absorbiert, steigt er erneut auf und startet einen weiteren kreisenden Angriff. Windkugeln können durch <color=#FFD780FF>Hydro-/Pyro-/Elektro-/Kryo-Schaden zerstört</color> werden. Man kann den starken Gegner auch dem Einfluss von <color=#FFD780FF>Leuchten – Stellarfunkeln</color> aussetzen, sodass er keine Windkugeln mehr absorbieren kann. Löst sich der Wirbel auf, ohne dass der starke Gegner genügend dieser Kugeln absorbiert hat, verfällt er sofort in einen Lähmungszustand. Gleichzeitig wird der <color=#FFD780FF>Kryo-WDS und Anemo-WDS des starken Gegners stark verringert</color>."
+      }
+    ],
+    "1011062": [
+      {
+        "name": "Schnelle Erlegung",
+        "text": "Verbraucht im Kampf einen bestimmten Anteil LP, um „Jagen um zu töten“ auszuführen: Stellt selbst beim Treffen einen bestimmten Anteil an LP wieder her und wendet „Eid des Lebens“ auf die getroffene Figur an. Fügt, solange „Eid des Lebens“ existiert, dieser Figur fortlaufend Schaden zu. Erhöht den Schaden an der mit „Eid des Lebens“ belegten Figur, die diesen Angriff erleidet."
+      },
+      {
+        "name": "Blutige Jagd – Tückisch",
+        "text": "Durch die Störungen des Flusses der Elemente beeinflusst, werden die Unterbrechungsfähigkeit und der Unterbrechungs-WDS dieser Gegnerin stark erhöht. Zudem kann sie bei einem Haltungsverlust in der Luft sofort ausweichen und ihre Haltung schnell wiederherstellen. Tritt bei der Vorbereitung für „Jagen um zu töten“ in den Zustand „Blutige Jagd“ ein: Generiert einen Schild, um sich selbst zu schützen. <color=#FFD780FF>Wendet fortlaufend „Eid des Lebens“ auf alle Figuren an</color>, während der Schild besteht. Erleidet nach der Zerstörung des Schildes hohen Schaden."
+      }
+    ],
+    "1012061": [
+      {
+        "name": "Großmaul-Jack Frost",
+        "text": "Zu Beginn des Kampfes wird der starke Gegner die Anemo-Kraft nutzen, um zu versuchen, ein Ureis-Konstrukt zu formen. Nach einer Weile wird es sich in eine „Großmaul-Jack Frost“ verwandeln, die mit Schneebällen um sich schießt.\nSetzt du den starken Gegner jedoch während seines Konstruktionsversuchs dem Einfluss von <color=#FFD780FF>Leuchten – Stellarfunkeln</color> aus, so werden seine Konstruktionsbemühungen unterbrochen und die Skulptur nimmt die Form eines harmlosen Tierchens an."
+      },
+      {
+        "name": "Kreativer Rausch",
+        "text": "Unter dem Einfluss des Flusses der Elemente werden <color=#FFD780FF>zu Beginn des Kampfes sowohl der WDS gegen alle Elemente als auch der phys. WDS</color> dieses starken Gegners <color=#FFD780FF>signifikant erhöht</color>. Zu allem Überfluss ist er auch noch in der Lage, öfter Ureis-Konstrukte zu formen.\nEisskulpturen, die die Form kleiner Tierchen annehmen, werden nach kurzer Zeit explodieren und dem starken Gegner eine bestimmte Menge Schaden zufügen. Gleichzeitig werden so auch sein <color=#FFD780FF>WDS gegen alle Elemente und sein phys. WDS verringert, wobei sein Anemo-WDS zusätzlich verringert wird</color>. <color=#FFD780FF>3-fach stapelbar</color>."
+      }
+    ],
+    "1012063": [
+      {
+        "name": "Eissarg – Verzweigtes Kristallgitter",
+        "text": "Dieser starke Gegner wird sich, wenn seine LP unter einen bestimmten Grenzwert fallen, in einem „Eissarg“ einschließen, wodurch er eine <color=#FFD780FF>Kryo-Ummantelung</color> erhält, die ihn vor Gefahren schützt.\nEr wird zudem, während sein „Eissarg“ aktiv ist, mithilfe von eisigen Stürmen, von denen er das Zentrum bildet, fortlaufend angreifen. Zu allem Überfluss wird er, sollte sein „Eissarg“ am Ende nicht zerstört werden, einen Teil seiner LP wiederherstellen und ein Eisschwert erschaffen, um einen Gegenangriff zu starten. Sobald sein lebensnotwendiger Sarg jedoch zerstört wurde, schwächt ihn das für eine bestimmte Zeit und er erleidet Rückschlagsschaden. Achtung, dieser eisige Schutz ist aufgrund des Einflusses des Flusses der Elemente <color=#FFD780FF>nochmal um einiges widerstandsfähiger</color>. Wird sein Sarg zudem das erste Mal zerstört, so <color=#FFD780FF>erschafft er sich nach einiger Zeit einfach einen neuen</color>."
+      },
+      {
+        "name": "Eissarg – Verzerrtes Kristallgitter",
+        "text": "Die Kryo-Ummantelung des <color=#FFD780FF>Eissargs</color> wird, während dieser aktiv ist und der starke Gegner unter dem Einfluss von <color=#FFD780FF>Leuchten – Stellarfunkeln</color> steht, in einen <color=#FFD780FF>Schild umgewandelt, der in der Lage ist, eingehenden Schaden zu absorbieren</color>. Sobald er allerdings zerstört wurde, wird der starke Gegner einmal hohen Rückschlagschaden erleiden."
+      }
+    ],
+    "1013061": [
+      {
+        "name": "Mit Mut der Kälte trotzen – Ein kräftiger Schluck",
+        "text": "Aufgrund des Einflusses des Flusses der Elemente wird der starke Gegner von Zeit zu Zeit eine Flasche hervorholen und einen großen Schluck trinken, um eine große Menge „Mut“ zu sammeln. Ihn während des Trinkens dem Effekt <color=#FFD780FF>Leuchten – Stellarfunkeln</color> auszusetzen, verringert seine Effizienz beim Sammeln von „Mut“. Du kannst ihm außerdem seinen Mut wieder austreiben, indem du ihm <color=#FFD780FF>Elektro-Schaden</color> zufügst. <color=#FFD780FF>Elektro-Schaden, der als Schaden der entsprechenden Stellarfunkeln-Reaktion gilt</color> erhöht außerdem noch mal gehörig die Menge an „Mut“, die ihm ausgetrieben wird."
+      },
+      {
+        "name": "Zustand Kampfesrausch – Sturmangriff",
+        "text": "Aufgrund des Einflusses des „Flusses der Elemente“ wird der starke Gegner, sobald sein „Mut-Wert“ voll ist, in den Zustand „Kampfesrausch – Sturmangriff“ eintreten: Nicht nur fallen hierdurch seine Angriffe um einiges wilder aus, <color=#FFD780FF>er erzeugt auch einen Schild, um sich zu schützen und erhöht seinen WDS gegen alle Elemente – mit Ausnahme des Elektro-WDS – sowie phys. WDS erheblich, während er seinen Elektro-WDS nur leicht erhöht</color>. Während er sich in diesem Zustand befindet, wird sein „Mut“ fortlaufend verbraucht und <color=#FFD780FF>die Menge an „Mut“, die er durch das Erleiden von Elektro-Schaden verlieren würde, würde sich erhöhen</color>. Sobald der gesamte „Mut“ aufgebraucht ist, verlässt er diesen Zustand, wobei er heftigen Rückschlagschaden erleidet. Je mehr Schaden sein Schild im „Zustand Kampfesrausch – Sturmangriff“ abhält, desto heftiger fällt am Ende der verursachte Rückschlagschaden aus. Ebenso erhöht der mit der <color=#FFD780FF>Reaktion Stellarfunkeln verursachte Elektro-Schaden</color> den Rückschlagschaden, der beim Beseitigen des Schildes zugefügt wird."
+      }
+    ]
+  },
+  "tags": {
+    "1001061": {
+      "good": "{SPRITE_PRESET#11003}-Figuren",
+      "bad": "{SPRITE_PRESET#11002}-Figuren"
+    },
+    "1001062": {
+      "good": "{SPRITE_PRESET#11007}- und {SPRITE_PRESET#11003}-Figuren",
+      "bad": "{SPRITE_PRESET#11001}- und {SPRITE_PRESET#11002}-Figuren"
+    },
+    "1001063": {
+      "good": "{SPRITE_PRESET#11001}-Figuren"
+    },
+    "1002061": {
+      "good": "Hochfrequenter Elementar-SCH | Mit Nachtseelen versehener SCH"
+    },
+    "1002062": {
+      "good": "Niedrigfrequenter SCH",
+      "bad": "Hochfrequenter SCH"
+    },
+    "1002063": {
+      "good": "{SPRITE_PRESET#11034}-Reaktionen | Schilde"
+    },
+    "1003061": {
+      "good": "Verschiedene Arten von Elementar-SCH",
+      "bad": "Schaden durch einzelnes Element"
+    },
+    "1003062": {
+      "good": "{SPRITE_PRESET#11029}-Reaktionen",
+      "bad": "{SPRITE_PRESET#11003}-Figuren"
+    },
+    "1003063": {
+      "good": "{SPRITE_PRESET#11034}-Reaktionen | {SPRITE_PRESET#11004}-Figuren"
+    },
+    "1004061": {
+      "good": "Hochfrequenter Elementar-SCH | Verschiedene Arten von Elementar-SCH | SCH durch Mondleuchten-Reaktion"
+    },
+    "1004062": {
+      "good": "Mondomen – Reifer Glanz"
+    },
+    "1004063": {
+      "good": "Figur mit Eid des Lebens | Figur mit Schild"
+    },
+    "1005061": {
+      "good": "{SPRITE_PRESET#11001}-, {SPRITE_PRESET#11002}- und {SPRITE_PRESET#11007}-Figuren"
+    },
+    "1005062": {
+      "good": "{SPRITE_PRESET#11003}-Figur | Fernangriffsfigur | Figur mit Anziehungsfertigkeit",
+      "bad": "Nahkampf-Figuren"
+    },
+    "1005063": {
+      "good": "Figuren mit Angriff aus dem Fall"
+    },
+    "1006061": {
+      "good": "SCH von Mondleuchten-Reaktionen"
+    },
+    "1006063": {
+      "good": "{SPRITE_PRESET#11002}-Figuren",
+      "bad": "{SPRITE_PRESET#11003}-Figuren"
+    },
+    "1007061": {
+      "good": "{SPRITE_PRESET#11003}{SPRITE_PRESET#11004}-Figuren | Figur mit Anziehungsfertigkeit"
+    },
+    "1007062": {
+      "good": "{SPRITE_PRESET#11034}-Reaktionen | {SPRITE_PRESET#11004}-Figuren"
+    },
+    "1008061": {
+      "good": "{SPRITE_PRESET#11006}-Figuren | Heilungsfiguren"
+    },
+    "1009061": {
+      "good": "Vorteil durch Reaktionen {SPRITE_PRESET#11028}{SPRITE_PRESET#11024}"
+    },
+    "1009063": {
+      "good": "Vorteil durch Reaktionen {SPRITE_PRESET#11027}{SPRITE_PRESET#11035}"
+    },
+    "1010061": {
+      "good": "{SPRITE_PRESET#11001}{SPRITE_PRESET#11004}-Figuren | Fernangriff-Figuren",
+      "bad": "{SPRITE_PRESET#11002}-Figuren | Nahkampf-Figuren"
+    },
+    "1010063": {
+      "good": "Nachtseelensegen-Figuren"
+    },
+    "1011061": {
+      "good": "{SPRITE_PRESET#11022}-Reaktionen | {SPRITE_PRESET#11001}-Figuren"
+    },
+    "1011062": {
+      "good": "Figur mit Eid des Lebens | Figur mit Schild"
+    },
+    "1012061": {
+      "good": "Stellarfunkeln-Figuren | {SPRITE_PRESET#11005}-Figuren"
+    },
+    "1012063": {
+      "good": "Stellarfunkeln-Figuren | {SPRITE_PRESET#11003}-Figuren"
+    },
+    "1013061": {
+      "good": "Stellarfunkeln-Figuren | {SPRITE_PRESET#11004}-Figuren"
+    }
+  },
+  "season": {
+    "5269001": "Überfallabwehr",
+    "5269002": "Verbissener Kampf",
+    "5269003": "Donnerschlacht",
+    "5269004": "Schlacht der Tapferkeit",
+    "5269005": "Fallbeben-Gefecht",
+    "5269006": "Prüfung der Fäulnis-Ausrottung",
+    "5269007": "Zermalmen und Vernichten",
+    "5269008": "Schlacht der zerbrochenen Jade",
+    "5269009": "Schlacht der heulenden Zyklone",
+    "5269010": "Wilde Beben",
+    "5269011": "Krieg des Sternenschimmer",
+    "5269012": "Hell erleuchtete Front",
+    "5269013": "Kampf inmitten gewaltiger Wellen"
+  }
+}

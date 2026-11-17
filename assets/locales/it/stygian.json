@@ -1,0 +1,516 @@
+{
+  "boss": {
+    "1001061": "Tulpa di Hydro - Vortice turbolento",
+    "1001062": "Statua del drago di lava - Fiamma rovente",
+    "1001063": "Automa della Fonte segreta: Dispositivo di sorveglianza - Panoplia distruttrice",
+    "1002061": "Papilla tenebrosa - Trasfigurazione dell'ombra del Vuoto",
+    "1002062": "Tendaruga agguerrita - Egida tonante",
+    "1002063": "Idol Pipilpan agguerrito - Cento inganni",
+    "1003061": "Drago cataclismatico - Configurazione di annientamento",
+    "1003062": "Granchio roccioso segnato dalla guerra - Un milione di esplosioni",
+    "1003063": "Soldato d'assalto Fiammalama agguerrito - Vaga speranza",
+    "1004061": "Herra della Notte gelata - Odio e rabbia",
+    "1004062": "Guardaluce agguerrito - Echi di lutto",
+    "1004063": "Operativa del Gelo veterana - Lama insanguinata",
+    "1005061": "Battezzante maligno - Ira risonante",
+    "1005062": "Iktomisauro agguerrito - Determinazione glaciale",
+    "1005063": "Generatore di campo sperimentale - Potenziale estremo",
+    "1006061": "Signore delle profondità nascoste: Sussurratore di incubi - Lama del razziatore",
+    "1006063": "Imperatore del Fuoco e del Ferro - Conquista predestinata",
+    "1007061": "Mandragora esadecatonica agguerrita - Tifone rampicante",
+    "1007062": "Cazzotto Paperotto - Arsenale corazzato",
+    "1008061": "Gecoluna radioso - Zanne intrecciate",
+    "1009061": "Lupo glaciale agguerrito - Anima glaciale",
+    "1009063": "Colui che ha gli Occhi aperti - Disprezzo soverchiante",
+    "1010061": "Ombra della Matrice della rete di sorveglianza della Fonte segreta pioniera - Volontà dell'alveare",
+    "1010063": "Automa della Fonte segreta: Dispositivo di configurazione - Cesoie di lisi",
+    "1011061": "Leone alato chimerico - Potenza incontenibile",
+    "1011062": "Operativa del Vento veterana - Lama traditrice",
+    "1012061": "Scultore Domovoj temprato in battaglia - Intaglio burrascoso",
+    "1012063": "Lama guardiana della neve fluttuante -- Riverbero infinito",
+    "1013061": "Legaonde: Zannatempesta"
+  },
+  "lore": {
+    "1001061": "Un mostro umanoide formato dall'agglomerazione di infinite gocce d'acqua.\nInnumerevoli volontà si sono disciolte nell'acqua che, come l'universo, era piena di anime che desideravano nascere.\nSofferenza e odio, intrise in quelle acque, si sono intersecate, deformando quella che un tempo era una forma umana nel caos indistinto delle linee geomantiche. La tragica dissoluzione si ripeterà presto...",
+    "1001062": "Un mostro in grado di generare continuamente calore per mantenere le sue attività.\nUn tentativo fallito di produrre saggezza dalla pura energia, a rappresentazione di una grande razza, ma la cui coscienza non supera quella di una pietra.\nUn tempo, quest'essere non era molto diverso da un cadavere, ma le linee geomantiche turbolente gli hanno trasmetto l'animosità virulenta del defunto, aggiungendo pensieri feroci e pericolosi al suo istinto per la battaglia.",
+    "1001063": "Un meccanismo di dominazione delle antiche rovine.\nTanto tempo fa, un'antica razza, una volta molto potente, usava questo dispositivo per controllare le operazioni nelle loro città. Persino oggi, nonostante la caduta di quella civiltà, questo macchinario mantiene una grande autorità.\nNelle profondità delle caotiche linee geomantiche, il modulo energetico centrale, deterioratosi nel corso degli anni, è stato restaurato, e anzi, è stato \"sovraccaricato\" fino a raggiungere livelli pericolosi. Finalmente libero dalle sue specifiche originali, è in grado di liberarsi dalle catene del pianeta e di usare la sua orribile \"Panoplia distruttrice\"...",
+    "1002061": "Mostri dell'Abisso che crescono come piante parassite.\nCausando una contaminazione continua, sono in grado di estrarre i ricordi dagli strati più profondi della terra e, tramite il potere dell'Abisso, ricostruirne altri dotati di maggiore potenza. L'odio che un tempo si diffondeva dalle loro radici si è condensato nell'incipiente caos delle linee geomantiche per creare lame d'indicibile ferocia, in grado di infliggere profonda sofferenza a chiunque sia abbastanza sciocco da sfidarle...",
+    "1002062": "Un rettile gentile e lento per natura, considerato da molti un simbolo di saggezza e buona sorte. Eppure, quando messa alle strette, questa straordinaria creatura è in grado di scatenare feroci assalti contro i suoi nemici, usando la sua spessa corazza come un martello per schiacciare qualsiasi avversario.\nNell'incipiente caos delle linee geomantiche, la sua forma è stata distorta, e ora carica furiosamente in battaglia, come una tempesta di fulmini pronta ad attaccare e difendersi...",
+    "1002063": "Un idol Pipilpan che incanala l'essenza di Tenoch. Abile nei trucchi con il cappello e negli stratagemmi di battaglia, è in grado di attaccare da molteplici angolazioni, punendo l'irruenza degli sfidanti più impulsivi.\nNell'incipiente caos delle linee geomantiche, l'ossessione di questo artista si è concretizzata un turbinio di rifiuto e annientamento. Basta il minimo passo falso affinché lo sfidante venga ridotto in polvere, proprio come accadeva anticamente agli avversari di Tenoch...",
+    "1003061": "Questa macchina da combattimento a forma di drago è un essere che incute timore, proprio come il signore che un tempo governava queste vaste terre.\nQuesta misteriosa e instancabile mostruosità sembra essere la prova che nell'ormai perduto regno si sono raggiunte vette di conoscenza che nessun mortale avrebbe mai dovuto esplorare.\nA causa della corruzione sostenuta dalle caotiche linee geomantiche, la sua struttura si è potenziata. La macchina si è talmente adattata alla sua missione di annientamento che si è trasformata in un incubo mortale sul campo di battaglia...",
+    "1003062": "Un granchio che vive all'interno di gusci e conchiglie. Un lontano parente del Granchio corazzato di Fontaine. La maggior parte dei granchi è docile e gentile, ma ci sono storie di lotte fino alla morte tra granchi per proteggere il proprio territorio, dove la loro natura gentile si è trasformata in una rabbia selvaggia e incontenibile.\nTra le illusioni delle linee geomantiche, il potente Granchio roccioso guerriero che un tempo venne sconfitto da un'orda di nemici ha riforgiato le sue abilità offensive per sopportare l'assalto di centinaia di migliaia di nemici, un'impresa la cui ricompensa è un successo inaspettato...",
+    "1003063": "Un ufficiale Fatuus d'élite degli Oprichniki, specializzato nel combattimento corpo a corpo con una grossa lama.\nChe si tratti di combattere contro la calamità oscura o contro gli ignoranti che osano opporsi agli ideali della Tsaritsa, coloro che sfondano le fila nemiche usando la punta della propria lancia pagano spesso il prezzo più alto. Coloro che sopravvivono a cento battaglie solo per poi cadere comunque diventano un ricordo spaventoso nelle linee geomantiche. A causa della prolungata immersione nelle correnti contorte, le ombre persistenti di questi guerrieri rivolgono le lame che un tempo brandivano in una disperata battaglia contro chi li sfida nel tentativo di sedare il disordine...",
+    "1004061": "Una creatura maestosa che vaga con orgoglio nella notte gelata, detentrice di antichi poteri domati dal Signore dei cieli. Eppure, sotto l'indicibile influenza delle linee geomantiche, la sua solenne nobiltà è stata usurpata da un feroce appetito per le prede e dalla volontà di incontrare gli intrusi con il gelido filo di una lama...",
+    "1004062": "Un valoroso guerriero che, in tempi antichi, resistette alla calamità oscura. Anche se la fiamma della sua vita è stata smorzata, la sua ferrea volontà non ha ancora lasciato questo mondo, e coloro che hanno giurato di combattere la Caccia selvaggia portano avanti indefessi la sua interminabile battaglia. Contorto dalle caotiche linee geomantiche, qualsiasi intruso che entri nel suo campo visivo non viene trattato diversamente dagli abomini più feroci della Caccia selvaggia e si trova ad affrontare tutta la sua determinazione e forza...",
+    "1004063": "Un'agente d'élite dei Fatui. Selezionata sin dall'infanzia, è arrivata al vertice dopo lunghi anni di rigoroso addestramento, un'esperienza che le ha instillato una straordinaria abilità e una lealtà incrollabile.\nPurtroppo, nel pericoloso caos delle linee geomantiche, il suo senso della ragione è stato da tempo inghiottito dalla brama per la battaglia, che la porta a dare la caccia senza pietà agli intrusi e a sottoporli a un assalto di pura rabbia...",
+    "1005061": "Una creatura dell'Abisso \"evolutasi\" sfruttando i terribili poteri dell'oscurità fino a sviluppare degli arti complementari. È in grado di maneggiare diversi tipi di potere elementale.\nNei ricordi contorti delle linee geomantiche, essi emergono come distruttori deliranti, scatenando ondate di calamità con i loro poteri blasfemi...",
+    "1005062": "Capace di usare il suo piumaggio per spiccare balzi, è l'unico tipo di Saurico ad aver compreso come entrare nello stato medianico.\nOsservando la totalità della sofferenza e del dolore, è stato consumato dai ricordi contorti delle linee geomantiche, trasformandosi in una bufera di freddo quasi assoluto che infuria con i venti di un caos insondabile...",
+    "1005063": "Un prodotto dell'Istituto di ricerca per l'ingegneria dell'Energia cinetica di Fontaine, sfuggito al controllo a causa di un incidente. Ha la capacità di \"contrastare\" gli effetti della gravità.\nTrasformato dal caos delle linee geomantiche, il suo nucleo è diventato violentemente instabile, e i campi gravitazionali che scatena ora si riversano con la forza di uno tsunami, pronti a inghiottire la terra...",
+    "1006061": "Una creatura dell'Abisso che si insinua tra le faglie nelle profondità nascoste, osservando silenziosamente questo mondo. Si dice che la sua forma sinistra e senza volto non sia altro che una proiezione, e che il suo vero corpo esista solo come una massa informe di pura energia abissale.\nGuidata dal caotico tumulto delle linee geomantiche, i suoi sussurri frenetici e deliranti si sono trasformati in un potere tagliente, mirato a lacerare l'ordine che il mondo ha duramente conquistato...",
+    "1006063": "Uno dei due sovrani che un tempo si ergevano all'apice delle specie aberranti del Fontemer, soggetto di numerosi racconti tra i marinai. Evitando la predazione, continua a cacciare e a mangiare, crescendo costantemente e cercando gusci adatti a diventare la sua nuova armatura.\nDistorta dalla turbolenza delle linee geomantiche, la sua natura violenta è diventata così intensa da spingerlo a scatenarsi come un piccolo esercito, scagliandosi contro qualsiasi cosa gli capiti a tiro... Una calamità a forma di granchio che striscia sulla terra...",
+    "1007061": "Una Mandragora eccezionalmente grande, probabilmente una variante esotica prodotta attraverso un lungo processo di selezione artificiale. Sebbene l'obiettivo originale della sua coltivazione non sia più noto, il suo peculiare senso di territorialità suggerisce possa essere il prodotto di un qualche esperimento.\nNell'incipiente caos delle linee geomantiche, la sua forma è stata distorta, e ora è determinata a scatenare i venti ululanti per permettere alle sue spore di inghiottire tutta la terra...",
+    "1007062": "Un dispositivo a Kuuvahki di curiosa fattura, realizzato con scarti di metallo e cuscinetti meccanici, la cui forma vagamente simile a quella di un papero deriva dalle naturali inclinazioni della sua creatrice. La sua potenza e la sua resistenza sono paragonabili a quelle delle più moderne armi da guerra dei Fatui... Ciononostante, rimane soltanto un giocattolo capace di colpire molto forte i suoi avversari.\nA causa delle trasformazioni dovute alle estreme anomalie geomantiche, la proiezione di questa macchina si è evoluta in una fabbrica semovente blindata e piena zeppa di artiglieria pesante. Basta un passo falso e uno sciame di Paperini d'assalto si abbatterà come un'onda anomala su chiunque tenti di sfidarlo...",
+    "1008061": "Attratto dal chiarore della luna, questo antico e mostruoso geco dimora tra gli strati di roccia. L'accumulo graduale di energia Kuuvahki ha cristallizzato il suo corpo in segmenti precisi come dei componenti meccanici, che possono indurirsi e formare spuntoni di roccia con cui respingere gli intrusi.\nA causa degli effetti di intense perturbazioni geomantiche, i suoi segmenti sotto l'effetto del Kuuvahki si sono estesi in modo incontrollato, intrecciandosi in una rete che sembra spingerlo a divorare un'intera montagna.",
+    "1009061": "Un lupo solitario allontanatosi dal branco locale, la cui criniera color foglia di tè rivela l'appartenenza a una stirpe di terre lontane.\nA causa del flusso caotico delle linee geomantiche, i ricordi dei suoi antenati sono stati distorti in un'orribile maledizione. Un odio algido pervade ora la sua stessa essenza, spingendo la bestia a dilaniare spietatamente ogni cosa si trovi nel suo campo visivo.",
+    "1009063": "Un costrutto d'ombra nato dalla tracimazione del potente essere primordiale, un Osservatore che un tempo dimorava nei cieli più alti, ma che è stato scacciato nel regno mortale per aver osato aprire il proprio occhio. Può monitorare e contrastare gli attacchi elementali.\nTravolto dalle turbolenze delle linee geomantiche e da un caotico flusso d'informazioni corrotte, la sua natura un tempo arrogante si è distorta in un puro impulso distruttivo, che lo spinge ad annientare ogni cosa su cui si posi il suo sguardo.",
+    "1010061": "In origine era solo un dispositivo sviluppato per supportare la ricerca lunare. In seguito, tuttavia, gli vennero conferiti poteri e responsabilità ben oltre il suo scopo originario.\nA causa della perturbazione geomantica che lo ha distorto e corrotto nel tempo, il suo nucleo e i suoi dispositivi di rilevamento sono stati completamente sovrascritti. Lo scopo originale per il quale era stato progettato è quasi del tutto scomparso. Ora è guidato solo da una volontà distruttiva che spinge in avanti infinite orde di macchine per sommergere ogni forma di vita.",
+    "1010063": "Una macchina utilizzata per la costruzione di antiche rovine. I padroni di quegli antichi domini usavano questa macchina, capace di cambiare forma, per varie attività di produzione.\nNel mezzo del turbolento flusso all'interno delle linee geomantiche, il suo guscio resistente alla lava si è trasformato in un'armatura, e l'immensa potenza che costruì città colossali è ora forgiata in titaniche chele. Quello che un tempo era il comando di \"costruire\" è stato distorto nel desiderio di \"distruggere\", spingendola a completare la \"grande impresa\" di ridurre ogni cosa in macerie.",
+    "1011061": "Un prodotto della bioalchimia, un mostro artificiale abbandonato a sé stesso.\nNel riflesso totalmente distorto delle linee geomantiche, il suo dominio sugli elementi è diventato sempre più violento. Fulmini e venti tempestosi si scatenano e ruggiscono al suo comando, senza lasciare nulla al loro passaggio...",
+    "1011062": "Un'agente d'élite dei Fatui. A seconda degli ordini e degli obiettivi della missione, può avanzare e ritirarsi al fianco dei soldati, oppure agire da sola o con \"risorse integrate\" dislocate sul territorio per condurre attività di raccolta informazioni, contro-ricognizione, scorta, assassinio e altre operazioni.\nTragicamente, nel caos mortale delle linee geomantiche, il suo senso d'identità è stato eroso dalle correnti turbolente. Tutto ciò che resta è un guscio logorato dalla battaglia, che agisce solo d'istinto e rivolge la sua lama gelida contro chiunque osi avvicinarsi...",
+    "1012061": "Uno scultore di ghiaccio dal corpo temprato da innumerevoli prove, capace di plasmare il Ghiaccio sublime utilizzando l'energia di Anemo come martello e scalpello.\nStravolto da correnti di linee geomantiche ancor più raccapriccianti del suo stesso gusto artistico, lo scultore è preda di una frenesia d'ispirazione incontenibile. Ora brama scolpire carne e ossa con raffiche ululanti e imprigionare anime nel Ghiaccio sublime infrangibile, impaziente di trasformare ogni intruso al suo cospetto nell'ultima opera di questa mostra di calamità.",
+    "1012063": "Un'antica Snegovik tenuta in grande considerazione dal suo clan. Un tempo le era stato affidato l'eterno compito di proteggere il suo popolo.\nDistorta dal flusso turbolento nelle linee geomantiche, la vacua illusione che un tempo chiamava \"protezione\" è stata ridotta a un puro istinto per il massacro. Celata nell'ombra della Bara di ghiaccio, giace in agguato, pronta in qualsiasi momento a trasformarsi in un'inafferrabile e affilatissima lama di ghiaccio, per dilaniare qualunque essere vivente osi avvicinarsi.",
+    "1013061": "Un Volkodlak dalla potenza ineguagliabile, creato per realizzare il grande sogno di un'antica civiltà: esplorare liberamente le profondità acquatiche.\nSotto l'influsso frenetico delle linee geomantiche distorte, il lignaggio senza pari che dormiva in lui è sfuggito completamente al controllo. Il suo corpo, che sfida i soverchianti limiti della pressione degli abissi marini, ora ribolle anche di una forza brutale e travolgente, capace di opporsi apertamente alle invisibili correnti oscure. Ora, avendo perduto ogni briciolo di ragione, è deciso a ridurre in polvere ogni cosa che gli capiti sotto gli occhi."
+  },
+  "mechanics": {
+    "1001061": [
+      {
+        "name": "Mezzi Tulpa gemelli",
+        "text": "A causa della perturbazione geomantica, <color=#FFD780FF>2 Mezzi Tulpa</color> appariranno a intervalli. Dopo un certo lasso di tempo, il Tulpa di Hydro li assorbirà per <color=#FFD780FF>potenziarsi</color>: <color=#FFD780FF>si ripristinerà una grande quantità di PS</color>, diventerà più grande, l'ATT aumenterà e potrà scagliare attacchi più pericolosi.\nUsa attacchi o reazioni elementali per distruggere in tempo i Mezzi Tulpa o <color=#FFD780FF>congelali</color> per interrompere il processo di assorbimento."
+      },
+      {
+        "name": "Turbinio torrenziale",
+        "text": "A causa della perturbazione geomantica, durante la sfida il Tulpa di Hydro crea uno Scudo ed entra in uno stato di carica per prepararsi a scatenare il suo Turbinio torrenziale. Se riesce a usarlo, <color=#FFD780FF>il tuo personaggio attivo viene immediatamente messo fuori combattimento</color>.\nQuando il Tulpa di Hydro crea il suo Scudo, i TdR delle abilità elementali e dei Tripudi elementali di tutti i membri del gruppo vengono azzerati, ripristinando al contempo l'energia elementale, lo Spirito combattivo e l'Astuzia del serpente. Se lo Scudo viene infranto prima che il Tulpa di Hydro si sia caricato, la carica di Turbinio torrenziale viene annullata."
+      }
+    ],
+    "1001062": [
+      {
+        "name": "Doppio piroclasto",
+        "text": "Inizia nella sua forma di \"Geoumano\", che possiede una <color=#FFD780FF>RES fisica e a tutti gli elementi più elevata</color>. Dopo aver subito un certo numero di iterazioni di <color=#FF9999FF>DAN da Pyro</color> assumerà completamente la forma di \"Drago incandescente\", in cui <color=#FFD780FF>la RES fisica e a tutti gli elementi, tranne la RES a Pyro, si riducono notevolmente</color>. Dopo aver subito dei <color=#FF9999FF>DAN da Pyro</color>, subirà progressivamente DAN aggiuntivi. Dopo aver subito un ulteriore numero di iterazioni di <color=#FF9999FF>DAN da Pyro</color> quando è nella forma di \"Drago incandescente\", entra nello stato di Sovrustione, cade a terra e verrà immobilizzato. Questo causa anche <color=#FFD780FF>un'ulteriore riduzione alla RES fisica e a quella a tutti gli elementi</color>. Dopo essere rimasto immobilizzato per un certo periodo di tempo, ritorna alla forma di \"Geoumano\"."
+      },
+      {
+        "name": "Effetto TdR",
+        "text": "Dopo aver subito <color=#80C0FFFF>DAN da Hydro</color> o <color=#99FFFFFF>DAN da Cryo</color>, ritorna gradualmente alla sua forma più resistente di \"Geoumano\"."
+      },
+      {
+        "name": "Agglomerazione turbolenta",
+        "text": "A causa della perturbazione geomantica, tutte le RES di questo potente nemico sono aumentate ulteriormente e il numero di iterazioni di DAN da Pyro che deve subire per cambiare forma è aumentato."
+      }
+    ],
+    "1001063": [
+      {
+        "name": "Modalità Pulizia preventiva",
+        "text": "In combattimento, entra immediatamente in modalità Pulizia: <color=#FFD780FF>la sua RES a tutti gli elementi e la sua RES fisica aumenta</color> e genera Slancio fluido mentre esegue degli attacchi. Maggiore è lo Slancio fluido, maggiori sono i DAN inflitti e la velocità con cui ruota.\nPerde Slancio fluido dopo aver subito <color=#99FFFFFF>DAN da Cryo</color>. Quando il valore di Slancio fluido scende al di sotto di una certa soglia, smette di roteare e di attaccare. <color=#FFD780FF>La sua RES a tutti gli elementi inoltre si riduce notevolmente</color>, con la <color=#99FFFFFF>RES a Cryo</color> che <color=#FFD780FF>si riduce ancora di più</color>.\nOgni volta che entra in modalità Pulizia, produce sfere elementali in più la prima volta che i suoi attacchi rotanti vengono interrotti."
+      },
+      {
+        "name": "Stato di Contrattacco forzato",
+        "text": "Se il personaggio entra nello stato di <color=#FFD780FF>Grazia dell'Anima della Notte</color> e lo mantiene per un certo periodo di tempo, quest'avversario entra in uno stato di Contrattacco forzato e cambia modalità d'attacco, usando dei potenti raggi a ricerca. In questa fase, <color=#FFD780FF>la sua RES a tutti gli elementi e la RES fisica si riducono</color>.\nIn questo stato, dopo aver subito una certa quantità di <color=#99FFFFFF>DAN da Cryo</color>, smette di attaccare e <color=#FFD780FF>la sua RES a tutti gli elementi e la RES fisica si riducono ulteriormente</color>."
+      },
+      {
+        "name": "Struttura antidanni",
+        "text": "A causa della perturbazione geomantica, tutte le RES di questo potente nemico sono aumentate, e perde meno Slancio fluido quando colpito da <color=#99FFFFFF>DAN da Cryo</color>. Perde inoltre meno RES quando è nello stato di Contrattacco forzato."
+      }
+    ],
+    "1002061": [
+      {
+        "name": "Mimesi tenebrosa",
+        "text": "Può cambiare la propria forma e trasformarsi in un potente nemico per attaccare."
+      },
+      {
+        "name": "Assalto logorante",
+        "text": "Alcuni attacchi infliggono accumuli di Logoramento che, dopo un certo periodo di tempo, provocano una perdita di PS al membro attivo del gruppo."
+      },
+      {
+        "name": "Egida ombrosa del Vuoto",
+        "text": "A causa della perturbazione geomantica, la Papilla tenebrosa crea una Barriera del Vuoto mentre attacca. Distruggila usando <color=#FFD780FF>un certo numero di attacchi elementali</color>. Una volta infranta, la Papilla tenebrosa subirà una singola e ingente iterazione di DAN in base ai DAN assorbiti dalla Barriera, e resterà indebolita per un certo periodo di tempo. Gli <color=#FFD780FF>attacchi elementali con attributo Anima della Notte</color> possono infrangere la Barriera in modo più efficace, aumentando anche i DAN subiti dal nemico una volta infranta la Barriera. Dopo un certo periodo di tempo trascorso nel suo stato d'indebolimento, la Papilla tenebrosa cercherà di creare una nuova Barriera del Vuoto."
+      },
+      {
+        "name": "Supplica odiosa all'oscurità",
+        "text": "A causa della perturbazione geomantica, se la Barriera del Vuoto non viene infranta in un certo periodo di tempo, la Papilla tenebrosa scatenerà una Supplica odiosa all'oscurità, entrando in uno stato di carica che, se la Barriera del Vuoto continua a rimanere intatta, si conclude con un Bombardamento rabbioso oscuro, <color=#FFD780FF>che sconfigge immediatamente il personaggio attivo</color>."
+      }
+    ],
+    "1002062": [
+      {
+        "name": "Barriera Spinatonante",
+        "text": "Dopo aver subito <color=#FFD780FF>un certo numero di attacchi</color>, schiera una Barriera Spinatonante, che riflette parte dei DAN subiti sui personaggi vicini finché è attiva. La Barriera può essere infranta usando delle reazioni elementali per <color=#FFD780FF>prosciugarne l'energia di Electro</color>."
+      },
+      {
+        "name": "Logoramento tonante",
+        "text": "A causa della perturbazione geomantica, ogni volta che il nemico viene attaccato, i progressi di schieramento della Barriera Spinatonante aumentano più velocemente, ma diminuiscono nel tempo. Inoltre, i requisiti elementali per infrangere la Barriera aumentano notevolmente."
+      }
+    ],
+    "1002063": [
+      {
+        "name": "Spettacolo di cappelli",
+        "text": "Durante il combattimento, l'entità crea diversi cappelli, nascondendosi in uno di essi, e ne cambia velocemente la posizione. Dopo un certo numero di cambi, se <color=#FFD780FF>il cappello in cui è nascosta l'entità subisce danni da Electrocarica o da Carica lunare</color>, l'entità smette di spostarli.\nAssesta una certa quantità di DAN al <color=#FFD780FF>cappello in cui è nascosta l'entità</color> per distruggerli tutti. Questo farà rivelare l'entità, provocandole DAN ingenti e uno stato d'indebolimento temporaneo. I <color=#FFD780FF>DAN da Electrocarica o da Carica lunare</color> sono i più efficaci per distruggere il cappello. I DAN subiti dall'entità quando il cappello viene rotto aumentano in base ai <color=#80C0FFFF>DAN da Hydro</color>, ai <color=#FFACFFFF>DAN da Electro</color> o ai <color=#FFD780FF>DAN da Electrocarica o da Carica lunare</color> subiti dal cappello."
+      },
+      {
+        "name": "Rifiuto del cappello",
+        "text": "A causa della perturbazione geomantica, il nemico scatena un potente attacco chiamato Rifiuto del cappello, lanciando continuamente dei cappelli che infliggono <color=#FFACFFFF>molti DAN da Electro</color> e dotati di <color=#FFD780FF>grandi capacità d'interruzione</color>."
+      }
+    ],
+    "1003061": [
+      {
+        "name": "Contromisure d'emergenza",
+        "text": "A causa della perturbazione geomantica, rilascia un torrente di energia ogni volta che subisce DAN equivalenti a una certa percentuale dei suoi PS, poi cambia forma in base al tipo di DAN elementale che ha subito di più durante quel periodo di tempo, <color=#FFD780FF>aumentano di molto la RES elementale a quell'elemento</color>."
+      },
+      {
+        "name": "Meccaniche di combattimento multiplo",
+        "text": "A causa della perturbazione geomantica, la creatura inizia il combattimento nella sua modalità di combattimento a terra. Se non riesce a rilasciare il torrente di energia per un lungo periodo di tempo, cambia alla sua modalità di combattimento aereo per continuare a combattere."
+      },
+      {
+        "name": "Scompartimento d'armatura del nucleo",
+        "text": "A causa della perturbazione geomantica, i diversi nuclei della creatura sono ora protetti e, anche se attaccati, la creatura non rimarrà paralizzata. Inoltre, anche il suo potenziamento alla RES elementale non potrà essere rimosso."
+      }
+    ],
+    "1003062": [
+      {
+        "name": "Litosemi",
+        "text": "In battaglia, vengono sparsi lungo tutto il campo di battaglia dei Litosemi, che esplodono dopo un breve periodo di tempo. Se questi semi subiscono <color=#FFD780FF>DAN da Fioritura, Iperfioritura, Fioritura lunare o Germinazione</color> prima di esplodere, subiscono una conversione e rivolgono i loro attacchi contro il Granchio roccioso, infliggendo DAN in base ai DAN totali che loro stessi hanno ricevuto."
+      },
+      {
+        "name": "Eremita infiammabile",
+        "text": "A causa della perturbazione geomantica, i Litosemi esplodono violentemente dopo aver subito DAN da Pyro, scagliando via i personaggi e infliggendo DAN ingenti."
+      },
+      {
+        "name": "Bombardamento Tsarino potentissimo",
+        "text": "A causa della perturbazione geomantica, dopo l'inizio della battaglia, il Granchio roccioso salta in aria, sparge molti Litosemi e inizia a caricarsi. Farà esplodere i Litosemi, così da infliggere DAN in un'ampia area, e <color=#FFD780FF>mettendo immediatamente fuori combattimento il personaggio attivo</color> e aumentando notevolmente tutte le sue RES per un certo periodo di tempo. Mentre si sta caricando, il Granchio roccioso crea una Barriera. Questa può essere infranta <color=#FFD780FF>convertendo un certo numero di Litosemi</color>. La carica del Granchio roccioso verrà interrotta all'infrangersi della Barriera e il Granchio rimarrà paralizzato."
+      }
+    ],
+    "1003063": [
+      {
+        "name": "Multiscudo",
+        "text": "In battaglia, l'avversario crea un Multiscudo sperimentale speciale per proteggersi mentre si prepara ad attivare la Sequenza tonante. Lo Scudo si ripristina di una certa quantità a intervalli regolari. Distruggere tutti e tre gli strati dello Scudo impedisce l'attivazione della Sequenza tonante e paralizza l'avversario. I <color=#FFD780FF>DAN da Electrocarica e da Carica lunare</color> sono particolarmente efficaci contro lo Scudo. Ogni volta che uno strato dello Scudo viene distrutto, l'avversario subisce una singola iterazione di DAN ingenti e vengono generate delle sfere elementali aggiuntive."
+      },
+      {
+        "name": "Raffica tonante",
+        "text": "Quando si attiva la Sequenza tonante, questa infligge DAN da Electro in un'ampia area d'effetto e continua a infliggere attacchi di Electro per un certo periodo di tempo. Se riesci a evitare la sua attivazione, l'equipaggiamento dell'avversario si romperà, facendo sì che la <color=#FFD780FF>RES a Electro</color> dell'avversario si <color=#FFD780FF>riduca notevolmente</color>."
+      },
+      {
+        "name": "Impennata di potere d'emergenza",
+        "text": "A causa della perturbazione geomantica, il Multiscudo sperimentale aumenta tutte le RES tranne quella a Electro, e le sue abilità di ripristino aumentano. Tuttavia, dopo aver subito <color=#FFD780FF>DAN da Electrocarica o da Carica lunare</color>, la velocità di ripristino diminuisce notevolmente. Una volta attivato, sia i DAN inflitti dalla Sequenza tonante che la sua durata aumentano notevolmente."
+      }
+    ],
+    "1004061": [
+      {
+        "name": "Oscurità velata",
+        "text": "Entra nello stato di Oscurità velata durante il combattimento. In questo stato, <color=#FFD780FF>tutte le RES aumentano notevolmente</color>. Dopo aver subito <color=#FFD780FF>un certo numero di iterazioni di DAN</color>, esce dallo stato di Oscurità velata e cambia tipo elementale nell'elemento dal quale ha subito più DAN quando era nello stato di Oscurità velata, <color=#FFD780FF>ottenendo così l'immunità ai DAN elementali e agli effetti elementali corrispondenti</color>."
+      },
+      {
+        "name": "Purezza lunare",
+        "text": "I <color=#FFD780FF>DAN da reazione lunare</color> sono i più efficaci per rompere lo stato di Oscurità velata. Se ha subito più DAN da reazioni lunari quando esce dallo stato di Oscurità velata, perde il proprio tipo elementale e non <color=#FFD780FF>ottiene l'immunità ai DAN elementali o agli effetti elementali</color>."
+      }
+    ],
+    "1004062": [
+      {
+        "name": "Lamento errante",
+        "text": "Entra in combattimento nello stato di Vagabondaggio. Quando i PS arrivano a 0, entra nello stato di Caccia selvaggia."
+      },
+      {
+        "name": "Lutto",
+        "text": "Quando è nello stato di Caccia selvaggia, anche se i suoi PS vengono ridotti a 0, li recupererà tutti dopo un certo periodo di tempo. Può essere sconfitto solo quando i suoi PS max vengono ridotti a 0. <color=#FFD780FF>Riduci completamente i suoi PS o usa abilità potenziate da Presagio lunare: Barlume ascendente</color> per farlo entrare in un breve stato di Lutto. Una certa quantità di DAN inflitti al nemico in questo stato verrà convertita per ridurne i PS max. Quando sei nello stato di Presagio lunare: Barlume ascendente, questa quantità aumenta."
+      },
+      {
+        "name": "Ondata di Esuli",
+        "text": "Durante lo stato di Caccia selvaggia, compariranno periodicamente degli Esuli selvaggi. Se non riesci a sconfiggerli tutti entro un certo periodo di tempo, il nemico eseguirà una mietitura, infliggendo ingenti DAN ad area e massacrando gli Esuli selvaggi, ripristinando i propri PS max in base ai PS max rimanenti degli Esuli. A causa della perturbazione geomantica, i PS max degli Esuli selvaggi aumentano. Inoltre, la quantità di PS max ripristinati dal nemico quando usa \"Mietitura\" è ancora più alta."
+      }
+    ],
+    "1004063": [
+      {
+        "name": "Uccisione rapida",
+        "text": "Consuma una certa percentuale di PS in combattimento per usare Abbattimento. Quando questo colpisce un personaggio, ripristina una certa percentuale dei PS dell'avversario e assegna un Legame vitale al personaggio colpito. Mentre Legame vitale è attivo, il personaggio interessato subisce DAN continui. I personaggi con un Legame vitale subiscono DAN aumentati da questo attacco."
+      },
+      {
+        "name": "Persecuzione sanguinosa",
+        "text": "A causa della perturbazione geomantica, le capacità di interruzione e la resistenza all'interruzione del nemico aumentano molto. Quando si prepara a usare Abbattimento, entra nello stato di Inseguimento sanguinoso e crea uno Scudo per difendersi. Mentre questo è attivo, il nemico <color=#FFD780FF>applicherà continuamente Legame vitale a tutti i personaggi</color>. Una volta infranto lo scudo, il nemico subirà una grande quantità di DAN."
+      }
+    ],
+    "1005061": [
+      {
+        "name": "Barriera elementale - Caos frenetico",
+        "text": "A causa della perturbazione geomantica, dopo l'inizio della battaglia, l'avversario schiera in sequenza delle <color=#FFD780FF>Barriere di Electro, Pyro e Hydro</color> per proteggersi, adattando i suoi attacchi all'elemento attivo. <color=#FFD780FF>Infrangere una Barriera usando le reazioni elementali</color> infliggerà enormi DAN all'avversario, in base ai <color=#FFD780FF>DAN totali assorbiti dalla Barriera</color>, costringendolo a passare a un'altra forma elementale e a schierare la Barriera corrispondente. Una volta infrante tutte e tre le Barriere, l'avversario resterà paralizzato temporaneamente."
+      }
+    ],
+    "1005062": [
+      {
+        "name": "Onda d'urto sonica - Sequenza sonora",
+        "text": "A causa della perturbazione geomantica, tutte le RES di questo nemico sono aumentate. Durante il combattimento, balza verso l'alto più frequentemente, levita sul posto per un breve periodo di tempo e scatena di continuo potenti onde d'urto soniche a mezz'aria."
+      },
+      {
+        "name": "Grandine improvvisa - Urto ad ampio raggio",
+        "text": "Durante la battaglia, l'avversario schiera una <color=#FFD780FF>Barriera di Cryo</color> per proteggersi e balza verso l'alto per caricare Grandine improvvisa. Dopo un certo periodo di tempo, scatena quest'attacco e <color=#FFD780FF>sconfigge istantaneamente il tuo personaggio attivo</color>. <color=#FFD780FF>Infrangi la Barriera con delle reazioni elementali</color> per far cadere a terra il nemico, interrompere la preparazione dell'attacco e infliggere una singola iterazione di DAN ingenti in base ai <color=#FFD780FF>DAN assorbiti dalla Barriera</color>. Mentre l'avversario prepara l'attacco, tutti i personaggi del tuo gruppo recuperano <color=#FFD780FF>energia elementale, Spirito combattivo o Astuzia del serpente</color>. Se, dopo un certo periodo di tempo, la Barriera non è stata infranta, sul terreno compariranno delle Zone di grandine. <color=#FFD780FF>Innescare reazioni elementali per distruggere ogni Zona di grandine</color> può anche indebolire ed eventualmente infrangere la Barriera di Cryo."
+      },
+      {
+        "name": "Vortice perturbante",
+        "text": "A causa della perturbazione geomantica, quando l'avversario inizia a caricare l'attacco Grandine improvvisa, un Vortice perturbante appare sul campo, infliggendo DAN da Cryo ad area ad <color=#FFD780FF>alleati e nemici</color>. Se il vortice colpisce l'avversario, la sua <color=#FFD780FF>RES ad Anemo</color> si riduce e viene consumata anche la sua Barriera.\nInoltre, il Vortice perturbante può essere influenzato anche da effetti di attrazione, che possono alterarne il percorso."
+      }
+    ],
+    "1005063": [
+      {
+        "name": "Nucleo gravitazionale - Profondità critica",
+        "text": "#A causa della perturbazione geomantica, l'avversario genera un campo di riduzione di gravità durante il combattimento, aumentando notevolmente l'altezza di salto dei personaggi. Ogni volta che un personaggio raggiunge una certa altezza, l'ATT di quest'ultimo aumenta significativamente per 1,5{NON_BREAK_SPACE}s. Quando il campo è attivo, <color=#FFD780FF>dal terreno si sprigionano delle onde d'urto gravitazionali impossibili da schivare</color>. Le onde d'urto ottengono 1 accumulo di potenziamento ogni 5{NON_BREAK_SPACE}s, che ne aumenta la forza e la frequenza. Ogni volta che un <color=#FFD780FF>attacco in picchiata</color> colpisce l'avversario, 1 accumulo di potenziamento viene rimosso."
+      },
+      {
+        "name": "Nucleo resiliente",
+        "text": "A causa della perturbazione geomantica, il nucleo di Ousia diventa più robusto e il campo di riduzione di gravità rimane attivo anche dopo aver subito <color=#FFD780FF>3 attacchi di Pneuma</color>."
+      }
+    ],
+    "1006061": [
+      {
+        "name": "Scudo oscuro: Piaga profonda",
+        "text": "A causa della perturbazione geomantica, il Signore delle profondità nascoste: Sussurratore di incubi raccoglie energia abissale per creare uno scudo protettivo. <color=#FFD780FF>I DAN da reazione lunare</color> sono particolarmente efficaci per romperlo. Quando l'avversario potente schiera uno scudo, la prima volta che questo subisce DAN da reazione lunare, genera una sfera elementale aggiuntiva. Quando lo scudo viene infranto, il Signore delle profondità nascoste: Sussurratore di incubi subisce un'iterazione di DAN ingenti ed entra in uno stato d'indebolimento temporaneo."
+      },
+      {
+        "name": "Assalto della Faglia",
+        "text": "A causa della perturbazione geomantica, il Signore delle profondità nascoste: Sussurratore di incubi entra in un lungo stato di carica ed evoca in battaglia diversi Pescatori delle profondità nascoste. Una volta completata la carica, infligge DAN in una vasta area e divora tutti i Pescatori. Sconfiggi i Pescatori prima che ciò accada per infrangere lo Scudo e interrompere la carica del Signore delle profondità nascoste: Sussurratore di incubi."
+      }
+    ],
+    "1006063": [
+      {
+        "name": "Corna incandescenti",
+        "text": "Le corna gemelle incandescenti presenti sulla parte superiore del corpo dell'Imperatore del Fuoco e del Ferro <color=#FFD780FF>convogliano energia di Pyro</color>, e possono scatenare altri letali attacchi elementali e donargli capacità difensive ancora più efficaci. Quando scatena determinati attacchi, le sue corna gemelle incandescenti <color=#FFD780FF>rimangono vicine al terreno</color> e forniscono un'opportunità per <color=#FFD780FF>romperle usando le reazioni elementali</color>. Una volta esaurito l'elemento Pyro dalle corna, queste si distruggono, e il potente avversario subisce un'iterazione di DAN ingenti. Inoltre, per un breve periodo di tempo non sarà in grado di ripristinare le corna."
+      },
+      {
+        "name": "Portascudi",
+        "text": "A causa della perturbazione geomantica, l'Imperatore del Fuoco e del Ferro evoca dei Granchi Scudosolido per assisterlo durante la battaglia. I Granchi Scudosolido incanalano continuamente Pyro nelle corna gemelle incandescenti. Una volta esaurito l'elemento Pyro, i Granchi Scudosolito vengono sconfitti. Quando un Granchio Scudosolido viene sconfitto, perde il controllo e si schianta contro l'Imperatore del Fuoco e del Ferro, sovraccaricando l'elemento Pyro nelle sue corna e danneggiandole. Come conseguenza, l'Imperatore del Fuoco e del Ferro subisce DAN in proporzione ai DAN subiti dal Granchio Scudosolido. In campo possono esserci non più di 3 Granchi Scudosolido alla volta."
+      },
+      {
+        "name": "Incoronazione splendente",
+        "text": "A causa della perturbazione geomantica, l'Imperatore del Fuoco e del Ferro scatena Incoronazione splendente in battaglia, infliggendo DAN in una vasta area dopo un breve periodo di carica. Distruggere le corna gemelle incandescenti interrompe la carica."
+      }
+    ],
+    "1007061": [
+      {
+        "name": "Stato di Agglomerazione potenziata",
+        "text": "A causa della perturbazione geomantica, all'inizio del combattimento, la Nemesi entra nello stato di Agglomerazione, durante il quale <color=#FFD780FF>le sue RES aumentano considerevolmente</color>. Mentre è in questo stato, l'Energia di agglomerazione della Nemesi si consuma costantemente, e se subisce DAN da <color=#FFD780FF>Pyro o Electro</color> il consumo diventa più rapido. Quando l'Energia di agglomerazione si esaurisce, la Nemesi scatena la sua abilità Sporeflora e passa allo stato di Scissione."
+      },
+      {
+        "name": "Stato di Scissione",
+        "text": "Quando questa Nemesi entra nello stato di Scissione, si separa in una grande quantità di spore. Quando queste ultime vengono danneggiate, una parte dei danni viene inflitta anche alla Nemesi. Dopo essere rimasta per un certo periodo di tempo in stato di Scissione, la Nemesi ritorna nello stato di Agglomerazione. In questo caso, se la quantità di spore sul campo scende al di sotto di una certa soglia, la Nemesi entra nello stato di Agglomerazione fragile, durante il quale <color=#FFD780FF>tutte le sue RES diminuiscono notevolmente</color> e le sue abilità di combattimento si riducono. Inoltre, se tutte le spore generate nello stato di Scissione vengono sconfitte, la Nemesi esce anticipatamente dal suddetto stato per entrare nello stato di Agglomerazione fragile."
+      },
+      {
+        "name": "Struttura cava",
+        "text": "A causa della perturbazione geomantica, quando questa Nemesi si trova negli stati di Scissione e Agglomerazione fragile, la sua <color=#FFD780FF>RES ad Anemo risulta notevolmente diminuita</color>."
+      }
+    ],
+    "1007062": [
+      {
+        "name": "Modalità Paperannientatore estremo",
+        "text": "A causa degli effetti della perturbazione geomantica, all'inizio della battaglia, questa Nemesi entra in modalità Paperannientatore estremo, aumentando la propria aggressività. In più, genera una Barriera che <color=#FFD780FF>aumenta tutte le RES</color> e dei Paperini d'assalto volanti pronti a ostacolarti."
+      },
+      {
+        "name": "Paperini d'assalto a bassa resistenza",
+        "text": "<color=#FFD780FF>Infliggi più volte DAN da Electrocarica o da Carica lunare, o semplicemente abbastanza danni per guastare i Paperini d'assalto</color>. Una volta guasti, andranno fuori controllo, schiantandosi contro Cazzotto Paperotto e infliggendo una certa quantità di DAN alla sua Barriera. Distruggendo la Barriera della Nemesi in questo modo, puoi farla uscire dalla modalità Paperannientatore estremo e renderla inerme a causa del Sovraccarico. Questo <color=#FFD780FF>ridurrà notevolmente la RES a Electro della Nemesi per un certo periodo di tempo</color>."
+      },
+      {
+        "name": "Sistema di salto a frequenza rapida",
+        "text": "A causa degli effetti della perturbazione geomantica, i Paperini d'assalto diventano più resistenti. Per guastarli, infliggi loro <color=#FFD780FF>più iterazioni di Electrocarica o DAN da Carica lunare</color> o <color=#FFD780FF>più DAN</color>. I <color=#FFD780FF>DAN da Electrocarica o Carica lunare</color> inflitti ai Paperini d'assalto sono più efficaci. Quando perdono il controllo e si schiantano su Cazzotto Paperotto, i DAN inflitti a quest'ultimo aumentano in base ai <color=#FFD780FF>DAN totali subiti</color> dai Paperini."
+      }
+    ],
+    "1008061": [
+      {
+        "name": "Riverbero nomade",
+        "text": "Dopo l'inizio della battaglia, la Nemesi piazza un'Ancora lunare, poi salta verso l'alto per preparare un Riverbero nomade. Qualche tempo dopo, sferra un ampio e potente attacco ad area. Utilizza <color=#FFD780FF>metodi adatti a contrastare Geo</color> per distruggere i vari strati della Barriera di Geo dell'Ancora lunare. Distruggendola, la carica dell'abilità viene interrotta e vengono inflitti DAN ingenti alla Nemesi. Maggiori sono i DAN inflitti all'Ancora lunare durante la fase di preparazione, maggiori saranno i DAN inflitti alla Nemesi quando l'Ancora lunare viene distrutta. A causa della perturbazione geomantica, usare gli attacchi di <color=#FFD780FF>Geo</color> contro l'Ancora lunare aumenterà ulteriormente i DAN inflitti alla Nemesi."
+      },
+      {
+        "name": "Roccia irremovibile",
+        "text": "A causa degli effetti della perturbazione geomantica, la Barriera di Geo multistrato dell'Ancora lunare diventa più resistente."
+      },
+      {
+        "name": "Bozzolo radioso",
+        "text": "Durante la battaglia, la Nemesi sfrutta il potere di Geo per applicare un Bozzolo radioso ai personaggi e aumentare la propria RES a Geo. Quando questi ultimi ne sono affetti, <color=#FFD780FF>infliggono meno DAN e ricevono meno cure</color>. <color=#FFD780FF>Quando i PS di un personaggio vengono ripristinati completamente tramite guarigione</color>, quest'ultimo si libera dal Bozzolo e ottiene l'effetto Districamento, che aumenta le abilità per un breve periodo di tempo. Quando un qualsiasi personaggio del gruppo si libera, la Nemesi perde la RES a Geo ottenuta dal Bozzolo radioso."
+      }
+    ],
+    "1009061": [
+      {
+        "name": "Spirito del lupo ancestrale: Manifestazione",
+        "text": "All'inizio del combattimento, il potente avversario evoca uno \"Spirito del lupo ancestrale\" per combattere al suo fianco. A causa delle perturbazioni geomantiche, l'avversario <color=#FFD780FF>è invulnerabile a ogni DAN finché riceve la benedizione dello spirito</color>. In quanto entità spirituale, lo \"Spirito del lupo ancestrale\" è protetto da una speciale Barriera di Cryo che può essere infranta solo da <color=#FFD780FF>reazioni di Turbinio di Pyro o Electro</color>. Una volta distrutta la Barriera, lo spirito svanisce, lasciando l'avversario temporaneamente paralizzato e infliggendo ingenti DAN da contraccolpo. Più DAN assorbe la Barriera, maggiori saranno i DAN da contraccolpo. Inoltre, i <color=#FFD780FF>DAN da Pyro e da Anemo</color> aumentano ulteriormente tali DAN."
+      }
+    ],
+    "1009063": [
+      {
+        "name": "Controllo di sorveglianza",
+        "text": "All'inizio del combattimento, Colui che ha gli Occhi aperti entra nello stato di \"Controllo di sorveglianza\", durante il quale tiene traccia del numero di volte in cui subisce danni da <color=#FFD780FF>Pyro/Hydro/Electro/Cryo</color>. Quando il numero di colpi subiti da un singolo elemento raggiunge 5, l'avversario esce dal suddetto stato e <color=#FFD780FF>registra tale elemento come bersaglio monitorato</color>. Se nessun elemento viene monitorato correttamente, il registro rimane vuoto, e l'avversario infligge una singola iterazione di DAN da Geo. Al termine del primo stato di \"Controllo di sorveglianza\", il nemico entra nuovamente nel suddetto stato dopo un intervallo prestabilito. A causa degli effetti delle perturbazioni geomantiche, la seconda fase di monitoraggio dura più a lungo, gli elementi già registrati richiedono un numero di colpi significativamente maggiore per essere monitorati di nuovo, e le RES elementali e la RES fisica di Colui che ha gli Occhi aperti risultano aumentate."
+      },
+      {
+        "name": "Delirio fenomenologico",
+        "text": "Dopo aver completato due turni di Monitoraggio elementale, Colui che ha gli Occhi aperti si alza in volo per preparare \"Delirio fenomenologico\", rilasciando gli elementi registrati in precedenza ed evocando due Stelle elementali attive corrispondenti. Se non è stato registrato alcun elemento, evoca delle Stelle elementali inerti al loro posto, dotate di un'<color=#FFD780FF>elevata resistenza a tutti gli elementi e ai DAN fisici</color>. Se il nemico evoca due Stelle elementali attive di elementi diversi, entrambe le stelle diventano più facili da distruggere. Quando una Stella elementale attiva viene distrutta, infligge ingenti danni al nemico in base all'elemento registrato. Se viene distrutta una Stella elementale inerte, infligge invece DAN da Geo al nemico. <color=#FFD780FF>Distruggi tutte le Stelle elementali</color> per interrompere la preparazione di \"Delirio fenomenologico\". Se entrambe le Stelle non vengono distrutte entro il tempo limite, esploderanno infliggendo ingenti DAN ad area."
+      }
+    ],
+    "1010061": [
+      {
+        "name": "Campo di soppressione: Ciclo energetico",
+        "text": "Quando inizia il combattimento, la Nemesi schiera 4 dispositivi di rilevamento protetti da <color=#FFD780FF>Barriere di Hydro</color>, creando un Campo di soppressione speciale che crea uno <color=#FFD780FF>Scudo di forza</color> per la Nemesi, e aumenta <color=#FFD780FF>tutte le sue RES eccetto quella a Cryo e a Electro</color>. Dopo che il campo è rimasto attivo per un certo periodo di tempo, la Nemesi sferra un Attacco alfa, infliggendo DAN ad area su una vasta zona e recuperando tutti i dispositivi di rilevamento. Dopodiché, genera una <color=#FFD780FF>Barriera di Hydro</color> il cui assorbimento si basa sul numero di dispositivi recuperati. Non riuscire a riassorbire i dispositivi recuperati comporta la creazione di una Barriera di Hydro debole."
+      },
+      {
+        "name": "Scudo di forza",
+        "text": "A causa della perturbazione geomantica, il Campo di soppressione della Nemesi cede quando lo Scudo di forza viene distrutto, causando un'iterazione di DAN ingenti da contraccolpo e uno stato di paralisi alla Nemesi. Inoltre, ogni volta che la Nemesi viene affetta da una reazione di Superconduzione o di Astroconduzione, lo Scudo perde una quantità fissa. I <color=#FFD780FF>DAN da Superconduzione e da Astroconduzione</color> sono più efficaci per rompere lo Scudo e aumentano ulteriormente i DAN da contraccolpo che la Nemesi subisce quando lo Scudo viene infranto."
+      },
+      {
+        "name": "Dispositivo di rilevamento: Componente pressurizzato",
+        "text": "I dispositivi di rilevamento vengono distrutti quando <color=#FFD780FF>la loro Barriera di Hydro viene infranta</color> o <color=#FFD780FF>se vengono affetti da Congelamento e successivamente colpiti da Rompigelo, Fusione o da altri DAN da reazione elementale</color>. A causa della perturbazione geomantica, lo Scudo della Nemesi subisce danni per ogni dispositivo di rilevamento distrutto."
+      }
+    ],
+    "1010063": [
+      {
+        "name": "Contromisure adattive: Avvio a freddo",
+        "text": "All'inizio della battaglia, la Nemesi è protetta da <color=#FFD780FF>un potente scudo</color> e ottiene una RES a tutti gli elementi e una RES fisica maggiore. Quando un personaggio entra e rimane nello stato di Grazia dell'Anima della Notte, la Nemesi accumula progressi per le Contromisure adattive. A causa della perturbazione geomantica, una volta terminato di accumulare le Contromisure adattive per la prima volta, la Nemesi perde <color=#FFD780FF>tutti gli aumenti alle RES ottenuti all'inizio della battaglia</color>, il suo <color=#FFD780FF>scudo</color> s'infrange e subisce DAN da contraccolpo, in base alla quantità di DAN assorbiti dal suo scudo."
+      },
+      {
+        "name": "Electrocannone: Pompe ad alta pressione",
+        "text": "Quando i progressi per le Contromisure adattive sono al massimo, la Nemesi attiva i Meccanismi di accumulazione ed estrae 2 blocchi di Flogisto solido prima di assorbire l'energia al loro interno per caricare l'Electrocannone. I Meccanismi di accumulazione generano dei campi di forza per proteggersi. Devi <color=#FFD780FF>arrampicarti sul Flogisto solido per entrare all'interno dei campi di forza</color> e distruggerli. Una volta distrutti tutti i Meccanismi di accumulazione, la carica dell'Electrocannone viene interrotta, mentre la Nemesi <color=#FFD780FF>viene paralizzata e subisce contemporaneamente DAN da contraccolpo</color>. A causa della perturbazione geomantica, le Contromisure adattive accumulano progressi con il passare del tempo, ma la quantità richiesta per attivare l'Electrocannone è più alta."
+      }
+    ],
+    "1011061": [
+      {
+        "name": "Chiamata del tuono: Scudo resistente",
+        "text": "A causa degli effetti della perturbazione geomantica, all'inizio della battaglia, la Nemesi attinge al potere della sua testa di Electro per generare una <color=#FFD780FF>resistente Barriera di Electro</color> con cui proteggersi. A intervalli regolari, le due teste della Nemesi agiscono all'unisono, incanalando il potere di Anemo nel suo spadone di Electro per scatenare una grande onda d'urto di Electro. Se in quel momento la Nemesi si trova sotto l'effetto di <color=#FFD780FF>Splendore: Barlume astrale</color>, il suo potere va fuori controllo e le si ritorce contro, <color=#FFD780FF>danneggiando la sua Barriera</color>. Una volta che <color=#FFD780FF>la Barriera viene infranta</color> tramite reazioni elementali, la Nemesi smette di attaccare per lo sfinimento e si paralizza. Le sue <color=#FFD780FF>RES a Cryo e ad Anemo vengono ridotte di molto</color>, e subisce una singola iterazione di DAN da contraccolpo ingenti in base ai DAN bloccati dalla Barriera. I <color=#FFD780FF>DAN da reazione di Barlume astrale</color> aumentano i DAN da contraccolpo subiti dalla Nemesi quando la Barriera viene infranta."
+      },
+      {
+        "name": "Forza burrascosa: Assalto feroce",
+        "text": "A causa degli effetti della perturbazione geomantica, durante la battaglia, la Nemesi attinge al potere della sua testa di Anemo per spiccare il volo, volteggiare rapidamente e attaccare scagliando Dardi burrascosi. Dopo aver finito di volteggiare, la Nemesi crea un vortice, tentando di attirare a sé e assorbire le sfere di Anemo sul campo per recuperare il proprio potere. Dopo aver assorbito abbastanza sfere di Anemo, spicca nuovamente il volo e sferra un altro attacco roteante. Le sfere di Anemo possono essere distrutte con <color=#FFD780FF>DAN da Hydro/Pyro/Electro/Cryo</color>. È possibile anche applicare l'effetto di <color=#FFD780FF>Splendore: Barlume astrale</color> alla Nemesi per impedirle di assorbire le sfere di Anemo. Se il vortice si dissipa prima che la Nemesi abbia assorbito abbastanza sfere di Anemo, quest'ultima viene immediatamente paralizzata. Le sue <color=#FFD780FF>RES a Cryo ed Anemo vengono ridotte di molto</color>."
+      }
+    ],
+    "1011062": [
+      {
+        "name": "Uccisione rapida",
+        "text": "Consuma una certa percentuale di PS in combattimento per usare Abbattimento. Quando colpisce un personaggio con questa azione, ripristina una certa percentuale dei propri PS e assegna un Legame vitale al personaggio colpito. Mentre il Legame vitale è attivo, il personaggio interessato subisce DAN costanti. I personaggi con un Legame vitale subiscono DAN aumentati da questo attacco."
+      },
+      {
+        "name": "Persecuzione sanguinosa: Tradimento",
+        "text": "A causa della perturbazione geomantica, le capacità di interruzione e la resistenza all'interruzione del nemico aumentano di molto. Quando perde la sua posizione a mezz'aria, può immediatamente teletrasportarsi e riposizionarsi velocemente. Quando si prepara a usare Abbattimento, entra nello stato di Persecuzione sanguinosa e crea uno scudo per difendersi. Mentre quest'ultimo è attivo, l'avversario <color=#FFD780FF>applica continuamente un Legame vitale a tutti i personaggi</color>. Una volta infranto lo scudo, il nemico subisce una grande quantità di DAN."
+      }
+    ],
+    "1012061": [
+      {
+        "name": "Jokul Frosti dalla bocca larga",
+        "text": "All'inizio della battaglia, la Nemesi usa l'energia di Anemo per creare una scultura di Ghiaccio sublime. Dopo un breve ritardo, la scultura si trasforma in un Jokul Frosti dalla bocca larga che lancia continuamente Palle di neve.\nInfliggi <color=#FFD780FF>Splendore: Barlume astrale</color> alla Nemesi mentre sta creando la scultura per interrompere il processo e trasformarla in un'innocua statua di animale."
+      },
+      {
+        "name": "Frenesia creativa",
+        "text": "A causa degli effetti della perturbazione geomantica, la Nemesi <color=#FFD780FF>inizia la battaglia con la RES a tutti gli elementi e la RES fisica notevolmente aumentate</color>, creando sculture di Ghiaccio sublime più frequentemente.\nDopo che una scultura di ghiaccio è stata trasformata nella statua di un animale, esplode dopo un breve ritardo, infliggendo DAN alla Nemesi e <color=#FFD780FF>riducendo la RES a tutti gli elementi e la RES fisica, e diminuendo ulteriormente la RES ad Anemo</color>. Quest'effetto può essere <color=#FFD780FF>accumulato fino a 3 volte</color>."
+      }
+    ],
+    "1012063": [
+      {
+        "name": "Bara di ghiaccio: Reticolo cristallino gemellato",
+        "text": "Durante la battaglia, quando i PS della Nemesi scendono al di sotto di una certa soglia, si rinchiude in una Bara di ghiaccio e ottiene una <color=#FFD780FF>Barriera di Cryo</color> per proteggersi.\nFinché la Bara di ghiaccio è attiva, la Nemesi scatena continuamente tempeste di ghiaccio attorno a sé. Se la Bara di ghiaccio non viene distrutta, la Nemesi ripristina una parte dei suoi PS e crea delle spade di ghiaccio per sferrare un contrattacco. Tuttavia, se la Bara di ghiaccio che ne preserva la vita viene distrutta, entra in uno stato di indebolimento per un certo periodo di tempo e subisce DAN da contraccolpo. A causa della perturbazione geomantica, <color=#FFD780FF>la Bara di ghiaccio è più resistente</color>. Poco dopo essere stata distrutta per la prima volta, la Nemesi <color=#FFD780FF>si rinchiude in un'altra Bara di ghiaccio</color>."
+      },
+      {
+        "name": "Bara di ghiaccio: Reticolo cristallino distorto",
+        "text": "Mentre la <color=#FFD780FF>Bara di ghiaccio è attiva</color>, se la Nemesi è affetta da <color=#FFD780FF>Splendore: Barlume astrale</color>, <color=#FFD780FF>la Barriera di Cryo della Bara di ghiaccio si trasforma in uno scudo che assorbe i DAN.</color> Una volta distrutto lo scudo, la Nemesi subisce una grande quantità di DAN da contraccolpo."
+      }
+    ],
+    "1013061": [
+      {
+        "name": "Coraggio contro il freddo: Sorso corroborante",
+        "text": "A causa degli effetti della perturbazione geomantica, questa Nemesi estrae periodicamente una botte e beve un lungo sorso per accumulare una grande quantità di Coraggio. Se viene colpita da <color=#FFD780FF>Splendore: Barlume astrale</color> mentre beve, la velocità di accumulo del Coraggio si riduce. Anche infliggere <color=#FFD780FF>DAN da Electro</color> riduce il Coraggio. <color=#FFD780FF>I DAN da Electro considerati come DAN derivanti dalla reazione di Barlume astrale corrispondente</color> riducono il Coraggio in maniera significativamente maggiore."
+      },
+      {
+        "name": "Assalto audace",
+        "text": "A causa degli effetti della perturbazione geomantica, quando il Coraggio della Nemesi è al massimo, questa entra nello stato di Assalto audace, che rende i suoi attacchi molto più feroci, oltre a <color=#FFD780FF>generare uno scudo e aumentare notevolmente la RES fisica e la RES a tutti gli elementi, eccetto la RES a Electro che riceve solo un lieve aumento.</color> Mentre Assalto audace è attivo, il Coraggio della Nemesi si consuma costantemente. <color=#FFD780FF>I DAN da Electro riducono il Coraggio più del normale</color>. Una volta esaurito il Coraggio, lo stato si interrompe e la Nemesi subisce ingenti DAN da contraccolpo. Maggiore è la quantità di DAN assorbiti dallo scudo durante Assalto audace, maggiori saranno i DAN da contraccolpo subiti al termine dello stato. I <color=#FFD780FF>DAN da reazione di Barlume astrale</color> aumentano i DAN da contraccolpo subiti quando lo scudo viene infranto."
+      }
+    ]
+  },
+  "tags": {
+    "1001061": {
+      "good": "Personaggi di {SPRITE_PRESET#11003}",
+      "bad": "Personaggi di {SPRITE_PRESET#11002}"
+    },
+    "1001062": {
+      "good": "Personaggi di {SPRITE_PRESET#11007} {SPRITE_PRESET#11003}",
+      "bad": "Personaggi di {SPRITE_PRESET#11001} {SPRITE_PRESET#11002}"
+    },
+    "1001063": {
+      "good": "Personaggi di {SPRITE_PRESET#11001}"
+    },
+    "1002061": {
+      "good": "DAN elementali ad alta frequenza | DAN con attributo Anima della Notte"
+    },
+    "1002062": {
+      "good": "DAN a bassa frequenza",
+      "bad": "DAN ad alta frequenza"
+    },
+    "1002063": {
+      "good": "Reazioni di {SPRITE_PRESET#11034} | Scudi"
+    },
+    "1003061": {
+      "good": "DAN elementali multipli",
+      "bad": "DAN da singolo elemento"
+    },
+    "1003062": {
+      "good": "Reazioni di {SPRITE_PRESET#11029}",
+      "bad": "Personaggi di {SPRITE_PRESET#11003}"
+    },
+    "1003063": {
+      "good": "Reazioni di {SPRITE_PRESET#11034} | Personaggi di  {SPRITE_PRESET#11004}"
+    },
+    "1004061": {
+      "good": "DAN elementali ad alta frequenza | DAN multielementali | DAN da reazione lunare"
+    },
+    "1004062": {
+      "good": "Presagio lunare: Barlume ascendente"
+    },
+    "1004063": {
+      "good": "Personaggi con Legame vitale | Personaggi con scudo"
+    },
+    "1005061": {
+      "good": "Personaggi di {SPRITE_PRESET#11001}{SPRITE_PRESET#11002}{SPRITE_PRESET#11007}"
+    },
+    "1005062": {
+      "good": "Personaggi di {SPRITE_PRESET#11003} | Personaggi a distanza | Personaggi con abilità di controllo dei nemici",
+      "bad": "Personaggi che usano attacchi in mischia"
+    },
+    "1005063": {
+      "good": "Personaggi che usano attacchi in picchiata"
+    },
+    "1006061": {
+      "good": "DAN da reazione lunare"
+    },
+    "1006063": {
+      "good": "Personaggi di {SPRITE_PRESET#11002}",
+      "bad": "Personaggi di {SPRITE_PRESET#11003}"
+    },
+    "1007061": {
+      "good": "Personaggi {SPRITE_PRESET#11003}{SPRITE_PRESET#11004}  | Personaggi in grado di controllare gruppi avversari"
+    },
+    "1007062": {
+      "good": "Reazioni di {SPRITE_PRESET#11034}  |  Personaggi di {SPRITE_PRESET#11004}"
+    },
+    "1008061": {
+      "good": "Personaggi {SPRITE_PRESET#11006} | Personaggi guaritori"
+    },
+    "1009061": {
+      "good": "Vantaggio reazioni di {SPRITE_PRESET#11028}{SPRITE_PRESET#11024}"
+    },
+    "1009063": {
+      "good": "Vantaggio reazioni di {SPRITE_PRESET#11027}{SPRITE_PRESET#11035}"
+    },
+    "1010061": {
+      "good": "Personaggi di {SPRITE_PRESET#11001} {SPRITE_PRESET#11004} |  Personaggi con ATT a distanza",
+      "bad": "Personaggi di {SPRITE_PRESET#11002}  |  Personaggi da mischia"
+    },
+    "1010063": {
+      "good": "Personaggi con Grazia dell'Anima della Notte"
+    },
+    "1011061": {
+      "good": "Reazioni di {SPRITE_PRESET#11022}  | Personaggi di {SPRITE_PRESET#11001}"
+    },
+    "1011062": {
+      "good": "Personaggi con Legame vitale | Personaggi con scudo"
+    },
+    "1012061": {
+      "good": "Personaggi con Barlume astrale  | Personaggi di {SPRITE_PRESET#11005}"
+    },
+    "1012063": {
+      "good": "Personaggi con Barlume astrale  | Personaggi di {SPRITE_PRESET#11003}"
+    },
+    "1013061": {
+      "good": "Personaggi con Barlume astrale  | Personaggi di {SPRITE_PRESET#11004}"
+    }
+  },
+  "season": {
+    "5269001": "Scacciaincursori",
+    "5269002": "Battaglia brutale",
+    "5269003": "Incursione elettrizzante",
+    "5269004": "Assalto impetuoso",
+    "5269005": "Prova tellurica",
+    "5269006": "Battaglia contro la calamità",
+    "5269007": "Polvere alla polvere",
+    "5269008": "Battaglia della Giada infranta",
+    "5269009": "Battaglia del ciclone ululante",
+    "5269010": "Battaglia sismica",
+    "5269011": "Battaglia del Tripudio di stelle",
+    "5269012": "Fronte di battaglia luminoso",
+    "5269013": "Battaglia tra le grandi onde"
+  }
+}

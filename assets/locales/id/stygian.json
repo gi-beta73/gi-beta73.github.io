@@ -1,0 +1,516 @@
+{
+  "boss": {
+    "1001061": "Hydro Tulpa: Putaran Turbulensi",
+    "1001062": "Lava Dragon Statue: Kobaran Api",
+    "1001063": "Secret Source Automaton: Overseer - Senjata Pemusnah",
+    "1002061": "Tenebrous Papilla: Shadow Void Transfiguration",
+    "1002062": "Battle-Hardened Tent Tortoise: Thunderous Aegis",
+    "1002063": "Battle-Hardened Pipilpan Idol: Hundred Deceptions",
+    "1003061": "Aeonblight Drake: Annihilation Configuration",
+    "1003062": "Battle-Scarred Rock Crab: One Million Blasts",
+    "1003063": "Battle-Hardened Fireblade Shock Trooper: Forlorn Hope",
+    "1004061": "Frostnight Herra: Hatred and Rage",
+    "1004062": "Battle-Hardened Lightkeeper: Mourning Echoes",
+    "1004063": "Veteran Frost Operative: Bloodsoaked Blade",
+    "1005061": "Iniquitous Baptist: Resonant Wrath",
+    "1005062": "Battle-Hardened Iktomisaurus: Frostbound Resolve",
+    "1005063": "Experimental Field Generator: Extreme Potential",
+    "1006061": "Lord of the Hidden Depths: Whisperer of Nightmares - Ravager's Edge",
+    "1006063": "Emperor of Fire and Iron: Ordained Conquest",
+    "1007061": "Battle-Hardened Hexadecatonic Mandragora: Stormvine",
+    "1007062": "Knuckle Duckle: Armored Arsenal",
+    "1008061": "Radiant Moongecko: Entangled Fangs",
+    "1009061": "Battle-Hardened Glacial Wolf: Glacial Soul",
+    "1009063": "The Open-Eyed: Overbearing Contempt",
+    "1010061": "Shadow of the Precursor's Secret Source Matrix of Overseer Network - Will of the Hive",
+    "1010063": "Secret Source Automaton: Configuration Device - Clamp Cutter",
+    "1011061": "Chimeric Winged Lion: Power Overwhelming",
+    "1011062": "Veteran Wind Operative: Treacherous Blade",
+    "1012061": "Battle-Hardened Domovoy Sculptor: Gale Hewing",
+    "1012063": "Guardian Blade of Drifting Snow: Endless Reverberation",
+    "1013061": "Wavebinder: Stormfang"
+  },
+  "lore": {
+    "1001061": "Monster berbentuk manusia yang terbentuk dari gumpalan air.\nBegitu banyak kehendak yang larut dalam air layaknya alam semesta yang dipenuhi oleh jiwa-jiwa yang ingin dilahirkan.\nDi bawah proyeksi Ley Line yang kacau, rasa sakit dan kebencian yang terbenam di dalam air terjalin dengan wujud manusia asli dalam bentuk yang terganggu, hilangnya seseorang secara tragis akan segera terulang kembali ....",
+    "1001062": "Monster yang mampu terus menerus menghasilkan panas untuk menunjang aktivitasnya.\nSebuah percobaan yang gagal untuk melahirkan kebijaksanaan dari energi murni yang memiliki bentuk ras yang agung, namun tidak ubahnya lebih dari sekedar batu yang tidak memiliki kesadaran.\nMeskipun dulunya tidak ada bedanya dengan benda mati, gejolak Ley Line yang kacau telah mengajarkan \"kebencian\" terhadapnya, menanamkan pikiran jahat yang paling berbahaya dalam pertempuran naluriahnya ....",
+    "1001063": "Alat pengontrol dari sebuah reruntuhan kuno.\nDi masa lalu, ada ras kuno yang pernah berjaya dan memanfaatkan mesin ini untuk mengelola kota mereka. Bahkan setelah peradaban kuno itu telah lama menghilang, mesin ini masih memiliki kekuatan yang sangat besar.\nJauh di dalam gangguan Ley Line, energi inti yang telah terkuras seiring berjalannya waktu telah kembali ke keadaan asalnya, bahkan mencapai tingkat \"kelebihan muatan\" yang sangat berbahaya. Alat ini memiliki cukup kekuatan untuk melepaskan diri dari belenggu planet, akhirnya melepaskan diri sepenuhnya ke tingkat di luar spesifikasi desainnya, menggerakkan \"Senjata Pemusnah\" yang mengerikan...",
+    "1002061": "Monster Abyss yang tumbuh dan berkorosi seperti tanaman.\nAgen yang bisa terus menerus mengorosi, dapat mengekstrak ingatan bumi dari lapisan yang lumayan dalam, juga bisa memunculkan kembali ingatan yang kuat dengan kekuatan Abyss. Di bawah proyeksi Ley Line yang tidak teratur, kebencian yang pernah menyebar dengan akar benda ini berangsur-angsur berubah menjadi bilah pedang yang ganas, membuat para penantang yang berkunjung merasakan sakit yang sangat mendalam ....",
+    "1002062": "Biasanya, reptil ini lemah lembut dan bergerak lambat, sehingga dianggap oleh sebagian orang sebagai simbol keberuntungan dan kebijaksanaan. Namun, saat diperlukan, makhluk istimewa ini akan melancarkan serangan cepat dan ganas kepada penantangnya, mengubah cangkangnya yang tebal menjadi palu berat untuk menghancurkan musuh. \nDi bawah proyeksi Ley Line yang tidak teratur, citranya terdistorsi, dan dia memasuki pertempuran dengan agresif, berubah menjadi guntur dengan kemampuan menyerang dan bertahan di saat yang sama ....",
+    "1002063": "Pipilpan Idol yang bercita-cita menjadi \"Tenoch\" sebagai panutannya, ahli dalam trik-trik aneh dan strategi pertarungan. Dia dapat menyerang dari berbagai sudut dan membuat mereka yang gegabah merasakan kekuatannya ....\nDi bawah proyeksi Ley Line yang tidak teratur, obsesi sang aktor diwujudkan sebagai serangan untuk menolak dan mengancam. Jika penantangnya tidak berhati-hati, mereka akan hancur menjadi debu, layaknya lawan yang dihancurkan oleh \"Tenoch\" ....",
+    "1003061": "Mesin tempur berbentuk naga ini adalah makhluk yang menimbulkan ketakutan, sama seperti raja yang pernah memerintah negeri yang luas ini. Monster mekanis yang tidak kenal lelah dan misterius ini tampaknya telah membuktikan bahwa bangsa yang sudah musnah dalam goresan sejarah memang telah mencapai ranah yang seharusnya tidak pernah terjangkau oleh manusia.\nSetelah terkorosi oleh kekacauan Ley Line dalam waktu yang lama, kerangka kerjanya telah berevolusi secara diam-diam, mengembangkan logika adaptif yang luar biasa untuk misi pemusnahan, menjadikannya mimpi buruk yang mematikan di medan perang ....",
+    "1003062": "Kepiting yang hidup di dalam siput dan cangkang. Merupakan kerabat jauh dari Fontainian Armored Crab. Awalnya, mereka hampir lebih jinak dan hampir tidak agresif. Tapi juga pernah ada kasus makhluk ini berani bertempur sampai mati demi wilayah seluruh sukunya. Pada saat ini, sifat yang awalnya lembut seolah-olah berubah menjadi bahan bakar untuk kekerasan.\nDi dalam ilusi Ley Line yang terdistorsi, sang Rock Crab \"petarung\" yang telah dikalahkan oleh berbagai lawan terus mengasah kemampuannya untuk bertempur. Dia berjuang untuk menciptakan kekuatan tempur yang mampu berdiri kokoh melawan ratusan ribu musuh yang kuat, dan akhirnya mencapai hasil yang luar biasa ....",
+    "1003063": "Tentara elit dari Oprichniki Fatui, ahli dalam pertempuran jarak dekat melawan musuh dengan pedang raksasa.\nDalam pertempuran melawan Bencana Hitam maupun orang-orang bodoh yang berani menghalangi cita-cita Tsaritsa, pasukan di garis depan adalah salah satu cabang dengan korban terbanyak. Para veteran yang telah melewati pertempuran tak terhitung jumlahnya namun sayangnya gugur telah menjadi bagian dari kenangan Ley Line yang mengerikan. Setelah sekian lama terendam dalam arus yang berliku-liku, bayangan para prajurit yang masih tersisa ini mengarahkan pedang yang pernah mereka gunakan dalam pertempuran putus asa melawan penantang yang berusaha meredakan kekacauan ....",
+    "1004061": "Makhluk agung yang melangkah dengan gagah berani melewati malam yang diselimuti embun beku. Dapat mengendalikan kekuatan kuno yang kini telah lama dijinakkan oleh Penguasa Langit Yang Mahatinggi. Tapi, di bawah gangguan Ley Line yang tak terlukiskan, dia telah kehilangan semua martabatnya, semua itu berubah menjadi pemburu yang ganas dan berbahaya, menunjukkan sisi dinginnya yang ekstrem kepada pengunjung ....",
+    "1004062": "Pahlawan pemberani yang melawan Bencana Hitam di masa lalu. Meski cahaya kehidupannya telah padam, namun kehendaknya yang tak tergoyahkan masih bertahan. Mereka yang bersumpah untuk menumpas Perburuan Liar masih terus meneruskan perjuangan mereka hingga saat ini. Setelah terganggu oleh kekacauan Ley Line yang sangat terdistorsi, dalam pandangannya, semua pengunjung tidak ada bedanya dengan Perburuan Liar yang paling berbahaya, mengharuskannya menggunakan segenap kekuatannya dan bertarung sampai mati dengan cara apa pun ....",
+    "1004063": "Agen elit di kalangan Fatui. Dipilih sejak masih kanak-kanak, mereka hanya akan bisa menjadi prajurit paling menonjol di barisannya setelah menjalani pelatihan selama bertahun-tahun dan pergantian yang tak terhitung jumlahnya, memiliki keterampilan luar biasa dan kesetiaan yang tak tergoyahkan.\nSayangnya, di tengah kekacauan Ley Line yang berbahaya, akal sehat mereka telah dilahap oleh hasratnya untuk bertarung. Mereka hanya tahu bagaimana mengulang siklus perburuan dan melampiaskan amarahnya yang murni kepada para pengunjung ....",
+    "1005061": "Makhluk Abyss yang telah mengembangkan anggota badan tambahan melalui evolusi berkat kekuatan gelap Abyss. Dia mampu menggunakan berbagai jenis kekuatan elemen.\nDalam ingatan Ley Line yang terdistorsi, mereka bangkit menjadi perusak yang tak terkendali, melepaskan gelombang bencana dengan kekuatan penghujatannya ....",
+    "1005062": "Mampu melompat menggunakan bulu-bulunya yang tumbuh, juga merupakan satu-satunya Saurian yang menguasai teknik memasuki status Spiritspeaker.\nDia mengamati semua penderitaan dan kesedihan, ditelan oleh ingatan Ley Line yang terdistorsi, berubah menjadi embun beku dan badai salju, lalu mendatangkan kekacauan tak berujung ....",
+    "1005063": "Hasil karya Institut Penelitian Energi Kinetik Fontaine. Memiliki efek \"menangkal\" gravitasi, tetapi menjadi tidak terkendali akibat sebuah kecelakaan.\nKarena pengaruh Ley Line yang tak beraturan, intinya menjadi luar biasa dahsyat, melepaskan energi gravitasi yang melonjak bak tsunami, seakan mengancam untuk memporak-porandakan bumi ....",
+    "1006061": "Makhluk Abyss yang merayap melalui celah di kedalaman tersembunyi, diam-diam mengawasi dunia ini. Bentuknya yang menyeramkan dan tanpa wajah konon hanyalah sebuah proyeksi, sementara wujud aslinya hanya ada sebagai massa kekuatan Abyss murni yang tak berbentuk.\nDi tengah kekacauan Ley Line yang mengamuk, bisikan gilanya yang meracau telah ditempa menjadi bilah yang tajam tak tertandingi. Dan kekuatan ini telah bersumpah untuk mengoyak ketenangan dan keteraturan dunia ini ....",
+    "1006063": "Salah satu dari dua penguasa yang berdiri di puncak evolusi Fontemer Aberrant. Dahulu kala makhluk ini hanyalah legenda di antara para pelaut. Tanpa memiliki musuh alami, makhluk yang dapat terus berburu dan melahap makanan ini akan terus mencari cangkang yang cocok sebagai tempat bernaung barunya saat mereka tumbuh dewasa.\nTerdistorsi oleh Ley Line Disturbance, sosoknya yang ganas kini telah berubah menjadi pasukan kecil saja. Ia akan menghancurkan apa pun yang dilihatnya, bagaikan bencana berbentuk kepiting yang terus bergerak ....",
+    "1007061": "Mandragora yang besarnya sangat tidak biasa, sepertinya adalah hasil dari proses seleksi buatan yang panjang. Meskipun tujuan awal pembudidayaannya sudah tidak diketahui, namun dari kesadaran teritorialnya yang unik, mungkin saja ini adalah hasil dari suatu eksperimen terkontrol tertentu.\nKarena terkoyak oleh kekacauan dan distorsi dari Ley Line, bentuknya pun sudah lama bermutasi, sehingga dia bertekad untuk menggunakan angin menderu agar sporanya dapat menyelimuti seluruh daratan ....",
+    "1007062": "Mekanisme kuuvahki berbentuk unik yang terbuat dari logam bekas dan bantalan mekanisme. Sepertinya karena preferensi penciptanya, sebagian karakteristik penampilannya ditandai dengan \"burung bebek\". Kekuatan dan ketahanannya terhadap kerusakan sebanding dengan persenjataan perang milik Fatui yang paling canggih ... Meski demikian, mekanisme ini tetap hanya merupakan bebek mainan yang hanya dapat meninju lawannya dengan sangat keras. Preferensi seorang pencipta akan selalu menentukan penampilan hasil karyanya, begitu pula tanah liat yang tidak memiliki wewenang untuk mempertanyakan pilihan cetakan yang digunakan penciptanya. Dunia di bawah bulan telah lama dipahat menjadi bentuk yang dianggap biasa oleh orang-orang, tetapi di mata penduduk aslinya, bentuk ini pasti seperti bebek aneh itu, yang dibentuk oleh preferensi aneh sang pencipta.\nKarena transformasi dari distorsi ekstrem Ley Line, proyeksi mekanisme ini telah berubah menjadi pabrik bergerak yang dilengkapi dengan senjata dan zirah. Satu salah langkah saja sudah cukup untuk membuat segerombolan Stamping Device mengerumuni dan menelan penantang layaknya tsunami ....",
+    "1008061": "Monster kuno yang merindukan cahaya bulan dan bermukim jauh di kedalaman bebatuan.\nTubuhnya mengkristal karena akumulasi kuuvahki yang perlahan, sehingga membentuk segmen rumit yang menyerupai komponen mekanis. Bagian-bagian ini dapat berubah menjadi duri batu untuk menyerang musuh.\nKarena terpengaruh oleh gangguan Ley Line ekstrem, dia tumbuh dengan bebas berkat rangsangan yang dihasilkan kuuvahki, keduanya saling terjerat, bagai jaring raksasa yang mencoba menelan seluruh pegunungan.",
+    "1009061": "Serigala kesepian yang tidak cocok dengan kawanan serigala lokal. Bulu birunya menunjukkan bahwa darahnya berasal dari bangsa asing yang jauh.\nDi tengah kekacauan energi Ley Line, ingatan para leluhur telah terdistorsi menjadi kutukan yang mengerikan. Kebencian yang dingin merasuk ke dalam tubuhnya, mengontrol monster itu dengan kejam untuk mencabik-cabik segala sesuatu yang mereka lihat.",
+    "1009063": "Konstruksi bayangan yang terlahir dari luapan makhluk purba perkasa, Watcher yang pernah tinggal di angkasa tertinggi, namun dijatuhkan ke dunia karena membuka matanya. Memiliki otoritas untuk mengawasi dan melawan serangan elemen.\nDi bawah gempuran informasi yang penuh kekerasan dan kekeliruan dari Ley Line, sifat arogannya berubah menjadi keinginan murni untuk menghancurkan, mendorongnya untuk memusnahkan segala sesuatu yang ada di hadapannya.",
+    "1010061": "Mekanisme kolaborasi yang awalnya dikembangkan hanya untuk membantu penelitian bulan. Di kemudian hari, dia diberikan kekuatan dan tanggung jawab yang jauh melampaui tujuan desain awalnya.\nKarena distorsi dan korosi jangka panjang dari kekacauan Ley Line, inti dan mekanisme deteksinya sudah berubah sepenuhnya. Tujuan desain aslinya telah lenyap, dan dia sekarang hanya didorong oleh keinginan destruktif, memerintahkan kawanan mesin yang tak terbatas untuk menelan semua makhluk hidup.",
+    "1010063": "Mesin manufaktur yang dapat berubah bentuk ini berasal dari reruntuhan kuno, dan digunakan oleh para penguasa reruntuhan tersebut untuk melakukan berbagai pekerjaan produksi.\nDi bawah kekacauan dan rekonstruksi arus Ley Line, cangkang pelindung lavanya berubah menjadi baju baja, dan kekuatan yang pernah membangun kota-kota raksasa kini tertempa menjadi capit raksasa. Perintah \"produksi\" yang dulu tertanam kini telah dirusak menjadi kehendak \"kehancuran\", yang terus mendorongnya tanpa henti untuk menjalankan \"misi agung\" untuk mengubah segalanya menjadi puing-puing.",
+    "1011061": "Makhluk hasil bio-alkimia, salah satu monster buatan yang ditinggalkan.\nDalam pantulan Ley Line yang terdistorsi secara ekstrem, kekuatannya untuk mengendalikan elemen semakin liar, petir Electro dan badai Anemo mengamuk di bawah kendalinya, menghanguskan segalanya di sepanjang jalannya ....",
+    "1011062": "Agen elit di kalangan Fatui.\nBerdasarkan perintah dan misi, mereka dapat bekerja sama dengan tentara lain, bekerja sendiri, atau bersama-sama dengan \"pion\" yang tersembunyi dan tersebar di seluruh dunia. Mereka memata-matai, melakukan kontra-spionase, melindungi, membunuh, dan melakukan tugas-tugas lainnya.\nSayangnya, di saat gangguan Ley Line yang sangat berbahaya, kesadaran sang pelayan telah ditelan oleh erosi yang bergejolak, hanya menyisakan cangkang kosong yang sudah lama bertarung. Hanya mengandalkan nalurinya, dia menghadapi semua penyusup dengan pedangnya yang dingin ....",
+    "1012061": "Pemahat patung Prime Ice yang bertubuh kokoh karena hasil tempa ribuan latihan, mampu mengubah Anemo menjadi pahatan kapak.\nDi bawah aliran Ley Line yang jauh lebih buruk dan menyimpang dari selera estetikanya, sang pemahat ini terjerumus ke dalam inspirasi gila yang tak terkendali. Ia bertekad memahat daging dan tulang dengan angin yang menderu, mengabadikan jiwa dalam Prime Ice yang tak tergoyahkan, dan tak sabar untuk mengukir semua penyusup di hadapannya menjadi mahakarya terbaru dalam pameran bencana ini.",
+    "1012063": "Snegovik kuno yang memiliki reputasi baik di antara sesama Snegovik, pernah diberi tanggung jawab besar untuk \"menjaga kaum Snegovik seumur hidupnya\".\nDi bawah pengaruh kekacauan arus Ley Line, obsesi kosong bernama \"pertahanan\" yang dimilikinya kini hanya menyisakan naluri membunuh. Ia bersembunyi di balik bayangan peti es, selalu siap berubah menjadi pedang es yang tajam dan tak terduga, merobek seluruh makhluk yang berani mendekatinya.",
+    "1013061": "Volkodlak berkekuatan tak tertandingi yang dilahirkan demi mewujudkan cita-cita agung peradaban kuno untuk menjelajahi perairan dengan bebas.\nDi bawah pengaruh gila Ley Line yang bermutasi, garis darah tak tertandingi yang tertidur dalam tubuhnya mengamuk sepenuhnya. Fisiknya bukan cuma mengabaikan batas tekanan laut dalam, tetapi juga dipenuhi kekuatan dahsyat yang mampu melawan arus gelap tak kasat mata. Kini akal sehatnya telah habis terbakar, jadi ia bersumpah untuk merobek segala yang terlihat oleh matanya hingga menjadi debu."
+  },
+  "mechanics": {
+    "1001061": [
+      {
+        "name": "Half-Tulpa Kembar",
+        "text": "Karena terpengaruh oleh gangguan Ley Line, <color=#FFD780FF>2 Half-Tulpa</color> akan muncul secara berkala selama tantangan berlangsung. Setelah beberapa saat, Hydro Tulpa akan menyerap Half-Tulpa untuk <color=#FFD780FF>memperkuat dirinya sendiri</color>: Ia akan <color=#FFD780FF>memulihkan HP dalam jumlah besar</color> dan menjadi lebih besar, ATK-nya akan meningkat, dan akan melancarkan serangan yang lebih berbahaya.\nLangsung gunakan serangan atau Reaksi Elemental untuk mengalahkan Half-Tulpa atau buat dia menjadi <color=#FFD780FF>beku</color> untuk mengganggu proses penyerapan ini."
+      },
+      {
+        "name": "Deburan Ombak Deras",
+        "text": "Karena terpengaruh oleh gangguan Ley Line, selama tantangan, Hydro Tulpa akan mengerahkan Perisai, memasuki status pengisian energi, dan bersiap melancarkan Torrential Flurry. Jika berhasil dilancarkan, <color=#FFD780FF>Karakter aktifmu akan langsung gugur</color>.\nSaat Hydro Tulpa mengerahkan Perisai, waktu CD Elemental Skill dan Elemental Burst seluruh anggota party akan direset, sementara Energy, Fighting Spirit, atau Serpent's Subtlety akan dipulihkan. Menghancurkan Perisai milik Hydro Tulpa sebelum ia sempat mengisi energi hingga penuh akan mengganggu pelancaran Torrential Flurry."
+      }
+    ],
+    "1001062": [
+      {
+        "name": "Kembar Berkobar",
+        "text": "Awalnya akan muncul dalam wujud Geohuman yang memiliki <color=#FFD780FF>Elemental RES seluruh elemen dan Physical RES lebih tinggi</color>. Setelah terkena sejumlah <color=#FF9999FF>Pyro DMG</color>, ia akan sepenuhnya memasuki wujud Molten Dragon dan <color=#FFD780FF>Elemental RES seluruh elemen dan Physical RES miliknya akan berkurang drastis, kecuali Pyro RES</color>. Setelah terus menerima <color=#FF9999FF>Pyro DMG</color> lagi, ia akan menerima DMG tambahan secara bertahap. Setelah terkena sejumlah <color=#FF9999FF>Pyro DMG</color> dalam wujud Molten Dragon, ia akan memasuki status Overburn yang membuatnya terjatuh dan tidak dapat bergerak. Status ini juga akan membuat <color=#FFD780FF>Elemental RES seluruh elemen dan Physical RES-nya berkurang lebih lanjut</color>. Setelah tidak dapat bergerak dalam satu kurun waktu, akan kembali menjadi wujud Geohuman."
+      },
+      {
+        "name": "Efek Cooldown",
+        "text": "Setelah terkena <color=#80C0FFFF>Hydro DMG</color> atau <color=#99FFFFFF>Cryo DMG</color>, ia akan secara bertahap kembali ke wujud Geohuman yang memiliki RES lebih tinggi."
+      },
+      {
+        "name": "Roiling Agglomeration",
+        "text": "Karena terpengaruh oleh gangguan Ley Line, Elemental RES seluruh elemen milik musuh kuat meningkat lebih lanjut, dan jumlah DMG Pyro yang dibutuhkan untuk mengubah wujud mereka meningkat."
+      }
+    ],
+    "1001063": [
+      {
+        "name": "Preemptive Sweeper Mode",
+        "text": "Setelah pertempuran dimulai, langsung memasuki Sweeper Mode: <color=#FFD780FF>Elemental RES seluruh elemen dan Physical RES meningkat secara signifikan</color> dan ia akan menghasilkan Flow Momentum sambil melakukan serangan. Semakin tinggi Flow Momentum-nya, semakin cepat ia berputar dan semakin besar pula DMG yang akan diakibatkan olehnya.\nFlow Momentum-nya akan berkurang jika terkena <color=#99FFFFFF>Cryo DMG</color>. Saat Flow Momentum kurang dari jumlah tertentu, ia akan menghentikan serangan berputar, dan <color=#FFD780FF>Elemental RES seluruh elemen dan Physical RES-nya akan berkurang secara signifikan</color> dan <color=#99FFFFFF>Cryo RES</color>-nya <color=#FFD780FF>berkurang lebih lanjut</color>.\nSetiap kali memasuki Sweeper Mode dan serangan berputarnya dihentikan untuk pertama kalinya, musuh ini akan menghasilkan Elemental Orb tambahan."
+      },
+      {
+        "name": "\"Forced Counterstrike Mode\"",
+        "text": "Jika Karakter aktif memasuki dan terus mempertahankan status <color=#FFD780FF>Nightsoul's Blessing</color> selama satu kurun waktu, musuh ini akan memasuki \"Forced Counterstrike Mode\" dan beralih menyerang dengan sinar pelacak yang kuat. Pada saat ini, <color=#FFD780FF>Elemental RES seluruh elemen dan Physical RES-nya akan berkurang</color>.\nDalam kondisi ini, setelah menerima sejumlah <color=#99FFFFFF>Cryo DMG</color>, serangannya akan berhenti total dan <color=#FFD780FF>Elemental RES dari semua elemen dan Physical RES-nya akan berkurang lebih lanjut</color>."
+      },
+      {
+        "name": "Damage-Resistant Structure",
+        "text": "Karena terpengaruh oleh gangguan Ley Line, semua RES musuh meningkat lebih lanjut, dan Flow Momentum yang hilang saat menerima <color=#99FFFFFF>Cryo DMG</color> akan berkurang. Saat dalam status \"Forced Counterstrike Mode\", pengurangan RES diri sendiri juga berkurang."
+      }
+    ],
+    "1002061": [
+      {
+        "name": "Tenebrous Mimesis",
+        "text": "Dia bisa membengkokkan dirinya dan berubah menjadi musuh yang kuat untuk menyerang."
+      },
+      {
+        "name": "Attrition Assault",
+        "text": "Sebagian serangan akan memberikan status \"Attrition\" yang bisa ditumpuk, dan dapat membuat Karakter party sendiri kehilangan HP setelah kurun waktu tertentu."
+      },
+      {
+        "name": "Shadow Void Aegis",
+        "text": "Karena terpengaruh oleh gangguan Ley Line, Tenebrous Papilla akan menciptakan Pelindung Void sambil bertempur. Kamu bisa menghancurkan Pelindung Void dengan <color=#FFD780FF>sejumlah serangan Elemental</color>. Setelah Pelindung-nya hancur, Tenebrous Papilla akan menerima DMG besar berdasarkan nilai DMG yang sudah ditahan oleh Pelindung Void, lalu akan menjadi lemah dalam waktu yang relatif lama. <color=#FFD780FF>Serangan Elemental Nightsoul-aligned</color> akan lebih efektif dalam menghancurkannya, dan akan membuat DMG yang diterima musuh ini meningkat lagi saat Pelindung-nya hancur. Beberapa saat setelah menjadi lemah, Tenebrous Papilla akan mencoba untuk menciptakan Pelindung Void lagi."
+      },
+      {
+        "name": "Hatefully Beseech the Dark",
+        "text": "Karena terpengaruh oleh gangguan Ley Line, jika Pelindung Void tidak dihancurkan dalam waktu yang lama, Tenebrous Papilla akan melancarkan Hatefully Beseech the Dark: Tenebrous Papilla akan mengisi energi dan jika Pelindung Void tidak dihancurkan setelah satu kurun waktu, maka ia akan melancarkan Wrathful Dark Bombardment yang <color=#FFD780FF>langsung membuat Karakter aktifmu gugur</color>."
+      }
+    ],
+    "1002062": [
+      {
+        "name": "Thunderthorn Ward",
+        "text": "Setelah menerima <color=#FFD780FF>sejumlah serangan</color>, dia akan menciptakan \"Thunderthorn Ward\": Selama Pelindung aktif, saat menerima serangan, akan menghasilkan DMG serangan balik terhadap Karakter di sekitar. Gunakan Reaksi Elemental untuk <color=#FFD780FF>menghabiskan kekuatan Electro Pelindung</color> dan menghancurkan Pelindung-nya."
+      },
+      {
+        "name": "Thunderous Attrition",
+        "text": "Karena terpengaruh oleh gangguan Ley Line, setiap kali menerima serangan, kemajuan musuh ini dalam menciptakan \"Thunderthorn Ward\" akan meningkat pesat, tapi akan melambat seiring waktu. Selain itu, elemen yang diperlukan untuk menghancurkan Thunderthorn Ward juga meningkat drastis."
+      }
+    ],
+    "1002063": [
+      {
+        "name": "Hat Show",
+        "text": "Dalam pertempuran, dia akan menciptakan beberapa topi dan menyembunyikan tubuh aslinya di antara salah satu topi, lalu dia akan mengubah posisi topi dengan cepat. Setelah mengubah posisi beberapa kali, jika <color=#FFD780FF>topi tempat musuh ini bersembunyi terkena Electro-Charged DMG atau Lunar-Charged DMG</color>, maka ia akan berhenti berpindah posisi topi untuk sementara waktu.\nSerang dan akibatkan sejumlah DMG pada <color=#FFD780FF>topi tempat musuh ini bersembunyi</color> untuk menghancurkan seluruh topi dan membuatnya menunjukkan diri. Saat hancur, ia akan terkena DMG besar dan memasuki status lemah untuk sementara waktu. Reaksi <color=#FFD780FF>Electro-Charged dan Lunar-Charged</color> sangat efektif untuk menghancurkan topi ini. DMG yang diterima musuh ini saat topinya hancur akan meningkat berdasarkan jumlah <color=#80C0FFFF>Hydro DMG</color>, <color=#FFACFFFF>Electro DMG</color>, dan <color=#FFD780FF>Electro-Charged atau Lunar-Charged DMG</color> yang telah diterima topinya."
+      },
+      {
+        "name": "Hat Denial",
+        "text": "Karena terpengaruh oleh gangguan Ley Line, musuh ini bisa melancarkan serangan \"Hat Denial\" yang kuat: Terus melemparkan topi yang dapat mengakibatkan <color=#FFACFFFF>Electro DMG yang tinggi</color>. Topi ini juga memiliki <color=#FFD780FF>efek interupsi yang sangat kuat</color>."
+      }
+    ],
+    "1003061": [
+      {
+        "name": "Langkah Pencegahan Darurat",
+        "text": "Karena terpengaruh oleh gangguan Ley Line, setiap kali musuh ini terkena DMG hingga sejumlah persentase tertentu dari HP-nya, maka sebuah gelombang energi akan tercipta dan musuh ini akan mengubah wujudnya untuk <color=#FFD780FF>meningkatkan Elemental RES terhadap elemen tertentu secara signifikan</color> berdasarkan jenis DMG elemen yang diterima sebelumnya."
+      },
+      {
+        "name": "Mekanisme Beragam Pertempuran",
+        "text": "Karena terpengaruh oleh gangguan Ley Line, musuh ini akan memulai pertempuran dengan mode serangan darat. Jika belum melancarkan gelombang energi untuk waktu yang lama, maka ia akan berganti ke mode serangan udara dan lanjut bertarung."
+      },
+      {
+        "name": "Kompartemen Zirah Inti",
+        "text": "Karena terpengaruh oleh gangguan Ley Line, berbagai inti yang ada di tubuh makhluk ini menjadi terlindungi. Musuh ini juga tidak akan menjadi lumpuh saat intinya diserang dan peningkatan Elemental RES-nya juga tidak akan dihapus."
+      }
+    ],
+    "1003062": [
+      {
+        "name": "Stoneborne Seed",
+        "text": "Di dalam pertempuran, akan ada Stoneborne Seed yang tersebar di medan dan akan meledak setelah beberapa saat. Jika terkena <color=#FFD780FF>DMG reaksi Bloom, Hyperbloom, Lunar-Bloom, atau Burgeon</color> sebelum meledak, maka benih-benih ini akan terkonversi dan mengalihkan serangannya ke arah Rock Crab. DMG yang diakibatkan benih-benih akan didasarkan pada DMG yang sudah diakibatkan pada benih itu sendiri."
+      },
+      {
+        "name": "Bibit Mudah Meledak",
+        "text": "Karena terpengaruh oleh gangguan Ley Line, Stoneborne Seed akan meledak hebat setelah terkena Pyro DMG, mementalkan Karakter dan mengakibatkan DMG besar."
+      },
+      {
+        "name": "Almighty Tsarly Bombardment",
+        "text": "Karena terpengaruh oleh gangguan Ley Line, setelah pertempuran dimulai, Rock Crab akan melompat ke udara, menyebarkan Stoneborne Seed dalam jumlah besar, lalu mulai mengisi tenaga. Setelah selesai mengisi tenaga, Stoneborne Seed-nya akan meledak dan mengakibatkan DMG dalam radius luas yang akan<color=#FFD780FF>langsung membuat Karakter aktif saat ini gugur</color>, dan seluruh Elemental RES-nya sendiri meningkat drastis. Selama mengisi tenaga, Rock Crab akan menciptakan sebuah Pelindung yang hanya bisa dihancurkan setelah pemain <color=#FFD780FF>mengonversi Stoneborne Seed dalam jumlah tertentu</color>. Menghancurkan Pelindung Rock Crab akan menghentikan pengisian tenaganya dan membuatnya lumpuh."
+      }
+    ],
+    "1003063": [
+      {
+        "name": "Multi-Shield",
+        "text": "Di dalam pertarungan, musuh akan menciptakan Experimental Multi-Shield khusus untuk melindungi diri sendiri selagi bersiap untuk mengaktifkan Thundering Suite. Perisai ini akan memulihkan diri sendiri setiap beberapa saat. Jika 3 lapis Perisai ini berhasil dihancurkan, maka Thundering Suite akan dibatalkan dan musuh menjadi lumpuh. <color=#FFD780FF>DMG Electro-Charged dan Lunar-Charged</color> dapat menghancurkan Perisai ini dengan lebih efektif. Setiap lapis Perisai yang hancur akan membuat musuh terkena DMG besar satu kali dan menghasilkan Elemental Orb tambahan."
+      },
+      {
+        "name": "Thundering Barrage",
+        "text": "Saat Thundering Suite berhasil diaktifkan, serangan ini akan mengakibatkan Electro DMG dalam area luas dan melancarkan serangan Electro terus menerus selama beberapa waktu ke depan. Jika kamu berhasil mencegah Thundering Suite aktif, maka perlengkapan musuh akan menjadi rusak dan <color=#FFD780FF>Electro RES-nya akan berkurang secara signifikan</color>."
+      },
+      {
+        "name": "Peningkatan Daya Darurat",
+        "text": "Karena terpengaruh oleh gangguan Ley Line, Experimental Multi-Shield mendapatkan peningkatan semua RES selain Electro, dan kemampuan perbaikan dirinya juga menjadi lebih kuat. Namun saat menerima <color=#FFD780FF>DMG Electro-Charged dan Lunar-Charged</color>, kecepatan perbaikan diri akan berkurang drastis. Setelah Thundering Suite aktif, DMG yang diakibatkan akan menjadi jauh lebih besar dan durasi serangannya bertambah."
+      }
+    ],
+    "1004061": [
+      {
+        "name": "Status Gloomveiled",
+        "text": "Memasuki status <color=#FFD780FF>Gloomveiled dalam pertempuran: RES seluruh elemen meningkat drastis.</color> Setelah menerima <color=#FFD780FF>DMG dalam jumlah tertentu</color>, musuh ini akan keluar dari status Gloomveiled dan mengubah tipe elemen dirinya sendiri menjadi elemen yang mengakibatkan DMG paling tinggi pada dirinya selama status Gloomveiled berlangsung, sehingga mendapatkan <color=#FFD780FF>kekebalan terhadap DMG dan efek elemental dari elemen tersebut</color>."
+      },
+      {
+        "name": "Sinar Rembulan Murni",
+        "text": "<color=#FFD780FF>DMG reaksi Lunar</color> lebih efektif untuk membatalkan status Gloomveiled. Jika DMG paling besar yang diterima musuh ini saat keluar dari status Gloomveiled adalah DMG Reaksi Lunar, maka ia akan berubah menjadi status Elementless dan <color=#FFD780FF>tidak akan mendapatkan kekebalan terhadap DMG dan efek elemental dari elemen tersebut</color>."
+      }
+    ],
+    "1004062": [
+      {
+        "name": "Pengembaraan dalam Kesedihan",
+        "text": "Memulai pertempuran dalam status \"Roaming\". Setelah HP-nya habis, ia akan memasuki status \"Wild Hunt\"."
+      },
+      {
+        "name": "Status Grief-Stricken",
+        "text": "Saat berada dalam status Wild Hunt, meski kehilangan seluruh HP-nya, HP musuh akan tetap dipulihkan hingga maksimum setelah beberapa saat. Musuh ini baru bisa dikalahkan setelah Max HP-nya benar-benar habis. <color=#FFD780FF>Habiskan seluruh HP-nya atau lancarkan skill yang diperkuat oleh Moonsign: Ascendant Gleam</color> untuk membuatnya masuk ke dalam status Grief-Stricken sementara. Saat dalam status ini, mengakibatkan DMG terhadapnya juga akan mengurangi Max HP-nya dalam rasio tertentu. Jika kamu memiliki Moonsign: Ascendant Gleam, rasio pengurangan ini akan meningkat."
+      },
+      {
+        "name": "Lonjakan Mereka yang Diasingkan",
+        "text": "Saat dalam status Wild Hunt, akan muncul Wilderness Exile secara berkala dalam pertempuran. Jika kamu bisa mengalahkan seluruh Wilderness Exile dalam kurun waktu tertentu, maka musuh ini akan mulai memanen: Mengakibatkan DMG Area yang sangat tinggi, membersihkan seluruh Wilderness Exile, dan memulihkan Max HP diri sendiri berdasarkan sisa HP Wilderness Exile yang dibersihkan. Karena terpengaruh oleh gangguan Ley Line, Max HP Wilderness Exile menjadi lebih tinggi, dan saat membersihkan Wilderness Exile, rasio pemulihan Max HP musuh ini akan menjadi lebih tinggi."
+      }
+    ],
+    "1004063": [
+      {
+        "name": "Pembunuhan Cepat",
+        "text": "Dalam pertempuran, musuh ini dapat mengonsumsi sebagian HP-nya sendiri untuk melancarkan \"Hunt Down\": Saat serangan ini mengenai Karakter, HP musuh ini akan pulih sebesar rasio tertentu dan memberikan efek Bond of Life terhadap Karakter yang terkena. Selama Bond of Life aktif, Karakter yang terkena akan terus-menerus terkena DMG. DMG serangan ini akan meningkat terhadap Karakter yang sedang memiliki efek Bond of Life."
+      },
+      {
+        "name": "Status Bloody Pursuit",
+        "text": "Karena terpengaruh oleh gangguan Ley Line, musuh ini memiliki ketahanan terhadap interupsi dan kemampuan interupsi yang lebih tinggi. Saat bersiap melancarkan Hunt Down, musuh ini akan memasuki status Bloody Pursuit: Menciptakan Perisai untuk melindungi diri sendiri. Selama Perisai ini aktif, musuh ini akan <color=#FFD780FF>terus memberikan efek Bond of Life untuk semua Karakter</color>. Musuh akan terkena DMG besar setelah Perisai-nya dihancurkan."
+      }
+    ],
+    "1005061": [
+      {
+        "name": "Pelindung Elemental: Kekacauan Menggila",
+        "text": "Karena terpengaruh oleh gangguan Ley Line, setelah pertempuran dimulai, musuh ini akan membentuk <color=#FFD780FF>Pelindung Electro, Pelindung Pyro, dan Pelindung Hydro</color> secara berurutan untuk melindungi dirinya. Dia juga akan mengubah metode menyerangnya berdasarkan jenis Pelindung Elemental yang sedang dimiliki. <color=#FFD780FF>Setelah menggunakan Reaksi Elemental untuk menghancurkan satu jenis Pelindung Elemental</color>, musuh ini akan menerima satu kali DMG besar<color=#FFD780FF> berdasarkan jumlah DMG yang berhasil ditahan oleh Pelindung</color>. Kemudian, musuh ini akan berubah bentuk menjadi elemen yang lain dan membentuk Pelindung dengan elemen tersebut. Setelah ketiga jenis Pelindung ini dihancurkan, musuh ini akan lumpuh untuk sesaat."
+      }
+    ],
+    "1005062": [
+      {
+        "name": "Gelombang Suara Kencang: Rentetan Nada",
+        "text": "Karena terpengaruh oleh gangguan Ley Line, musuh ini mendapatkan peningkatan semua Elemental RES. Dalam pertempuran, ia akan lebih sering melompat ke udara, berhenti di udara untuk sesaat, dan akan melancarkan gelombang suara yang kuat di udara untuk menyerang secara terus-menerus."
+      },
+      {
+        "name": "Eksekusi Hujan Es: Serangan Penyapu",
+        "text": "Di dalam pertempuran, musuh ini akan membentuk <color=#FFD780FF>Pelindung Cryo</color> untuk melindungi dirinya sendiri, kemudian melompat ke udara untuk mempersiapkan serangan Frosthail Execution. Setelah beberapa saat, Frosthail Execution akan dilancarkan dan <color=#FFD780FF>akan langsung membuat Karakter aktifmu gugur</color>. <color=#FFD780FF>Hancurkan Pelindung-nya dengan Reaksi Elemental</color> untuk menjatuhkan musuh ini ke tanah. Saat terjatuh, musuh akan terkena DMG besar sesuai <color=#FFD780FF>jumlah DMG yang ditahan oleh Pelindung-nya</color>, dan persiapan serangannya juga akan terhenti. Saat musuh ini sedang mempersiapkan serangannya, seluruh anggota party akan <color=#FFD780FF>memulihkan Energy, Fighting Spirit, atau Serpent's Subtlety</color>. Jika Pelindung belum juga dihancurkan beberapa saat setelah dibentuk, akan muncul Frosthail Zone di permukaan tanah: <color=#FFD780FF>Kamu perlu menggunakan Reaksi Elemental untuk menghancurkan Frosthail Zone satu per satu</color> dan melemahkan Pelindung Cryo musuh secara bertahap hingga hancur."
+      },
+      {
+        "name": "Pusaran Pengganggu",
+        "text": "Karena terpengaruh oleh gangguan Ley Line, saat musuh ini melakukan persiapan untuk melancarkan Frosthail Execution, sebuah Disruption Vortex akan muncul di medan pertempuran dan mengakibatkan Cryo DMG Area terhadap <color=#FFD780FF>rekan maupun lawan</color>. Saat Disruption Vortex ini mengenai musuh, <color=#FFD780FF>Anemo RES</color>-nya akan berkurang dan Pelindung-nya melemah.\nSelain itu, Disruption Vortex dapat terpengaruh oleh efek tarikan yang akan membuat jalur gerakannya berubah."
+      }
+    ],
+    "1005063": [
+      {
+        "name": "Inti Gravitasi: Kedalaman Kritikal",
+        "text": "Karena terpengaruh oleh gangguan Ley Line, musuh ini akan menghasilkan Medan Pengurangan Gravitasi dalam pertempuran, membuat ketinggian lompatan Karakter meningkat drastis. Dan setiap kali melompat hingga ketinggian tertentu, ATK Karakter akan meningkat drastis selama 1,5 detik. Selama aktif, medan ini akan <color=#FFD780FF>menghasilkan serangan gelombang gravitasi yang tak bisa dihindari di atas permukaan tanah</color> setiap beberapa saat. Kekuatan dan frekuensi serangan gelombang gravitasi ini akan menguat satu lapis setiap 5 detik. Penguatan serangan gelombang gravitasi ini akan melemah 1 lapis setiap kali terkena<color=#FFD780FF>Plunging Attack</color>."
+      },
+      {
+        "name": "Inti Kokoh",
+        "text": "Karena terpengaruh oleh gangguan Ley Line, inti Ousia-nya menjadi lebih kokoh. Meski diserang dengan <color=#FFD780FF>3 kali serangan Pneuma</color>, Medan Pengurangan Gravitasi akan tetap aktif."
+      }
+    ],
+    "1006061": [
+      {
+        "name": "Deepdark Shield: Deeproot Blight",
+        "text": "Karena terpengaruh oleh gangguan Ley Line, Lord of the Hidden Depths: Whisperer of Nightmares akan mengumpulkan kekuatan Abyss untuk membentuk Perisai yang sangat kokoh untuk melindungi dirinya. Gunakan <color=#FFD780FF>DMG reaksi Lunar</color> untuk menghancurkan Perisai tersebut dengan lebih efektif. Setelah musuh kuat mengerahkan perisai, pertama kali perisai tersebut menerima DMG reaksi Lunar, ia akan menghasilkan Elemental Orb tambahan. Saat Perisai-nya hancur, Lord of the Hidden Depths: Whisperer of Nightmares akan terkena DMG yang sangat besar dan masuk ke dalam kondisi lemah untuk beberapa saat."
+      },
+      {
+        "name": "Rift Assault",
+        "text": "Karena terpengaruh oleh gangguan Ley Line, Lord of the Hidden Depths: Whisperer of Nightmares akan mengumpulkan kekuatan sambil memanggil beberapa Fisher of Hidden Depths dalam pertempuran. Setelah selesai mengumpulkan kekuatan, dia akan mengakibatkan DMG dalam area yang luas dan menyerap semua Fisher of Hidden Depths. Selama proses pengumpulan kekuatan, kalahkan Fisher of Hidden Depths untuk menghancurkan Perisai-nya dan menghentikan proses pengumpulan kekuatan Boss."
+      }
+    ],
+    "1006063": [
+      {
+        "name": "Molten Crown",
+        "text": "Tanduk magma yang ada di bagian atas tubuh Emperor of Fire and Iron adalah organ tubuh <color=#FFD780FF>Pyro</color> yang memungkinkannya melakukan serangan Elemental kuat dan memberikannya kemampuan bertahan yang sangat tinggi. Saat melakukan beberapa serangan tertentu, tanduk magmanya akan <color=#FFD780FF>mendekat ke tanah</color>. Gunakan <color=#FFD780FF>kesempatan emas ini untuk menghancurkan tanduk tersebut dengan Reaksi Elemental</color>. Setelah elemen Pyro di tanduknya habis, maka tanduk tersebut akan hancur dan mengakibatkan DMG besar pada Boss. Tanduk ini butuh waktu untuk pulih."
+      },
+      {
+        "name": "Shield Bearer",
+        "text": "Karena terpengaruh oleh gangguan Ley Line, Emperor of Fire and Iron akan memanggil \"Sternshield Crab\" untuk membantunya saat melakukan beberapa serangan. \"Sternshield Crab\" akan terus mengisi ulang Pyro pada tanduk magma, tetapi akan dikalahkan saat Pyro-nya habis. \"Sternshield Crab\" yang dikalahkan akan kehilangan kendali dan menabrak Emperor of Fire and Iron, menyebabkan Pyro pada tanduk apinya rusak karena Overloaded, dan memberikan DMG dengan persentase tertentu kepada Emperor of Fire and Iron berdasarkan total DMG yang diterima \"Sternshield Crab\". Maksimal tiga \"Sternshield Crab\" dapat muncul secara bersamaan di arena."
+      },
+      {
+        "name": "Mahkota Cemerlang",
+        "text": "Karena terpengaruh oleh gangguan Ley Line, Emperor of Fire and Iron kini dapat melakukan \"Radiant Coronation\" dalam pertarungan: mengumpulkan energi dalam waktu tertentu, dan setelah selesai akan menyebabkan DMG dalam area yang luas. Hancurkan tanduk magmanya untuk menghentikan proses pengumpulan energi ini."
+      }
+    ],
+    "1007061": [
+      {
+        "name": "Status Powerful Agglomerated",
+        "text": "Karena terpengaruh oleh gangguan Ley Line, saat pertempuran dimulai, Boss akan memasuki Status Agglomerated: <color=#FFD780FF>Semua RES meningkat drastis</color>. Status ini akan terus mengonsumsi Agglomeration Energy. Gunakan <color=#FFD780FF>Pyro atau Electro</color> untuk mengakibatkan DMG terhadap musuh dan mempercepat konsumsi energinya. Saat Agglomeration Energy habis dikonsumsi, Boss akan melancarkan Sporebloom dan berubah menjadi Status Split."
+      },
+      {
+        "name": "Status Split",
+        "text": "Saat Boss ini memasuki Status Split, dia akan terbelah menjadi banyak spora. Saat spora-spora ini terkena DMG, Boss juga akan menerima total DMG yang diterima spora dalam persentase tertentu. Setelah berada dalam Status Split beberapa waktu, Boss akan kembali ke Status Agglomerated. Dalam kondisi ini, begitu jumlah spora yang ada di medan pertempuran kurang dari angka tertentu, Boss akan memasuki Status Brittle Agglomerated: <color=#FFD780FF>Semua RES</color> menurun, dan kemampuan bertempurnya juga menurun drastis. Selain itu, jika seluruh spora yang muncul dari Status Split dikalahkan, maka Boss akan keluar dari Status Split lebih awal dan langsung berubah menjadi Status Brittle Agglomerated."
+      },
+      {
+        "name": "Struktur Kopong",
+        "text": "Karena terpengaruh oleh gangguan Ley Line, saat Boss ini berada dalam Status Split atau Status Brittle Agglomerated, <color=#FFD780FF>Anemo RES-nya akan berkurang drastis</color>."
+      }
+    ],
+    "1007062": [
+      {
+        "name": "Mode Heavy Duckstruction",
+        "text": "Karena terpengaruh oleh gangguan Ley Line, setelah pertempuran dimulai, Boss akan memasuki Mode \"Heavy Duckstruction\" yang membuatnya menjadi lebih agresif. Ia juga akan menciptakan Pelindung untuk dirinya yang <color=#FFD780FF>meningkatkan semua RES</color> sendiri, dan memanggil Stamping Device melayang untuk mengganggumu."
+      },
+      {
+        "name": "Stamping Device yang Rentan",
+        "text": "<color=#FFD780FF>Dengan mengakibatkan Electro-Charged atau Lunar-Charged DMG berkali-kali, atau langsung mengakibatkan DMG yang cukup kuat, kamu dapat merusak Stamping Device ini</color> dan menginterupsi gerakannya. Stamping Device yang sudah kacau akan kehilangan kontrol dan akan menabrak Knuckle Duckle, juga mengakibatkan DMG tertentu terhadap Pelindung Knuckle Duckle. Hancurkan Pelindung Boss dengan kedua cara ini untuk membuat Boss keluar dari Mode Heavy Duckstruction dan menjadi lumpuh karena kelebihan beban. Selain itu, juga akan <color=#FFD780FF>membuat Electro RES-nya menurun signifikan untuk beberapa waktu</color>."
+      },
+      {
+        "name": "Sistem Lompat-Lompat Frekuensi Cepat",
+        "text": "Karena terpengaruh oleh gangguan Ley Line, Stamping Device menjadi lebih kokoh, sehingga kamu perlu <color=#FFD780FF>mengakibatkan Electro-Charged atau Lunar-Charged DMG yang lebih sering</color> atau <color=#FFD780FF>mengakibatkan DMG yang lebih tinggi</color> agar bisa mengganggu pergerakannya. <color=#FFD780FF>Electro-Charged atau Lunar-Charged DMG</color> memiliki efek penghancuran yang lebih tinggi bagi Stamping Device. Saat Stamping Device yang kehilangan kontrol dan menabrak Knuckle Duckle, DMG yang diakibatkan akan meningkat berdasarkan <color=#FFD780FF>total DMG yang diterima</color> Stamping Device."
+      }
+    ],
+    "1008061": [
+      {
+        "name": "Vagrant Reverberation",
+        "text": "Setelah pertempuran dimulai, Boss akan meninggalkan Moonstone Anchor di posisinya, lalu melompat ke tempat tinggi untuk bersiap melancarkan Vagrant Reverberation: Setelah beberapa saat, ia akan melancarkan serangan area yang kuat. Gunakan <color=#FFD780FF>cara yang cocok untuk melawan Geo</color> untuk menghancurkan lapisan-lapisan Pelindung yang ada di Moonstone Anchor. Menghancurkan Moonstone Anchor akan menghentikan persiapan skill ini, dan mengakibatkan DMG besar pada Boss. Semakin besar DMG yang diterima Moonstone Anchor selama fase persiapannya, semakin besar pula DMG yang diterima Boss saat Moonstone Anchor hancur. Karena pengaruh gangguan Ley Line, menggunakan <color=#FFD780FF>Geo</color> untuk menyerang Moonstone Anchor akan meningkatkan DMG yang diterima oleh Boss."
+      },
+      {
+        "name": "Unshakable Rock",
+        "text": "Karena terpengaruh oleh gangguan Ley Line, Pelindung Geo berlapis milik Moonstone Anchor akan menjadi lebih kokoh."
+      },
+      {
+        "name": "Radiant Cocoon",
+        "text": "Dalam pertempuran, Boss akan mengendalikan kekuatan Geo untuk memberikan efek Radiant Cocoon pada Karakter dan meningkatkan Geo RES dirinya. Bagi Karakter yang terjerat Radiant Cocoon, <color=#FFD780FF>DMG yang diakibatkan serta efek pemulihan yang diterima akan berkurang</color>. Saat <color=#FFD780FF>HP Karakter dipulihkan hingga maksimum</color>, Karakter akan terbebas dari efek Radiant Cocoon dan mendapatkan efek Disentangled: Kemampuan akan meningkat untuk sementara waktu. Setelah ada Karakter dalam party yang berhasil terbebas, maka Boss akan kehilangan peningkatan Geo RES yang berasal dari efek Radiant Cocoon."
+      }
+    ],
+    "1009061": [
+      {
+        "name": "Ancestral Wolf Spirit: Manifestation",
+        "text": "Saat pertempuran dimulai, boss akan memanggil Ancestral Wolf Spirit untuk bertempur bersama. Karena terpengaruh oleh gangguan Ley Line, <color=#FFD780FF>saat mendapat perlindungan Ancestral Wolf Spirit, boss tidak akan menerima DMG</color>. Ancestral Wolf Spirit dalam bentuk roh memiliki Pelindung Cryo khusus yang hanya bisa dihancurkan dengan <color=#FFD780FF>reaksi Pyro/Electro Swirl</color>. Setelah Pelindung-nya hancur, maka Ancestral Wolf Spirit akan hilang, dan musuh juga akan memasuki status lumpuh untuk sementara waktu dan akan menerima DMG serangan balik yang kuat. Selama Pelindung ada, makin tinggi DMG yang ditahan oleh Pelindung, makin tinggi pula DMG serangan balik. Di antaranya, <color=#FFD780FF>Pyro DMG dan Anemo DMG</color> akan meningkatkan DMG serangan balik lebih jauh lagi."
+      }
+    ],
+    "1009063": [
+      {
+        "name": "Oversight of Vigil",
+        "text": "Saat pertempuran dimulai, The Open-Eyed akan memasuki status Oversight of Vigil. Dalam status ini, The Open-Eyed akan mencatat frekuensi serangan <color=#FFD780FF>Pyro/Hydro/Electro/Cryo</color> DMG secara terpisah dalam satu kurun waktu. Saat frekuensi serangan salah satu Elemental DMG mencapai 5 kali, akan keluar dari status ini dan <color=#FFD780FF>mencatat elemen ini untuk dijadikan sebagai target pengawasan</color>. Jika ia tidak bisa mengawasi elemen apa pun, maka catatannya akan kosong dan akan mengakibatkan satu kali Geo DMG. Saat Oversight of Vigil pertama selesai, sang musuh akan memasuki status ini lagi setelah beberapa saat. Karena terpengaruh oleh gangguan Ley Line, waktu pencatatan yang kedua akan lebih lama dan elemen yang sudah diawasi harus mengakibatkan DMG yang jauh lebih sering supaya bisa diawasi kembali. Karena terpengaruh oleh gangguan Ley Line, selama durasi Oversight of Vigil, semua Elemental RES dan Physical RES The Open-Eyed meningkat."
+      },
+      {
+        "name": "\"Phenomena's Delirium\"",
+        "text": "Setelah menyelesaikan dua kali pengawasan elemen, The Open-Eyed akan terbang ke angkasa, bersiap untuk melancarkan Phenomena's Delirium yang akan melepaskan jenis elemen yang diawasi sebelumnya serta memanggil dua Active Elemental Star dengan jenis elemen yang sesuai. Jika tidak ada elemen yang tercatat, maka dia akan memanggil Inert Elemental Star yang memiliki <color=#FFD780FF>Semua Elemental RES dan Physical RES yang lebih tinggi</color>. Jika musuh memanggil dua Active Elemental Star dengan elemen yang berbeda, maka keduanya akan menjadi lebih mudah dihancurkan. Saat Active Elemental Star dihancurkan, akan mengakibatkan DMG besar terhadap musuh dengan elemen yang tercatat. Jika Inert Elemental Star dihancurkan, akan mengakibatkan Geo DMG terhadap musuh. <color=#FFD780FF>Hancurkan semua Elemental Star</color> untuk menghentikan persiapan Phenomena's Delirium. Jika kedua Elemental Star tidak bisa dihancurkan dalam waktu yang ditentukan, maka keduanya akan meledak dan mengakibatkan DMG Area yang kuat."
+      }
+    ],
+    "1010061": [
+      {
+        "name": "Suppression Field: Energy Cycler",
+        "text": "Saat pertempuran dimulai, Boss akan mengerahkan 4 mesin pendeteksi yang dilindungi <color=#FFD780FF>Pelindung Hydro</color> dan mengaktifkan Suppression Field khusus. Medan ini akan menghasilkan <color=#FFD780FF>Force Shield</color> untuk Boss dan meningkatkan <color=#FFD780FF>Semua RES kecuali Cryo RES dan Electro RES milik Boss</color>. Setelah medan ini aktif untuk beberapa saat, Boss akan melancarkan Alpha Strike: mengakibatkan DMG dalam area luas, sekaligus menarik kembali semua mesin pendeteksi, dan mendapatkan <color=#FFD780FF>Pelindung Hydro</color> sesuai dengan jumlah mesin yang ditarik kembali. Jika tidak ada mesin pendeteksi yang ditarik kembali, Boss hanya akan mendapatkan Pelindung Hydro yang lemah."
+      },
+      {
+        "name": "Force Shield",
+        "text": "Karena terpengaruh oleh gangguan Ley Line, ketika Force Shield Boss hancur, maka Suppression Field-nya juga akan ikut hilang dan Boss juga akan menerima DMG serangan balik yang kuat dan memasuki kondisi lumpuh untuk sementara. Selain itu, setiap kali <color=#FFD780FF>menerima pengaruh reaksi Superconduct dan Stellar-Conduct</color>, ketahanan Perisai-nya akan berkurang dalam jumlah tertentu. Sedangkan<color=#FFD780FF> DMG reaksi Superconduct dan Stellar-Conduct</color> yang diterimanya bukan cuma lebih efektif dalam menghancurkan Perisai-nya, tapi juga akan meningkatkan DMG serangan balik yang diterima Boss saat Perisai-nya hancur."
+      },
+      {
+        "name": "Detection Device: Pressurized Component",
+        "text": "Mesin pendeteksi akan hancur saat <color=#FFD780FF>Pelindung Hydro-nya dihancurkan</color> atau <color=#FFD780FF>saat terkena status Frozen lalu terkena DMG Reaksi Elemental seperti Shatter atau Melt</color>. Karena terpengaruh oleh gangguan Ley Line, Pelindung milik Boss juga akan terkena DMG setiap kali ada mesin pendeteksi yang dihancurkan."
+      }
+    ],
+    "1010063": [
+      {
+        "name": "Adaptive Countermeasure: Aktivasi dari Suhu Dingin",
+        "text": "Saat pertarungan dimulai, Boss akan terlindungi oleh <color=#FFD780FF>Perisai yang kuat</color> dan mendapatkan peningkatan Semua Elemental RES dan Physical RES yang lebih tinggi. Ketika Karakter memasuki dan mempertahankan status \"Nightsoul's Blessing\", Boss akan mengakumulasi progres \"Adaptive Countermeasure\". Karena terpengaruh oleh Gangguan Ley Line, saat Boss pertama kali menyelesaikan akumulasi Adaptive Countermeasure, Boss akan kehilangan <color=#FFD780FF>semua peningkatan RES yang didapatkan saat pertarungan dimulai</color>, <color=#FFD780FF>Perisai</color> miliknya juga akan hancur dan menerima DMG serangan balik berdasarkan jumlah DMG yang ditahan oleh Perisai."
+      },
+      {
+        "name": "Boltsphere Cannon: Pompa Bertekanan Tinggi",
+        "text": "Setelah progres Adaptive Countermeasure terisi penuh, Boss akan mengaktifkan Accretion Mechanism, menggali 2 Phlogiston Padat, dan menyerap energi di dalamnya untuk mempersiapkan Boltsphere Cannon. Accretion Mechanism akan menghasilkan medan gaya untuk melindungi dirinya sendiri, sehingga kamu perlu <color=#FFD780FF>memanjat Phlogiston Padat terlebih dahulu untuk masuk ke dalam medan gaya</color> agar dapat menghancurkannya. Setelah semua Accretion Mechanism dihancurkan, pengisian daya Boltsphere Cannon akan diinterupsi, dan Boss akan <color=#FFD780FF>mengalami kelumpuhan sekaligus menerima DMG serangan balik</color>. Progres Adaptive Countermeasure akan terakumulasi seiring berjalannya waktu akibat gangguan Ley Line, namun batas maksimum yang diperlukan untuk melancarkan Boltsphere Cannon juga akan meningkat."
+      }
+    ],
+    "1011061": [
+      {
+        "name": "Thundercall: Perisai Kokoh",
+        "text": "Karena terpengaruh oleh gangguan Ley Line, saat pertarungan dimulai, Boss akan menggunakan kekuatan kepala Electro sebagai pemicu untuk menghasilkan <color=#FFD780FF>Pelindung Electro yang kokoh</color> untuk melindungi dirinya. Setiap beberapa waktu, kedua kepala Boss akan saling bekerja sama, mengalirkan kekuatan elemen Anemo ke dalam pedang besar Electro-nya, lalu melancarkan serangan gelombang Electro berskala besar. Pada saat ini, jika Boss sedang berada dalam efek <color=#FFD780FF>Radiance: Stellar Glimmer</color>, maka kekuatannya akan menjadi kacau dan mengakibatkan serangan balik yang <color=#FFD780FF>merusak Pelindung</color>-nya. Setelah <color=#FFD780FF>Pelindung-nya dihancurkan</color> melalui Reaksi Elemental, Boss akan kehabisan tenaga dan berhenti menyerang, lalu memasuki status lumpuh <color=#FFD780FF>Cryo RES dan Anemo RES miliknya juga akan berkurang drastis</color>. Selain itu, Boss juga akan menerima satu kali DMG serangan balik yang kuat berdasarkan jumlah DMG yang ditahan oleh Pelindung. <color=#FFD780FF>DMG reaksi Stellar Glimmer</color> akan meningkatkan DMG serangan balik yang diterima Boss saat Pelindung hancur."
+      },
+      {
+        "name": "Galeforce: Serangan Ganas",
+        "text": "Karena terpengaruh oleh gangguan Ley Line, dalam pertarungan, Boss akan menggunakan kekuatan kepala Anemo sebagai pemicu, terbang ke udara dan berputar dengan cepat, lalu menembakkan Gale Bolt untuk melancarkan serangan. Setelah putaran selesai, Boss akan menghasilkan pusaran angin dan berusaha menarik dan menyerap Anemo Orb yang ada di medan pertempuran untuk memulihkan kekuatan. Setelah Anemo Orb yang diserap cukup, Boss akan kembali terbang ke udara dan melancarkan serangan berputar. Anemo Orb ini dapat <color=#FFD780FF>dihancurkan dengan Hydro/Pyro/Electro/Cryo DMG</color>. Kamu juga dapat membuat Boss masuk ke status <color=#FFD780FF>Radiance: Stellar Glimmer</color> sehingga ia tidak dapat menyerap Anemo Orb. Jika pusaran anginnya hilang sebelum Boss berhasil menyerap Anemo Orb yang cukup, maka Boss akan langsung menjadi lumpuh. Selain itu, <color=#FFD780FF>Cryo dan Anemo RES Boss juga akan berkurang drastis</color>."
+      }
+    ],
+    "1011062": [
+      {
+        "name": "Pembunuhan Cepat",
+        "text": "Dalam pertempuran, musuh ini dapat mengonsumsi sebagian HP-nya sendiri untuk melancarkan \"Hunt Down\": Saat serangan ini mengenai Karakter, HP musuh ini akan pulih sebesar rasio tertentu dan memberikan efek Bond of Life terhadap Karakter yang terkena. Selama Bond of Life aktif, Karakter yang terkena akan terus-menerus terkena DMG. DMG serangan ini akan meningkat terhadap Karakter yang sedang memiliki efek Bond of Life."
+      },
+      {
+        "name": "Status Bloody Pursuit: Berbahaya",
+        "text": "Karena terpengaruh oleh gangguan Ley Line, ketahanan terhadap interupsi dan kemampuan interupsi musuh ini meningkat drastis, dan saat kuda-kudanya dirusak di udara, dia akan langsung melakukan teleport mundur dan mengatur ulang kuda-kudanya. Saat bersiap melancarkan Hunt Down, musuh ini akan memasuki status Bloody Pursuit: Menciptakan Perisai untuk melindungi diri sendiri. Selama Perisai ini aktif, musuh ini akan <color=#FFD780FF>terus memberikan efek Bond of Life untuk semua Karakter</color>. Musuh akan terkena DMG besar setelah Perisai-nya dihancurkan."
+      }
+    ],
+    "1012061": [
+      {
+        "name": "Big-Mouthed Jack Frost",
+        "text": "Saat pertarungan dimulai, Boss akan menggunakan kekuatan Anemo untuk mencoba membuat patung Prime Ice. Setelah beberapa saat, patung akan berubah menjadi Big-Mouthed Jack Frost yang terus-menerus menembakkan bola salju.\nJika Boss berada di bawah efek <color=#FFD780FF>Radiance: Stellar Glimmer</color> selama proses pembentukan, proses ini dapat dihentikan, dan patung es akan berubah menjadi patung hewan yang tidak berbahaya."
+      },
+      {
+        "name": "Creative Frenzy",
+        "text": "Karena terpengaruh oleh gangguan Ley Line, Boss <color=#FFD780FF>akan mendapatkan Semua Elemental RES dan Physical RES yang tinggi saat pertarungan dimulai</color>, dan akan lebih sering membentuk patung Prime Ice.\nSetelah patung es dikonversi menjadi patung hewan, patung tersebut akan meledak setelah jeda sesaat dan mengakibatkan sejumlah DMG terhadap Boss, sekaligus <color=#FFD780FF>mengurangi Semua Elemental RES dan Physical RES-nya, juga akan mengurangi Anemo RES-nya lebih lanjut</color>. Efek ini <color=#FFD780FF>dapat ditumpuk sampai 3 lapis</color>."
+      }
+    ],
+    "1012063": [
+      {
+        "name": "Ice Coffin: Twinned Crystal Lattice",
+        "text": "Dalam pertarungan, ketika HP Boss turun di bawah persentase tertentu, Boss akan mengurung diri dalam \"peti es\" dan melindungi diri menggunakan <color=#FFD780FF>Pelindung Cryo</color> milik peti es tersebut.\nSelama peti es ada, Boss akan terus melancarkan badai es dengan dirinya sebagai pusat untuk menyerang. Jika peti es tidak dihancurkan, Boss akan memulihkan sebagian HP dan menciptakan pedang es untuk menyerang balik. Namun jika peti es yang menjadi tumpuan hidupnya dihancurkan, Boss akan menjadi lemah untuk sementara dan menerima DMG serangan balik. Dipengaruhi oleh gangguan Ley Line, <color=#FFD780FF>peti es ini menjadi lebih kuat</color>; dan setelah beberapa waktu sejak pertama kali dihancurkan, Boss akan <color=#FFD780FF>mengurung dirinya kembali dalam peti es</color>."
+      },
+      {
+        "name": "Ice Coffin: Warped Crystal Lattice",
+        "text": "<color=#FFD780FF>Selama peti es ada</color>, jika Boss berada di bawah efek <color=#FFD780FF>Radiance: Stellar Glimmer</color>, <color=#FFD780FF>Pelindung Cryo dari peti es akan berubah menjadi Perisai yang dapat menyerap DMG</color>. Setelah Perisai hancur, Boss akan menerima DMG balik yang besar satu kali."
+      }
+    ],
+    "1013061": [
+      {
+        "name": "Keberanian Menahan Dingin: Minuman Memuaskan",
+        "text": "Karena terpengaruh oleh gangguan Ley Line, setiap beberapa waktu, Boss akan mengeluarkan termos dan meneguknya dengan gagah berani untuk mengakumulasi Courage dalam jumlah besar. Saat sedang meneguk minuman, jika ia berada di bawah pengaruh efek <color=#FFD780FF>Radiance: Stellar Glimmer</color>, efisiensi akumulasi Courage akan berkurang. Selain itu, saat menerima <color=#FFD780FF>Electro DMG</color>, Courage juga akan berkurang. <color=#FFD780FF>Electro DMG yang dianggap sebagai DMG Reaksi Stellar Glimmer terkait</color> juga akan mengurangi Courage secara signifikan."
+      },
+      {
+        "name": "Valiant Assault",
+        "text": "Karena terpengaruh oleh gangguan Ley Line, setelah Courage terisi penuh, boss akan memasuki status Valiant Assault: Bukan cuma serangannya yang menjadi lebih ganas, <color=#FFD780FF>dan akan membentuk Perisai untuk melindungi diri, semua RES dan Physical RES (selain Electro RES) meningkat drastis, sedangkan Electro RES akan meningkat sedikit</color>. Dalam status ini, Courage musuh akan terus habis, dan <color=#FFD780FF>jumlah pengurangan Courage karena menerima Electro DMG akan meningkat</color>. Selain itu, status ini akan berakhir saat Courage habis terpakai. Boss yang keluar dari status ini akan menerima DMG serangan balik yang kuat. Selama Valiant Assault, makin tinggi DMG yang diserap oleh Perisai, maka makin tinggi pula DMG yang akan diterimanya. <color=#FFD780FF>Electro DMG reaksi Stellar Glimmer</color> akan meningkatkan DMG yang diterima boss saat Perisai dihancurkan."
+      }
+    ]
+  },
+  "tags": {
+    "1001061": {
+      "good": "Karakter {SPRITE_PRESET#11003}",
+      "bad": "Karakter {SPRITE_PRESET#11002}"
+    },
+    "1001062": {
+      "good": "Karakter {SPRITE_PRESET#11007} dan {SPRITE_PRESET#11003}",
+      "bad": "Karakter {SPRITE_PRESET#11001} dan {SPRITE_PRESET#11002}"
+    },
+    "1001063": {
+      "good": "Karakter {SPRITE_PRESET#11001}"
+    },
+    "1002061": {
+      "good": "DMG Elemental Frekuensi Tinggi  |  DMG Nightsoul-aligned"
+    },
+    "1002062": {
+      "good": "DMG Frekuensi Rendah",
+      "bad": "DMG Frekuensi Tinggi"
+    },
+    "1002063": {
+      "good": "{SPRITE_PRESET#11034} Reaksi Elemental | Perisai"
+    },
+    "1003061": {
+      "good": "DMG Elemen Beragam",
+      "bad": "DMG Elemen Tunggal"
+    },
+    "1003062": {
+      "good": "Reaksi Elemental {SPRITE_PRESET#11029}",
+      "bad": "Karakter {SPRITE_PRESET#11003}"
+    },
+    "1003063": {
+      "good": "Reaksi Elemental {SPRITE_PRESET#11034} | Karakter {SPRITE_PRESET#11004}"
+    },
+    "1004061": {
+      "good": "DMG Elemental Frekuensi Tinggi  |  DMG Elemen Beragam | DMG Reaksi Lunar"
+    },
+    "1004062": {
+      "good": "Moonsign: Ascendant Gleam"
+    },
+    "1004063": {
+      "good": "Karakter Bond of Life |  Karakter Perisai"
+    },
+    "1005061": {
+      "good": "Karakter {SPRITE_PRESET#11001} {SPRITE_PRESET#11002} dan {SPRITE_PRESET#11007}"
+    },
+    "1005062": {
+      "good": "Karakter {SPRITE_PRESET#11003} |  Karakter jarak jauh  | Karakter yang bisa mengumpulkan musuh",
+      "bad": "Karakter jarak dekat"
+    },
+    "1005063": {
+      "good": "Karakter yang menggunakan Plunging Attack"
+    },
+    "1006061": {
+      "good": "DMG Reaksi Lunar"
+    },
+    "1006063": {
+      "good": "Karakter {SPRITE_PRESET#11002}",
+      "bad": "Karakter {SPRITE_PRESET#11003}"
+    },
+    "1007061": {
+      "good": "Karakter {SPRITE_PRESET#11003}{SPRITE_PRESET#11004}  | Karakter yang bisa mengumpulkan musuh"
+    },
+    "1007062": {
+      "good": "Reaksi Elemental {SPRITE_PRESET#11034} | Karakter {SPRITE_PRESET#11004}"
+    },
+    "1008061": {
+      "good": "Karakter {SPRITE_PRESET#11006} | Karakter Pemulih"
+    },
+    "1009061": {
+      "good": "Unggul: Reaksi {SPRITE_PRESET#11028} dan {SPRITE_PRESET#11024}"
+    },
+    "1009063": {
+      "good": "Unggul: Reaksi {SPRITE_PRESET#11027} dan {SPRITE_PRESET#11035}"
+    },
+    "1010061": {
+      "good": "Karakter {SPRITE_PRESET#11001}{SPRITE_PRESET#11004} | Karakter jarak jauh",
+      "bad": "Karakter {SPRITE_PRESET#11002} | Karakter Jarak Dekat"
+    },
+    "1010063": {
+      "good": "Karakter dengan Nightsoul's Blessing"
+    },
+    "1011061": {
+      "good": "Reaksi Elemental {SPRITE_PRESET#11022} | Karakter {SPRITE_PRESET#11001}"
+    },
+    "1011062": {
+      "good": "Karakter Bond of Life |  Karakter Perisai"
+    },
+    "1012061": {
+      "good": "Karakter reaksi Stellar Glimmer |  Karakter {SPRITE_PRESET#11005}"
+    },
+    "1012063": {
+      "good": "Karakter reaksi Stellar Glimmer |  Karakter {SPRITE_PRESET#11003}"
+    },
+    "1013061": {
+      "good": "Karakter reaksi Stellar Glimmer |  Karakter {SPRITE_PRESET#11004}"
+    }
+  },
+  "season": {
+    "5269001": "Incursion Repeller",
+    "5269002": "Savage Onslaught",
+    "5269003": "Terrorshock Blitz",
+    "5269004": "Sweeping Assault",
+    "5269005": "Tremorfall Trial",
+    "5269006": "Blightpurge Battle",
+    "5269007": "Crush and Obliterate",
+    "5269008": "Battle of Shattered Jade",
+    "5269009": "Battle of the Howling Cyclone",
+    "5269010": "Savage Tremors",
+    "5269011": "Battle of the Starburst",
+    "5269012": "Luminous Battlefront",
+    "5269013": "Pertempuran Antara Gelombang"
+  }
+}

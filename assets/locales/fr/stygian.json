@@ -1,0 +1,516 @@
+{
+  "boss": {
+    "1001061": "Tulpa Hydro : Vortex turbulent",
+    "1001062": "Statue de dragon de lave : Flamme ardente",
+    "1001063": "Automate de source secrète « Surveillant » : Panoplie d'oblitération",
+    "1002061": "Papille obombrée : Transfiguration ténèbreuse",
+    "1002062": "Tortue bosselée vétérane : Protection tonitruante",
+    "1002063": "Idole vétérane de Pipilpan : Tromperie multiple",
+    "1003061": "Dragon cataclysmique : Configuration d'annihilation",
+    "1003062": "Granicrabe vétéran : Myriade d'explosions",
+    "1003063": "Troupier lame-de-feu vétéran : Escouade sacrificielle",
+    "1004061": "Herra de la nuit glaciale : Haine",
+    "1004062": "Gardien de lumière vétéran : Lamentation",
+    "1004063": "Opératrice du givre vétérane : Lame sanglante",
+    "1005061": "Lustrateur inique : Colère résonnante",
+    "1005062": "Iktomisaure vétéran : Résolution glaciale",
+    "1005063": "Générateur de champ expérimental : Potentiel extrême",
+    "1006061": "Seigneur chuchoteur de cauchemars des fonds cachés : Tranchant de ravage",
+    "1006063": "Empereur du feu ferreux : Conquête ordonnée",
+    "1007061": "Mandragore hexadécatonique vétérane : Vigne-tempête",
+    "1007062": "Canard à torgnoles : Arsenal blindé",
+    "1008061": "Lunigecko radieux : Crocs enchevêtrés",
+    "1009061": "Loup glacial vétéran : Esprit glacial",
+    "1009063": "Celui qui voit : Orgueil",
+    "1010061": "Ombre de Précurseur de source secrète avec matrice d'observation neuronale : Volonté d'essaim",
+    "1010063": "Automate de source secrète « Configurateur » : Ciseaux de lyse",
+    "1011061": "Lion ailé chimérique : Puissance écrasante",
+    "1011062": "Opératrice du vent vétérane : Lame traître",
+    "1012061": "Sculpteur domovoy vétéran : Coup de mistral",
+    "1012063": "Lame gardienne de la neige flottante : Réverbération infinie",
+    "1013061": "Ancravague : Déluge de tempête"
+  },
+  "lore": {
+    "1001061": "Un monstre de forme humaine formé par l'agglomération de l'eau.\nD'innombrables volontés se sont dissoutes dans l'eau qui, comme l'univers, était à l'origine pleine d'âmes désireuses de naître.\nLa souffrance et la haine, imprégnées dans ces eaux, se sont entremêlées pour déformer ce qui était autrefois une forme humaine au milieu du chaos incohérent des lignes énergétiques. La dissolution tragique ne tardera pas à se répéter...",
+    "1001062": "Un monstre capable de générer continuellement de la chaleur, ce qui lui permet de rester actif.\nCette tentative ratée de faire naître la sagesse à partir d'une énergie pure a l'apparence d'une race grandiose, mais ne possède pas plus de conscience qu'un tas de cailloux.\nBien que cet être ne soit pas différent d'un cadavre, les lignes énergétiques en ébullition lui ont transmis l'animosité virulente du défunt, ajoutant des pensées funestes et périlleuses à son instinct de combat...",
+    "1001063": "Un mécanisme de domination des ruines antiques.\nDans un passé lointain, une puissante et ancienne espèce utilisait ce mécanisme pour surveiller le fonctionnement de ses villes. Aujourd'hui encore, longtemps après la chute de cette civilisation, il conserve une grande autorité.\nDans les profondeurs des perturbations énergétiques, son module énergétique central, détérioré au fil des ans, a été restauré, voire même « surchargé » à un degré dangereux. Cette machine est désormais libérée de ses spécifications d'origine, capable de se libérer des entraves de la planète et d'utiliser son horrible panoplie d'oblitération...",
+    "1002061": "Un monstre de l'Abîme qui se propage et corrode comme une plante.\nAgents de la constante corrosion, ces déformateurs ont la capacité d'extraire des souvenirs des couches plus profondes de la terre. Grâce au pouvoir de l'Abîme, ils reconstruisent des souvenirs plus puissants. Au milieu du chaos incohérent des lignes énergétiques, la haine autrefois répandue à partir de leurs racines s'est rassemblée pour former des lames d'une sauvagerie indicible qui infligent de profondes souffrances à ceux assez téméraires pour les défier...",
+    "1002062": "Doux et lent de nature, ce reptile est considéré par certains comme un symbole de sagesse et de chance. Acculée, cette créature remarquable est néanmoins capable de déchaîner de féroces assauts sur ses ennemis, utilisant son épaisse carapace comme un bélier pour écraser toute opposition.\nAu milieu du chaos incohérent des lignes énergétiques, sa forme se tord, chargeant impatiemment dans la bataille avec fureur, comme une tempête d'attaque et de défense...",
+    "1002063": "Une Idole de Pipilpan qui canalise l'essence de Tenoch. Experte en tours du chapeau éblouissants et en stratagèmes de combat, elle peut attaquer sous de nombreux les angles, laissant les adversaires imprudents payer le prix de leurs faux pas hâtifs...\nAu milieu du chaos incohérent des lignes énergétiques, l'obsession de l'artiste prend la forme d'une vague de rejet et d'annihilation. La moindre erreur peut réduire en poussière, comme autrefois les adversaires de Tenoch...",
+    "1003061": "Une machine de combat en forme de dragon et un être qui inspire la terreur, tout comme le seigneur qui régnait autrefois sur ces vastes terres.\nCette monstruosité mécanique mystérieuse et infatigable semble être la preuve que le royaume maintenant détruit avait atteint des sommets que les mortels n'auraient jamais dû atteindre.\nEn raison de la corruption persistante des lignes énergétiques en chaos, sa structure a été améliorée et elle s'est si bien adaptée à sa mission d'annihilation qu'elle est devenue un cauchemar mortel sur le champ de bataille...",
+    "1003062": "Un crabe vivant parmi les coquillages et les conques et un lointain parent du Cuiracrabe fontainois. La plupart des spécimens sont dociles et doux, mais on raconte des histoires de crabes se battant à mort pour défendre leur territoire, leur nature douce se transformant en une rage sauvage et frénétique.\nParmi les illusions tordues des lignes énergétiques, le puissant Granicrabe tombé face à une horde d'ennemis a reforgé ses capacités offensives pour résister à l'assaut d'un millier d'adversaires, une entreprise récompensée par un succès alarmant...",
+    "1003063": "Un officier d'élite, membre de l'Opritchniki Fatui et spécialisé dans le combat rapproché avec une lame géante.\nQue ce soit dans la guerre contre la calamité noirâtre ou contre les ignorants qui osent s'opposer aux idéaux de la Tsarine, ceux qui se dressent devant la pointe de la lance subissent les plus lourdes pertes. Ceux qui survivent à cent batailles pour finalement tomber ne sont plus qu'un souvenir effrayant dans les lignes énergétiques. Suite à une immersion prolongée dans les courants tortueux, les ombres persistantes de ces guerriers tournent les lames qu'ils brandissaient autrefois dans une bataille désespérée contre tous ceux qui cherchent à apaiser le désordre.",
+    "1004061": "Un être majestueux qui traverse fièrement la nuit givrée, contrôlant des pouvoirs ancestraux depuis longtemps domptés par le seigneur du ciel. Pourtant, sous l'influence indicible des lignes énergétiques, sa noblesse solennelle a été usurpée par un appétit féroce pour ses proies et une volonté d'accueillir les intrus avec le tranchant glacial d'une lame...",
+    "1004062": "Un vaillant guerrier qui résista à la calamité noirâtre des temps anciens. Bien que l'étincelle de sa vie se soit éteinte, sa volonté inflexible ne s'est pas encore dissipée, et celui qui a juré de contrer la Chasse sauvage poursuit encore aujourd'hui son combat sans fin. Corrompu par les lignes énergétiques en chaos, il traite tout intrus qui entre à portée de vue indifféremment des abominations les plus féroces de la Chasse sauvage, les confrontant à toute la force de sa détermination et de sa puissance...",
+    "1004063": "Un agent d'élite des Fatui. Sélectionnée dès son enfance, elle a atteint le sommet après de longues années d'entraînement rigoureux, une expérience qui lui a inculqué des compétences extraordinaires et une loyauté indéfectible.\nMalheureusement, dans le chaos périlleux des lignes énergétiques, son sens de la raison a été englouti par une soif de bataille... Une soif qui la conduit à traquer sans pitié les intrus et à les soumettre à un assaut de pure rage...",
+    "1005061": "Une créature de l'Abîme qui, grâce aux pouvoirs stygiens des ténèbres, a gagné des appendices supplémentaires suite à son « évolution ». Elle est capable de manier plusieurs types de pouvoir élémentaire.\nDans les souvenirs distordus des lignes énergétiques, elles surgissent comme des entités destructrices frénétiques, déchaînant vague après vague de calamité grâce à leurs pouvoirs blasphématoires...",
+    "1005062": "Capable d'utiliser son plumage pour bondir, l'iktomisaure est aussi le seul saurien à avoir compris comment entrer dans l'état de spiritoraison.\nObservant la totalité de la souffrance et du chagrin, il a été consumé par les souvenirs tordus des lignes énergétiques, se transformant en un blizzard d'un froid quasi absolu qui fait rage sous les vents d'un chaos insondable...",
+    "1005063": "Un produit de l'Institut de recherche d'ingénierie cinétique de Fontaine qui est devenu incontrôlable en raison d'un accident. Il a la capacité de « contrer » les effets de la gravité.\nSous l'influence des lignes énergétiques en chaos, leur noyau est devenu violemment instable et les champs gravitationnels qu'ils libèrent déferlent désormais avec la force de tsunamis, prêts à engloutir les terres...",
+    "1006061": "Une créature de l'Abîme qui se glisse à travers une faille cachée dans les profondeurs, observant silencieusement ce monde. Sa forme étrange et sans visage ne serait qu'une projection, car son véritable corps n'existerait que comme une masse informe d'énergie abyssale pure.\nDans le tumulte des lignes énergétiques, ses murmures frénétiques et délirants ont été affûtés en une force tranchante destinée à déchirer l'ordre durement acquis du monde...",
+    "1006063": "L'un des deux souverains qui se tenaient autrefois au sommet des espèces aberrantes de la Fontemer, et le sujet de nombreuses histoires parmi les marins. Un Cuiracrabe qui évite la prédation et peut continuer à chasser et à manger continuera de grandir, recherchant continuellement des carapaces appropriées qui deviendront tant de nouvelles cuirasses.\nDéformée par les turbulences des lignes énergétiques, sa nature violente est devenue si intense qu'elle se déchaîne désormais comme une petite armée, s'attaquant à tout ce qu'elle remarque... Une calamité en mouvement, semblable à un crabe...",
+    "1007061": "Une Mandragore exceptionnellement grande, probablement issue d'un processus de sélection artificielle prolongé. Bien que l'objectif initial de sa culture soit inconnu, cette créature présente un profil comportemental territorial atypique qui suggère qu'elle pourrait être le produit d'une expérience spéciale contrôlée.\nAu milieu du chaos des lignes énergétiques, sa forme a muté depuis longtemps et elle est désormais déterminée à exploiter les vents hurlants pour que ses spores engloutissent la terre entière...",
+    "1007062": "Un mécanisme kuuvahkique de fabrication particulière, assemblé à partir de ferraille et d'articulations mécaniques. Sa vague ressemblance avec un canard est due aux préférences de sa créatrice. Sa force de frappe et sa robustesse sont comparables à celles des armes de guerre les plus sophistiquées des Fatui... Malgré cela, il ne s'agit que d'un jouet en forme de canard capable de frapper ses adversaires très, très fort.\nSuite à une transformation provoquée par le grave dysfonctionnement des lignes énergétiques, la projection de ce mécanisme a évolué en une usine mobile entièrement équipée d'armures et d'armes. Le moindre faux pas, et une nuée de dispositifs de piétinement submerge l'intrus comme un tsunami...",
+    "1008061": "Monstre ancestral attiré par la lumière de la lune, ce gecko vit enfoui au plus profond des couches rocheuses. L'accumulation progressive d'énergie kuuvahkique a cristallisé son corps en segments finement articulés, semblables à un mécanisme. Ces segments peuvent se durcir et former des pointes de pierre utilisées pour repousser les intrus.\nAffectés par un trouble extrême des lignes énergétiques, ses segments, catalysés par le kuuvahki, croissent de manière anarchique, s'entremêlant et s'enroulant les uns sur les autres comme une vaste toile qui semble vouloir dévorer toute la chaîne de montagnes.",
+    "1009061": "Ce loup solitaire, loin de sa meute locale, a une crinière turquoise qui trahit une lignée venue d'une contrée lointaine.\nÀ la suite du déferlement chaotique des lignes énergétiques, les souvenirs de ses ancêtres ont été pervertis en une malédiction effroyable. Une haine glaciale imprègne désormais tout son être, poussant impitoyablement la bête à mettre en pièces tout ce qui se trouve à portée de sa vue.",
+    "1009063": "Né du débordement du puissant être primordial, ce veilleur résidait jadis dans les cieux les plus élevés, mais il a été précipité dans le royaume des mortels pour avoir osé ouvrir les yeux. Il détient le pouvoir de surveiller et de contrer les attaques élémentaires.\nSous l'assaut des lignes énergétiques tumultueuses et d'un flot chaotique d'informations corrompues, sa nature autrefois arrogante s'est pervertie en un pur élan destructeur, le poussant à anéantir tout ce qui se trouve à portée.",
+    "1010061": "Conçue à l'origine comme un mécanisme de coopération pour faciliter la recherche lunaire, elle s'est vu confier, au fil du temps, des pouvoirs et des responsabilités bien au-delà de sa vocation première.\nDéformés et corrompus au fil du temps à cause de la perturbation des lignes énergétiques, son noyau ainsi que ses mécanismes de détection ont été entièrement effacés. Sa fonction première a quasiment disparu... Désormais, seule une volonté destructrice la motive, propulsant des hordes de machines infinies pour anéantir toute vie.",
+    "1010063": "Une machine de fabrication provenant des ruines antiques. Ce type de machine, qui peut se transformer en de nombreuses formes, était utilisé par les maîtres des ruines antiques pour effectuer diverses tâches de fabrication.\nAu cœur du déluge tumultueux des lignes énergétiques, son enveloppe résistante à la lave s'est muée en armure, la puissance qui édifiait désormais des cités colossales en tenaille titanesque. L'ordre de « construire » s'est perverti en un désir de « détruire », la poussant à achever le « grand dessein » de réduire toute chose en ruines.",
+    "1011061": "Une bête chimérique, produit de la bio-alchimie, qui a été abandonnée.\nDans le reflet totalement déformé des lignes énergétiques, son emprise sur les éléments est devenue toujours plus violente. La foudre et les vents de tempête déferlent et rugissent à son ordre, ne laissant rien derrière eux...",
+    "1011062": "Une agente d'élite des Fatui. En fonction de leurs ordres et du contenu de leurs missions, elles peuvent travailler de concert avec d'autres soldats, seules ou en tandem avec les « taupes » cachées et dispersées à travers le monde. Elles espionnent, mènent du contre-espionnage, protègent, assassinent et accomplissent d'autres tâches.\nTragiquement, au cœur du chaos mortel des lignes énergétiques désordonnées, l'Opératrice a perdu toute conscience d'elle-même, rongée par les courants tumultueux. Il ne reste plus qu'une enveloppe marquée par les combats, agissant par pur instinct et retournant sa lame froide contre quiconque ose s'approcher...",
+    "1012061": "Un sculpteur de glace au corps forgé par d'innombrables épreuves, capable de modeler la glace primale en maniant l'élément Anémo comme un marteau et un burin.\nTordu par des courants de lignes énergétiques plus terrifiants encore que son propre goût artistique, le sculpteur a succombé à une frénésie d'inspiration irrépressible. Il cherche désormais à sculpter la chair et les os avec des vents hurlants et à sceller les âmes dans une glace primale incassable, avide de transformer chaque intrus sur son chemin en le dernier chef-d'œuvre de cette exposition de calamités.",
+    "1012063": "Une snegovik ancestrale, respectée de tous au sein de son clan, à qui fut jadis confiée la mission de protéger son peuple pour le restant de ses jours.\nDéformée par le déferlement tumultueux des lignes énergétiques, l'illusion qu'elle appelait autrefois « protection » s'est muée en un pur instinct de carnage. Dissimulée dans l'ombre d'un cercueil de glace, elle guette, prête à tout instant à se transformer en une lame de glace insaisissable et tranchante comme un rasoir et à déchiqueter tout être vivant qui s'aventure à proximité.",
+    "1013061": "Ce volkodlak d'une puissance inégalée est né de la grande ambition d'une civilisation ancienne d'explorer librement les profondeurs aquatiques.\nSous l'influence débridée des lignes énergétiques distordues, la lignée ancestrale qui sommeillait en elle est devenue totalement incontrôlable. Sa forme physique défie non seulement les limites écrasantes de la pression des abysses, mais elle déchaîne désormais une puissance sauvage et dévastatrice, capable de rivaliser de front avec des courants obscurs et invisibles. Désormais privée de toute raison, elle est déterminée à réduire en poussière tout ce qui se trouve à sa portée."
+  },
+  "mechanics": {
+    "1001061": [
+      {
+        "name": "Demi-tulpas jumeaux",
+        "text": "Sous l'effet des lignes énergétiques, <color=#FFD780FF>2 Demi-tulpas</color> apparaissent de façon intermittente pendant le défi, Demi-tulpas que le Tulpa Hydro absorbe après un certain temps pour <color=#FFD780FF>se renforcer</color> : <color=#FFD780FF>il récupèrera beaucoup de PV</color>, il deviendra plus grand, son ATQ augmentera et ses attaques seront plus dangereuses.\nVous pouvez cependant utiliser des attaques et des réactions élémentaires pour éliminer ces Demi-tulpas, ou des réactions de <color=#FFD780FF>Gel</color> pour perturber ce processus d'absorption."
+      },
+      {
+        "name": "Déluge torrentiel",
+        "text": "Sous l'effet des lignes énergétiques, le Tulpa Hydro déploie un bouclier pendant le défi et entre en état de recharge pour se préparer à déclencher son déluge torrentiel. S'il parvient à déchaîner ce déluge, le Tulpa Hydro <color=#FFD780FF>élimine directement votre personnage déployé</color>.\nLorsque le Tulpa Hydro déploie son bouclier, le TdR des compétences et déchaînements élémentaires de tous les personnages de l'équipe se réinitialise et l'énergie élémentaire, la ferveur guerrière et la finesse serpentine sont restaurées. Détruire le bouclier avant que le Tulpa Hydro ne finisse de se recharger permettra de l'empêcher d'utiliser son déluge torrentiel."
+      }
+    ],
+    "1001062": [
+      {
+        "name": "Embrasement double",
+        "text": "La Statue de dragon de lave commence en géohumain, ce qui lui accorde des <color=#FFD780FF>RÉS élémentaires et physique élevées</color>. Après avoir subi des <color=#FF9999FF>DGT Pyro</color> un certain nombre de fois, elle passe complètement en flamidragon, état pendant lequel <color=#FFD780FF>toutes ses RÉS élémentaires et physique, à l'exception de sa RÉS Pyro, diminuent grandement</color>. En continuant de subir des <color=#FF9999FF>DGT Pyro</color>, elle subit progressivement des DGT supplémentaires. Après avoir subi des <color=#FF9999FF>DGT Pyro</color> un certain nombre de fois pendant sa forme de flamidragon, elle passe en état de brûlure excessive, ce qui la paralyse et <color=#FFD780FF>diminue davantage ses RÉS élémentaires et physique</color>. Elle repasse ensuite en géohumain après avoir été paralysée un certain moment."
+      },
+      {
+        "name": "Effet de TdR",
+        "text": "Après avoir subi des DGT <color=#80C0FFFF>Hydro</color> ou <color=#99FFFFFF>Cryo</color>, la Statue de dragon de lave retourne progressivement dans sa forme de géohumain avec une RÉS élevée."
+      },
+      {
+        "name": "Durcissement thermique",
+        "text": "Sous l'effet des lignes énergétiques, les RÉS de cet ennemi redoutable augmentent davantage et le nombre de fois qu'il doit subir des DGT Pyro avant de changer de forme augmente."
+      }
+    ],
+    "1001063": [
+      {
+        "name": "Balayage préventif",
+        "text": "L'Automate de source secrète commence le combat en mode de balayage : <color=#FFD780FF>ses RÉS élémentaires et physique augmentent grandement</color> et il génère de l'élan de flux tout en effectuant des attaques. Plus son élan de flux est élevé, plus sa vitesse de rotation et ses DGT sont importants.\nSubir des <color=#99FFFFFF>DGT Cryo</color> lui fait perdre de l'élan de flux. Lorsque son élan de flux tombe sous une certaine valeur, il s'arrête d'attaquer en tournoyant et <color=#FFD780FF>ses RÉS élémentaires et physique diminuent grandement</color>, sa <color=#99FFFFFF>RÉS Cryo</color><color=#FFD780FF> diminuant davantage</color>.\nChaque fois que l'Automate de source secrète s'arrête d'attaquer en tournoyant pour la première fois après être passé en mode de balayage, des orbes élémentaires supplémentaires sont générés."
+      },
+      {
+        "name": "Mode de contre-attaque forcée",
+        "text": "Lorsque le personnage déployé est <color=#FFD780FF>dans l'état Bénédiction noctâme</color> pendant un certain temps, l'Automate de source secrète passe en mode de contre-attaque forcée, ce qui lui fait alors utiliser des rayons téléguidés très puissants pour attaquer et <color=#FFD780FF>diminue ses RÉS élémentaires et physique</color>.\nDans cet état, subir un certain nombre de fois des <color=#99FFFFFF>DGT Cryo</color> lui fait arrêter d'attaquer et <color=#FFD780FF>diminue davantage ses RÉS élémentaires et physique</color>."
+      },
+      {
+        "name": "Structure résistante",
+        "text": "Sous l'effet des lignes énergétiques, les RÉS de cet ennemi redoutable augmentent davantage et subir des <color=#99FFFFFF>DGT Cryo</color> lui fait perdre moins d'élan de flux. De plus, il perd moins de RÉS en mode de contre-attaque forcée."
+      }
+    ],
+    "1002061": [
+      {
+        "name": "Mimèsis obombré",
+        "text": "La Papille obombrée peut se déformer et se transformer en un ennemi redoutable pour attaquer."
+      },
+      {
+        "name": "Attaque d'attrition",
+        "text": "Certaines de ses attaques peuvent provoquer une attrition cumulable qui, après un certain temps, fait perdre des PV à votre personnage déployé."
+      },
+      {
+        "name": "Protection ténébreuse",
+        "text": "Sous l'effet des lignes énergétiques, la Papille obombrée déploie une égide du néant tout en attaquant. Utiliser <color=#FFD780FF>un certain nombre d'attaques élémentaires</color> permet de briser son égide du néant, ce qui lui inflige ensuite une fois beaucoup de DGT selon la quantité de DGT absorbée par l'égide du néant et l'affaiblit pendant un long moment. De plus, les <color=#FFD780FF>attaques élémentaires infusées de noctâme</color> sont capables de détruire les égides du néant plus facilement, ce qui augmente les DGT que la Papille obombrée subit lorsque son égide se brise. Après avoir été affaiblie un moment, la Papille obombrée tentera de déployer à nouveau son égide du néant."
+      },
+      {
+        "name": "Implication obscure du courroux",
+        "text": "Sous l'effet des lignes énergétiques, la Papille obombrée active une implication obscure du courroux si son égide du néant n'est pas brisée pendant un long moment : elle entre en état de recharge qui, si son égide du néant n'est toujours pas brisée après un moment, déclenche un bombardement obscur du courroux <color=#FFD780FF>éliminant immédiatement votre personnage déployé</color>."
+      }
+    ],
+    "1002062": [
+      {
+        "name": "Égide d'épinéclairs",
+        "text": "Après avoir subi <color=#FFD780FF>un certain nombre d'attaques</color>, la Tortue bosselée vétérane déploie une égide d'épinéclairs, cette dernière infligeant des DGT de renvoi aux personnages à proximité si elle subit des attaques pendant sa durée. Vous pouvez cependant utiliser des réactions élémentaires pour <color=#FFD780FF>drainer l'énergie Électro de l'égide</color> et la détruire."
+      },
+      {
+        "name": "Attrition tonitruante",
+        "text": "Sous l'effet des lignes énergétiques, la progression menant au déploiement de l'égide d'épinéclairs augmente encore plus vite à chaque fois que la Tortue bosselée vétérane subit des attaques, mais elle diminue progressivement au fur et à mesure. De plus, la quantité de réactions élémentaires requise pour briser l'égide d'épinéclairs augmente également."
+      }
+    ],
+    "1002063": [
+      {
+        "name": "Show chapeauté",
+        "text": "En combat, l'Illusion de Tenochtzitoc crée plusieurs chapeaux et se cache à l'intérieur de l'un d'eux, avant de changer rapidement l'emplacement des chapeaux. Si <color=#FFD780FF>le chapeau qui dissimule l'entité subit des DGT d'une réaction d'Électrocution ou de Sélénocution</color> après un certain nombre de changements, les chapeaux s'arrêtent temporairement de bouger.\nInfligez une certaine quantité de DGT au <color=#FFD780FF>chapeau qui dissimule l'entité</color> pour briser tous les chapeaux, pour dévoiler l'entité, pour infliger une fois beaucoup de DGT à cette dernière et pour l'affaiblir. Les <color=#FFD780FF>réactions d'Électrocution et de Sélénocution</color> sont plus efficaces pour briser les chapeaux. Les DGT que l'entité subit lorsque son chapeau se brise augmentent selon les <color=#80C0FFFF>DGT Hydro</color>, les <color=#FFACFFFF>DGT Électro</color> et les <color=#FFD780FF>DGT des réactions d'Électrocution et de Sélénocution</color> que le chapeau a subits."
+      },
+      {
+        "name": "Refus chapeauté",
+        "text": "Sous l'effet des lignes énergétiques, l'Illusion de Tenochtzitoc déclenche un puissant refus chapeauté : envoie de façon continue des chapeaux qui infligent <color=#FFACFFFF>beaucoup de DGT Électro</color> et ont de <color=#FFD780FF>puissants effets d'interruption</color>."
+      }
+    ],
+    "1003061": [
+      {
+        "name": "Contre-mesures d'urgence",
+        "text": "Sous l'effet des lignes énergétiques, le Dragon cataclysmique libère un torrent d'énergie chaque fois qu'il subit des DGT d'une valeur équivalant à un certain pourcentage de ses PV, tout en changeant de forme selon le type élémentaire des DGT qu'il a le plus subis, <color=#FFD780FF>ce qui augmente considérablement sa RÉS à l'élément correspondant</color>."
+      },
+      {
+        "name": "Mécanismes de combat multiples",
+        "text": "Sous l'effet des lignes énergétiques, le Dragon cataclysmique commence le combat avec ses attaques terrestres. S'il n'utilise pas son torrent d'énergie pendant une longue période, il bascule pour utiliser ses attaques aériennes."
+      },
+      {
+        "name": "Compartiment blindé central",
+        "text": "Sous l'effet des lignes énergétiques, tous les noyaux du Dragon cataclysmique sont protégés et les attaques sur ces derniers ne le paralyseront plus et ne lui feront plus perdre ses RÉS élémentaires."
+      }
+    ],
+    "1003062": [
+      {
+        "name": "Graines rochères",
+        "text": "Au combat, le Granicrabe disperse des graines rochères sur le champ de bataille, ces dernières explosant après un court délai. Si une graine subit des <color=#FFD780FF>DGT d'une réaction de Fleurissement, de Sélénofleurissement, de Bourgeonnement ou d'Exubérance</color> avant d'exploser, elle est convertie pour renvoyer les attaques sur le Granicrabe, infligeant des DGT d'une valeur équivalant au total des DGT qu'elle a subis."
+      },
+      {
+        "name": "Ermite inflammable",
+        "text": "Sous l'effet des lignes énergétiques, les graines rochères explosent violemment après avoir subi des DGT Pyro, projetant les personnages en l'air et infligeant énormément de DGT."
+      },
+      {
+        "name": "Bombardement tsarien tout-puissant",
+        "text": "Sous l'effet des lignes énergétiques, le Granicrabe bondit dans les airs une fois le combat commencé, disperse une grande quantité de graines rochères et charge afin de faire exploser ces dernières, infligeant des DGT sur une large zone, <color=#FFD780FF>éliminant immédiatement votre personnage déployé</color> et augmentant grandement toutes ses RÉS pendant un certain temps. Pendant sa charge, il déploie une égide qui se brise si <color=#FFD780FF>une certaine quantité de graines rochères sont converties</color>, briser son égide interrompant la charge du Granicrabe et le paralysant."
+      }
+    ],
+    "1003063": [
+      {
+        "name": "Bouclier multiple",
+        "text": "Au combat, le Troupier lame-de-feu déploie un bouclier multiple expérimental spécial pour se protéger en attendant d'activer son kit fulgurant. Le bouclier peut se réparer d'une certaine quantité de façon régulière et les <color=#FFD780FF>DGT des réactions d'Électrocution et de Sélénocution</color> sont plus efficaces pour le détruire. Détruire les 3 cumuls du bouclier empêche le Troupier lame-de-feu d'activer son kit fulgurant et le paralyse. De plus, détruire chaque couche de bouclier inflige une fois beaucoup de DGT à l'ennemi et accorde des orbes élémentaires supplémentaires."
+      },
+      {
+        "name": "Barrage tonitruant",
+        "text": "Lorsque le kit fulgurant s'active, il inflige des DGT Électro sur une large zone et déclenche des attaques Électro de façon continue pendant un certain temps. Empêcher l'activation du kit fulgurant permet de faire dysfonctionner l'équipement du Troupier lame-de-feu, <color=#FFD780FF>ce qui diminue grandement sa RÉS Électro</color>."
+      },
+      {
+        "name": "Amplification de puissance d'urgence",
+        "text": "Sous l'effet des lignes énergétiques, le bouclier multiple expérimental augmente toutes ses RÉS élémentaires autres qu'Électro et ses capacités d'auto-réparation sont améliorées. Cependant, subir des <color=#FFD780FF>DGT de réactions d'Électrocution et de Sélénocution</color> diminue grandement sa vitesse d'auto-réparation. Après activation, les DGT infligés par son kit fulgurant sont considérablement augmentés, de même que la durée de ses attaques."
+      }
+    ],
+    "1004061": [
+      {
+        "name": "Voile ténébreux",
+        "text": "Au combat, le Herra entre dans l'état Voile ténébreux, ce qui <color=#FFD780FF>augmente grandement toutes ses RÉS</color>. Après avoir subi <color=#FFD780FF>des DGT un certain nombre de fois</color>, son voile ténébreux prend fin et il change son type élémentaire en l'élément composant la majeure partie des DGT qu'il a subis pendant le voile ténébreux, <color=#FFD780FF>ce qui lui accorde également une immunité aux DGT de l'élément en question et l'application élémentaire correspondante</color>."
+      },
+      {
+        "name": "Pure lueur lunaire",
+        "text": "Les <color=#FFD780FF>DGT des réactions sélènes</color> sont plus efficaces une fois son voile ténébreux annulé. Si la majeure partie des DGT qu'il a subis pendant son voile ténébreux est composée de DGT de réactions sélènes, il devient sans-élément à la fin de son voile ténébreux, <color=#FFD780FF>ce qui ne lui accorde aucun effet d'immunité élémentaire ou d'application élémentaire</color>."
+      }
+    ],
+    "1004062": [
+      {
+        "name": "Lamentation errante",
+        "text": "Le Gardien de lumière vétéran entre dans l'état Errance au début du combat et dans l'état Chasse sauvage après avoir perdu tous ses PV."
+      },
+      {
+        "name": "Chagrin monotone",
+        "text": "Dans l'état Chasse sauvage, le Gardien de lumière vétéran récupère tous ses PV après une certaine période de temps même si ces derniers ont été épuisés et il ne peut donc être vaincu qu'en diminuant ses PV max à zéro. Vous devez <color=#FFD780FF>drainer complètement ses PV et utiliser des capacités renforcées par le signelune « Lueur ascendante »</color> pour le faire temporairement passer dans l'état Chagrin monotone. Pendant cet état, un certain pourcentage des DGT qu'il subit fait également diminuer ses PV max, pourcentage qui augmente avec un signelune « Lueur ascendante »."
+      },
+      {
+        "name": "Déferlement d'exil",
+        "text": "Pendant l'état Chasse sauvage, des Exilés des terres sauvages apparaissent de façon intermittente. Si vous ne parvenez pas à tous les vaincre pendant un certain laps de temps, le Gardien de lumière vétéran effectue une récolte : il inflige d'importants DGT de zone, massacrant les Exilés des terres sauvages et restaurant ses propres PV max en fonction des PV max restants de ces derniers. Sous l'effet des lignes énergétiques, les PV max des Exilés des terres sauvages augmentent, de même que le pourcentage selon lequel le Gardien de lumière vétéran restaure ses PV max lors de sa récolte."
+      }
+    ],
+    "1004063": [
+      {
+        "name": "Élimination rapide",
+        "text": "Au combat, l'Opératrice du givre vétérane consomme un certain pourcentage de ses PV pour passer dans l'état Traque : toucher un personnage lui permet de restaurer ses PV d'un certain pourcentage et d'appliquer un engagement vital au personnage touché. Tant que l'engagement est actif, le personnage subit des DGT de façon continue. Les personnages ayant déjà un engagement vital subiront davantage de DGT lors de cette attaque."
+      },
+      {
+        "name": "Poursuite sanglante",
+        "text": "Sous l'effet des lignes énergétiques, la capacité d'interruption et la RÉS à l'interruption de l'Opératrice du givre vétérane augmentent, et elle entre dans l'état Poursuite sanglante pendant qu'elle se prépare à entrer dans l'état Traque, ce qui lui permet de se protéger avec un bouclier. Pendant que ce bouclier est actif, elle <color=#FFD780FF>applique continuellement des engagements vitaux à tous les personnages</color>. En se brisant, le bouclier inflige beaucoup de DGT à l'Opératrice."
+      }
+    ],
+    "1005061": [
+      {
+        "name": "Égide élémentaire : Chaos frénétique",
+        "text": "Sous l'effet des lignes énergétiques, le Lustrateur inique déploie des <color=#FFD780FF>égides Électro, Pyro et Hydro</color> en séquence pour se protéger après le début du combat, ajustant ses attaques selon l'élément actif. <color=#FFD780FF>Briser une égide en déclenchant des réactions élémentaires</color> inflige d'importants DGT à l'ennemi selon la <color=#FFD780FF>quantité de DGT absorbés par l'égide</color>, tout en forçant l'ennemi à adopter une autre forme élémentaire et à invoquer l'égide correspondante. Une fois les trois égides détruites, le Lustrateur inique est paralysé pendant une courte durée."
+      }
+    ],
+    "1005062": [
+      {
+        "name": "Onde sonique : Séquence sonore",
+        "text": "Sous l'effet des lignes énergétiques, l'Iktomisaure vétéran obtient plus de RÉS. Au combat, il bondit plus fréquemment dans les airs, puis y flotte un moment avec de déclencher continuellement de puissantes ondes soniques."
+      },
+      {
+        "name": "Exécution de grêle : Frappe balayante",
+        "text": "Au combat, l'Iktomisaure vétéran déploie une <color=#FFD780FF>égide Cryo</color> pour se protéger, puis bondit dans les airs pour préparer son exécution de grêle qui se déclenche après un court instant, <color=#FFD780FF>éliminant instantanément votre personnage déployé</color>. <color=#FFD780FF>Briser l'égide avec des réactions élémentaires</color> permet cependant de projeter l'ennemi au sol, de lui infliger une instance de DGT selon <color=#FFD780FF>la quantité de DGT subis par l'égide</color> et d'interrompre la préparation de son attaque. Pendant que l'ennemi prépare son attaque, tous les personnages de votre équipe <color=#FFD780FF>récupéreront de l'énergie élémentaire, de la ferveur guerrière ou de la finesse serpentine</color>. Si l'égide n'est toujours pas brisée après un certain temps, des zones de grêle apparaîtront au sol. <color=#FFD780FF>Déclencher des réactions élémentaires pour détruire chaque zone de grêle</color> permet également d'affaiblir progressivement et de finalement briser l'égide Cryo."
+      },
+      {
+        "name": "Tourbillon perturbateur",
+        "text": "Sous l'effet des lignes énergétiques, un tourbillon perturbateur apparaît sur le terrain lorsque l'Iktomisaure vétéran prépare son exécution de grêle, infligeant des DGT Cryo de zone <color=#FFD780FF>sans distinction</color>. Lorsque le tourbillon perturbateur touche un ennemi, sa <color=#FFD780FF>RÉS Anémo</color> diminue et son égide s'épuise.\nDe plus, le tourbillon perturbateur peut être affecté par les effets d'attraction, ce qui permet d'influencer ses déplacements."
+      }
+    ],
+    "1005063": [
+      {
+        "name": "Noyau gravitationnel : Profondeur critique",
+        "text": "Sous l'effet des lignes énergétiques, le Générateur de champ expérimental libère un champ de réduction de gravité pendant le combat. Ce champ augmente considérablement la hauteur de saut des personnages, et chaque fois qu'un personnage atteint une certaine hauteur, son ATQ augmente considérablement pendant 1,5 s. Lorsque le champ de réduction de gravité est actif, <color=#FFD780FF>des ondes gravitationnelles inévitables jaillissent continuellement du sol</color>, ces dernières obtenant 1 cumul de renforcement de puissance et de fréquence toutes les 5 s. Chaque <color=#FFD780FF>attaque plongeante</color> permet cependant de supprimer un de ces cumuls de renforcement."
+      },
+      {
+        "name": "Noyau résilient",
+        "text": "Sous l'effet des lignes énergétiques, le noyau ousia devient plus résistant et le champ de réduction de gravité reste actif même après avoir été touché par <color=#FFD780FF>3 attaques pneuma</color>."
+      }
+    ],
+    "1006061": [
+      {
+        "name": "Bouclier des fonds cachés « Flétrissure profonde »",
+        "text": "Sous l'effet des lignes énergétiques, le Seigneur chuchoteur de cauchemars des fonds cachés accumule de la puissance abyssale pour déployer un bouclier très résistant pour se protéger, mais les <color=#FFD780FF>DGT de réaction sélène</color> sont particulièrement efficaces pour briser ce dernier. Une fois que cet ennemi redoutable a déployé son bouclier, il génère un orbe élémentaire supplémentaire la première fois que son bouclier subit des DGT de réaction sélène. Une fois son bouclier détruit, le Seigneur subit une fois beaucoup de DGT et est temporairement affaibli."
+      },
+      {
+        "name": "Assaut de faille",
+        "text": "Sous l'effet des lignes énergétiques, le Seigneur chuchoteur de cauchemars des fonds cachés entre dans une longue phase de charge et invoque plusieurs Pêcheurs des fonds cachés pendant le combat. Si sa charge arrive à son terme, l'ennemi inflige des DGT sur une large zone et dévore tous les Pêcheurs. Vaincre les Pêcheurs pendant la charge permet de briser son bouclier et de l'empêcher de charger son attaque."
+      }
+    ],
+    "1006063": [
+      {
+        "name": "Ramures en fusion",
+        "text": "Les cornes jumelles en fusion, situées en haut du corps de l'Empereur du feu ferreux, sont des organes d'<color=#FFD780FF>élément Pyro</color> qui lui permettent de déchaîner des attaques élémentaires plus dévastatrices et lui confèrent de meilleures capacités défensives. Lorsque l'Empereur déclenche certaines attaques, ses cornes jumelles en fusion sont <color=#FFD780FF>proches du sol</color>, ce qui est une occasion idéale <color=#FFD780FF>de les détruire avec des réactions élémentaires</color>. Une fois l'élément Pyro contenu dans les cornes jumelles en fusion neutralisé, elles sont détruites et l'Empereur du feu ferreux subit une fois beaucoup de DGT et ne peut pas les régénérer pendant un certain temps."
+      },
+      {
+        "name": "Sbires avec bouclier",
+        "text": "Sous l'effet des lignes énergétiques, l'Empereur du feu ferreux invoque des Baracrabes lorsqu'il déclenche certaines attaques afin de l'assister au combat, ces derniers canalisant de façon continue de l'élément Pyro dans ses cornes jumelles en fusion. Un Baracrabe est vaincu une fois son énergie Pyro entièrement épuisée, et lorsque cela se produit, il devient incontrôlable et percute l'Empereur du feu ferreux, surchargeant ainsi l'élément Pyro de ses cornes jumelles en fusion et les endommageant, tout en lui infligeant des DGT supplémentaires selon les DGT totaux déjà subis par le Baracrabe. Un maximum de trois Baracrabes peuvent être présents simultanément sur le terrain."
+      },
+      {
+        "name": "Couronnement radieux",
+        "text": "Sous l'effet des lignes énergétiques, l'Empereur du feu ferreux déclenche un couronnement radieux pendant le combat, chargeant brièvement avant d'infliger des DGT sur une large zone. Détruire ses cornes jumelles en fusion permet d'interrompre la charge de l'Empereur du feu ferreux."
+      }
+    ],
+    "1007061": [
+      {
+        "name": "État aggloméré puissant",
+        "text": "Sous l'effet des lignes énergétiques, la Mandragore hexadécatonique vétérane entre en état aggloméré lorsque le combat commence, état pendant lequel <color=#FFD780FF>toutes ses RÉS sont énormément augmentées</color>. Dans cet état, l'énergie d'agglomération de la Mandragore est consommée en continu. Infliger des DGT <color=#FFD780FF>Pyro ou Électro</color> à la Mandragore accélère la consommation de cette énergie. Lorsque son énergie d'agglomération est entièrement épuisée, la Mandragore déclenche son éclosion de spores et passe en état fractionné."
+      },
+      {
+        "name": "Fractionnement",
+        "text": "Un grand nombre de spores se détachent lorsque la Mandragore hexadécatonique vétérane passe en état fractionné. Lorsque ces spores subissent des DGT, un certain pourcentage des DGT totaux est également infligé à la Mandragore. Après être restée un certain temps en état fractionné, la Mandragore retrouve son état aggloméré. Dans ce cas, si le nombre de spores sur le terrain descend en dessous d'une certaine quantité, la Mandragore passe en état aggloméré fragile, état pendant lequel <color=#FFD780FF>toutes ses RÉS sont beaucoup diminuées</color> et ses capacités de combat amoindries. De plus, si toutes les spores générées en état fractionné sont éliminées, la Mandragore quitte prématurément cet état et passe directement en état aggloméré fragile."
+      },
+      {
+        "name": "Structure creuse",
+        "text": "Sous l'effet des lignes énergétiques, la <color=#FFD780FF>RÉS Anémo de la Mandragoe est fortement diminuée</color> lorsqu'elle est en état fractionné ou en état aggloméré fragile."
+      }
+    ],
+    "1007062": [
+      {
+        "name": "Mode « Canar-ge lourd »",
+        "text": "Sous l'effet des lignes énergétiques, le Canard à torgnoles passe en mode « Canar-ge lourd » au début du combat, ce qui augmente son agressivité, lui accorde une égide <color=#FFD780FF>qui augmente toutes les RÉS</color> et invoque des dispositifs de piétinement flottants pour vous harceler."
+      },
+      {
+        "name": "Dispositifs de piétinement à faible résistance",
+        "text": "Vous pouvez <color=#FFD780FF>infliger des DGT d'Électrocution et de Sélénocution à plusieurs reprises ou infliger simplement suffisamment de DGT aux dispositifs de piétinement</color> pour perturber leur fonctionnement. Une fois perturbé, un dispositif de piétinement devient incontrôlable et s'écrase sur le Canard à torgnoles en infligeant une certaine quantité de DGT à son égide. En détruisant l'égide du Canard à torgnoles de cette manière, vous pouvez le faire sortir du mode « Canar-ge lourd » et le surcharger, ce qui le paralyse. Cela <color=#FFD780FF>diminue également beaucoup sa RÉS électrique pendant un certain temps</color>."
+      },
+      {
+        "name": "Système de saut de fréquence rapide",
+        "text": "Sous l'effet des lignes énergétiques, les dispositifs de piétinement sont encore plus robustes : vous devez infliger <color=#FFD780FF>davantage de DGT d'Électrocution et de Sélénocution</color> ou <color=#FFD780FF>davantage de DGT</color> à ces dispositifs pour les perturber. Les <color=#FFD780FF>DGT d'Électrocution et de Sélénocution</color> endommagent les dispositifs de piétinement plus efficacement, tandis que les DGT infligés par ces dispositifs au Canard à torgnoles lorsqu'ils deviennent incontrôlables augmentent en fonction des <color=#FFD780FF>DGT totaux subis</color> par les dispositifs."
+      }
+    ],
+    "1008061": [
+      {
+        "name": "Réverbération vagabonde",
+        "text": "Une fois le combat commencé, le Lunigecko radieux place une ancre de pierre lunaire, puis bondit en hauteur pour préparer sa réverbération vagabonde. Après un court instant, il déclenche une puissante frappe de zone. Utilisez <color=#FFD780FF>des méthodes adaptées contre l'élément Géo</color> pour casser les cumuls d'égide Géo de l'ancre de pierre lunaire et briser cette dernière, ce qui interrompt la préparation de la capacité et inflige d'importants DGT au Lunigecko radieux. Plus l'ancre de pierre lunaire subit de DGT durant la préparation, plus les DGT infligés au Lunigecko radieux lors de sa destruction sont importants. Sous l'effet des lignes énergétiques, l'utilisation d'attaques <color=#FFD780FF>Géo</color> contre l'ancre de pierre lunaire augmente davantage les DGT infligés au Lunigecko radieux."
+      },
+      {
+        "name": "Rocher inébranlable",
+        "text": "Sous l'effet des lignes énergétiques, les cumuls d'égide Géo de l'ancre de pierre lunaire deviennent plus résistants."
+      },
+      {
+        "name": "Chrysalide lumineuse",
+        "text": "Pendant le combat, le Lunigecko radieux concentre l'élément Géo pour appliquer des chrysalides lumineuses aux personnages et augmente sa propre RÉS Géo. Les personnages piégés dans une chrysalide lumineuse <color=#FFD780FF>infligent moins de DGT et reçoivent moins de soins</color>. <color=#FFD780FF>Lorsqu'un personnage récupère tous ses PV grâce à des soins</color>, il se libère de la chrysalide et obtient l'effet Démêlage, augmentant temporairement ses capacités. Dès qu'un personnage de l'équipe parvient à se libérer, le Lunigecko radieux perd le bonus de RÉS Géo conféré par les chrysalides lumineuses."
+      }
+    ],
+    "1009061": [
+      {
+        "name": "Esprit de loup ancestral : Manifestation",
+        "text": "Lorsque le combat commence, le Loup glacial vétéran invoque un esprit de loup ancestral pour combattre à ses côtés. Sous l'influence des lignes énergétiques, le Loup glacial vétéran <color=#FFD780FF>ne subit aucun DGT tant qu'il bénéficie de la protection de cet esprit</color>. En tant qu'entité spirituelle, l'esprit de loup ancestral est protégé par une égide Cryo spéciale qui peut uniquement être brisée avec <color=#FFD780FF>des réactions de Dispersion Pyro et des réactions de Dispersion Électro</color>. L'esprit disparaît une fois son égide brisée, ce qui paralyse temporairement le Loup glacial vétéran et lui inflige beaucoup de DGT de renvoi. Plus l'égide absorbe des DGT pendant sa durée, plus les DGT de renvoi sont élevés. De plus, les <color=#FFD780FF>DGT Pyro et Anémo</color> augmentent davantage les DGT de renvoi."
+      }
+    ],
+    "1009063": [
+      {
+        "name": "Surveillance vigilante",
+        "text": "Lorsque le combat commence, Celui qui voit entre dans l'état Surveillance vigilante : il comptabilise le nombre d'instances de <color=#FFD780FF>DGT Pyro, Hydro, Électro et Cryo</color> qu'il subit pendant un certain temps. Lorsqu'un élément atteint 5 instances de DGT, Celui qui voit sort de cet état et <color=#FFD780FF>enregistre l'élément concerné comme cible surveillée</color>. Si aucun élément n'est surveillé, l'enregistrement reste vide et Celui qui voit inflige une fois des DGT Géo. Une fois sa première surveillance vigilante terminée, Celui qui voit recommence après un certain moment. Sous l'influence des lignes énergétiques, sa seconde surveillance dure plus longtemps, l'élément déjà surveillé nécessitera plus d'instances de DGT pour être surveillé à nouveau et les RÉS élémentaires et physique de Celui qui voit augmentent pendant ses surveillances vigilantes."
+      },
+      {
+        "name": "Délire des phénomènes",
+        "text": "Après avoir effectué deux fois une surveillance d'élément, Celui qui voit s'envole et se prépare à déclencher le délire des phénomènes, libérant les éléments précédemment surveillés et invoquant deux étoiles élémentaires actives correspondantes. Si l'enregistrement est vide, il invoque à la place des étoiles élémentaires inertes, qui ont des <color=#FFD780FF>RÉS élémentaires et physique élevées</color>. Si Celui qui voit invoque deux étoiles élémentaires actives d'éléments différents, les deux étoiles élémentaires deviennent plus faciles à détruire. Lorsqu'une étoile élémentaire active est détruite, elle inflige une grande quantité de DGT à Celui qui voit selon l'élément surveillé, tandis que détruire une étoile élémentaire inerte lui inflige des DGT Géo. Vous devez <color=#FFD780FF>briser toutes les étoiles élémentaires</color> pour interrompre la préparation du délire des phénomènes. Si une étoile n'est pas détruite à temps, elle explose et inflige d'importants DGT de zone."
+      }
+    ],
+    "1010061": [
+      {
+        "name": "Champ de suppression : Cycleur d'énergie",
+        "text": "Lorsque le combat commence, l'Ombre de Précurseur de source secrète avec matrice d'observation neuronale place 4 mécanismes de détection protégés par des <color=#FFD780FF>égides Hydro</color>, déployant un champ de suppression spécial qui <color=#FFD780FF>lui accorde un bouclier d'énergie</color> et <color=#FFD780FF>augmente ses RÉS élémentaires et physique (hors RÉS Cryo et RÉS Électro)</color>. Une fois le champ de suppression actif pendant un certain temps, l'Ombre déclenche sa frappe alpha, infligeant des DGT de zone sur une vaste zone et récupérant tous les mécanismes de détection, ce qui lui permet de d'obtenir une <color=#FFD780FF>égide Hydro</color> dont l'absorption dépend du nombre de mécanismes récupérés. Ne pas récupérer de mécanisme de détection n'accordera qu'une égide Hydro faible."
+      },
+      {
+        "name": "Bouclier d'énergie",
+        "text": "À cause de la perturbation des lignes énergétiques, le champ de suppression de l'Ombre de Précurseur de source secrète avec matrice d'observation neuronale devient défaillant lorsque son bouclier d'énergie est brisé, ce qui fait subir à l'Ombre d'importants DGT de renvoi et la paralyse. De plus, l'Ombre perd une certaine quantité de bouclier chaque fois qu'elle <color=#FFD780FF>subit une réaction de Supraconduction ou d'Astroconduction</color>. Les <color=#FFD780FF>DGT de réaction de Supraconduction et d'Astroconduction</color> sont donc plus efficaces pour détruire son bouclier et augmentent davantage les DGT de renvoi que subit l'Ombre."
+      },
+      {
+        "name": "Mécanisme de détection : Composant sous pression",
+        "text": "Un mécanisme de détection est détruit lorsque <color=#FFD780FF>son égide Hydro est brisée</color> ou <color=#FFD780FF>s'il est gelé puis affecté par Brise-glace, Fonte ou d'autres DGT de réaction élémentaire</color>. À cause de la perturbation des lignes énergétiques, le bouclier d'énergie de l'Ombre subit des DGT chaque fois qu'un mécanisme de détection est détruit."
+      }
+    ],
+    "1010063": [
+      {
+        "name": "Contre-mesures adaptatives : Démarrage à froid",
+        "text": "Lorsque le combat commence, l'Automate de source secrète « Configurateur » est protégé par un <color=#FFD780FF>puissant bouclier</color> et obtient des RÉS élémentaires et physique élevées. Lorsqu'un personnage entre dans l'état Bénédiction noctâme et le maintient, l'Automate accumule de la progression pour ses contre-mesures adaptatives. À cause de la perturbation des lignes énergétiques, l'Automate <color=#FFD780FF>perd les bonus de RÉS obtenus au début du combat</color>, perd son <color=#FFD780FF>bouclier</color> et subit des DGT de renvoi proportionnels aux DGT absorbés par le bouclier la première fois qu'il accumule suffisamment de progression pour ses contre-mesures adaptatives."
+      },
+      {
+        "name": "Canon orbital : Pompes à haute pression",
+        "text": "Une fois la progression pour ses contre-mesures adaptatives à sa limite, l'Automate de source secrète « Configurateur » active des mécanismes d'accrétion qui se protègent avec des champs de force et déterre 2 blocs de phlogistique solide avant d'en absorber l'énergie pour préparer son canon orbital. Vous devez <color=#FFD780FF>escalader du phlogistique solide pour pénétrer à l'intérieur de ces champs de force</color> afin de détruire ces mécanismes. Une fois tous les mécanismes d'accrétion détruits, le chargement du canon orbital s'interrompt et l'Automate <color=#FFD780FF>est paralysé et subit en même temps des DGT de renvoi</color>. À cause de la perturbation des lignes énergétiques, la progression pour ses contre-mesures adaptatives augmente au fil du temps, mais le seuil requis pour activer son canon orbital est plus élevé."
+      }
+    ],
+    "1011061": [
+      {
+        "name": "État foudroyant : Bouclier résistant",
+        "text": "Sous l'effet des lignes énergétiques, le Lion ailé chimérique puise dans la puissance de sa tête Électro lorsque le combat commence pour générer une <color=#FFD780FF>égide Électro résistante</color> afin de se protéger. À intervalles réguliers, ses deux têtes agissent de concert, canalisant l'élément Anémo dans son épée longue Électro pour libérer une puissante onde de choc Électro. S'il est affecté par une <color=#FFD780FF>radiance astrale</color> à ce moment-là, sa puissance est perturbée et se retourne contre lui, <color=#FFD780FF>endommageant son égide</color>. Une fois son <color=#FFD780FF>égide brisée</color> par des réactions élémentaires, il s'épuise, cesse d'attaquer, devient paralysé, <color=#FFD780FF>ses RÉS Cryo et Anémo diminuent fortement</color> et il subit une fois d'importants DGT de renvoi selon la quantité de DGT absorbée par l'égide. De plus, les <color=#FFD780FF>DGT des réactions astrales</color> augmentent les DGT de renvoi qu'il subit lorsque son égide se brise."
+      },
+      {
+        "name": "État venteux : Assaut féroce",
+        "text": "Sous l'effet des lignes énergétiques, le Lion ailé chimérique puise dans la puissance de sa tête Anémo pendant le combat pour s'élever dans les airs, effectuer des cercles rapides et attaquer en tirant des éclairs de vent. Une fois ses cercles terminés, il crée un vortex, tentant d'attirer et d'absorber les orbes Anémo présents sur le terrain afin de récupérer sa puissance. Après avoir absorbé suffisamment d'orbes Anémo, il s'élève à nouveau dans les airs et lance une nouvelle attaque circulaire. Les orbes Anémo peuvent <color=#FFD780FF>être détruits avec des DGT Hydro, Pyro, Électro et Cryo</color>. Vous pouvez également lui appliquer une <color=#FFD780FF>radiance astrale</color> pour l'empêcher d'absorber les orbes Anémo. Si le vortex se dissipe avant qu'il n'ait absorbé suffisamment d'orbes Anémo, il devient immédiatement paralysé et <color=#FFD780FF>ses RÉS Cryo et Anémo diminuent fortement</color>."
+      }
+    ],
+    "1011062": [
+      {
+        "name": "Élimination rapide",
+        "text": "Au combat, l'Opératrice du vent vétérane consomme un certain pourcentage de ses PV pour passer dans l'état Traque : toucher un personnage lui permet de restaurer ses PV d'un certain pourcentage et d'appliquer un engagement vital au personnage touché. Tant que l'engagement est actif, le personnage subit des DGT de façon continue. Les personnages ayant déjà un engagement vital subiront davantage de DGT lors de cette attaque."
+      },
+      {
+        "name": "Poursuite sanglante : Traîtrise",
+        "text": "Sous l'effet des lignes énergétiques, la capacité d'interruption et la RÉS à l'interruption de l'Opératrice du vent vétérane augmentent, elle peut se téléporter instantanément lorsqu'elle perd sa posture tout en reprenant rapidement son équilibre, et elle entre dans l'état Poursuite sanglante pendant qu'elle se prépare à entrer dans l'état Traque, ce qui lui permet de se protéger avec un bouclier. Pendant que ce bouclier est actif, elle <color=#FFD780FF>applique continuellement des engagements vitaux à tous les personnages</color>. En se brisant, le bouclier inflige beaucoup de DGT à l'Opératrice."
+      }
+    ],
+    "1012061": [
+      {
+        "name": "Jack frost à la gueule béante",
+        "text": "Lorsque le combat commence, le Sculpteur domovoy vétéran concentre de l'énergie Anémo pour créer une sculpture de glace primale. Après un court délai, la sculpture se transforme en un jack frost à la gueule béante lançant de façon continue des boules de neige.\nVous devez infliger une <color=#FFD780FF>radiance astrale</color> au Sculpteur domovoy vétéran pendant qu'il crée la sculpture pour l'interrompre et transformer cette dernière en une inoffensive statue d'animal."
+      },
+      {
+        "name": "Frénésie créative",
+        "text": "Sous l'effet des lignes énergétiques, le Sculpteur domovoy vétéran <color=#FFD780FF>commence le combat avec des RÉS élémentaires et physique considérablement accrues</color> et crée plus fréquemment des sculptures de glace primale.\nAprès la transformation d'une sculpture de glace en une petite statue d'animal, celle-ci explose après un court délai pour infliger des DGT au Sculpteur, <color=#FFD780FF>diminuant ses RÉS élémentaires et physique, et diminuant davantage sa RÉS Anémo</color>. Cet effet peut être <color=#FFD780FF>cumulé 3 fois maximum</color>."
+      }
+    ],
+    "1012063": [
+      {
+        "name": "Cercueil de glace : Réseau cristallin maclé",
+        "text": "Lorsque ses PV tombent en dessous d'un certain seuil pendant le combat, la Lame gardienne de la neige s'enferme dans un cercueil de glace et obtient une <color=#FFD780FF>égide Cryo</color> pour se protéger.\nTant que le cercueil de glace est actif, la Lame gardienne déchaîne continuellement des tempêtes de glace autour d'elle. Si le cercueil de glace n'est pas détruit, la Lame gardienne récupère une partie de ses PV et crée des lames de glace pour lancer des contre-attaques. Cependant, si le cercueil de glace qui booste sa vie est détruit, elle est affaiblie pendant un certain temps et subit des DGT de renvoi. Sous l'effet des lignes énergétiques, le <color=#FFD780FF>cercueil de glace</color> est plus résistant. Peu de temps après la première destruction du cercueil de glace, la Lame gardienne en créera un nouveau."
+      },
+      {
+        "name": "Cercueil de glace : Réseau cristallin déformé",
+        "text": "Tant que le <color=#FFD780FF>cercueil de glace est actif</color>, <color=#FFD780FF>son égide Cryo se transforme en un bouclier qui absorbe les DGT</color> si la Lame gardienne est en <color=#FFD780FF>radiance astrale</color>. Une fois le bouclier détruit, la Lame gardienne subira d'importants DGT de renvoi."
+      }
+    ],
+    "1013061": [
+      {
+        "name": "Courage contre le froid : Potée copieuse",
+        "text": "Sous l'effet des lignes énergétiques, l'Ancravague sort un tonneau et boit à grandes gorgées à intervalles réguliers pour accumuler beaucoup de courage. Si l'Ancravague est en <color=#FFD780FF>radiance astrale</color> pendant qu'elle boit, son courage augmente plus lentement. Vous pouvez lui infliger des <color=#FFD780FF>DGT Électro</color> pour diminuer son courage, les <color=#FFD780FF>DGT Électro considérés comme des DGT de réaction astrale correspondante</color> diminuant davantage son courage."
+      },
+      {
+        "name": "Assaut vaillant",
+        "text": "Sous l'effet des lignes énergétiques, l'Ancravague entre en assaut vaillant une fois son courage au maximum. Pendant l'assaut vaillant, elle consomme de façon continue son courage pour que ses attaques deviennent plus féroces et <color=#FFD780FF>génère un bouclier, tout en augmentant légèrement sa RÉS Électro et considérablement toutes ses autres RÉS élémentaires et physique</color>. Pendant l'assaut vaillant, le courage de l'Ancravague diminue de façon continue, <color=#FFD780FF>les DGT Électro drainent plus de courage que d'habitude</color> et elle sort de l'assaut vaillant et subit d'importants DGT de renvoi lorsque son courage est épuisé. Plus son bouclier absorbe de DGT pendant l'assaut vaillant, plus les DGT de renvoi subis à la fin sont importants. Les <color=#FFD780FF>DGT Électro de réaction astrale</color> augmentent les DGT de renvoi subis lorsque le bouclier est brisé."
+      }
+    ]
+  },
+  "tags": {
+    "1001061": {
+      "good": "Personnages {SPRITE_PRESET#11003}",
+      "bad": "Personnages {SPRITE_PRESET#11002}"
+    },
+    "1001062": {
+      "good": "Personnages {SPRITE_PRESET#11007}{SPRITE_PRESET#11003}",
+      "bad": "Personnages {SPRITE_PRESET#11001}{SPRITE_PRESET#11002}"
+    },
+    "1001063": {
+      "good": "Personnages {SPRITE_PRESET#11001}"
+    },
+    "1002061": {
+      "good": "DGT élémentaires de haute fréquence|DGT infusés de noctâme"
+    },
+    "1002062": {
+      "good": "DGT de faible fréquence",
+      "bad": "DGT de haute fréquence"
+    },
+    "1002063": {
+      "good": "Réactions {SPRITE_PRESET#11034}|Boucliers"
+    },
+    "1003061": {
+      "good": "DGT de plusieurs éléments",
+      "bad": "DGT d'un seul élément"
+    },
+    "1003062": {
+      "good": "Réactions {SPRITE_PRESET#11029}",
+      "bad": "Personnages {SPRITE_PRESET#11003}"
+    },
+    "1003063": {
+      "good": "Réactions {SPRITE_PRESET#11034} | Personnages {SPRITE_PRESET#11004}"
+    },
+    "1004061": {
+      "good": "DGT élémentaires de haute fréquence|DGT de plusieurs éléments|DGT de réaction sélène"
+    },
+    "1004062": {
+      "good": "Signelune « Lueur ascendante »"
+    },
+    "1004063": {
+      "good": "Personnage avec engagement vital|Personnage avec bouclier"
+    },
+    "1005061": {
+      "good": "Personnages {SPRITE_PRESET#11001}{SPRITE_PRESET#11002}{SPRITE_PRESET#11007}"
+    },
+    "1005062": {
+      "good": "Personnages {SPRITE_PRESET#11003}|Personnages avec attaque à distance|Personnages avec contrôle de foule",
+      "bad": "Personnages avec attaque de mêlée"
+    },
+    "1005063": {
+      "good": "Personnages avec attaque plongeante"
+    },
+    "1006061": {
+      "good": "DGT de réaction sélène"
+    },
+    "1006063": {
+      "good": "Personnages {SPRITE_PRESET#11002}",
+      "bad": "Personnages {SPRITE_PRESET#11003}"
+    },
+    "1007061": {
+      "good": "Personnages {SPRITE_PRESET#11003}{SPRITE_PRESET#11004}|Personnages avec contrôle de foule"
+    },
+    "1007062": {
+      "good": "Réactions {SPRITE_PRESET#11034} | Personnages {SPRITE_PRESET#11004}"
+    },
+    "1008061": {
+      "good": "Personnages {SPRITE_PRESET#11006} | Personnages de soin"
+    },
+    "1009061": {
+      "good": "Les réactions {SPRITE_PRESET#11028}{SPRITE_PRESET#11024} ont un avantage"
+    },
+    "1009063": {
+      "good": "Les réactions {SPRITE_PRESET#11027}{SPRITE_PRESET#11035} ont un avantage"
+    },
+    "1010061": {
+      "good": "Personnages {SPRITE_PRESET#11001}{SPRITE_PRESET#11004}|Personnages avec attaque à distance",
+      "bad": "Personnages {SPRITE_PRESET#11002}|Personnages avec attaque de mêlée"
+    },
+    "1010063": {
+      "good": "Personnages avec bénédiction noctâme"
+    },
+    "1011061": {
+      "good": "Réactions {SPRITE_PRESET#11022} | Personnages {SPRITE_PRESET#11001}"
+    },
+    "1011062": {
+      "good": "Personnage avec engagement vital|Personnage avec bouclier"
+    },
+    "1012061": {
+      "good": "Personnage avec réactions astrales | Personnages {SPRITE_PRESET#11005}"
+    },
+    "1012063": {
+      "good": "Personnage avec réactions astrales | Personnages {SPRITE_PRESET#11003}"
+    },
+    "1013061": {
+      "good": "Personnage avec réactions astrales | Personnages {SPRITE_PRESET#11004}"
+    }
+  },
+  "season": {
+    "5269001": "Expulseur d'incursion",
+    "5269002": "Carnage féroce",
+    "5269003": "Assaut terrifiant",
+    "5269004": "Assaut célère",
+    "5269005": "Fracas tellurique",
+    "5269006": "Éradication de flétrissure",
+    "5269007": "Oblitération",
+    "5269008": "Bataille de jade brisée",
+    "5269009": "Bataille du cyclone hurlant",
+    "5269010": "Secousse terrifiante",
+    "5269011": "Bataille de lumière stellaire",
+    "5269012": "Front lumineux",
+    "5269013": "Déchaînement des vagues"
+  }
+}

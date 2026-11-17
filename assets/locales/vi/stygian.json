@@ -1,0 +1,516 @@
+{
+  "boss": {
+    "1001061": "Nhân Dạng Nước: Xoáy Nước",
+    "1001062": "Tượng Rồng Dung Nham: Lửa Bùng Cháy",
+    "1001063": "Cỗ Máy Bí Ẩn - Thiết Bị Giám Sát: Siêu Vũ Trang",
+    "1002061": "Gốc Rễ Mô Phỏng U Ám: Hắc Ám Biến Ảo",
+    "1002062": "Rùa Đá Bách Chiến: Khiên Sét Kiên Cố",
+    "1002063": "Thần Tượng Pipilpan Bách Chiến: Biến Ảo",
+    "1003061": "Rồng Điềm Báo Vạn Kiếp: Cấu Hình Hủy Diệt",
+    "1003062": "Cua Đá Bách Chiến: Hàng Triệu Cú Nổ",
+    "1003063": "Đao Lửa Đột Kích Bách Chiến: Quyết Tử",
+    "1004061": "Linh Chủ Đêm Sương: Oán Hận",
+    "1004062": "Người Giữ Đèn Bách Chiến: Hồi Âm Đau Buồn",
+    "1004063": "Đặc Vụ Băng Bách Chiến: Mũi Nhọn Đẫm Máu",
+    "1005061": "Kẻ Rửa Tội Tàn Ác: Âm Thanh Cuồng Nộ",
+    "1005062": "Iktomisaurus Bách Chiến: Sương Tuyết Khắc Nghiệt",
+    "1005063": "Máy Tạo Trường Lực Thí Nghiệm: Tới Hạn",
+    "1006061": "Chúa Tể Ác Mộng U Ám: Lưỡi Đao Tấn Công",
+    "1006063": "Hoàng Đế Thép Lửa: Viễn Chinh Chết Chóc",
+    "1007061": "Hexadecatonic Mandragora Bách Chiến: Bão Dây Leo",
+    "1007062": "Vịt Nắm Đấm: Kho Giáp Nặng",
+    "1008061": "Thằn Lằn Ánh Trăng Bức Xạ: Vững Chắc",
+    "1009061": "Sói Băng Bách Chiến: Cực Hàn",
+    "1009063": "Người Mở Mắt: Ngạo Mạn",
+    "1010061": "Bóng Của Mảng Điều Hành Bí Ẩn Tiên Phong: Ý Chí",
+    "1010063": "Cỗ Máy Bí Ẩn - Thiết Bị Cấu Tạo: Kìm Cắt",
+    "1011061": "Sư Tử Cánh Lai Ghép: Hủy Diệt",
+    "1011062": "Đặc Vụ Gió Bách Chiến: Mũi Nhọn Quỷ Dị",
+    "1012061": "Nhà Điêu Khắc Domovoy Bách Chiến: Gió Đục",
+    "1012063": "Lưỡi Đao Giữa Tuyết: Dư Âm Vô Tận",
+    "1013061": "Kẻ Neo Sóng: Bão Táp Cắn Xé"
+  },
+  "lore": {
+    "1001061": "Ma vật hình người được hình thành từ nước ngưng tụ.\nTừng có vô số ý chí bị hòa tan vào nước, nhưng nước vốn dĩ giống như vũ trụ, đầy rẫy những linh hồn khao khát được sinh ra.\nDưới cái bóng của Địa Mạch nhiễu loạn cực đoan, nỗi đau và oán hận sâu dưới làn nước sẽ dung hòa với nhân dạng ban đầu theo một hình thức méo mó nào đó, muốn tái hiện sự tan biến đáng thương một lần nữa...",
+    "1001062": "Ma vật có thể tự sản sinh nhiệt lượng để duy trì trạng thái hoạt động.\nKhông thể tạo ra trí tuệ từ năng lượng thuần khiết, không có trí thức hay tri giác, chỉ là một sản phẩm thất bại mang hình dáng chủng tộc vĩ đại mà thôi.\nDù từng được xem là vật không có sự sống, nhưng dòng chảy hung bạo trong Địa Mạch nhiễu loạn đã ban cho nó mối hận thù của người chết, khắc ghi tâm niệm độc ác nguy hiểm tột độ vào sâu trong bản năng chiến đấu của nó...",
+    "1001063": "Cỗ máy thống trị di tích cổ.\nTrong quá khứ, chủng tộc vĩ đại một thời đã dùng loại máy móc này để điều khiển hoạt động vận hành của thành phố. Cho dù hiện tại nền văn minh cổ đại đã sụp đổ, thì nó vẫn mang trong mình quyền năng cực lớn.\nỞ nơi sâu thẳm trong Địa Mạch nhiễu loạn, nguồn năng lượng trung tâm bị suy thoái theo thời gian nay đã trở lại đầy đủ, thậm chí đạt đến mức \"quá tải\" cực kỳ nguy hiểm. Cỗ máy này đủ để thoát khỏi những trói buộc của tinh cầu, cuối cùng giải phóng toàn bộ sức mạnh vượt ra khỏi quy cách thiết kế mà khởi động \"vũ khí hủy diệt\" đáng sợ của nó...",
+    "1002061": "Ma vật Vực Sâu ăn mòn và sinh trưởng như cây cối.\nKẻ biến dạng liên tục xâm lấn thế giới này, có khả năng trích xuất ký ức ở những tầng sâu nhất trong lòng đất và dùng sức mạnh Vực Sâu để tái hiện sự vật trong ký ức một cách mạnh mẽ hơn. Dưới sự phản chiếu của Địa Mạch nhiễu loạn cực đoan, những thù hận từng được phát tán bởi gốc rễ của chúng đã dần biến thành lưỡi đao sắc nhọn, muốn mang lại nỗi thống khổ sâu sắc cho những người khiêu chiến...",
+    "1002062": "Loài bò sát thường ngày tính tình ôn hòa, hành động chậm chạp, được một số người xem như biểu tượng của may mắn và trí tuệ. Nhưng khi cần thiết, cá thể đặc biệt này cũng sẽ phát động tấn công mạnh mẽ đến người khiêu chiến, biến lớp vỏ dày thành búa tạ nghiền nát kẻ thù.\nDưới sự phản chiếu của Địa Mạch nhiễu loạn cực đoan, hình tượng của nó bị bóp méo, tham chiến với khí thế điên cuồng, trở thành cơn thịnh nộ sấm sét công thủ vẹn toàn...",
+    "1002063": "Thần Tượng Pipilpan lấy cảm hứng từ Tenoch, tinh thông ảo thuật kỳ diệu với mũ cùng nhiều chiến thuật chiến đấu, có thể tấn công từ nhiều góc độ, khiến những kẻ lỗ mãng phải trả giá đắt...\nDưới sự phản chiếu của Địa Mạch nhiễu loạn cực độ, sự cố chấp được cụ thể hóa thành những đòn tấn công cự tuyệt mạnh mẽ. Người khiêu chiến chỉ cần một chút bất cẩn là sẽ hóa thành cát bụi giống như những đối thủ bị Tenoch nghiền nát...",
+    "1003061": "Giống như một vị vua cai trị mặt đất thời cổ đại, nó là một cỗ máy chiến đấu hình con rồng đáng gờm.\nCon thú máy móc bí ẩn và không biết mệt mỏi này dường như chứng minh rằng chúng thực sự đã đến được những khu vực không nên đến.\nDưới ảnh hưởng lâu dài của nhiễu loạn Địa Mạch, bộ khung của nó đã âm thầm tiến hóa, phát triển tư duy thích ứng ưu việt đối với các nhiệm vụ huỷ diệt, trở thành cơn ác mộng chí mạng trên chiến trường...",
+    "1003062": "Loài cua sống trong vỏ ốc, là họ hàng xa của Cua Giáp Nặng Fontaine, đa số tính tình ôn hòa, hầu như không có khả năng tấn công, nhưng cũng có những trường hợp phải đứng lên đấu tranh, quyết tử vì lãnh thổ của chủng tộc. Lúc này, bản tính ôn hòa ban đầu lại trở thành nhiên liệu kích hoạt ngọn lửa bạo lực.\nTrong ảo ảnh Địa Mạch méo mó, \"đấu sĩ\" Cua Đá hùng mạnh từng thất bại trước nhiều đối thủ đã không ngừng rèn luyện năng lực tấn công, theo đuổi mục tiêu đối mặt với trăm ngàn kẻ địch, cuối cùng đã đạt được thành quả xuất sắc...",
+    "1003063": "Sĩ quan tinh nhuệ trực thuộc Oprichniki Fatui, giỏi dùng kiếm lớn đánh cận chiến với kẻ địch.\nDù trong chiến đấu chống lại thảm họa đen hay trong trận chiến với những kẻ ngu muội dám ngăn cản lý tưởng của Nữ Hoàng, đội đột kích ở tiền tuyến luôn là một trong những đơn vị có thương vong cao nhất. Những chiến binh lão luyện trải qua hàng trăm trận chiến nhưng lại ngã xuống một cách tiếc nuối, trở thành một phần ký ức sợ hãi của Địa Mạch. Sau một thời gian dài chìm đắm trong dòng chảy méo mó, hình bóng của lão binh nay đã chĩa lưỡi kiếm dùng để quyết chiến năm xưa về phía người khiêu chiến đến để dẹp yên hỗn loạn...",
+    "1004061": "Sinh linh kỳ lạ kiêu ngạo tuần tra trong đêm sương giá, có thể tự do điều khiển sức mạnh cổ xưa sớm đã bị chủ nhân bầu trời thuần hóa từ lâu. Nhưng dưới sự nhiễu loạn khó diễn tả của Địa Mạch, nó đã đoạn tuyệt với sự cao quý và trang nghiêm, chuyển hóa thành kẻ săn mồi hung hãn nguy hiểm, chĩa mũi nhọn sắc bén của cái lạnh về phía những vị khách ghé thăm...",
+    "1004062": "Chiến sĩ dũng cảm ngày xưa đối đầu với tai họa đen tối, cho dù ánh sáng của sự sống đã biến mất, nhưng ý chí kiên cường của anh vẫn chưa tan biến. Sau khi bị tác động bởi sự méo mó tột cùng của Địa Mạch nhiễu loạn, trong tầm nhìn của anh, tất cả người ghé thăm đều là Cuộc Săn Hoang Dã, cần anh ấy dốc toàn lực tiêu diệt bằng mọi giá...",
+    "1004063": "Đặc vụ tinh nhuệ của Fatui. Được lựa chọn từ nhỏ, trải qua quá trình huấn luyện lâu dài và vô số lần đào thải, dần trở thành binh sĩ ưu tú nhất trong hàng ngũ, có thân thủ xuất sắc và lòng trung thành tuyệt đối.\nTiếc là, trong Địa Mạch nhiễu loạn nguy hiểm cực độ, lý tính của họ đã bị nuốt chửng bởi ham muốn chiến đấu, chỉ biết truy sát không ngừng nghỉ, trút cơn thịnh nộ thuần túy lên những người ghé thăm...",
+    "1005061": "Ma vật Vực Sâu vì sức mạnh Vực Sâu được \"tiến hóa\" mà có thêm bộ phận cơ thể dư thừa. Có thể điều khiển sức mạnh nhiều loại nguyên tố.\nTrong ký ức méo mó của Địa Mạch, chúng trỗi dậy và trở thành kẻ hủy diệt điên cuồng, dùng sức mạnh báng bổ của mình để gây ra những cơn sóng thảm họa dồn dập...",
+    "1005062": "Loài Saurian biết lợi dụng bộ lông phát triển để nhảy cao, cũng là giống loài duy nhất nắm vững kỹ thuật tiến vào trạng thái \"Ngoại Cảm\".\nMọi đau khổ và phiền muộn mà nó từng chứng kiến đều bị ký ức méo mó của Địa Mạch nuốt chửng, biến thành cơn bão tuyết giá lạnh, mang đến sự hỗn loạn vô tận...",
+    "1005063": "Tác phẩm của Viện Nghiên Cứu Khoa Học Công Trình Động Năng Fontaine, có hiệu quả \"chống lại\" trọng lực, do sự cố mà trở nên mất kiểm soát.\nDưới tác động của Địa Mạch hỗn loạn, lõi của nó trở nên cuồng bạo dị thường, phóng thích năng lượng trọng lực như cơn sóng thần cuồn cuộn, tựa như muốn lật đổ cả mặt đất...",
+    "1006061": "Ma vật Vực Sâu mai phục trong khe nứt tăm tối, lặng lẽ quan sát thế giới này. Nghe nói hình dạng vô diện quái dị và báng bổ này chẳng qua chỉ là hình ảnh phóng chiếu trên thế giới này, còn hình thái thực sự là một tạo vật vô hình tồn tại dưới dạng năng lượng Vực Sâu thuần túy.\nDưới sự lôi cuốn của dòng chảy Địa Mạch hỗn loạn, những lời thì thầm điên loạn và ngông cuồng của nó được đúc thành lưỡi đao sắc bén, thề sẽ xé nát trật tự bình yên của thế giới này.",
+    "1006063": "Một trong hai bá chủ đứng đầu Dị Chủng Biển Sâu, từng là giai thoại lan truyền giữa các thủy thủ một thời. Cua Giáp Nặng nếu không gặp kẻ địch, sẽ có thể liên tục săn bắt, ăn mồi và trưởng thành, không ngừng tìm kiếm vỏ ốc thích hợp để làm bộ giáp mới.\nBị ảnh hưởng bởi Địa Mạch nhiễu loạn, thân hình hung tợn của nó đã hóa thành một đội quân nhỏ, tàn sát mọi thứ trong tầm mắt, như một thảm họa di động mang hình dạng loài cua...",
+    "1007061": "Loại Mandragora to lớn bất thường này dường như là một giống hiếm được sinh ra từ quá trình chọn lọc nhân tạo lâu dài. Mặc dù chẳng còn ai biết đến mục đích ban đầu của việc nuôi trồng nó, nhưng từ ý thức lãnh thổ độc đáo, có lẽ nó từng là sản phẩm của thí nghiệm đặc biệt nào đó.\nDưới sự xáo trộn của Địa Mạch nhiễu loạn cực đoan, hình thái của nó đã biến dị từ lâu, quyết tâm mượn những cơn gió gào thét để bào tử nuốt chửng toàn bộ mảnh đất này...",
+    "1007062": "Thiết bị Kuuvahki với tạo hình kỳ lạ, được ghép từ kim loại và ổ trục bị vứt bỏ, dường như vì sở thích của người chế tạo nên được thêm thắt một số đặc điểm ngoại hình đặc trưng của loài \"vịt\". Dù là so với binh khí chiến đấu tối ưu của Fatui thì thiết bị này cũng không thua kém gì về mặt sức mạnh và khả năng chống chịu, nhưng nó vẫn chỉ là một con vịt đồ chơi tấn công kẻ địch bằng những cú đấm mạnh mẽ.\nDưới sự cải tạo của Địa Mạch nhiễu loạn cực đoan, hình chiếu của thiết bị này đã hóa thành một nhà máy cơ động chất đầy vũ khí và giáp trụ. Chỉ cần sơ sẩy một chút, đám Vịt Xung Kích tràn đến như sóng thần sẽ nhấn chìm kẻ dám bước tới thách thức...",
+    "1008061": "Thằn lằn ma vật cổ xưa khao khát ánh trăng và ẩn sâu trong tầng đá. Cơ thể bị tinh thể hóa do tích tụ Kuuvahki trong thời gian dài, hình thành các khớp nối tinh xảo như linh kiện máy móc, có thể hóa thành gai đá tấn công kẻ địch.\nChịu ảnh hưởng bởi Địa Mạch nhiễu loạn cực đoan, các đốt xương sinh ra nhờ Kuuvahki xúc tác đã tăng trưởng một cách ồ ạt, cuốn lấy nhau chằng chịt, như tấm lưới khổng lồ muốn nuốt trọn cả dãy núi.",
+    "1009061": "Một con sói đơn độc, lạc lõng giữa bầy sói địa phương, bộ lông xanh cho thấy huyết thống của nó đến từ vùng đất xa xôi.\nDưới sự tuôn trào cuồng loạn của năng lượng Địa Mạch, ký ức tổ tiên đã bị bóp méo thành lời nguyền đáng sợ. Hận thù lạnh giá thấm sâu vào thân thể nó, đang tàn nhẫn thúc đẩy con dã thú này xé nát tất cả những gì nó nhìn thấy.",
+    "1009063": "Tạo vật bóng tối sinh ra từ sự dâng trào của đấng quyền năng nguyên sơ, là người canh gác từng ngự trên trời cao, nhưng cuối cùng vì mở mắt mà bị đày xuống trần gian, sở hữu quyền năng giám sát và phản đòn tấn công nguyên tố.\nDưới sự càn quét của dòng chảy thông tin cuồng bạo và sai lệch từ Địa Mạch, bản chất kiêu ngạo của nó đã biến thành ham muốn phá hoại thuần túy, thôi thúc khao khát hủy diệt mọi thứ trong tầm mắt.",
+    "1010061": "Vốn chỉ là một cơ quan phụ trợ được nghiên cứu phát triển nhằm hỗ trợ hoạt động nghiên cứu mặt trăng, nhưng về sau lại được trao cho sức mạnh và trọng trách vượt xa thiết kế ban đầu.\nDưới sự biến dạng và ăn mòn của Địa Mạch hỗn loạn trong thời gian dài, lõi và cơ quan thăm dò của nó đã bị ghi đè hoàn toàn. Mục đích thiết kế ban đầu đã biến mất, giờ đây chỉ có ý chí hủy diệt ra lệnh cho vô số máy móc nuốt chửng mọi sinh vật sống.",
+    "1010063": "Cỗ máy dùng để chế tạo trong di tích cổ xưa, những chủ nhân của di tích viễn cổ đã dùng loại máy có thể thay đổi hình dạng này để thực hiện các công việc chế tạo.\nDưới sự tái cấu trúc hỗn loạn của dòng chảy Địa Mạch, lớp vỏ chống dung nham của nó đã biến thành áo giáp, sức mạnh từng xây dựng những thành trì to lớn nay trở thành gọng kìm khổng lồ. Mệnh lệnh \"chế tạo\" thuở xưa bị bóp méo thành ý chí \"hủy diệt\", đang không ngừng thôi thúc nó thực hiện \"sự nghiệp vĩ đại\" biến mọi thứ thành đống đổ nát.",
+    "1011061": "Sản phẩm của giả kim sinh vật, là một trong những ma thú tổng hợp bị vứt bỏ.\nDưới sự phản chiếu cực kỳ méo mó của Địa Mạch, khả năng điều khiển nguyên tố của nó càng thêm cuồng bạo. Sấm sét và bão tố gầm thét cuồn cuộn dưới sự khống chế của nó, quét sạch mọi thứ trên đường đi...",
+    "1011062": "Đặc vụ tinh nhuệ của Fatui. Căn cứ theo nội dung nhiệm vụ và mệnh lệnh mà họ vừa có thể cùng tiến lui với binh lính, cũng có thể độc lập hoặc cùng với thành viên mai phục ở các nơi tiến hành các công việc như gián điệp, chống trinh sát, bảo vệ, xóa sạch dấu tích.\nĐáng tiếc là trong Nhiễu Loạn Địa Mạch vô cùng nguy hiểm, ý thức của đặc vụ đã bị sự nhiễu loạn ăn mòn và nuốt chửng. Chỉ còn lại một cái vỏ rỗng từng trải qua vô số trận chiến, dựa vào bản năng để vung lưỡi đao lạnh lùng về phía mọi kẻ xâm phạm...",
+    "1012061": "Nhà điêu khắc Chân Băng sở hữu thể chất được tôi luyện qua vô số thử thách, có thể biến Nguyên Tố Phong thành rìu đục.\nDưới sự tác động của dòng chảy Địa Mạch tồi tệ và méo mó hơn cả khiếu thẩm mỹ của mình, hắn đã chìm đắm vào nguồn cảm hứng điên loạn vô phương cứu chữa. Hắn quyết dùng cuồng phong gầm thét để điêu khắc xương thịt, dùng Chân Băng vững chãi không thể phá vỡ để phong ấn linh hồn, nóng lòng muốn đục đẽo tất cả những kẻ xâm nhập trước mắt thành kiệt tác mới nhất trong buổi triển lãm tai ương này.",
+    "1012063": "Một Snegovik cổ xưa có danh vọng khá lớn trong tộc Snegovik, từng được giao phó trọng trách \"dành trọn đời để bảo vệ chủng tộc\".\nDưới ảnh hưởng của dòng chảy Địa Mạch nhiễu loạn, chấp niệm mang tên \"bảo vệ\" nay chỉ còn lại bản năng giết chóc, cô ấy ẩn mình dưới bóng tối của quan tài băng, luôn sẵn sàng hóa thành thanh kiếm băng sắc bén khó lường, xé nát mọi sinh mệnh cố gắng đến gần.",
+    "1013061": "Volkodlak có sức mạnh vô song được sinh ra để thực hiện khát vọng tự do thám hiểm dưới nước của nền văn minh cổ xưa.\nDưới sự tác động điên cuồng của Địa Mạch dị biến, huyết mạch vô song đang ngủ say trong cơ thể nó đã hoàn toàn bùng phát. Cơ thể không chỉ bỏ qua giới hạn áp lực nặng nề nơi biển sâu, mà còn tràn trề sức mạnh tàn bạo đủ sức đương đầu với những dòng chảy ngầm vô hình. Giờ đây, lý trí đã bị thiêu rụi, nó thề sẽ xé nát mọi thứ trong tầm mắt thành tro bụi."
+  },
+  "mechanics": {
+    "1001061": [
+      {
+        "name": "Nửa Nhân Dạng Gấp Đôi",
+        "text": "Bị ảnh hưởng bởi Địa Mạch nhiễu loạn, trong khiêu chiến, <color=#FFD780FF>Nửa Nhân Dạng xuất hiện theo chu kỳ sẽ tăng thành 2</color>. Sau một thời gian, Nhân Dạng Nước sẽ hấp thụ Nửa Nhân Dạng để <color=#FFD780FF>cường hóa bản thân</color>: <color=#FFD780FF>Hồi phục lượng lớn HP</color>, thể hình to lớn hơn, tăng Tấn Công, đồng thời sẽ phát động các đòn tấn công uy lực hơn.\nKịp thời sử dụng tấn công hoặc phản ứng nguyên tố để tiêu diệt Nửa Nhân Dạng hoặc <color=#FFD780FF>Đóng Băng</color> chúng, sẽ có thể gây gián đoạn quá trình hấp thụ."
+      },
+      {
+        "name": "Tấn Công Cuồn Cuộn",
+        "text": "Bị ảnh hưởng bởi Địa Mạch nhiễu loạn, trong khiêu chiến, Nhân Dạng Nước sẽ triển khai khiên, vào trạng thái tụ lực và chuẩn bị thi triển Tấn Công Cuồn Cuộn. Nếu Tấn Công Cuồn Cuộn thi triển thành công, sẽ <color=#FFD780FF>trực tiếp hạ gục nhân vật trong trận hiện tại của phe ta</color>.\nKhi Nhân Dạng Nước triển khai khiên, tất cả nhân vật trong đội sẽ được làm mới CD Kỹ Năng Nguyên Tố và Kỹ Năng Nộ, đồng thời hồi phục Năng Lượng Nguyên Tố, Chiến Ý hoặc Rắn Xảo Quyệt. Phá hủy khiên trước khi Nhân Dạng Nước hoàn thành tụ lực, sẽ có thể gián đoạn việc thi triển Tấn Công Cuồn Cuộn."
+      }
+    ],
+    "1001062": [
+      {
+        "name": "Đá Lửa Kép",
+        "text": "Ban đầu sẽ trong trạng thái \"Người Nham Thạch\", sở hữu <color=#FFD780FF>Kháng Tất Cả Nguyên Tố và Kháng Vật Lý khá cao</color>. Sau khi chịu số lần <color=#FF9999FF>Sát Thương Nguyên Tố Hỏa</color> nhất định sẽ hoàn toàn rơi vào trạng thái \"Rồng Dung Nham\", <color=#FFD780FF>giảm mạnh Kháng Vật Lý và Kháng Tất Cả Nguyên Tố (trừ Nguyên Tố Hỏa)</color>. Tiếp tục chịu <color=#FF9999FF>Sát Thương Nguyên Tố Hỏa</color> sẽ phải chịu thêm sát thương theo giai đoạn. Sau khi chịu số lần <color=#FF9999FF>Sát Thương Nguyên Tố Hỏa</color> nhất định khi trong trạng thái Rồng Dung Nham, sẽ bị Thiêu Đốt quá mức, gục ngã và tê liệt, <color=#FFD780FF>tiếp tục giảm thêm Kháng Tất Cả Nguyên Tố và Kháng Vật Lý</color>. Sau khi tê liệt một thời gian sẽ khôi phục trạng thái Người Nham Thạch."
+      },
+      {
+        "name": "Hiệu Quả Thời Gian Chờ",
+        "text": "Sau khi chịu Sát Thương Nguyên Tố <color=#80C0FFFF>Thủy</color> hoặc <color=#99FFFFFF>Băng</color>, sẽ dần khôi phục trạng thái Người Nham Thạch mang kháng tính khá cao."
+      },
+      {
+        "name": "Đông Cứng Nhiệt Cuộn",
+        "text": "Bị ảnh hưởng bởi Địa Mạch nhiễu loạn, Kháng Tất Cả của kẻ địch sẽ tăng thêm, đồng thời tăng số lần sát thương Nguyên Tố Hỏa cần thiết để khiến nó chuyển đổi hình thái."
+      }
+    ],
+    "1001063": [
+      {
+        "name": "\"Chế Độ Quét Sạch Phòng Ngừa\"",
+        "text": "Sau khi bắt đầu chiến đấu sẽ lập tức vào \"Chế Độ Càn Quét\": <color=#FFD780FF>Tăng mạnh Kháng Tất Cả Nguyên Tố và Kháng Vật Lý</color>, đồng thời vừa sản sinh Động Năng Lỏng vừa tiến hành tấn công. Động Năng Lỏng càng cao, tốc độ xoay tròn và sát thương gây ra càng lớn.\nSau khi chịu <color=#99FFFFFF>Sát Thương Nguyên Tố Băng</color> sẽ tổn thất Động Năng Lỏng, khi Động Năng Lỏng thấp hơn mức nhất định sẽ tạm dừng tấn công xoay tròn, đồng thời <color=#FFD780FF>giảm mạnh Kháng Tất Cả Nguyên Tố và Kháng Vật Lý</color>. Ngoài ra còn <color=#FFD780FF>giảm thêm</color> <color=#99FFFFFF>Kháng Nguyên Tố Băng</color>.\nMỗi lần vào \"Chế Độ Càn Quét\" và lần đầu tạm dừng tấn công xoay tròn, sẽ sản sinh thêm Nguyên Tố Tinh Cầu."
+      },
+      {
+        "name": "Trạng Thái Ứng Chiến Vượt Tải",
+        "text": "Nếu nhân vật trong trận vào trạng thái <color=#FFD780FF>Dạ Hồn Chúc Phúc</color> và duy trì trong một thời gian, kẻ địch này sẽ tiến vào \"Trạng Thái Ứng Chiến Vượt Tải\" và chuyển sang dùng đường đạn truy vết cực mạnh để tấn công, lúc này nó sẽ <color=#FFD780FF>giảm Kháng Tất Cả Nguyên Tố và Kháng Vật Lý</color>.\nTrong trạng thái này, sau khi chịu số lần <color=#99FFFFFF>Sát Thương Nguyên Tố Băng</color> nhất định, nó sẽ tạm dừng tấn công và <color=#FFD780FF>tiếp tục giảm thêm Kháng Tất Cả Nguyên Tố và Kháng Vật Lý</color>."
+      },
+      {
+        "name": "\"Kết Cấu Chống Hư Hỏng\"",
+        "text": "Bị ảnh hưởng bởi địa mạch nhiễu loạn, Kháng Tất Cả của kẻ địch sẽ tăng thêm, đồng thời giảm lượng Động Năng Lỏng bị hao tổn khi chịu <color=#99FFFFFF>Sát Thương Nguyên Tố Băng</color>. Khi trong \"Trạng Thái Ứng Chiến Vượt Tải\", mức giảm kháng của bản thân cũng sẽ khá thấp."
+      }
+    ],
+    "1002061": [
+      {
+        "name": "Mô Phỏng U Ám",
+        "text": "Có khả năng thay hình đổi dạng, biến thành những kẻ địch mạnh mẽ để tấn công."
+      },
+      {
+        "name": "Tấn Công Ăn Mòn",
+        "text": "Một số đòn tấn công sẽ gán trạng thái Ăn Mòn có thể cộng dồn, sau một thời gian nhất định sẽ khiến nhân vật ra trận hiện tại trong đội bản thân bị mất HP."
+      },
+      {
+        "name": "Hắc Ám Bảo Hộ",
+        "text": "Bị ảnh hưởng bởi địa mạch nhiễu loạn, Gốc Rễ Mô Phỏng U Ám sẽ vừa triển khai Lá Chắn Hư Không, vừa tiến hành chiến đấu. Thông qua <color=#FFD780FF>số lần tấn công nguyên tố nhất định</color> sẽ có thể phá hủy Lá Chắn Hư Không. Sau khi lá chắn bị phá, Gốc Rễ Mô Phỏng U Ám sẽ chịu một lần sát thương lớn dựa trên lượng sát thương mà Lá Chắn Hư Không đã chống đỡ, đồng thời rơi vào trạng thái suy yếu trong một thời gian dài. <color=#FFD780FF>Tấn công nguyên tố mang thuộc tính Dạ Hồn</color> sẽ có hiệu quả phá hủy tốt hơn, đồng thời tăng sát thương phải chịu khi lá chắn bị phá hủy. Sau khi rơi vào trạng thái suy yếu một thời gian, Gốc Rễ Mô Phỏng U Ám sẽ thử triển khai Lá Chắn Hư Không lần nữa."
+      },
+      {
+        "name": "Cầu Nguyện U Ám Tàn Ác",
+        "text": "Bị ảnh hưởng bởi địa mạch nhiễu loạn, nếu trong thời gian dài mà Lá Chắn Hư Không không bị phá hủy, Gốc Rễ Mô Phỏng U Ám sẽ tiến hành \"Cầu Nguyện U Ám Tàn Ác\": Vào trạng thái tích tụ năng lượng, nếu trong một thời gian mà Lá Chắn Hư Không vẫn chưa bị phá hủy, thì sẽ thi triển \"Mãnh Kích U Ám Tàn Ác\", <color=#FFD780FF>trực tiếp hạ gục nhân vật trong trận hiện tại của phe ta</color>."
+      }
+    ],
+    "1002062": [
+      {
+        "name": "Lá Chắn Gai Sét",
+        "text": "Khi chịu <color=#FFD780FF>số lần tấn công nhất định</color> sẽ triển khai \"Lá Chắn Gai Sét\": Khi bị tấn công trong thời gian lá chắn tồn tại, sẽ gây ra sát thương phản đòn cho nhân vật ở gần. Thông qua phản ứng nguyên tố, <color=#FFD780FF>triệt tiêu Nguyên Tố Lôi của lá chắn</color> mới có thể phá hủy lá chắn."
+      },
+      {
+        "name": "Sấm Sét Duy Trì",
+        "text": "Bị ảnh hưởng bởi địa mạch nhiễu loạn, mỗi lần bị tấn công, tiến độ triển khai Lá Chắn Gai Sét sẽ tích lũy với mức độ cao hơn, nhưng sẽ giảm dần theo thời gian. Ngoài ra, lượng nguyên tố cần thiết để phá hủy Lá Chắn Gai Sét cũng tăng lên rõ rệt."
+      }
+    ],
+    "1002063": [
+      {
+        "name": "Trình Diễn Mũ Nón",
+        "text": "Trong chiến đấu sẽ tạo ra nhiều chiếc mũ và ẩn thân vào một trong số đó, sau đó nhanh chóng thay đổi vị trí của những chiếc mũ. Sau vài lần biến đổi, nếu <color=#FFD780FF>chiếc mũ mà bản thể đang ẩn thân chịu phải sát thương phản ứng Điện Cảm hoặc Nguyệt-Điện Cảm</color>, sẽ khiến tất cả mũ tạm dừng thay đổi vị trí.\nGây sát thương nhất định cho <color=#FFD780FF>chiếc mũ mà bản thể ẩn thân</color> sẽ có thể phá hủy toàn bộ chiếc mũ, khiến bản thể hiện thân, chịu một lần sát thương lớn và rơi vào trạng thái suy yếu trong một khoảng thời gian. <color=#FFD780FF>Phản ứng Điện Cảm hoặc Nguyệt-Điện Cảm</color> có hiệu suất phá hủy mũ cao hơn. Khi mũ bị phá hủy, sát thương bản thể phải chịu sẽ tăng lên dựa trên <color=#80C0FFFF>Sát Thương Nguyên Tố Thủy</color>, <color=#FFACFFFF>Sát Thương Nguyên Tố Lôi</color>, <color=#FFD780FF>Sát Thương Điện Cảm hoặc Nguyệt-Điện Cảm</color> mà mũ đã phải chịu."
+      },
+      {
+        "name": "Mũ Nón Cự Tuyệt",
+        "text": "Bị ảnh hưởng bởi địa mạch nhiễu loạn, kẻ địch này sẽ phát động tấn công \"Mũ Nón Cự Tuyệt\" mạnh mẽ: Liên tục tung ra những chiếc mũ gây <color=#FFACFFFF>lượng lớn Sát Thương Nguyên Tố Lôi</color>, đồng thời mũ có <color=#FFD780FF>hiệu quả gián đoạn khá mạnh</color>."
+      }
+    ],
+    "1003061": [
+      {
+        "name": "Biện Pháp Đối Phó Khẩn Cấp",
+        "text": "Bị ảnh hưởng bởi Địa Mạch nhiễu loạn, mỗi khi chịu sát thương theo tỉ lệ HP nhất định sẽ giải phóng dòng năng lượng, đồng thời căn cứ vào loại sát thương nguyên tố cao nhất phải chịu trong khoảng thời gian này để thay đổi hình thái, <color=#FFD780FF>tăng mạnh kháng nguyên tố tương ứng</color>."
+      },
+      {
+        "name": "Cơ Chế Giao Chiến Đa Tầng",
+        "text": "Bị ảnh hưởng bởi Địa Mạch nhiễu loạn, ban đầu sẽ chiến đấu dưới đất. Nếu trong thời gian dài chưa giải phóng dòng năng lượng, thì sẽ chuyển sang trạng thái trên không để chiến đấu."
+      },
+      {
+        "name": "Khoang Giáp Lõi",
+        "text": "Bị ảnh hưởng bởi Địa Mạch nhiễu loạn, nhiều lõi trên cơ thể đều được bảo vệ, sẽ không tê liệt khi lõi bị tấn công, cũng sẽ không vì nguyên nhân này mà bị xóa kháng nguyên tố đã có."
+      }
+    ],
+    "1003062": [
+      {
+        "name": "Hạt Giống Ký Sinh",
+        "text": "Trong chiến đấu, sẽ phát tán \"Hạt Giống Ký Sinh\" trên sân: Phát nổ sau giây lát. Nếu trước khi phát nổ chịu phải <color=#FFD780FF>sát thương phản ứng Sum Suê, Bung Tỏa, Nở Rộ hoặc Nguyệt-Sum Suê</color>, nó sẽ bị chuyển hóa và phát động phản kích lên Cua Đá, gây sát thương tương ứng dựa trên tổng lượng sát thương đã phải chịu."
+      },
+      {
+        "name": "Hạt Ký Sinh Dễ Cháy",
+        "text": "Bị ảnh hưởng bởi Địa Mạch nhiễu loạn, sau khi \"Hạt Giống Ký Sinh\" chịu Sát Thương Nguyên Tố Hỏa sẽ phát nổ dữ dội, đánh bay nhân vật và gây sát thương cực lớn."
+      },
+      {
+        "name": "Oanh Kích Vĩ Đại Giáng Lâm",
+        "text": "Bị ảnh hưởng bởi Địa Mạch nhiễu loạn, sau khi bắt đầu chiến đấu, Cua Đá sẽ bay lên không, phát tán lượng lớn \"Hạt Giống Ký Sinh\" rồi bắt đầu tụ lực, sau khi hoàn thành tụ lực sẽ kích nổ Hạt Giống Ký Sinh, gây sát thương trên phạm vi rộng và <color=#FFD780FF>trực tiếp hạ gục nhân vật trong trận hiện tại của phe ta</color>, đồng thời tăng mạnh Kháng Tất Cả của bản thân trong một thời gian. Trong thời gian tụ lực, Cua Đá sẽ triển khai lá chắn, thông qua <color=#FFD780FF>chuyển hóa số lượng nhất định \"Hạt Giống Ký Sinh\"</color> để phá lá chắn, là có thể ngắt đòn tụ lực của Cua Đá và khiến nó tê liệt."
+      }
+    ],
+    "1003063": [
+      {
+        "name": "Khiên Đa Tầng",
+        "text": "Trong chiến đấu, kẻ địch sẽ chuẩn bị để kích hoạt Hệ Thống Lôi Điện, đồng thời triển khai \"Khiên Đa Tầng Thử Nghiệm\" đặc biệt để bảo vệ bản thân. Mỗi cách một khoảng thời gian, khiên sẽ tự sửa chữa ở mức độ nhất định. Phá hủy 3 tầng khiên sẽ giúp ngăn chặn Hệ Thống Lôi Điện kích hoạt và khiến kẻ địch tê liệt. <color=#FFD780FF>Sát thương Điện Cảm và Nguyệt-Điện Cảm</color> có hiệu quả phá hủy khiên tốt hơn. Khi mỗi tầng khiên bị phá hủy, đều sẽ khiến kẻ địch chịu một lần sát thương lớn và sản sinh thêm Nguyên Tố Tinh Cầu."
+      },
+      {
+        "name": "Lôi Điện Oanh Tạc",
+        "text": "Khi kích hoạt thành công Hệ Thống Lôi Điện, kẻ địch sẽ gây Sát Thương Nguyên Tố Lôi phạm vi rộng và thực hiện tấn công Nguyên Tố Lôi liên tục trong một thời gian sau đó. Nếu ngăn chặn kích hoạt thành công, sẽ làm hỏng hệ thống của địch, khiến kẻ địch <color=#FFD780FF>giảm mạnh Kháng Nguyên Tố Lôi</color>."
+      },
+      {
+        "name": "Tăng Công Suất Khẩn Cấp",
+        "text": "Bị ảnh hưởng bởi Địa Mạch nhiễu loạn, \"Khiên Đa Tầng Thử Nghiệm\" sẽ tăng Kháng Tất Cả ngoại trừ Nguyên Tố Lôi, đồng thời có khả năng tự sửa chữa mạnh hơn, nhưng sau khi chịu <color=#FFD780FF>sát thương Điện Cảm hoặc Nguyệt-Điện Cảm</color> sẽ giảm mạnh tốc độ tự sửa chữa. Sau khi kích hoạt Hệ Thống Lôi Điện thành công, sát thương gây ra sẽ tăng mạnh và thời gian duy trì tấn công cũng được kéo dài rõ rệt."
+      }
+    ],
+    "1004061": [
+      {
+        "name": "Trạng Thái Ẩn Náu",
+        "text": "Trong chiến đấu sẽ vào trạng thái \"Ẩn Náu\": <color=#FFD780FF>Tăng mạnh Kháng Tất Cả</color>. Sau khi chịu <color=#FFD780FF>sát thương với số lần nhất định</color>, sẽ thoát trạng thái Ẩn Náu và chuyển đổi loại nguyên tố của bản thân thành nguyên tố chịu nhiều sát thương nhất trong thời gian Ẩn Náu, <color=#FFD780FF>nhận gán ấn nguyên tố và hiệu quả miễn dịch sát thương nguyên tố tương ứng</color>."
+      },
+      {
+        "name": "Nguyệt Diệu Thuần Khiết",
+        "text": "<color=#FFD780FF>Sát thương phản ứng Nguyệt</color> sẽ có hiệu quả giải trừ trạng thái Ẩn Náu tốt hơn. Khi thoát Ẩn Náu, nếu đã phải chịu nhiều sát thương hơn từ phản ứng Nguyệt, sẽ chuyển hóa thành trạng thái không có nguyên tố, <color=#FFD780FF>không được nhận gán ấn nguyên tố và hiệu quả miễn dịch sát thương nguyên tố</color>."
+      }
+    ],
+    "1004062": [
+      {
+        "name": "Lang Thang Bi Thảm",
+        "text": "Sẽ bắt đầu chiến đấu với trạng thái \"Lang Thang\". Sau khi bị triệt tiêu toàn bộ HP, sẽ tiến vào trạng thái \"Cuộc Săn Hoang Dã\"."
+      },
+      {
+        "name": "Tiếc Thương Phai Màu",
+        "text": "Trong trạng thái Cuộc Săn Hoang Dã, dù bị mất toàn bộ HP, mục tiêu cũng sẽ hồi phục HP về mức giới hạn sau một khoảng thời gian. Chỉ có cách triệt tiêu toàn bộ Giới Hạn HP của mục tiêu mới có thể áp chế. <color=#FFD780FF>Giảm toàn bộ HP của mục tiêu hoặc thi triển kỹ năng được cường hóa bởi Nguyệt Triệu - Rực Sáng</color>, sẽ khiến mục tiêu rơi vào trạng thái Tiếc Thương Phai Màu. Gây sát thương cho mục tiêu trong trạng thái này, sẽ căn cứ vào tỉ lệ sát thương nhất định để triệt tiêu Giới Hạn HP của mục tiêu. Nếu sở hữu Nguyệt Triệu - Rực Sáng, tỉ lệ triệt tiêu sẽ tăng lên."
+      },
+      {
+        "name": "Thủy Triều Lưu Vong",
+        "text": "Khi trong trạng thái Cuộc Săn Hoang Dã, quá trình chiến đấu sẽ có Kẻ Lưu Vong Hoang Dã xuất hiện theo chu kỳ. Nếu không thể đánh bại toàn bộ Kẻ Lưu Vong Hoang Dã trong thời gian nhất định, kẻ địch này sẽ tiến hành thu hoạch: Gây sát thương phạm vi cực mạnh, quét sạch toàn bộ Kẻ Lưu Vong Hoang Dã và hồi phục Giới Hạn HP của bản thân dựa trên Giới Hạn HP còn lại của Kẻ Lưu Vong Hoang Dã. Bị ảnh hưởng bởi Địa Mạch nhiễu loạn, Kẻ Lưu Vong Hoang Dã sẽ có Giới Hạn HP cao hơn, đồng thời khi quét sạch Kẻ Lưu Vong Hoang Dã, kẻ địch này sẽ hồi phục Giới Hạn HP với tỉ lệ cao hơn."
+      }
+    ],
+    "1004063": [
+      {
+        "name": "Truy Sát Dồn Dập",
+        "text": "Trong chiến đấu sẽ tiêu hao tỉ lệ HP nhất định để tiến hành \"Truy Sát\": Khi đánh trúng nhân vật, bản thân kẻ địch này sẽ hồi phục tỉ lệ HP nhất định, đồng thời áp dụng Khế Ước Sinh Mệnh lên nhân vật trúng đòn. Khi Khế Ước Sinh Mệnh tồn tại sẽ khiến nhân vật áp dụng liên tục chịu sát thương. Với nhân vật đã có Khế Ước Sinh Mệnh, sát thương của đòn tấn công này sẽ tăng lên."
+      },
+      {
+        "name": "Săn Lùng Đẫm Máu",
+        "text": "Bị ảnh hưởng bởi Địa Mạch nhiễu loạn, kẻ địch này sở hữu năng lực gây gián đoạn và Kháng Gián Đoạn mạnh mẽ hơn. Khi chuẩn bị thực hiện \"Truy Sát\", sẽ vào trạng thái \"Săn Lùng Đẫm Máu\": Tạo khiên bảo vệ bản thân. Trong thời gian khiên tồn tại, kẻ địch này sẽ <color=#FFD780FF>liên tục áp dụng Khế Ước Sinh Mệnh lên tất cả nhân vật</color>. Sau khi khiên bị phá, kẻ địch này sẽ chịu lượng lớn sát thương."
+      }
+    ],
+    "1005061": [
+      {
+        "name": "Lá Chắn Nguyên Tố: Biến Đổi Cuồng Loạn",
+        "text": "Bị ảnh hưởng bởi Địa Mạch nhiễu loạn, khi bắt đầu chiến đấu, kẻ địch này sẽ lần lượt triển khai <color=#FFD780FF>lá chắn Lôi, lá chắn Hỏa và lá chắn Thủy</color> để bảo vệ bản thân, đồng thời thay đổi cách thức tấn công dựa trên loại lá chắn nguyên tố. Sau khi <color=#FFD780FF>phá hủy một loại lá chắn thông qua phản ứng nguyên tố</color>, kẻ địch sẽ nhận lượng lớn sát thương dựa trên <color=#FFD780FF>lượng sát thương mà lá chắn đã hấp thụ</color>, sau đó chuyển đổi hình thái nguyên tố và triển khai lá chắn nguyên tố tương ứng. Sau khi phá hủy cả ba loại lá chắn, kẻ địch sẽ bị tê liệt trong một khoảng thời gian."
+      }
+    ],
+    "1005062": [
+      {
+        "name": "Sóng Âm Mạnh Mẽ: Liên Tấu",
+        "text": "Bị ảnh hưởng bởi Địa Mạch nhiễu loạn, sở hữu Kháng Tất Cả cao hơn. Trong chiến đấu, sẽ thường xuyên nhảy lên không trung, dừng trên không một khoảng thời gian và liên tục giải phóng sóng âm mạnh mẽ để tấn công từ trên cao."
+      },
+      {
+        "name": "Băng Đá Tập Kích: Dồn Dập",
+        "text": "Trong chiến đấu, sẽ triển khai <color=#FFD780FF>lá chắn Băng</color> để bảo vệ bản thân, sau đó nhảy lên không trung để chuẩn bị \"Băng Đá Tập Kích\", sau một khoảng thời gian sẽ giải phóng Băng Đá Tập Kích, <color=#FFD780FF>trực tiếp hạ gục nhân vật trong trận của phe ta</color>. <color=#FFD780FF>Thông qua phản ứng nguyên tố để phá hủy lá chắn</color>, sẽ có thể đánh rơi kẻ địch xuống đất, khiến kẻ địch chịu một lần sát thương lớn dựa trên <color=#FFD780FF>lượng sát thương mà lá chắn đã hấp thụ</color> và gián đoạn việc chuẩn bị đòn tấn công. Khi kẻ địch chuẩn bị đòn tấn công trên, tất cả nhân vật trong đội phe ta sẽ <color=#FFD780FF>hồi phục Năng Lượng Nguyên Tố, Chiến Ý hoặc Rắn Xảo Quyệt</color>. Sau một thời gian nếu lá chắn vẫn chưa bị phá hủy, trên mặt đất sẽ xuất hiện \"Trận Địa Băng Đá\": <color=#FFD780FF>Lần lượt phá hủy Trận Địa Băng Đá thông qua phản ứng nguyên tố</color>, cũng có thể từng bước phá hủy lá chắn Nguyên Tố Băng của kẻ địch này."
+      },
+      {
+        "name": "Xoáy Gió Hỗn Loạn",
+        "text": "Bị ảnh hưởng bởi Địa Mạch nhiễu loạn, khi kẻ địch này chuẩn bị Băng Đá Tập Kích, trên sân sẽ xuất hiện \"Xoáy Gió Hỗn Loạn\", gây Sát Thương Phạm Vi Nguyên Tố Băng cho <color=#FFD780FF>cả địch và ta</color>. Khi Xoáy Gió Hỗn Loạn đánh trúng kẻ địch này, sẽ giảm <color=#FFD780FF>Kháng Nguyên Tố Phong</color> và làm suy giảm lá chắn của chúng.\nNgoài ra, Xoáy Gió Hỗn Loạn có thể bị ảnh hưởng bởi hiệu ứng kéo hút và thay đổi cung đường di chuyển."
+      }
+    ],
+    "1005063": [
+      {
+        "name": "Lõi Trọng Lực: Quá Tải Sâu",
+        "text": "Bị ảnh hưởng bởi Địa Mạch nhiễu loạn, trong chiến đấu sẽ triển khai Vùng Giảm Trọng Lực, giúp tăng đáng kể độ cao khi nhảy của nhân vật, và mỗi khi nhảy đến độ cao nhất định, Tấn Công của nhân vật sẽ tăng mạnh trong 1.5s. Trong thời gian duy trì trường lực, cứ cách một khoảng thời gian sẽ <color=#FFD780FF>tạo ra trên mặt đất luồng sóng xung kích hấp dẫn không thể né tránh</color>. Cứ mỗi 5s, uy lực và tần suất của sóng xung kích hấp dẫn sẽ nhận 1 tầng cường hóa. Mỗi lần chịu <color=#FFD780FF>Tấn Công Khi Đáp</color>, sẽ giảm 1 tầng cường hóa của sóng xung kích hấp dẫn."
+      },
+      {
+        "name": "Lõi Kiên Cố",
+        "text": "Bị ảnh hưởng bởi Địa Mạch nhiễu loạn, lõi Ousia trở nên kiên cố hơn, ngay cả khi chịu <color=#FFD780FF>3 lần tấn công Pneuma</color> cũng không khiến Vùng Giảm Trọng Lực đóng lại."
+      }
+    ],
+    "1006061": [
+      {
+        "name": "Khiên U Ám: Trầm Trọng",
+        "text": "Bị ảnh hưởng bởi Địa Mạch nhiễu loạn, Chúa Tể Ác Mộng U Ám sẽ tập hợp sức mạnh của Vực Sâu để tạo thành khiên cực kỳ kiên cố bảo vệ bản thân. Sử dụng <color=#FFD780FF>sát thương phản ứng Nguyệt</color> có thể phá hủy khiên này một cách hiệu quả hơn. Sau khi kẻ địch triển khai khiên, khi khiên lần đầu chịu sát thương phản ứng Nguyệt, sẽ sản sinh thêm nguyên tố tinh cầu. Sau khi khiên bị phá hủy, Chúa Tể Ác Mộng U Ám sẽ chịu một lần sát thương lớn và rơi vào trạng thái suy yếu trong một khoảng thời gian."
+      },
+      {
+        "name": "Khe Nứt Mãnh Kích",
+        "text": "Bị ảnh hưởng bởi Địa Mạch nhiễu loạn, trong chiến đấu, Chúa Tể Ác Mộng U Ám sẽ tiến hành tụ lực trong thời gian dài, đồng thời triệu hồi một số Thợ Câu U Ám. Sau khi tụ lực xong, nó sẽ gây sát thương phạm vi lớn và nuốt chửng tất cả Thợ Câu U Ám. Trong thời gian tụ lực, có thể phá hủy khiên bằng cách đánh bại Thợ Câu U Ám, sẽ làm gián đoạn quá trình tụ lực của Chúa Tể Ác Mộng U Ám."
+      }
+    ],
+    "1006063": [
+      {
+        "name": "Vương Miện Nóng Chảy",
+        "text": "Cặp sừng rực lửa phía trên cơ thể Hoàng Đế Thép Lửa là bộ phận <color=#FFD780FF>Nguyên Tố Hỏa</color>, khiến nó có thể tấn công nguyên tố mãnh liệt hơn, và có sức phòng ngự mạnh hơn. Khi thực hiện một số đòn tấn công, cặp sừng rực lửa sẽ <color=#FFD780FF>áp sát mặt đất</color>, đây là <color=#FFD780FF>thời điểm thích hợp để phá hủy cặp sừng bằng phản ứng nguyên tố</color>. Khi Nguyên Tố Hỏa trong cặp sừng rực lửa cạn kiệt, cặp sừng sẽ bị phá hủy, kẻ địch mạnh sẽ chịu một lần sát thương lớn. Cặp sừng rực lửa sẽ cần một khoảng thời gian để hồi phục."
+      },
+      {
+        "name": "Tùy Tùng Mang Khiên",
+        "text": "Bị ảnh hưởng bởi Địa Mạch nhiễu loạn, khi Hoàng Đế Thép Lửa thực hiện một số đòn tấn công sẽ triệu hồi Cua Khiên Cứng hỗ trợ chiến đấu. Cua Khiên Cứng sẽ liên tục bổ sung Nguyên Tố Hỏa cho cặp sừng rực lửa, nhưng khi Nguyên Tố Hỏa của bản thân cạn kiệt, nó sẽ bị đánh bại. Cua Khiên Cứng khi bị đánh bại sẽ mất kiểm soát và đâm vào Hoàng Đế Thép Lửa, khiến cặp sừng rực lửa bị tổn hại do quá tải Nguyên Tố Hỏa, đồng thời gây sát thương cho Hoàng Đế Thép Lửa theo tỷ lệ nhất định dựa trên tổng lượng sát thương mà Cua Khiên Cứng đã nhận. Trong trận tối đa đồng thời tồn tại 3 Cua Khiên Cứng."
+      },
+      {
+        "name": "Đăng Quang Rực Rỡ",
+        "text": "Bị ảnh hưởng bởi Địa Mạch nhiễu loạn, trong chiến đấu, Hoàng Đế Thép Lửa sẽ tiến hành Đăng Quang Rực Rỡ: Tụ lực trong một khoảng thời gian, sau khi hoàn thành sẽ gây sát thương phạm vi lớn. Phá hủy cặp sừng rực lửa sẽ làm gián đoạn quá trình tụ lực của Hoàng Đế Thép Lửa."
+      }
+    ],
+    "1007061": [
+      {
+        "name": "Trạng Thái Hội Tụ Mạnh",
+        "text": "Bị ảnh hưởng bởi Địa Mạch nhiễu loạn, khi bắt đầu chiến đấu, kẻ địch mạnh sẽ vào Trạng Thái Hội Tụ: <color=#FFD780FF>Kháng Tất Cả tăng cực mạnh</color>. Trạng thái này sẽ không ngừng tiêu hao \"Năng Lượng Hội Tụ\" của kẻ địch mạnh, sử dụng <color=#FFD780FF>Nguyên Tố Hỏa hoặc Lôi</color> để gây sát thương lên kẻ địch mạnh, cũng sẽ tăng tốc độ tiêu hao năng lượng. Khi tiêu hao hết Năng Lượng Hội Tụ, kẻ địch mạnh sẽ giải phóng \"Thảm Lan Tràn\" và chuyển sang Trạng Thái Phân Tách."
+      },
+      {
+        "name": "Trạng Thái Phân Tách",
+        "text": "Khi kẻ địch mạnh vào Trạng Thái Phân Tách, sẽ phân tách thành một lượng lớn bào tử. Khi bào tử chịu sát thương, sẽ gây cho kẻ địch tỷ lệ sát thương nhất định dựa trên tổng giá trị sát thương mà chúng phải chịu. Sau khi Trạng Thái Phân Tách kéo dài một khoảng thời gian, kẻ địch mạnh sẽ quay về Trạng Thái Hội Tụ. Trong trường hợp này, khi số lượng bào tử trên sân ít hơn một lượng nhất định, kẻ địch mạnh sẽ vào Trạng Thái Hội Tụ Dễ Vỡ: <color=#FFD780FF>Kháng Tất Cả giảm mạnh</color>, đồng thời khả năng chiến đấu sẽ bị suy yếu. Ngoài ra, nếu tất cả bào tử được tạo ra từ Trạng Thái Phân Tách đều bị đánh bại, kẻ địch mạnh sẽ sớm thoát khỏi Trạng Thái Phân Tách và chuyển sang Trạng Thái Hội Tụ Dễ Vỡ."
+      },
+      {
+        "name": "Cấu Trúc Rỗng",
+        "text": "Bị ảnh hưởng bởi Địa Mạch nhiễu loạn, khi kẻ địch trong Trạng Thái Phân Tách hoặc Trạng Thái Hội Tụ Dễ Vỡ, <color=#FFD780FF>Kháng Nguyên Tố Phong giảm mạnh</color>."
+      }
+    ],
+    "1007062": [
+      {
+        "name": "Chế Độ \"Vịt Hủy Diệt Đủ Giáp\"",
+        "text": "Bị ảnh hưởng bởi Địa Mạch nhiễu loạn, sau khi bắt đầu chiến đấu, kẻ địch mạnh sẽ vào chế độ \"Vịt Hủy Diệt Đủ Giáp\", tăng mạnh khao khát chiến đấu, đồng thời tạo lá chắn cho bản thân, <color=#FFD780FF>tăng Kháng Tất Cả</color> và triệu hồi Vịt Xung Kích để gây rối."
+      },
+      {
+        "name": "Vịt Xung Kích Điện Trở Thấp",
+        "text": "<color=#FFD780FF>Gây sát thương Điện Cảm hoặc Nguyệt-Điện Cảm nhiều lần, hoặc trực tiếp gây đủ lượng sát thương để phá hủy Vịt Xung Kích</color>, đều có thể làm gián đoạn hoạt động của chúng. Vịt Xung Kích mất kiểm soát sẽ đâm vào Vịt Nắm Đấm và gây sát thương nhất định lên lá chắn của Vịt Nắm Đấm. Phá hủy lá chắn của kẻ địch mạnh bằng cách này sẽ khiến kẻ địch thoát khỏi trạng thái Vịt Hủy Diệt Đủ Giáp, rơi vào trạng thái tê liệt do quá tải, đồng thời <color=#FFD780FF>giảm mạnh Kháng Nguyên Tố Lôi trong một khoảng thời gian</color>."
+      },
+      {
+        "name": "Hệ Thống Nhảy Tần Nhanh",
+        "text": "Bị ảnh hưởng bởi Địa Mạch nhiễu loạn, Vịt Xung Kích trở nên kiên cố hơn: Cần <color=#FFD780FF>gây nhiều sát thương Điện Cảm hoặc Nguyệt-Điện Cảm hơn</color>, hoặc <color=#FFD780FF>gây sát thương cao hơn</color> mới có thể gián đoạn hoạt động của chúng. <color=#FFD780FF>Sát thương Điện Cảm hoặc Nguyệt-Điện Cảm</color> có hiệu quả phá hủy Vịt Xung Kích cao hơn. Khi Vịt Xung Kích mất kiểm soát đâm vào Vịt Nắm Đấm, sát thương gây ra sẽ tăng lên dựa trên <color=#FFD780FF>tổng giá trị sát thương mà Vịt Xung Kích đã chịu</color>."
+      }
+    ],
+    "1008061": [
+      {
+        "name": "Trôi Nổi Hư Không",
+        "text": "Sau khi bắt đầu chiến đấu, kẻ địch mạnh sẽ để lại Đá Neo Mặt Trăng tại chỗ, sau đó nhảy lên cao để chuẩn bị thi triển \"Trôi Nổi Hư Không\": Sau một khoảng thời gian sẽ giải phóng đòn tấn công mạnh mẽ trên phạm vi rộng. Có thể tận dụng <color=#FFD780FF>cách thức đối phó với Nguyên Tố Nham</color> để phá hủy lá chắn Nguyên Tố Nham nhiều tầng của Đá Neo Mặt Trăng. Phá hủy Đá Neo Mặt Trăng sẽ chấm dứt việc chuẩn bị kỹ năng và gây sát thương lớn cho kẻ địch mạnh. Trong thời gian chuẩn bị, Đá Neo Mặt Trăng nhận càng nhiều sát thương thì khi Đá Neo Mặt Trăng bị phá hủy, sát thương mà kẻ địch phải chịu cũng sẽ càng lớn. Bị Địa Mạch nhiễu loạn ảnh hưởng, dùng <color=#FFD780FF>Nguyên Tố Nham</color> tấn công Đá Neo Mặt Trăng sẽ tăng thêm sát thương mà kẻ địch phải chịu."
+      },
+      {
+        "name": "Nền Đá Vững",
+        "text": "Bị Địa Mạch nhiễu loạn ảnh hưởng, lá chắn Nguyên Tố Nham nhiều tầng của Đá Neo Mặt Trăng sẽ trở nên kiên cố hơn."
+      },
+      {
+        "name": "Kén Bức Xạ",
+        "text": "Trong chiến đấu, kẻ địch mạnh sẽ điều khiển sức mạnh Nguyên Tố Nham, thi triển Kén Bức Xạ lên nhân vật và tăng Kháng Nguyên Tố Nham của bản thân. Nhân vật bị Kén Bức Xạ trói buộc sẽ <color=#FFD780FF>giảm sát thương gây ra và hiệu quả trị liệu nhận được</color>. Khi <color=#FFD780FF>thông qua chữa trị khiến HP của nhân vật đạt đến giới hạn</color>, nhân vật đó sẽ thoát khỏi Kén Bức Xạ, đồng thời nhận hiệu quả \"Thoát Trói\", giúp tăng cường năng lực trong thời gian ngắn. Sau khi nhân vật bất kỳ trong đội phá kén thành công, kẻ địch mạnh sẽ bị mất Kháng Nguyên Tố Nham do Kén Bức Xạ mang lại."
+      }
+    ],
+    "1009061": [
+      {
+        "name": "Hồn Sói Tổ Tiên: Giáng Linh",
+        "text": "Khi bắt đầu chiến đấu, kẻ địch mạnh sẽ triệu hồi Hồn Sói Tổ Tiên hỗ trợ chiến đấu. Bị Địa Mạch nhiễu loạn ảnh hưởng, <color=#FFD780FF>khi được Hồn Sói Tổ Tiên bảo vệ, kẻ địch mạnh sẽ miễn nhiễm sát thương</color>. Là thể linh hồn, Hồn Sói Tổ Tiên sở hữu lá chắn Nguyên Tố Băng đặc biệt, chỉ có thể phá hủy thông qua <color=#FFD780FF>phản ứng Khuếch Tán Nguyên Tố Hỏa hoặc Lôi</color>. Sau khi lá chắn bị phá hủy, Hồn Sói Tổ Tiên sẽ tan biến, kẻ địch mạnh cũng sẽ rơi vào trạng thái tê liệt trong thời gian ngắn và nhận lượng lớn sát thương phản đòn. Trong thời gian lá chắn tồn tại, sát thương mà nó ngăn chặn càng cao, thì sát thương phản đòn cũng sẽ càng lớn. Trong đó, <color=#FFD780FF>Sát Thương Nguyên Tố Hỏa và Phong</color> sẽ càng tăng thêm sát thương phản đòn."
+      }
+    ],
+    "1009063": [
+      {
+        "name": "Ánh Nhìn Cai Trị",
+        "text": "Khi bắt đầu chiến đấu, Người Mở Mắt sẽ vào trạng thái \"Ánh Nhìn Cai Trị\". Trong trạng thái này, sẽ lần lượt ghi nhận số lần chịu Sát Thương Nguyên Tố <color=#FFD780FF>Hỏa/Thủy/Lôi/Băng</color>, khi số lần sát thương của nguyên tố bất kỳ kể trên đạt đến 5 lần, thì sẽ thoát khỏi trạng thái này và <color=#FFD780FF>ghi nhận nguyên tố đó làm mục tiêu giám sát</color>. Nếu không giám sát thành công bất kỳ nguyên tố nào, thì sẽ ghi nhận là trống và gây một lần Sát Thương Nguyên Tố Nham. Sau khi kết thúc Ánh Nhìn Cai Trị lần đầu, kẻ địch mạnh sẽ vào lại trạng thái này sau một khoảng thời gian. Bị Địa Mạch nhiễu loạn ảnh hưởng, thời gian ghi nhận lần thứ hai sẽ dài hơn, đối với nguyên tố đã bị giám sát, cần tích lũy thêm rất nhiều lần sát thương mới có thể bị giám sát lại. Bị Địa Mạch nhiễu loạn ảnh hưởng, trong thời gian Ánh Nhìn Cai Trị, Người Mở Mắt sẽ tăng Kháng Tất Cả Nguyên Tố và Kháng Vật Lý."
+      },
+      {
+        "name": "Hiện Tượng Mê Sảng",
+        "text": "Sau khi hoàn thành hai lần giám sát nguyên tố, Người Mở Mắt sẽ bay lên không, chuẩn bị thi triển \"Hiện Tượng Mê Sảng\", giải phóng Loại Nguyên Tố đã giám sát trước đó và triệu hồi 2 Sao Nguyên Tố Hoạt Tính tương ứng. Nếu không ghi nhận được nguyên tố nào, sẽ triệu hồi \"Sao Nguyên Tố Trơ\" có <color=#FFD780FF>Kháng Tất Cả Nguyên Tố và Kháng Vật Lý khá cao</color>. Nếu kẻ địch mạnh triệu hồi 2 Sao Nguyên Tố Hoạt Tính mang nguyên tố khác nhau, thì cả hai Sao Nguyên Tố sẽ dễ bị phá hủy hơn. Khi Sao Nguyên Tố Hoạt Tính bị phá hủy, sẽ gây sát thương khá cao cho kẻ địch mạnh dựa trên nguyên tố đã ghi nhận. Nếu bị phá hủy là Sao Nguyên Tố Trơ, sẽ gây Sát Thương Nguyên Tố Nham cho kẻ địch mạnh. <color=#FFD780FF>Phá hủy toàn bộ Sao Nguyên Tố</color> sẽ chấm dứt quá trình chuẩn bị Hiện Tượng Mê Sảng. Nếu không thể phá hủy 2 Sao Nguyên Tố trong thời gian quy định, chúng sẽ phát nổ và gây sát thương lớn trên phạm vi rộng."
+      }
+    ],
+    "1010061": [
+      {
+        "name": "Trường Lực Trấn Áp: Tuần Hoàn Năng Lượng",
+        "text": "Khi bắt đầu chiến đấu, kẻ địch mạnh sẽ bố trí 4 cơ quan thăm dò được bảo vệ bởi <color=#FFD780FF>lá chắn Nguyên Tố Thủy</color>, tạo ra Trường Lực Trấn Áp đặc biệt. Trường lực này sẽ tạo ra <color=#FFD780FF>Khiên Trường Lực</color> cho kẻ địch, và tăng <color=#FFD780FF>Kháng Tất Cả cho kẻ địch trừ Nguyên Tố Băng và Lôi</color>. Sau khi trường lực duy trì một thời gian, kẻ địch mạnh sẽ phát động \"Đột Kích Alpha\": Gây sát thương trên phạm vi lớn, đồng thời thu hồi toàn bộ cơ quan thăm dò, và dựa trên số lượng thu hồi được để nhận <color=#FFD780FF>lá chắn Nguyên Tố Thủy</color> với lượng hấp thụ tương ứng. Nếu không thu hồi được cơ quan thăm dò nào, sẽ chỉ nhận được một lượng nhỏ lá chắn Nguyên Tố Thủy."
+      },
+      {
+        "name": "Khiên Trường Lực",
+        "text": "Do ảnh hưởng của Địa Mạch hỗn loạn, khi Khiên Trường Lực của kẻ địch mạnh bị phá vỡ, Trường Lực Trấn Áp cũng sẽ tan rã, bản thân kẻ địch cũng sẽ nhận một lần sát thương phản đòn khá cao và rơi vào trạng thái tê liệt trong thời gian ngắn. Ngoài ra, mỗi khi kẻ địch <color=#FFD780FF>chịu ảnh hưởng của phản ứng Siêu Dẫn, Tinh-Siêu Dẫn</color>, đều sẽ triệt tiêu một lượng khiên nhất định. Trong khi đó, <color=#FFD780FF>sát thương phản ứng Siêu Dẫn, Tinh-Siêu Dẫn</color> không những có hiệu quả phá khiên cao hơn, mà còn tiếp tục tăng lượng sát thương phản đòn mà kẻ địch phải chịu khi khiên bị phá vỡ."
+      },
+      {
+        "name": "Cơ Quan Thăm Dò: Xung Áp",
+        "text": "Các cơ quan thăm dò sẽ bị phá hủy khi <color=#FFD780FF>lá chắn Nguyên Tố Thủy bị phá vỡ</color> hoặc <color=#FFD780FF>chịu sát thương phản ứng nguyên tố như Phá Băng hoặc Tan Chảy sau khi rơi vào trạng thái Đóng Băng</color>. Chịu ảnh hưởng của Địa Mạch nhiễu loạn, mỗi khi có một cơ quan thăm dò bị tiêu diệt, đều sẽ gây tổn hại lên lá chắn của kẻ địch."
+      }
+    ],
+    "1010063": [
+      {
+        "name": "Đối Sách Ứng Chiến: Khởi Động Lạnh",
+        "text": "Khi bắt đầu chiến đấu, kẻ địch sẽ được bảo vệ bởi <color=#FFD780FF>khiên mạnh mẽ</color>, đồng thời nhận Kháng Tất Cả Nguyên Tố và Kháng Vật Lý khá cao. Khi nhân vật tiến vào và duy trì trạng thái Dạ Hồn Chúc Phúc, kẻ địch mạnh sẽ tích lũy tiến độ Đối Sách Ứng Chiến. Chịu ảnh hưởng bởi Địa Mạch nhiễu loạn, khi kẻ địch lần đầu hoàn thành tích lũy Đối Sách Ứng Chiến, sẽ mất <color=#FFD780FF>toàn bộ kháng tính đã nhận lúc bắt đầu chiến đấu</color>, <color=#FFD780FF>khiên</color> cũng sẽ bị phá hủy, đồng thời chịu sát thương phản đòn dựa trên lượng sát thương khiên đã hấp thụ."
+      },
+      {
+        "name": "Đại Bác Hình Cầu: Bơm Cao Áp",
+        "text": "Sau khi tích lũy đầy tiến độ Đối Sách Ứng Chiến, kẻ địch sẽ kích hoạt Máy Hấp Thụ, khai quật 2 khối Phlogiston Thể Rắn và hấp thụ năng lượng trong đó để chuẩn bị Đại Bác Hình Cầu. Máy Hấp Thụ sẽ tạo ra trường lực để bảo vệ bản thân, cần <color=#FFD780FF>trèo lên Phlogiston Thể Rắn để tiến vào trường lực trước</color> mới có thể phá hủy chúng. Sau khi phá hủy tất cả Máy Hấp Thụ, có thể làm gián đoạn quá trình tích tụ năng lượng của Đại Bác Hình Cầu, đồng thời khiến kẻ địch <color=#FFD780FF>bị tê liệt và chịu sát thương phản đòn</color>. Chịu ảnh hưởng bởi Địa Mạch nhiễu loạn, tiến độ Đối Sách Ứng Chiến sẽ tích lũy dần theo thời gian, nhưng ngưỡng tiến độ cần để kích hoạt Đại Bác Hình Cầu cũng sẽ tăng lên."
+      }
+    ],
+    "1011061": [
+      {
+        "name": "Gọi Sét: Khiên Cứng",
+        "text": "Bị Địa Mạch nhiễu loạn ảnh hưởng, khi bắt đầu chiến đấu, kẻ địch mạnh sẽ dùng sức mạnh của đầu Nguyên Tố Lôi để dẫn dắt, tạo ra <color=#FFD780FF>lá chắn Nguyên Tố Lôi kiên cố</color> để tự bảo vệ. Cứ cách một khoảng thời gian, hai đầu của kẻ địch mạnh sẽ phối hợp với nhau, truyền sức mạnh Nguyên Tố Phong vào Đại Kiếm Nguyên Tố Lôi, giải phóng sóng xung kích Nguyên Tố Lôi trên phạm vi rộng. Lúc này, nếu kẻ địch mạnh đang chịu ảnh hưởng từ hiệu quả <color=#FFD780FF>Tỏa Sáng: Tinh Tú Lấp Lánh</color>, sẽ bị phản đòn do sức mạnh rối loạn, <color=#FFD780FF>khiến lá chắn bị tổn hại</color>. Sau khi <color=#FFD780FF>phá vỡ lá chắn</color> bằng phản ứng nguyên tố, kẻ địch mạnh sẽ ngừng tấn công vì kiệt sức và rơi vào trạng thái tê liệt, <color=#FFD780FF>giảm mạnh Kháng Nguyên Tố Băng và Phong</color>, đồng thời chịu một lần sát thương phản đòn khá cao dựa trên lượng sát thương mà lá chắn đã chống đỡ. <color=#FFD780FF>Sát thương phản ứng Tinh Tú Lấp Lánh</color> sẽ tăng sát thương phản đòn mà kẻ địch phải chịu khi lá chắn bị phá hủy."
+      },
+      {
+        "name": "Lùa Gió: Tấn Công",
+        "text": "Bị Địa Mạch nhiễu loạn ảnh hưởng, trong chiến đấu, kẻ địch mạnh sẽ dùng sức mạnh của đầu Nguyên Tố Phong để dẫn dắt, bay lên không trung và xoay vòng tốc độ cao, bắn ra Đạn Cuồng Phong để tấn công. Sau khi kết thúc xoay vòng, kẻ địch mạnh sẽ tạo ra gió lốc để dẫn dụ và hấp thụ Cầu Gió trên sân nhằm phục hồi sức mạnh. Sau khi hấp thụ đủ Cầu Gió, sẽ lần nữa bay lên và phát động đòn tấn công xoay vòng. Cầu Gió có thể bị <color=#FFD780FF>phá hủy bởi Sát Thương Nguyên Tố Thủy/Hỏa/Lôi/Băng</color>, cũng có thể khiến kẻ địch mạnh chịu ảnh hưởng từ <color=#FFD780FF>Tỏa Sáng: Tinh Tú Lấp Lánh</color> để khiến nó không thể hấp thụ Cầu Gió. Nếu khi gió lốc tan biến mà kẻ địch mạnh vẫn chưa hấp thụ đủ Cầu Gió, thì sẽ lập tức rơi vào trạng thái tê liệt, đồng thời <color=#FFD780FF>giảm mạnh Kháng Nguyên Tố Băng và Phong</color>."
+      }
+    ],
+    "1011062": [
+      {
+        "name": "Truy Sát Dồn Dập",
+        "text": "Trong chiến đấu sẽ tiêu hao tỉ lệ HP nhất định để tiến hành \"Truy Sát\": Khi đánh trúng nhân vật, bản thân kẻ địch này sẽ hồi phục tỉ lệ HP nhất định, đồng thời áp dụng Khế Ước Sinh Mệnh lên nhân vật trúng đòn. Khi Khế Ước Sinh Mệnh tồn tại sẽ khiến nhân vật áp dụng liên tục chịu sát thương. Với nhân vật đã có Khế Ước Sinh Mệnh, sát thương của đòn tấn công này sẽ tăng lên."
+      },
+      {
+        "name": "Săn Lùng Đẫm Máu: Quỷ Dị",
+        "text": "Bị ảnh hưởng bởi Địa Mạch nhiễu loạn, năng lực gây gián đoạn và Kháng Gián Đoạn của kẻ địch này sẽ tăng mạnh, khi thế trận trên không sụp đổ sẽ lập tức dịch chuyển thoát đi, nhanh chóng tái tổ chức thế trận. Khi chuẩn bị thực hiện \"Truy Sát\", sẽ vào trạng thái \"Săn Lùng Đẫm Máu\": Tạo khiên bảo vệ bản thân. Trong thời gian khiên tồn tại, kẻ địch này sẽ <color=#FFD780FF>liên tục áp dụng Khế Ước Sinh Mệnh lên tất cả nhân vật</color>. Sau khi khiên bị phá, kẻ địch này sẽ chịu lượng lớn sát thương."
+      }
+    ],
+    "1012061": [
+      {
+        "name": "Sương Linh Miệng Rộng",
+        "text": "Khi bắt đầu chiến đấu, kẻ địch mạnh sẽ vận dụng sức mạnh Nguyên Tố Phong để cố gắng tạo ra tượng Chân Băng. Sau một khoảng thời gian, tượng sẽ hóa thành Sương Linh Miệng Rộng có khả năng liên tục bắn cầu tuyết.\nTrong quá trình tạo hình, nếu khiến kẻ địch mạnh chịu ảnh hưởng bởi hiệu quả <color=#FFD780FF>Tỏa Sáng: Tinh Tú Lấp Lánh</color>, sẽ có thể gián đoạn quá trình này, biến tượng băng thành tượng động vật nhỏ vô hại."
+      },
+      {
+        "name": "Cảm Hứng Tuôn Trào",
+        "text": "Bị Địa Mạch nhiễu loạn ảnh hưởng, kẻ địch mạnh <color=#FFD780FF>khi bắt đầu chiến đấu sẽ nhận Kháng Tất Cả Nguyên Tố và Kháng Vật Lý khá cao</color>, đồng thời sẽ tạo tượng Chân Băng thường xuyên hơn.\nSau khi tượng băng bị biến thành tượng động vật nhỏ, nó sẽ phát nổ sau một khoảng thời gian trì hoãn ngắn và gây ra sát thương nhất định cho kẻ địch mạnh, đồng thời <color=#FFD780FF>giảm Kháng Tất Cả Nguyên Tố và Kháng Vật Lý, giảm thêm Kháng Nguyên Tố Phong của kẻ địch</color>, hiệu quả này <color=#FFD780FF>tối đa cộng dồn 3 tầng</color>."
+      }
+    ],
+    "1012063": [
+      {
+        "name": "Quan Tài Băng: Tinh Thể Kép",
+        "text": "Trong chiến đấu, khi HP của kẻ địch mạnh thấp hơn một tỷ lệ nhất định, sẽ tự phong ấn bản thân vào Quan Tài Băng, đồng thời lợi dụng <color=#FFD780FF>lá chắn Nguyên Tố Băng</color> của Quan Tài Băng để bảo vệ bản thân.\nTrong thời gian Quan Tài Băng tồn tại, kẻ địch sẽ lấy bản thân làm trung tâm, liên tục thi triển Bão Băng để tấn công. Nếu Quan Tài Băng không bị phá hủy, kẻ địch sẽ hồi phục một phần HP và ngưng kết kiếm băng để phản công. Nhưng nếu Quan Tài Băng gắn liền với sinh mệnh bị phá hủy, kẻ địch sẽ rơi vào trạng thái suy yếu và chịu sát thương phản đòn. Bị Địa Mạch nhiễu loạn ảnh hưởng, <color=#FFD780FF>Quan Tài Băng sẽ kiên cố hơn</color>, và một thời gian sau khi bị phá vỡ lần đầu, kẻ địch sẽ <color=#FFD780FF>tự phong ấn bản thân vào Quan Tài Băng lần nữa</color>."
+      },
+      {
+        "name": "Quan Tài Băng: Tinh Thể Dị Biến",
+        "text": "Trong thời gian <color=#FFD780FF>Quan Tài Băng tồn tại</color>, nếu kẻ địch chịu ảnh hưởng bởi hiệu quả <color=#FFD780FF>Tỏa Sáng: Tinh Tú Lấp Lánh</color>, <color=#FFD780FF>lá chắn Nguyên Tố Băng của Quan Tài Băng sẽ chuyển hóa thành khiên có thể hấp thụ sát thương</color>. Sau khi khiên bị phá hủy, kẻ địch sẽ phải chịu lượng lớn sát thương phản đòn."
+      }
+    ],
+    "1013061": [
+      {
+        "name": "Hào Khí Chịu Lạnh: Uống Thỏa Thích",
+        "text": "Bị Địa Mạch nhiễu loạn ảnh hưởng, cứ cách một khoảng thời gian, kẻ địch mạnh sẽ lấy bình ra uống thỏa thích, từ đó tích lũy lượng lớn Giá Trị Hào Khí. Khi kẻ địch mạnh đang uống, nếu chịu ảnh hưởng bởi hiệu quả <color=#FFD780FF>Tỏa Sáng: Tinh Tú Lấp Lánh</color>, hiệu suất tích lũy Giá Trị Hào Khí sẽ giảm. Ngoài ra, khi kẻ địch mạnh chịu <color=#FFD780FF>Sát Thương Nguyên Tố Lôi</color> thì sẽ bị khấu trừ Giá Trị Hào Khí. Nếu chịu <color=#FFD780FF>Sát Thương Nguyên Tố Lôi được xem là sát thương phản ứng Tinh Tú Lấp Lánh tương ứng</color>, thì sẽ khấu trừ lượng lớn Giá Trị Hào Khí."
+      },
+      {
+        "name": "Trạng Thái Dũng Mãnh: Tập Kích",
+        "text": "Bị Địa Mạch nhiễu loạn ảnh hưởng, sau khi Giá Trị Hào Khí của kẻ địch mạnh tích đầy, sẽ tiến vào \"Trạng Thái Dũng Mãnh: Tập Kích\": Không những đòn tấn công cuồng bạo hơn, mà còn <color=#FFD780FF>triển khai khiên bảo vệ bản thân, tăng mạnh Kháng Tất Cả Nguyên Tố và Kháng Vật Lý ngoại trừ Nguyên Tố Lôi, đồng thời tăng nhẹ Kháng Nguyên Tố Lôi</color>. Khi ở trong trạng thái này, Giá Trị Hào Khí của kẻ địch mạnh sẽ liên tục tiêu hao, và <color=#FFD780FF>tăng lượng Giá Trị Hào Khí bị khấu trừ do chịu Sát Thương Nguyên Tố Lôi</color>, đồng thời sẽ thoát khỏi trạng thái này sau khi Giá Trị Hào Khí cạn kiệt. Khi kẻ địch mạnh thoát khỏi trạng thái này, sẽ nhận lượng lớn sát thương phản đòn. Trong thời gian Trạng Thái Dũng Mãnh: Tập Kích, lượng sát thương mà khiên chặn được càng cao, sát thương phản đòn mà nó phải chịu cũng sẽ càng lớn. <color=#FFD780FF>Sát Thương Nguyên Tố Lôi từ phản ứng Tinh Tú Lấp Lánh</color> sẽ tăng lượng sát thương phản đòn mà kẻ địch mạnh phải chịu khi khiên bị phá hủy."
+      }
+    ]
+  },
+  "tags": {
+    "1001061": {
+      "good": "Nhân Vật {SPRITE_PRESET#11003}",
+      "bad": "Nhân Vật {SPRITE_PRESET#11002}"
+    },
+    "1001062": {
+      "good": "Nhân Vật {SPRITE_PRESET#11007}{SPRITE_PRESET#11003}",
+      "bad": "Nhân Vật {SPRITE_PRESET#11001}{SPRITE_PRESET#11002}"
+    },
+    "1001063": {
+      "good": "Nhân Vật {SPRITE_PRESET#11001}"
+    },
+    "1002061": {
+      "good": "Sát Thương Nguyên Tố Tần Suất Cao | Sát Thương Dạ Hồn"
+    },
+    "1002062": {
+      "good": "Sát Thương Tần Suất Thấp",
+      "bad": "Sát Thương Tần Suất Cao"
+    },
+    "1002063": {
+      "good": "Phản Ứng Nguyên Tố {SPRITE_PRESET#11034} | Khiên"
+    },
+    "1003061": {
+      "good": "Sát Thương Đa Nguyên Tố",
+      "bad": "Sát Thương Đơn Nguyên Tố"
+    },
+    "1003062": {
+      "good": "Phản Ứng {SPRITE_PRESET#11029}",
+      "bad": "Nhân Vật {SPRITE_PRESET#11003}"
+    },
+    "1003063": {
+      "good": "Phản Ứng {SPRITE_PRESET#11034} | Nhân Vật {SPRITE_PRESET#11004}"
+    },
+    "1004061": {
+      "good": "Sát Thương Nguyên Tố tần suất cao | Sát thương đa nguyên tố | Sát thương phản ứng Nguyệt"
+    },
+    "1004062": {
+      "good": "Nguyệt Triệu - Rực Sáng"
+    },
+    "1004063": {
+      "good": "Nhân vật Khế Ước Sinh Mệnh | Nhân vật Khiên"
+    },
+    "1005061": {
+      "good": "Nhân vật {SPRITE_PRESET#11001}{SPRITE_PRESET#11002}{SPRITE_PRESET#11007}"
+    },
+    "1005062": {
+      "good": "Nhân vật {SPRITE_PRESET#11003} | Nhân vật tầm xa | Nhân vật gom kéo",
+      "bad": "Nhân vật cận chiến"
+    },
+    "1005063": {
+      "good": "Nhân Vật Tấn Công Khi Đáp"
+    },
+    "1006061": {
+      "good": "Sát thương phản ứng Nguyệt"
+    },
+    "1006063": {
+      "good": "Nhân vật {SPRITE_PRESET#11002}",
+      "bad": "Nhân vật {SPRITE_PRESET#11003}"
+    },
+    "1007061": {
+      "good": "Nhân vật {SPRITE_PRESET#11003}{SPRITE_PRESET#11004} | Nhân vật gom kéo"
+    },
+    "1007062": {
+      "good": "Phản ứng {SPRITE_PRESET#11034} | Nhân vật {SPRITE_PRESET#11004}"
+    },
+    "1008061": {
+      "good": "Nhân vật {SPRITE_PRESET#11006} | Nhân vật trị liệu"
+    },
+    "1009061": {
+      "good": "Phản ứng {SPRITE_PRESET#11028}{SPRITE_PRESET#11024} có lợi"
+    },
+    "1009063": {
+      "good": "Phản ứng {SPRITE_PRESET#11027}{SPRITE_PRESET#11035} có lợi"
+    },
+    "1010061": {
+      "good": "Nhân vật {SPRITE_PRESET#11001}{SPRITE_PRESET#11004} | Nhân vật tầm xa",
+      "bad": "Nhân vật {SPRITE_PRESET#11002} | Nhân vật cận chiến"
+    },
+    "1010063": {
+      "good": "Nhân vật Dạ Hồn Chúc Phúc"
+    },
+    "1011061": {
+      "good": "Phản ứng {SPRITE_PRESET#11022} | Nhân vật {SPRITE_PRESET#11001}"
+    },
+    "1011062": {
+      "good": "Nhân vật Khế Ước Sinh Mệnh | Nhân vật Khiên"
+    },
+    "1012061": {
+      "good": "Nhân vật Tinh Tú Lấp Lánh | Nhân vật {SPRITE_PRESET#11005}"
+    },
+    "1012063": {
+      "good": "Nhân vật Tinh Tú Lấp Lánh | Nhân vật {SPRITE_PRESET#11003}"
+    },
+    "1013061": {
+      "good": "Nhân vật Tinh Tú Lấp Lánh | Nhân vật {SPRITE_PRESET#11004}"
+    }
+  },
+  "season": {
+    "5269001": "Đánh Đuổi Xâm Nhập",
+    "5269002": "Trận Chiến Ác Liệt",
+    "5269003": "Trận Chiến Dữ Dội",
+    "5269004": "Tiến Công Càn Quét",
+    "5269005": "Thế Trận Chấn Động",
+    "5269006": "Thế Trận Giải Hạn",
+    "5269007": "Trận Chiến Hủy Diệt",
+    "5269008": "Trận Chiến Ngọc Vỡ",
+    "5269009": "Trận Chiến Gió Hú",
+    "5269010": "Trận Chiến Rung Chuyển",
+    "5269011": "Trận Chiến Ánh Sao",
+    "5269012": "Trận Chiến Lấp Lánh",
+    "5269013": "Trận Chiến Sóng Dữ"
+  }
+}

@@ -1,0 +1,516 @@
+{
+  "boss": {
+    "1001061": "Hydro Tulpa: Turbulent Vortex",
+    "1001062": "Lava Dragon Statue: Blazing Flame",
+    "1001063": "Secret Source Automaton: Overseer Device - Obliterator Panoply",
+    "1002061": "Tenebrous Papilla: Shadow Void Transfiguration",
+    "1002062": "Battle-Hardened Tent Tortoise: Thunderous Aegis",
+    "1002063": "Battle-Hardened Pipilpan Idol: Hundred Deceptions",
+    "1003061": "Aeonblight Drake: Annihilation Configuration",
+    "1003062": "Battle-Scarred Rock Crab: One Million Blasts",
+    "1003063": "Battle-Hardened Fireblade Shock Trooper: Forlorn Hope",
+    "1004061": "Frostnight Herra: Hatred and Rage",
+    "1004062": "Battle-Hardened Lightkeeper: Mourning Echoes",
+    "1004063": "Veteran Frost Operative: Bloodsoaked Blade",
+    "1005061": "Iniquitous Baptist: Resonant Wrath",
+    "1005062": "Battle-Hardened Iktomisaurus: Frostbound Resolve",
+    "1005063": "Experimental Field Generator: Extreme Potential",
+    "1006061": "Lord of the Hidden Depths: Whisperer of Nightmares — Ravager's Edge",
+    "1006063": "Emperor of Fire and Iron: Ordained Conquest",
+    "1007061": "Battle-Hardened Hexadecatonic Mandragora: Stormvine",
+    "1007062": "Knuckle Duckle: Armored Arsenal",
+    "1008061": "Radiant Moongecko: Entangled Fangs",
+    "1009061": "Battle-Hardened Glacial Wolf: Glacial Soul",
+    "1009063": "The Open-Eyed: Overbearing Contempt",
+    "1010061": "Shadow of the Precursor's Secret Source Matrix of Overseer Network: Will of the Hive",
+    "1010063": "Secret Source Automaton: Configuration Device - Lysis Shears",
+    "1011061": "Chimeric Winged Lion: Power Overwhelming",
+    "1011062": "Veteran Wind Operative: Treacherous Blade",
+    "1012061": "Battle-Hardened Domovoy Sculptor: Gale Hewing",
+    "1012063": "Guardian Blade of Drifting Snow: Endless Reverberation",
+    "1013061": "Wavebinder: Stormfang"
+  },
+  "lore": {
+    "1001061": "A humanoid monster formed from the agglomeration of water.\nCountless wills dissolved in the water, which, like the universe, was full of souls that wished to be born.\nSuffering and hatred, suffused into those waters, intersected to warp what was once human shape amidst the inchoate chaos of the Ley Lines. The tragic dissolution is soon to repeat itself...",
+    "1001062": "A monster that can continuously generate heat to sustain its activities.\nA failed attempt to birth wisdom from pure energy that bears the outline of a great race yet possesses no more consciousness than a stone.\nThough this being was once no different from a corpse, the Ley Lines in turmoil have imparted the virulent animus of the deceased upon it, adding thoughts fell and perilous to its instinct for battle.",
+    "1001063": "A domination mechanism from the ancient ruins.\nIn the distant past, a once-mighty ancient race used this mechanism to oversee the operation of their cities. Even now, long after the fall of their civilization, it still retains immense authority.\nIn the depths of the chaotic Ley Lines, the core energy module that deteriorated over the lengthening years has been restored, indeed, even \"overclocked\" to a dangerous degree. This machine is now unchained by its original specifications, capable of freeing itself from the planet's shackles and using its horrific \"Obliterator Panoply\"...",
+    "1002061": "Abyssal monsters that grow like parasitic plants.\nAgents of continuous corrosion, these distorters are capable of extracting memories from deeper layers of the earth, and through the power of the Abyss, reconstructing memories of greater potency. The hatred once spread from their roots coalesced amidst the inchoate chaos of the Ley Lines to form blades of untold savagery that would inflict deep suffering on those foolhardy enough to challenge them...",
+    "1002062": "Gentle and slow by nature, this reptile is seen by some as a symbol of wisdom and good fortune. Yet when backed into a corner, this remarkable creature is capable of unleashing fierce assaults upon its foes, using its thick shell as a battering ram to crush any and all opposition.\nAmidst the inchoate chaos of the Ley Lines, its form has been twisted, eagerly charging into battle in a fury, like a lightning storm of attack and defense...",
+    "1002063": "A Pipilpan Idol who channels the essence of Tenoch. Adept at dazzling hat tricks and stratagems of battle, it can attack from a wide range of angles, leaving reckless challengers paying the price for hasty missteps...\nAmidst the inchoate chaos of the Ley Lines, the performer's obsession takes form as flurries of rejection and annihilation. Any slight mistake may result in the challenger being ground into dust, just as Tenoch's opponents once were...",
+    "1003061": "This dragon-shaped combat machine is a being that inspires fear, much like the lord who once ruled these vast lands.\nThis mysterious, tireless mechanical monstrosity seems to be proof that the now-destroyed realm had reached heights that mortals should never have.\nDue to sustained corruption from the disordered Ley Lines, its frame has been enhanced, and it has adapted to its mission of annihilation so well that it has become a nightmare of death on the battlefield...",
+    "1003062": "A crab that lives within shells and conches. A distant relation to the Fontainian Armored Crab. Most specimens are docile and gentle, but there are stories of crabs fighting to the death to defend their territory — their gentle nature transforming to fuel a wild, frenzied rage.\nAmong the twisted illusions of the Ley Lines, the mighty Rock Crab warrior who fell to a horde of foes has reforged its offensive abilities to withstand the onslaught of a hundred thousand enemies — an endeavor rewarded with alarming success...",
+    "1003063": "An elite officer of the Fatui Oprichniki who specializes in close combat using a giant blade.\nWhether it be in the war against the dark calamity or against those ignoramuses who dare stand against the Tsaritsa's ideals, those who breach at the tip of the spear suffer the greatest casualties. Those who survive a hundred battles only to fall all the same become a fearful memory in the Ley Lines. Due to sustained immersion in the twisted currents, these warriors' lingering shades turn the blades they once wielded in desperate battle against the challenger who seeks to quell the disorder....",
+    "1004061": "A majestic being that strides with pride through the frost-laden night, wielding ancient powers long since tamed by the Lord of the Sky. Yet under the unspeakable influence of the Ley Lines, its solemn nobility has been usurped by a ferocious appetite for prey and a willingness to meet intruders with the freezing edge of a blade...",
+    "1004062": "A valiant warrior who resisted the dark calamity in ancient days. Though his life's spark has been extinguished, his unbending will has yet to fade, and those who swore to become hunters of the Wild Hunt continue his endless battle even today. Twisted by the chaotic Ley Lines, any intruders who enter his sight are treated no differently than the fiercest abominations of the Wild Hunt and are faced with the full force of his determination and strength...",
+    "1004063": "An elite agent of the Fatui. Selected from childhood, she rose to the top after long years of rigorous training — an experience which instilled in her extraordinary skill and unswerving loyalty.\nRegrettably, in the perilous chaos of the Ley Lines, her sense of reason has long since been swallowed by a lust for battle — one that leads her to mercilessly hunt down intruders and subject them to an onslaught of pure rage...",
+    "1005061": "A creature of the Abyss that, through the dark's stygian powers, has gained additional appendages via \"evolution.\" It is capable of wielding multiple types of elemental powers.\nIn the twisted recollections of the Ley Lines, they surface as frenzied destroyers, raising wave after wave of calamity with their blasphemous powers...",
+    "1005062": "Able to use its plumage for leaping, it is the only type of Saurian to have grasped how to enter the \"Spiritspeaker\" state.\nObserving the totality of suffering and sorrow, it has been consumed by the twisted memories of the Ley Lines, transforming into a blizzard of near-absolute cold that rages with the winds of unfathomable chaos...",
+    "1005063": "A product of the Fontaine Research Institute of Kinetic Energy Engineering that has gone out of control due to an accident. It has the ability to \"counteract\" the effects of gravity.\nTransformed by the chaotic Ley Lines, its core has grown violently unstable, and the gravitational fields it unleashes now surge with the force of tsunamis, ready to engulf the land...",
+    "1006061": "An Abyssal creature that creeps through rifts in the hidden depths, quietly watching this world. Its eerie, faceless form is said to be nothing more than a projection, while its true body exists only as a formless mass of pure Abyssal energy.\nDriven by the turmoil of the chaotic Ley Lines, its frenzied, delirious whispers have been honed into a cutting edge aimed squarely at rending the world's hard-won order atwain...",
+    "1006063": "One of the two sovereigns who once stood at the apex of the aberrant species of the Fontemer, and the subject of many a tale among sailors. Avoiding predation, it keeps hunting and eating and so continues to grow, constantly seeking out suitable shells to become its new armor.\nTwisted by the turbulence of the Ley Lines, its violent nature has grown so intense that it now rampages like a small army, lashing out at everything it sees — a crab-shaped calamity crawling across the land...",
+    "1007061": "An exceptionally large Mandragora, likely an exotic variant produced through an extended artificial selection process. Although the original objective behind its cultivation is no longer known, its unique sense of territoriality suggests it may have been the product of some kind of special experiment.\nAmidst the inchoate chaos of the Ley Lines, its form has long since mutated, and it is now determined to harness the howling winds to let its spores swallow the land whole...",
+    "1007062": "A strangely shaped kuuvahki mechanism, made from scrap metal and mechanical bearings, that bears a partial resemblance — as per its creator's preferences, apparently — to a duck. Its output and resistance to damage are comparable to the Fatui's most cutting-edge weapons of war... But even so, it remains simply a toy duck that can punch its opponents very, very hard.\nDue to the transformation caused by the extreme Ley Line disorder, the projection of this mechanism has evolved into a mobile factory fully loaded with armor and weaponry. One wrong move, and a swarm of Stamping Devices will overwhelm the challenger like a tsunami...",
+    "1008061": "This gecko, an ancient monster drawn to moonlight, dwells deep within the rock. The gradual accumulation of kuuvahki in its body has crystallized it into segments as precise as mechanical components. These parts can turn into stony spikes against enemies.\nDue to the effects of extreme Ley Line disturbances, its kuuvahki-affected segments have grown wildly, intertwining into a vast web that appears intent on devouring the mountain range whole.",
+    "1009061": "A lone wolf estranged from the local pack, with its teal mane indicating a bloodline from a faraway land.\nIn the wake of the Ley Lines' chaotic surging, the memories of its ancestors have been warped into a horrific curse. A frigid hatred now permeates its very being, ruthlessly driving the beast to tear asunder anything, and everything within its sight.",
+    "1009063": "A shadow construct born from the overflow of the mighty primordial being, a Watcher who once dwelt in the highest heavens, yet was cast down into the mortal realm for daring to open its eye. It possesses the power to monitor and counter elemental attacks.\nUnder the onslaught of turbulent Ley Lines and a chaotic flood of corrupted information, its once-arrogant nature has warped into pure destructive impulse, driving it to annihilate everything within its sight.",
+    "1010061": "This was originally just a device developed to assist in lunar research. Later, however, it was granted powers and responsibilities far beyond its original purpose.\nAs the Ley Line disturbance has warped and corrupted it over time, its core and detection devices have become completely overwritten. The original purpose for which it was designed is all but gone. All that drives it now is a destructive will that drives endless machine hordes forward to drown all life.",
+    "1010063": "A machine used in the building of old ruins. The masters of those ancient domains used this machine that could change its shape for various manufacturing tasks.\nAmidst the turbulent flood within the Ley Lines, its lava-resistant shell has been transformed into armor, the great might that built colossal cities now forged into titanic pincers. What was once a command to \"construct\" has been warped into a desire to \"destroy,\" driving it to complete the \"grand endeavor\" of rendering all things into rubble.",
+    "1011061": "A product of bio-alchemy, one of the abandoned man-made monsters.\nIn the Ley Lines' utterly warped reflection, its command over the elements has grown ever more violent. Lightning and stormwinds surge and roar at its bidding, leaving nothing in their wake...",
+    "1011062": "An elite agent of the Fatui. Depending on her orders and mission objectives, she may advance and retreat alongside soldiers, or act alone or with \"embedded assets\" planted across the land to conduct intelligence gathering, counter-reconnaissance, escort, assassination, and other operations.\nTragically, amid the deadly chaos of the disordered Ley Lines, the Operative's sense of self has been consumed by the erosion of the turbulent currents. All that remains is a battle-worn shell, acting on instinct alone and turning her cold blade upon all who dare approach...",
+    "1012061": "An ice sculptor with a body honed through countless trials, capable of shaping Prime Ice by wielding Anemo energy as hammer and chisel.\nTwisted by Ley Line currents even more appalling than his own artistic taste, the sculptor has succumbed to a frenzy of irrepressible inspiration. He now seeks to carve flesh and bone with howling gales and seal souls within unbreakable Prime Ice, eager to turn every intruder before him into the latest masterpiece in this exhibition of calamity.",
+    "1012063": "An ancient Snegovik held in high esteem by her clan, she was once entrusted with the lifelong duty of protecting her people.\nWarped by the turbulent flood within the Ley Lines, the hollow delusion she once called \"protection\" has been stripped down to a pure instinct for slaughter. Concealed within the shadow of the Ice Coffin, she lies in wait, ready at any moment to become an elusive, razor-sharp blade of ice and tear apart any living thing that ventures near.",
+    "1013061": "A Volkodlak of unparalleled power, created to fulfill the grand dream an ancient civilization had of free underwater exploration.\nUnder the frenzied influence of the distorted Ley Lines, the peerless bloodline slumbering within it has spiraled completely out of control. Its physical form not only defies the crushing limits of deep-sea pressure, but now surges with a savage, overwhelming power capable of contending head-on with invisible, dark currents. Now, with its reason utterly consumed, it is hell-bent on shredding everything within its sight to dust."
+  },
+  "mechanics": {
+    "1001061": [
+      {
+        "name": "Twin Half-Tulpas",
+        "text": "Affected by the Ley Line disturbance, <color=#FFD780FF>2 Half-Tulpas</color> will emerge during the challenge at intervals. After some time, the Hydro Tulpa will absorb Half-Tulpas to <color=#FFD780FF>enhance itself</color>: <color=#FFD780FF>It will heal a large amount of HP</color> and grow larger, its ATK will increase, and it will launch more dangerous attacks.\nUse attacks or Elemental Reactions to destroy the Half-Tulpas in time or <color=#FFD780FF>Freeze</color> them to interrupt this absorption."
+      },
+      {
+        "name": "Torrential Flurry",
+        "text": "Affected by the Ley Line disturbance, the Hydro Tulpa will deploy a Shield during the challenge and enter a charging state as it prepares to launch Torrential Flurry. If it is successfully unleashed, <color=#FFD780FF>your current active character will be immediately defeated</color>.\nWhen the Hydro Tulpa deploys its Shield, all party members' Elemental Skill and Burst CDs will be reset, while their Elemental Energy, Fighting Spirit, and Serpent's Subtlety will be restored. Breaking the Shield before the Hydro Tulpa can charge up will interrupt Torrential Flurry."
+      }
+    ],
+    "1001062": [
+      {
+        "name": "Dual Pyroclast",
+        "text": "Starts in the Geohuman form, which possesses <color=#FFD780FF>higher All Elemental and Physical RES</color>. After it takes a certain number of <color=#FF9999FF>Pyro DMG</color> instances, it will completely enter its Molten Dragon form, in which <color=#FFD780FF>All Elemental and Physical RES apart from Pyro RES is greatly decreased</color>. After it goes on to take <color=#FF9999FF>Pyro DMG</color>, it will progressively take additional DMG. If it takes a certain number of additional <color=#FF9999FF>Pyro DMG</color> instances while in Molten Dragon form, it will enter Overburn, falling down and becoming immobilized. This will also cause its <color=#FFD780FF>All Elemental and Physical RES to be further decreased</color>. After being immobilized for a time, it will return to Geohuman form."
+      },
+      {
+        "name": "Cooldown Effect",
+        "text": "After taking <color=#80C0FFFF>Hydro DMG</color> or <color=#99FFFFFF>Cryo DMG</color>, it will gradually return to the higher-RES Geohuman form."
+      },
+      {
+        "name": "Roiling Agglomeration",
+        "text": "Affected by the Ley Line disturbance, this great foe has its All RES further increased, and the number of Pyro DMG instances it must take to change form is increased."
+      }
+    ],
+    "1001063": [
+      {
+        "name": "Preemptive Sweeper Mode",
+        "text": "Will immediately enter Sweeper Mode when combat starts: <color=#FFD780FF>All Elemental and Physical RES is greatly increased</color>, and it will generate Flow Momentum while performing attacks. The higher its Flow Momentum, the faster it will rotate and the more DMG it will deal.\nIt will lose Flow Momentum after taking <color=#99FFFFFF>Cryo DMG</color>. Below a certain Flow Momentum value, it will stop rotating and attacking, and its <color=#FFD780FF>All Elemental and Physical RES will be greatly decreased</color>, with its <color=#99FFFFFF>Cryo RES</color> <color=#FFD780FF>decreasing still more</color>.\nEach time it enters Sweeper Mode, it will produce additional Elemental Orbs the first time its rotating attacks are stopped."
+      },
+      {
+        "name": "Forced Counterstrike Mode",
+        "text": "If an active character enters and maintains the <color=#FFD780FF>Nightsoul's Blessing</color> state for a time, this opponent will enter Forced Counterstrike Mode and switch to attacking with powerful tracking rays. At this time, its <color=#FFD780FF>All Elemental and Physical RES will be decreased</color>.\nIn this state, after it takes a certain number of <color=#99FFFFFF>Cryo DMG</color> instances, it will cease attacking altogether and its <color=#FFD780FF> All Elemental and Physical RES will be further decreased</color>."
+      },
+      {
+        "name": "Damage-Resistant Structure",
+        "text": "Affected by the Ley Line disturbance, this great foe has its All RES further increased, and it loses less Flow Momentum when struck by <color=#99FFFFFF>Cryo DMG</color>. It will also lose less RES when in Forced Counterstrike Mode."
+      }
+    ],
+    "1002061": [
+      {
+        "name": "Tenebrous Mimesis",
+        "text": "It can warp itself and transform into a formidable foe to attack."
+      },
+      {
+        "name": "Attrition Assault",
+        "text": "Some attacks will inflict the stackable \"Attrition\" state, which will cause your own active party member to lose HP after a certain amount of time passes."
+      },
+      {
+        "name": "Shadow Void Aegis",
+        "text": "Affected by the Ley Line disturbance, the Tenebrous Papilla will deploy a Void Ward while initiating attacks. Perform <color=#FFD780FF>a certain number of Elemental attacks</color> to break the Ward. Once the Void Ward is broken, the Tenebrous Papilla will receive a single instance of immense DMG based on the DMG absorbed by the Ward and enter a weakened state for an extended period of time. <color=#FFD780FF>Nightsoul-aligned Elemental attacks</color> are more effective at breaking the Ward and will increase the DMG dealt when the Ward is broken. After being in the weakened state for a while, the Tenebrous Papilla will attempt to re-deploy its Void Ward."
+      },
+      {
+        "name": "Hatefully Beseech the Dark",
+        "text": "Affected by the Ley Line disturbance, if the Void Ward remains unbroken for too long, the Tenebrous Papilla will initiate Hatefully Beseech the Dark: Enters a charging state, which, if the Void Ward continues to remain unbroken, will conclude with the Tenebrous Papilla unleashing a Wrathful Dark Bombardment, <color=#FFD780FF>immediately defeating your current active character</color>."
+      }
+    ],
+    "1002062": [
+      {
+        "name": "Thunderthorn Ward",
+        "text": "After taking <color=#FFD780FF>a certain number of attacks</color>, it will deploy a \"Thunderthorn Ward\": While the Ward is active, DMG will be reflected to nearby characters when it is attacked. The Ward can be broken by using Elemental Reactions to <color=#FFD780FF>drain the Ward of Electro</color>."
+      },
+      {
+        "name": "Thunderous Attrition",
+        "text": "Affected by the Ley Line disturbance, every time the foe is attacked, its progress toward deploying a Thunderthorn Ward will increase by a greater amount, but that progress will also gradually decrease over time. In addition, the Elemental requirements for breaking the Thunderthorn Ward are greatly increased."
+      }
+    ],
+    "1002063": [
+      {
+        "name": "Hat Show",
+        "text": "During battle, the entity will create multiple hats and hide within one of them, then rapidly switch the positions of these hats. After a certain number of switches, if <color=#FFD780FF>the hat that conceals the entity takes Electro-Charged or Lunar-Charged damage</color>, the entity will temporarily halt all hat-swapping actions.\nDeal a certain amount of DMG to <color=#FFD780FF>the hat concealing the entity</color> to break all of the hats, causing the entity to reveal itself, receive a single instance of immense DMG, and temporarily enter a weakened state. <color=#FFD780FF>Electro-Charged or Lunar-Charged reactions</color> are more effective at breaking the hat. The DMG received by the entity when the hat breaks will increase based on the <color=#80C0FFFF>Hydro DMG</color>, <color=#FFACFFFF>Electro DMG</color>, <color=#FFD780FF>Electro-Charged DMG, or Lunar-Charged DMG</color> the hat has taken."
+      },
+      {
+        "name": "Hat Denial",
+        "text": "Affected by the Ley Line disturbance, the foe will unleash a powerful \"Hat Denial\" attack: Continuously hurls hats that deal <color=#FFACFFFF>high Electro DMG</color> and have <color=#FFD780FF>powerful interruption capabilities</color>."
+      }
+    ],
+    "1003061": [
+      {
+        "name": "Emergency Countermeasures",
+        "text": "Affected by the Ley Line disturbance, every time DMG equaling a certain percentage of its HP is taken, a torrent of energy will be unleashed, and the creature will change form in response to the type of Elemental DMG it has suffered the most during that period, <color=#FFD780FF>significantly increasing its Elemental RES to that Element</color>."
+      },
+      {
+        "name": "Multi-Combat Mechanics",
+        "text": "Affected by the Ley Line disturbance, the creature will start combat in the ground-attack state. If it fails to release a torrent of energy for a long enough time, it will switch to the aerial-attack state to continue combat."
+      },
+      {
+        "name": "Core Armor Compartment",
+        "text": "Affected by the Ley Line disturbance, the creature's many cores are now protected, and it will no longer be paralyzed when they are attacked, nor will its Elemental RES boost be removed."
+      }
+    ],
+    "1003062": [
+      {
+        "name": "Stoneborne Seeds",
+        "text": "In battle, Stoneborne Seeds will be scattered across the battlefield before exploding after a short delay. If these seeds take <color=#FFD780FF>Bloom, Hyperbloom, Lunar-Bloom, or Burgeon DMG</color> before they explode, they will undergo conversion and turn their attacks toward the Rock Crab instead, dealing DMG based on the total amount of DMG they themselves received."
+      },
+      {
+        "name": "Flammable Hermit",
+        "text": "Affected by the Ley Line disturbance, Stoneborne Seeds will violently explode after taking Pyro DMG, knocking characters back and dealing massive DMG."
+      },
+      {
+        "name": "Almighty Tsarly Bombardment",
+        "text": "Affected by the Ley Line disturbance, after the battle begins, the Rock Crab will leap into the air, scatter a large number of Stoneborne Seeds, and then begin charging up. It will detonate the Stoneborne Seeds, dealing DMG over a wide area, <color=#FFD780FF>immediately defeating your current active character</color> and greatly increasing its own All RES for a period of time. While charging, the Rock Crab will deploy a Ward, which can be broken by <color=#FFD780FF>converting a certain amount of Stoneborne Seeds</color>. Breaking its Ward will interrupt the Rock Crab's charging and leave it paralyzed."
+      }
+    ],
+    "1003063": [
+      {
+        "name": "Multi-Shield",
+        "text": "In battle, the opponent will deploy a special Experimental Multi-Shield to protect themselves while they prepare to activate Thundering Suite. The Shield will repair itself by a certain amount at regular intervals. Destroying all 3 layers of the Shield will prevent Thundering Suite's activation and paralyze the opponent. <color=#FFD780FF>Electro-Charged and Lunar-Charged DMG</color> are more effective at destroying the Shield. Each layer of the Shield that is destroyed will cause a single instance of massive damage to be dealt to the opponent, while generating additional Elemental Orbs."
+      },
+      {
+        "name": "Thundering Barrage",
+        "text": "When Thundering Suite is activated, it will deal Electro DMG over a large AoE and then unleash continuous Electro attacks for a period of time. If you successfully prevent the suite's activation, the opponent's equipment will malfunction, causing their <color=#FFD780FF>Electro RES to be greatly decreased</color>."
+      },
+      {
+        "name": "Emergency Power Surge",
+        "text": "Affected by the Ley Line disturbance, the Experimental Multi-Shield increases All RES except Electro, and its self-repairing abilities are boosted. However, after taking <color=#FFD780FF>Electro-Charged or Lunar-Charged DMG</color>, its rate of self-repair will be greatly reduced. Once activated, the DMG dealt by Thundering Suite is greatly increased, as is the duration of its attacks."
+      }
+    ],
+    "1004061": [
+      {
+        "name": "Gloomveiled",
+        "text": "Will enter a Gloomveiled state while in combat: <color=#FFD780FF>All RES is greatly increased</color>. After taking <color=#FFD780FF>a certain number of DMG instances</color>, it will exit the Gloomveiled state and change its Elemental Type to the element whose DMG it received the most during the time it was Gloomveiled, thereby <color=#FFD780FF>gaining the corresponding Elemental DMG Immunity and Elemental Effects</color>."
+      },
+      {
+        "name": "Purest Moonglow",
+        "text": "<color=#FFD780FF>Lunar Reaction DMG</color> is more effective when breaking the Gloomveiled state. If it has taken more Lunar Reaction DMG when it exits the Gloomveiled state, its Elemental Type will change to Elementless, and it <color=#FFD780FF>will not gain any Elemental DMG Immunity or Elemental Effects</color>."
+      }
+    ],
+    "1004062": [
+      {
+        "name": "Wandering Lament",
+        "text": "Begins the battle in the \"Roaming\" state. When its HP is completely depleted, it will enter the \"Wild Hunt\" state."
+      },
+      {
+        "name": "Grief-Stricken",
+        "text": "When in the Wild Hunt state, even if its HP is reduced to zero, it will regain its HP up to its maximum after a period of time. It can only be defeated when its Max HP is reduced to zero. <color=#FFD780FF>Drain its HP completely or use Skills enhanced by Moonsign: Ascendant Gleam</color> to send it into a brief Grief-Stricken state. A certain ratio of the DMG dealt to it while in this state will be converted to reduce its Max HP. If you have Moonsign: Ascendant Gleam, this ratio will be increased."
+      },
+      {
+        "name": "Exiles Surge",
+        "text": "When in the Wild Hunt state, Wilderness Exiles will appear periodically. If you fail to defeat all of these exiles within a certain period of time, your foe will perform a harvest, dealing massive AoE DMG and slaughtering the Wilderness Exiles, restoring its own Max HP based on the remaining Max HP of the exiles. Affected by the Ley Line disturbance, the Wilderness Exiles' Max HP is increased, and the ratio at which the foe's Max HP is restored upon harvesting the exiles is higher."
+      }
+    ],
+    "1004063": [
+      {
+        "name": "Rapid Kill",
+        "text": "Consumes a certain percentage of HP in combat to use Hunt Down: When this hits a character, it restores a certain percentage of the foe's HP and attaches a Bond of Life to the character hit. While Bond of Life is active, the affected character will take continuous DMG. Characters with Bond of Life attached will take increased DMG from this attack."
+      },
+      {
+        "name": "Bloody Pursuit",
+        "text": "Affected by the Ley Line disturbance, the foe possesses greater interruption capabilities and interruption resistance. When preparing to use Hunt Down, it will enter the Bloody Pursuit state, creating a Shield to protect itself. While the Shield is active, the foe will <color=#FFD780FF>continuously attach Bonds of Life to all characters</color>. After the Shield is broken, the foe will take immense DMG."
+      }
+    ],
+    "1005061": [
+      {
+        "name": "Elemental Ward: Frenzied Chaos",
+        "text": "Affected by the Ley Line disturbance, after the battle begins, the foe will sequentially deploy <color=#FFD780FF>Electro, Pyro, and Hydro Wards</color> to protect itself, while adjusting its attacks to match the corresponding element. <color=#FFD780FF>Breaking a Ward using Elemental Reactions</color> will deal immense DMG to the foe, based on the <color=#FFD780FF>amount of DMG the Ward absorbed</color>, forcing it to shift to another elemental form and deploy the corresponding Ward. Breaking all three Wards will cause the foe to be temporarily paralyzed."
+      }
+    ],
+    "1005062": [
+      {
+        "name": "Sonic Shockwave: Sonorous Sequence",
+        "text": "Affected by the Ley Line disturbance, the foe gains increased All RES. During battle, it leaps into the air more frequently, temporarily hovering in place and continuously unleashing powerful sonic shockwaves while airborne."
+      },
+      {
+        "name": "Frosthail Execution: Sweeping Strike",
+        "text": "During battle, the foe will deploy a <color=#FFD780FF>Cryo Ward</color> for protection and leap into the air to charge up Frosthail Execution. After a period of time, it will unleash Frosthail Execution and <color=#FFD780FF>instantly defeat your active character</color>. <color=#FFD780FF>Break the Ward with Elemental Reactions</color> to knock the foe to the ground, interrupt its attack preparation, and deal a single instance of massive DMG based on the <color=#FFD780FF>amount of DMG the Ward absorbed</color>. While the foe is preparing its attack, all characters in your party will <color=#FFD780FF>regain Elemental Energy, Fighting Spirit, or Serpent's Subtlety</color>. If, after a period of time, the Ward has not been broken, Frosthail Zones will appear on the ground: <color=#FFD780FF>Triggering Elemental Reactions to destroy each Frosthail Zone</color> can also weaken and eventually break the Cryo Ward."
+      },
+      {
+        "name": "Disruption Vortex",
+        "text": "Affected by the Ley Line disturbance, when the foe begins charging up Frosthail Execution, a Disruption Vortex will appear on the field, dealing AoE Cryo DMG to <color=#FFD780FF>both allies and enemies</color>. If the vortex hits the foe, the foe's <color=#FFD780FF>Anemo RES</color> will be reduced and its Ward will be depleted.\nAdditionally, the Disruption Vortex can also be affected by pull effects, which may alter its movement path."
+      }
+    ],
+    "1005063": [
+      {
+        "name": "Gravitational Core: Critical Depth",
+        "text": "Affected by the Ley Lines disturbance, the foe generates a Gravity Reduction Field during combat, greatly increasing characters' jump height. Each time a character reaches a certain height, their ATK is significantly increased for 1.5s. When the field is active, <color=#FFD780FF>gravitational shockwaves that cannot be dodged periodically erupt on the ground</color>. The strength and frequency of these shockwaves will gain 1 stack of enhancement every 5s. Each <color=#FFD780FF>Plunging Attack</color> received will remove 1 stack of enhancement."
+      },
+      {
+        "name": "Resilient Core",
+        "text": "Affected by the Ley Line disturbance, the Ousia core grows more robust, and the Gravity Reduction Field will remain active even after receiving <color=#FFD780FF>3 Pneuma attacks</color>."
+      }
+    ],
+    "1006061": [
+      {
+        "name": "Deepdark Shield: Deeproot Blight",
+        "text": "Affected by the Ley Line disturbance, the Lord of the Hidden Depths: Whisperer of Nightmares gathers Abyssal energy to create an extremely durable protective shield. <color=#FFD780FF>Lunar Reaction DMG</color> is more effective at destroying this shield. When the powerful opponent deploys a shield, the first time the shield takes Lunar reaction DMG, it generates an additional Elemental Orb. When the shield is destroyed, the Lord of the Hidden Depths: Whisperer of Nightmares takes a single instance of immense DMG and temporarily enters a weakened state."
+      },
+      {
+        "name": "Rift Assault",
+        "text": "Affected by the Ley Line disturbance, the Lord of the Hidden Depths: Whisperer of Nightmares will enter a lengthy charging state and summon multiple Fishers of Hidden Depths. Once it has fully charged, it will deal DMG over a large AoE and devour all Fishers. Defeat Fishers before this happens to destroy the Shield and interrupt the Lord of the Hidden Depths: Whisperer of Nightmares' charging."
+      }
+    ],
+    "1006063": [
+      {
+        "name": "Molten Crown",
+        "text": "The twin molten horns located high up on the body of the Emperor of Fire and Iron are <color=#FFD780FF>Pyro-aligned</color> organs that enable it to unleash more vicious elemental attacks and grant it even stronger defensive capabilities. When unleashing certain attacks, its twin molten horns will <color=#FFD780FF>stay close to the ground</color>, providing an opportunity to <color=#FFD780FF>use Elemental Reactions to destroy them</color>. Once the Pyro element stored within the twin molten horns is exhausted, they will be destroyed, causing the powerful foe to take a single instance of immense DMG. Once destroyed, the horns cannot be restored for a period of time."
+      },
+      {
+        "name": "Shield Bearers",
+        "text": "Affected by the Ley Line disturbance, the Emperor of Fire and Iron will summon Sternshield Crabs to assist during battle. Sternshield Crabs continuously channel Pyro to the twin molten horns. Once their Pyro is exhausted, the Sternshield Crabs will be defeated. Once a Sternshield Crab is defeated, it will lose control and collide with the Emperor of Fire and Iron, overloading the Pyro element within its twin molten horns and damaging them, causing the Emperor of Fire and Iron to take DMG proportional to the DMG the Sternshield Crab itself has received. A maximum of three Sternshield Crabs can be on the field at once."
+      },
+      {
+        "name": "Radiant Coronation",
+        "text": "Affected by the Ley Line disturbance, the Emperor of Fire and Iron will perform Radiant Coronation in battle, charging briefly before dealing DMG over a large AoE. Destroy the twin molten horns to interrupt its charging."
+      }
+    ],
+    "1007061": [
+      {
+        "name": "Powerful Agglomerated State",
+        "text": "Affected by the Ley Line disturbance, when battle begins, this Nemesis enters the Agglomerated State, during which <color=#FFD780FF>all RES is dramatically increased</color>. While in this state, the Nemesis's Agglomeration Energy is constantly consumed. Dealing <color=#FFD780FF>Pyro or Electro</color> DMG to the Nemesis drains this energy more quickly. When its Agglomeration Energy is fully depleted, the Nemesis unleashes Sporebloom and switches to the Split State."
+      },
+      {
+        "name": "Split State",
+        "text": "When this Nemesis enters the Split State, it splits into a large number of spores. When these spores take damage, a certain percentage of the total damage is also dealt to the Nemesis. After remaining in the Split State for a period of time, the Nemesis will return to the Agglomerated State. In this case, if the number of spores on the field falls below a certain number, the Nemesis will enter the Brittle Agglomerated State, during which <color=#FFD780FF>all RES is greatly reduced</color> and its combat abilities are diminished. Additionally, if all spores generated in Split State are defeated, the Nemesis will exit the Split State early and go into the Brittle Agglomerated State instead."
+      },
+      {
+        "name": "Hollow Structure",
+        "text": "Affected by the Ley Line disturbance, when this Nemesis is in the Split State or the Brittle Agglomerated State, its <color=#FFD780FF>Anemo RES is greatly reduced</color>."
+      }
+    ],
+    "1007062": [
+      {
+        "name": "Heavy Duckstruction Mode",
+        "text": "Due to the effects of the Ley Line disturbance, when battle begins, this Nemesis will go into Heavy Duckstruction Mode, in which its aggression increases. It also generates a Ward for itself <color=#FFD780FF>that increases all RES</color>, and summons floating Stamping Devices to harass you."
+      },
+      {
+        "name": "Low-Resistance Stamping Devices",
+        "text": "<color=#FFD780FF>Deal Electro-Charged or Lunar-Charged DMG repeatedly, or simply deal enough damage to destroy the stamping devices</color> to disrupt them. Disrupted devices will lose control and crash into the Knuckle Duckle, dealing a certain amount of damage to its Ward. Destroying the Nemesis's Ward this way will cause it to exit Heavy Duckstruction Mode and become incapacitated from Overloaded. This will also <color=#FFD780FF>greatly reduce the Nemesis's Electro RES for a certain time</color>."
+      },
+      {
+        "name": "Fast Frequency-Hopping System",
+        "text": "Due to the effects of the Ley Line disturbance, the stamping devices become more resilient — deal <color=#FFD780FF>more instances of Electro-Charged or Lunar-Charged DMG</color> or <color=#FFD780FF>more damage</color> to these devices to disrupt them. <color=#FFD780FF>Electro-Charged or Lunar-Charged DMG</color> dealt to stamping devices will be more effective, and when they lose control and crash into the Knuckle Duckle, the damage dealt to the latter increases based on <color=#FFD780FF>the total damage taken</color> by the devices."
+      }
+    ],
+    "1008061": [
+      {
+        "name": "Vagrant Reverberation",
+        "text": "After the battle begins, the Nemesis leaves a Moonstone Anchor in its place before leaping to higher ground to prepare for Vagrant Reverberation. Some time later, it unleashes a large and powerful AoE strike. Use <color=#FFD780FF> methods suited to dealing with Geo</color> to break through the multiple Geo ward layers on the Moonstone Anchor. Destroying it interrupts the skill's charge-up and deals massive DMG to the Nemesis. The more DMG the Moonstone Anchor takes during the preparation phase, the greater the DMG dealt to the Nemesis when the Moonstone Anchor is destroyed. Due to the effects of the Ley Line disturbance, using <color=#FFD780FF>Geo</color> attacks against the Moonstone Anchor further increases the DMG dealt to the Nemesis."
+      },
+      {
+        "name": "Unshakable Rock",
+        "text": "Due to the effects of the Ley Line disturbance, the Moonstone Anchor's multi-layered Geo Ward becomes more resilient."
+      },
+      {
+        "name": "Radiant Cocoon",
+        "text": "During battle, the Nemesis harnesses Geo to apply Radiant Cocoon to characters and increase its own Geo RES. Characters afflicted by Radiant Cocoon <color=#FFD780FF>deal less DMG and receive less healing</color>. <color=#FFD780FF>When a character's HP is restored to full through healing</color>, they break free from the cocoon and gain the Disentangled effect, which boosts their abilities for a short time. Once any character in the party successfully breaks free, the Nemesis loses the Geo RES granted by Radiant Cocoon."
+      }
+    ],
+    "1009061": [
+      {
+        "name": "Ancestral Wolf Spirit: Manifestation",
+        "text": "At the start of the combat, the powerful opponent will summon an \"Ancestral Wolf Spirit\" to fight by its side. Affected by the Ley Line disturbances, the opponent <color=#FFD780FF>is invulnerable to all DMG while blessed by the spirit</color>. As a spiritual entity, the \"Ancestral Wolf Spirit\" is protected by a special Cryo Ward that can only be broken by <color=#FFD780FF>Pyro or Electro Swirl Reactions</color>. Once the Ward is shattered, the spirit will vanish, leaving the opponent temporarily paralyzed and dealing massive backlash DMG. The more DMG the Ward absorbs while it is active, the greater the backlash DMG will be; furthermore, <color=#FFD780FF>Pyro and Anemo DMG</color> will further increase this backlash DMG."
+      }
+    ],
+    "1009063": [
+      {
+        "name": "Oversight of Vigil",
+        "text": "When combat begins, the Open-Eyed will enter the \"Oversight of Vigil\" state. While in this state, it tracks the number of times it takes <color=#FFD780FF>Pyro/Hydro/Electro/Cryo</color> DMG. When the number of hits from any one element reaches 5, it will exit this state and <color=#FFD780FF>record that element as a monitored target</color>. If no element is successfully monitored, the record will remain empty, and it will instead deal a single instance of Geo DMG. After the first \"Oversight of Vigil\" ends, the enemy will re-enter this state again after a set interval. Due to the effects of the Ley Line Disturbance, the second monitoring phase lasts longer, and elements that have already been recorded will require a significantly higher number of hits to be monitored again. Due to the effects of the Ley Line Disturbance, the Open-Eyed will have increased Elemental and Physical RES during \"Oversight of Vigil.\""
+      },
+      {
+        "name": "Phenomena's Delirium",
+        "text": "After completing two rounds of Elemental Monitoring, the Open-Eyed will take to the air and begin preparing \"Phenomena's Delirium.\" It will release the previously recorded elements and summon two corresponding Active Elemental Stars. If no elements were recorded, it will instead summon Inert Elemental Stars with <color=#FFD780FF>high resistance to all elements and Physical DMG</color>. If the enemy summons two Active Elemental Stars of different elements, both stars will become easier to destroy. When an Active Elemental Star is destroyed, it deals a large amount of damage to the enemy based on the recorded element. If an Inert Elemental Star is destroyed, it instead deals Geo DMG to the enemy. <color=#FFD780FF>Destroy all Elemental Stars</color> to interrupt the preparation of \"Phenomena's Delirium.\" If both stars are not destroyed within the time limit, they will explode, dealing massive AoE damage."
+      }
+    ],
+    "1010061": [
+      {
+        "name": "Suppression Field: Energy Cycler",
+        "text": "When combat begins, the Nemesis will deploy 4 detection devices protected by <color=#FFD780FF>Hydro Wards</color>, constructing a special Suppression Field that will create a <color=#FFD780FF>Force Shield</color> for the Nemesis and increase <color=#FFD780FF>all its RES except for Cryo and Electro RES</color>. When the field has been active for some time, the Nemesis will unleash Alpha Strike, dealing AoE DMG over a massive area and retrieving all detection devices. It will then deploy a <color=#FFD780FF>Hydro Ward</color> whose absorption is based on the number of devices retrieved. Failing to retrieve any detection devices will only grant a weak Hydro Ward."
+      },
+      {
+        "name": "Force Shield",
+        "text": "Due to the Ley Line disturbance, the Nemesis' Suppression Field will fail when the Force Shield is broken, causing the Nemesis to take one instance of massive backlash DMG and enter a state of paralysis. Additionally, each time the Nemesis is <color=#FFD780FF>affected by a Superconduct or Stellar-Conduct reaction</color>, it will lose a fixed amount of Shield. <color=#FFD780FF>Superconduct and Stellar-Conduct DMG</color> is more effective at breaking its Shield and will further increase the backlash DMG it takes when the Shield is broken."
+      },
+      {
+        "name": "Detection Device: Pressurized Component",
+        "text": "Detection devices will be destroyed when <color=#FFD780FF>their Hydro Ward is broken</color> or <color=#FFD780FF>if they are Frozen and then affected by Shatter, Melt, or other Elemental Reaction DMG</color>. Due to the Ley Line disturbance, the Nemesis' Shield will be damaged for every detection device that is destroyed."
+      }
+    ],
+    "1010063": [
+      {
+        "name": "Adaptive Countermeasures: Cold Start",
+        "text": "When the battle begins, the Nemesis will be protected by <color=#FFD780FF>a strong Shield</color> and gain high All Elemental and Physical RES. When a character enters and maintains the Nightsoul's Blessing state, the Nemesis will accumulate progress toward Adaptive Countermeasures. Due to the Ley Line disturbance, after the Nemesis finishes accumulating Adaptive Countermeasures for the first time, it will lose the <color=#FFD780FF>All RES increase it gained at the start of the battle</color>, its <color=#FFD780FF>Shield</color> will be broken, and then it will take backlash DMG based on the amount of DMG absorbed by the Shield."
+      },
+      {
+        "name": "Boltsphere Cannon: High-Pressure Pumps",
+        "text": "After Adaptive Countermeasures progress fills up, the Nemesis will activate Accretion Mechanisms and excavate 2 blocks of solid Phlogiston before absorbing energy from within them to charge the Boltsphere Cannon. The Accretion Mechanisms will generate force fields to protect themselves. You must <color=#FFD780FF>climb up solid Phlogiston to get inside the force fields</color> to destroy them. After all the Accretion Mechanisms are destroyed, Boltsphere Cannon charging will be interrupted, while the Nemesis will <color=#FFD780FF>get paralyzed and simultaneously take backlash DMG</color>. Due to the Ley Line disorder, Adaptive Countermeasures will accrue progress as time passes, but the threshold required to activate Boltsphere Cannon will be higher."
+      }
+    ],
+    "1011061": [
+      {
+        "name": "Thundercall: Sturdy Shield",
+        "text": "Due to the effects of the Ley Line disturbance, at the start of battle, the Nemesis will draw on the power of its Electro head to generate a <color=#FFD780FF>resilient Electro Ward</color> to protect itself. At regular intervals, the Nemesis's two heads will act in tandem, channeling Anemo power into its Electro greatsword to unleash a large Electro shockwave. If the Nemesis is under the effect of <color=#FFD780FF>Radiance: Stellar Glimmer</color> at this time, its power will be thrown into disarray and backfire, <color=#FFD780FF>damaging its Ward</color>. Once the <color=#FFD780FF>Ward is broken</color> through Elemental Reactions, the Nemesis will stop attacking from exhaustion and become paralyzed. Its <color=#FFD780FF>Cryo and Anemo RES will also be greatly reduced</color>, and it will take a single instance of high backlash DMG based on the DMG blocked by the Ward. <color=#FFD780FF>Stellar Glimmer reaction DMG</color> will increase the backlash DMG the Nemesis takes when the Ward is broken."
+      },
+      {
+        "name": "Galeforce: Fierce Assault",
+        "text": "Due to the effects of the Ley Line disturbance, during battle, the Nemesis will draw on the power of its Anemo head to take to the air, circle rapidly, and attack by firing Gale Bolts. After it finishes circling, the Nemesis will create a vortex, attempting to draw in and absorb Anemo Orbs on the field to recover its power. After absorbing enough Anemo Orbs, it will take to the air once more and launch another circling attack. Anemo Orbs can be destroyed with <color=#FFD780FF>Hydro/Pyro/Electro/Cryo DMG</color>. You can also place the Nemesis under the effect of <color=#FFD780FF>Radiance: Stellar Glimmer</color> to prevent it from absorbing Anemo Orbs. If the vortex dissipates before the Nemesis has absorbed enough Anemo Orbs, it will immediately become paralyzed. Its <color=#FFD780FF>Cryo and Anemo RES will also be greatly reduced</color>."
+      }
+    ],
+    "1011062": [
+      {
+        "name": "Rapid Kill",
+        "text": "Consumes a certain percentage of HP in combat to use Hunt Down: When this hits a character, it restores a certain percentage of her HP and attaches a Bond of Life to the character hit. While Bond of Life is active, the affected character will take continuous DMG. Characters with Bond of Life attached will take increased DMG from this attack."
+      },
+      {
+        "name": "Bloody Pursuit: Treacherous",
+        "text": "Affected by the Ley Line disturbance, the foe's interruption capabilities and interruption resistance are both greatly increased. When her stance breaks in midair, she can immediately teleport away and quickly regain her footing. When preparing to use Hunt Down, she will enter the Bloody Pursuit state, creating a Shield to protect herself. While the Shield is active, the foe will <color=#FFD780FF>continuously attach Bonds of Life to all characters</color>. After the Shield is broken, the foe will take immense DMG."
+      }
+    ],
+    "1012061": [
+      {
+        "name": "Big-Mouthed Jack Frost",
+        "text": "When battle begins, the Nemesis will harness Anemo energy to create a Prime Ice sculpture. After a short delay, the sculpture will transform into a Big-Mouthed Jack Frost that continuously launches snowballs.\nInflict <color=#FFD780FF>Radiance: Stellar Glimmer</color> on the Nemesis while it is creating the sculpture to interrupt the process and turn the ice sculpture into a harmless animal statue instead."
+      },
+      {
+        "name": "Creative Frenzy",
+        "text": "Due to the effects of the Ley Line disturbance, the Nemesis will <color=#FFD780FF>start the battle with greatly increased All Elemental RES and Physical RES</color> and will create Prime Ice sculptures more frequently.\nAfter an ice sculpture is transformed into a small animal statue, it will explode following a brief delay, dealing damage to the Nemesis and <color=#FFD780FF>reducing its All Elemental RES and Physical RES, while further reducing its Anemo RES</color>. This effect can <color=#FFD780FF>stack up to 3 times</color>."
+      }
+    ],
+    "1012063": [
+      {
+        "name": "Ice Coffin: Twinned Crystal Lattice",
+        "text": "During battle, when the Nemesis's HP falls below a certain threshold, it will encase itself in an Ice Coffin and gain a <color=#FFD780FF>Cryo Ward</color> to protect itself.\nWhile the Ice Coffin is active, the Nemesis will continuously unleash icy storms around itself. If the Ice Coffin is not destroyed, the Nemesis restores a portion of its HP and creates ice swords to launch a counterattack. However, if the Ice Coffin sustaining its life is destroyed, it enters a weakened state for a period of time and takes backlash DMG. Due to the Ley Line disturbance, <color=#FFD780FF>the Ice Coffin will be more durable</color>. A short time after it is destroyed for the first time, the Nemesis will <color=#FFD780FF>encase itself in another Ice Coffin</color>."
+      },
+      {
+        "name": "Ice Coffin: Warped Crystal Lattice",
+        "text": "While the <color=#FFD780FF>Ice Coffin is active</color>, if the Nemesis is affected by <color=#FFD780FF>Radiance: Stellar Glimmer</color>, <color=#FFD780FF>the Ice Coffin's Cryo Ward will transform into a shield that absorbs DMG</color>. Once the shield is destroyed, the Nemesis will take a large amount of backlash DMG."
+      }
+    ],
+    "1013061": [
+      {
+        "name": "Courage Against the Cold: Hearty Draught",
+        "text": "Due to the effects of the Ley Line disturbance, this Nemesis will periodically take out a flask and drink deeply, gaining a large amount of Courage in the process. If it is affected by <color=#FFD780FF>Radiance: Stellar Glimmer</color> while drinking, it will gain Courage at a reduced rate. Dealing <color=#FFD780FF>Electro DMG</color> to it will also reduce its Courage. <color=#FFD780FF>Electro DMG considered to be DMG from the corresponding Stellar Glimmer Reaction</color> will reduce Courage by a significantly greater amount."
+      },
+      {
+        "name": "Valiant Assault",
+        "text": "Due to the effects of the Ley Line disturbance, once the Nemesis's Courage is full, they will enter the Valiant Assault state. While in this state, their attacks will become more ferocious. They will also <color=#FFD780FF>generate a shield and greatly increase all Elemental and Physical RES other than Electro RES, which will receive a small increase.</color>. While Valiant Assault is active, the Nemesis's Courage will be continuously consumed. <color=#FFD780FF>Electro DMG will also drain more Courage than usual</color>. It will exit this state and suffer massive backlash DMG once its Courage is depleted. The more DMG its shield absorbs during Valiant Assault, the greater the backlash DMG it will suffer when the state ends. <color=#FFD780FF>Stellar Glimmer reaction DMG</color> will increase the backlash DMG taken when the Shield is broken."
+      }
+    ]
+  },
+  "tags": {
+    "1001061": {
+      "good": "{SPRITE_PRESET#11003} characters",
+      "bad": "{SPRITE_PRESET#11002} characters"
+    },
+    "1001062": {
+      "good": "{SPRITE_PRESET#11007}{SPRITE_PRESET#11003} characters",
+      "bad": "{SPRITE_PRESET#11001}{SPRITE_PRESET#11002} characters"
+    },
+    "1001063": {
+      "good": "{SPRITE_PRESET#11001} characters"
+    },
+    "1002061": {
+      "good": "High-frequency Elemental DMG | Nightsoul-aligned DMG"
+    },
+    "1002062": {
+      "good": "Low-frequency DMG",
+      "bad": "High-frequency DMG"
+    },
+    "1002063": {
+      "good": "{SPRITE_PRESET#11034} reactions | Shields"
+    },
+    "1003061": {
+      "good": "Multi Elemental DMG",
+      "bad": "Single Elemental DMG"
+    },
+    "1003062": {
+      "good": "{SPRITE_PRESET#11029} reactions",
+      "bad": "{SPRITE_PRESET#11003} characters"
+    },
+    "1003063": {
+      "good": "{SPRITE_PRESET#11034} reactions | {SPRITE_PRESET#11004} characters"
+    },
+    "1004061": {
+      "good": "High-frequency Elemental DMG | Multi Elemental DMG | Lunar Reaction DMG"
+    },
+    "1004062": {
+      "good": "Moonsign: Ascendant Gleam"
+    },
+    "1004063": {
+      "good": "Bond of Life Characters | Shield Characters"
+    },
+    "1005061": {
+      "good": "{SPRITE_PRESET#11001}{SPRITE_PRESET#11002}{SPRITE_PRESET#11007} characters"
+    },
+    "1005062": {
+      "good": "{SPRITE_PRESET#11003} characters | Ranged Characters | Crowd-control Characters",
+      "bad": "Melee Characters"
+    },
+    "1005063": {
+      "good": "Plunging-Attack Characters"
+    },
+    "1006061": {
+      "good": "Lunar Reaction DMG"
+    },
+    "1006063": {
+      "good": "{SPRITE_PRESET#11002} characters",
+      "bad": "{SPRITE_PRESET#11003} characters"
+    },
+    "1007061": {
+      "good": "{SPRITE_PRESET#11003}{SPRITE_PRESET#11004} Characters | Crowd Control Characters"
+    },
+    "1007062": {
+      "good": "{SPRITE_PRESET#11034} Reactions  | {SPRITE_PRESET#11004} Characters"
+    },
+    "1008061": {
+      "good": "{SPRITE_PRESET#11006} Characters | Healing Characters"
+    },
+    "1009061": {
+      "good": "{SPRITE_PRESET#11028}{SPRITE_PRESET#11024} reactions have an advantage"
+    },
+    "1009063": {
+      "good": "{SPRITE_PRESET#11027}{SPRITE_PRESET#11035} reactions have an advantage"
+    },
+    "1010061": {
+      "good": "{SPRITE_PRESET#11001} {SPRITE_PRESET#11004} Characters  |  Ranged Characters",
+      "bad": "{SPRITE_PRESET#11002} Characters  |  Melee Characters"
+    },
+    "1010063": {
+      "good": "Nightsoul's Blessing Characters"
+    },
+    "1011061": {
+      "good": "{SPRITE_PRESET#11022} Reactions  | {SPRITE_PRESET#11001} Characters"
+    },
+    "1011062": {
+      "good": "Bond of Life Characters | Shield Characters"
+    },
+    "1012061": {
+      "good": "Stellar Glimmer characters  | {SPRITE_PRESET#11005} characters"
+    },
+    "1012063": {
+      "good": "Stellar Glimmer characters  | {SPRITE_PRESET#11003} characters"
+    },
+    "1013061": {
+      "good": "Stellar Glimmer characters  | {SPRITE_PRESET#11004} characters"
+    }
+  },
+  "season": {
+    "5269001": "Incursion Repeller",
+    "5269002": "Savage Onslaught",
+    "5269003": "Terrorshock Blitz",
+    "5269004": "Sweeping Assault",
+    "5269005": "Tremorfall Trial",
+    "5269006": "Blightpurge Battle",
+    "5269007": "Crush and Obliterate",
+    "5269008": "Battle of Shattered Jade",
+    "5269009": "Battle of the Howling Cyclone",
+    "5269010": "Savage Tremors",
+    "5269011": "Battle of the Starburst",
+    "5269012": "Luminous Battlefront",
+    "5269013": "Battle Amid the Great Waves"
+  }
+}
