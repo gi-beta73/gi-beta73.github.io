@@ -1,1 +1,0 @@
-import{o as e}from"./rolldown-runtime-C0FnF6B9.js";import{Lr as t}from"./useTranslation-C0CXZ-Cu.js";import{s as n}from"./Artifacts-DQRKR-Et.js";import{t as r}from"./useDatabase-yHpkB7qh.js";var i=(0,e(t()).createContext)({});function a(e=``){let t=r();return n(t.weapons,e)}export{i as n,a as t};
