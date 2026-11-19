@@ -12,7 +12,7 @@
     "placeholder": "Paste your Team JSON here",
     "importBtn": "Import",
     "error": {
-      "verifi": "Data verification failed.",
+      "verifi": "This file does not contain a valid team. Check the export version, member names, and roster.",
       "import": "Data Import failed.",
       "multiOpt": "This is a character's multi-target setup, not a team: import it in that character's Optimize tab"
     }
@@ -48,7 +48,7 @@
   "exportModal": {
     "msg": "Copied team data to clipboard.",
     "title": "Team Export",
-    "alert": "Export the team data to be imported by another user. All the team and loadout data (bonus stats, enemy config, optimize config) are exported. All exported non-TC builds are converted to TC builds.",
+    "alert": "Export the team data to be imported by another user. The export includes team settings, both saved team rotations, and the loadout options selected here. Exported inventory builds are converted to theorycraft builds.",
     "selAll": "Select All",
     "unselAll": "Unselect All",
     "export": "Export",
