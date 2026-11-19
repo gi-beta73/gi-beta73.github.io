@@ -14,12 +14,13 @@
     "error": {
       "verifi": "This file does not contain a valid team. Check the export version, member names, and roster.",
       "import": "Data Import failed.",
+      "json": "This is not a team’s JSON: paste the whole text that Export team copied.",
       "multiOpt": "This is a character's multi-target setup, not a team: import it in that character's Optimize tab"
     }
   },
   "teamDelModal": {
     "teamName": "Delete Team:",
-    "alert": "Removing the team will remove: resonance buffs, and enemy configs stored in the team. Loadouts that are only in this team are also selected by default for deletion.",
+    "alert": "Deleting the team also deletes its rotations, its Team optimize and KQM results, and its buffs and enemy settings. Loadouts used only by this team are ticked to be deleted too: untick any you want to keep.",
     "delBtn": "Delete",
     "onlyCrrTeam": "Only in current team",
     "usingMltTeams": "In {{count}} teams"
@@ -137,7 +138,8 @@
       "unusedHint": "Passives of weapons and artifact sets the member does not have on now, and effects that are not unlocked. A weapon’s or set’s passive counts once Team Optimize picks it for the member.",
       "notEquipped": "not equipped",
       "notActive": "not active",
-      "allHitsCount": "all {{hits}} hits",
+      "allHitsCount_one": "its {{hits}} hit",
+      "allHitsCount_other": "all {{hits}} hits",
       "ofHits": "of {{hits}} hits",
       "critCapped": "CRIT Rate is {{value}} without it: already over the 100% cap",
       "capped": "Capped at {{value}}"
