@@ -292,6 +292,7 @@
       "alternatives": "Next best builds",
       "buildsLabel": "Builds",
       "buildsInfo": "How many team builds to find: the best one, then the next best ones (each changes one member’s artifacts).",
+      "searchTip": "Quick first narrows each slot to the artifacts that can matter, then searches those exactly: much faster, and it rarely misses the best build (by a little when it does). Full searches every artifact.",
       "round": "Round {{round}}",
       "setup": "setting up the search",
       "searching": "searching {{total}} builds",
