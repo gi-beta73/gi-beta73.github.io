@@ -393,7 +393,9 @@
     "sens": {
       "title": "What raises team damage",
       "info": "Each cell: the team’s rotation damage with that one change on that member, against the result above (same rotation, buffs, artifacts and weapons). A roll is an average 5★ roll, as in the Improve tab’s Substat value.",
+      "infoKqm": "Each cell: the team’s rotation damage with that one change on that member’s KQM build, against the builds above (same rotation, buffs and weapons). A roll is a KQM Standard roll (0.8 of it on a 4★ piece); talents and levels go up from KQM’s.",
       "substats": "+1 substat roll",
+      "substatsKqm": "+1 KQM substat roll",
       "talents": "+1 talent level",
       "levels": "Level",
       "level": "Level {{level}}",
