@@ -82,7 +82,7 @@
         "<strong>On field</strong>: Danica can use the special Elemental Skill <tooltip ns=tooltips_gen baseKey18=11470003 values=[]><strong>Will to Purge</strong></tooltip> and enter <tooltip ns=tooltips_gen baseKey18=11470004 values=[]><strong>Maid: Cleaner</strong></tooltip> form."
       ],
       "7": "<br/>",
-      "8": "Casting <strong>Scouring Anchor</strong> again while a <strong>Storm Anchor</strong> is present will not remove the existing <strong>Storm Anchor</strong>.",
+      "8": "Casting <strong>Scouring Anchor</strong> again while a <strong>Storm Anchor</strong> is present will not refresh the existing <strong>Storm Anchor</strong>'s duration.",
       "9": "<br/>",
       "10": "<i>Different jobs call for different approaches. No one understands this better than the head maid, a master of efficiency.</i>"
     },
@@ -217,7 +217,7 @@
   "passive": {
     "name": "Unbothered by Frost and Snow",
     "description": {
-      "0": "Increases your own party members' Movement SPD by 10% and reduces their Stamina consumption by 10% in extremely cold environments."
+      "0": "Your party members gain the <strong>Swift Stride</strong> effect in Frigid Zones: Movement SPD is increased by 10% while Stamina Consumption is decreased by 10%. Does not take effect in Domains, Trounce Domains, or Spiral Abyss. <strong>Swift Stride</strong> does not stack with itself."
     }
   },
   "constellation1": {
@@ -231,13 +231,13 @@
     "name": "Stillness Amid Searing Sands",
     "description": {
       "0": "Every time Danica enters combat, she can immediately use the special Elemental Skill <tooltip ns=tooltips_gen baseKey18=11470002 values=[]><strong>Will to Protect</strong></tooltip>.",
-      "1": "For 6s after using this special Elemental Skill in this way, Danica gains <strong>Cleaning Decree</strong>: during this time, Danica can hold Normal Attack to use the special Elemental Skill <tooltip ns=tooltips_gen baseKey18=11470003 values=[]><strong>Will to Purge</strong></tooltip>, dealing 150% of its original DMG and switching to <tooltip ns=tooltips_gen baseKey18=11470004 values=[]><strong>Maid: Cleaner</strong></tooltip> form. <strong>Cleaning Decree</strong> is removed when Danica leaves the field.",
-      "2": "The above effects can be triggered at most once per combat.",
+      "1": "For 6s after using this special Elemental Skill in this way, Danica gains <strong>Cleansing Edict</strong>: during this time, Danica can hold Normal Attack to use the special Elemental Skill <tooltip ns=tooltips_gen baseKey18=11470003 values=[]><strong>Will to Purge</strong></tooltip>, dealing 150% of its original DMG and switching to <tooltip ns=tooltips_gen baseKey18=11470004 values=[]><strong>Maid: Cleaner</strong></tooltip> form. <strong>Cleansing Edict</strong> is removed when Danica leaves the field.",
+      "2": "The above effects won't trigger again while the <strong>Storm Anchor</strong> lasts.",
       "3": "<br/>",
-      "4": "When summoning the <strong>Storm Anchor</strong>, Danica also grants 10 stacks of <strong>Let Us Toast</strong> to all nearby party members.",
-      "5": "Characters with this effect consume 1 stack of <strong>Let Us Toast</strong> when dealing Stellar-Conduct reaction DMG, increasing that DMG by an amount equal to 80% of Danica's ATK.",
-      "6": "Additionally, when Danica deals Stellar-Conduct reaction DMG in <tooltip ns=tooltips_gen baseKey18=11470004 values=[]><strong>Maid: Cleaner</strong></tooltip> form, she can consume up to 2 stacks of <strong>Let Us Toast</strong>, increasing that DMG by an amount equal to 350% of her ATK.",
-      "7": "Resetting the <strong>Storm Anchor</strong>'s duration or using the special Elemental Skill <strong>Will to Purge</strong> by holding Normal Attack resets the number of <strong>Let Us Toast</strong> stacks held by all nearby party members."
+      "4": "When summoning the <strong>Storm Anchor</strong>, Danica also grants 10 stacks of <strong>Raise a Chorus</strong> to all nearby party members.",
+      "5": "Characters with this effect consume 1 stack of <strong>Raise a Chorus</strong> when dealing Stellar-Conduct reaction DMG, increasing that DMG by an amount equal to 80% of Danica's ATK.",
+      "6": "Additionally, when Danica deals Stellar-Conduct reaction DMG in <tooltip ns=tooltips_gen baseKey18=11470004 values=[]><strong>Maid: Cleaner</strong></tooltip> form, she can consume up to 2 stacks of <strong>Raise a Chorus</strong>, increasing that DMG by an amount equal to 500% of her ATK.",
+      "7": "Resetting the <strong>Storm Anchor</strong>'s duration or using the special Elemental Skill <strong>Will to Purge</strong> by holding Normal Attack resets the number of <strong>Raise a Chorus</strong> stacks held by all nearby party members."
     }
   },
   "constellation3": {

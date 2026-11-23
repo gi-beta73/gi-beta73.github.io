@@ -7,7 +7,7 @@
   "hit1ScDmg": "1-Hit Stellar-Conduct DMG (Radiance)",
   "hit5ScDmg": "5-Hit Stellar-Conduct DMG (Radiance)",
   "a4Cond": "Will to Purge casts in Maid: Cleaner (ATK SPD stacks)",
-  "c2ToastCond": "\"Let Us Toast\" stack consumed by a Stellar-Conduct reaction",
-  "c2SelfToastCond": "\"Let Us Toast\" stacks Danica consumes on her Stellar-Conduct hit (Maid: Cleaner, up to 2)",
-  "c2DecreeDmg": "Will to Purge with Cleaning Decree (once per combat, 150%)"
+  "c2ToastCond": "\"Raise a Chorus\" stack consumed by a Stellar-Conduct reaction",
+  "c2SelfToastCond": "\"Raise a Chorus\" stacks Danica consumes on her Stellar-Conduct hit (Maid: Cleaner, up to 2)",
+  "c2DecreeDmg": "Will to Purge with Cleansing Edict (not again while the Storm Anchor lasts, 150%)"
 }
