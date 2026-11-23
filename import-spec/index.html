@@ -1,0 +1,214 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Team link format · Stellar Optimizer</title>
+<meta name="description" content="How another site links a team (members, builds, rotation) into Stellar Optimizer with one click: the link, the JSON, the rules.">
+<style>
+:root{--bg:#fbfaf7;--panel:#fff;--ink:#1c1b19;--mute:#66625b;--line:#e4e0d8;--gold:#8a6a1f;--code:#f1eee8;--warnbg:#fff4dc;--warn:#7a5200}
+@media (prefers-color-scheme:dark){:root:not([data-theme=light]){--bg:#121211;--panel:#1b1b19;--ink:#ecebe7;--mute:#a19d94;--line:#33312d;--gold:#d9b96a;--code:#262522;--warnbg:#3a2c10;--warn:#f0c060}}
+:root[data-theme=dark]{--bg:#121211;--panel:#1b1b19;--ink:#ecebe7;--mute:#a19d94;--line:#33312d;--gold:#d9b96a;--code:#262522;--warnbg:#3a2c10;--warn:#f0c060}
+*{box-sizing:border-box}
+body{margin:0;background:var(--bg);color:var(--ink);font:16px/1.6 -apple-system,BlinkMacSystemFont,"Segoe UI",Inter,Roboto,sans-serif}
+main{max-width:880px;margin:0 auto;padding:32px 16px 80px}
+h1{font-size:30px;line-height:1.2;margin:0 0 6px}
+h2{font-size:21px;margin:40px 0 10px;padding-top:14px;border-top:1px solid var(--line)}
+h3{font-size:16px;margin:22px 0 8px}
+p{margin:0 0 12px}
+a{color:var(--gold)}
+.sub{color:var(--mute);margin-bottom:18px}
+nav{display:flex;flex-wrap:wrap;gap:6px;margin:14px 0 4px}
+nav a{text-decoration:none;border:1px solid var(--line);border-radius:999px;padding:3px 11px;font-size:14px;background:var(--panel)}
+code{background:var(--code);border-radius:4px;padding:1px 5px;font:.88em ui-monospace,SFMono-Regular,Menlo,monospace;overflow-wrap:anywhere}
+pre{background:var(--code);border:1px solid var(--line);border-radius:10px;padding:12px 14px;overflow-x:auto;font:13.5px/1.5 ui-monospace,SFMono-Regular,Menlo,monospace;margin:0 0 14px}
+pre code{background:none;padding:0;font-size:inherit}
+.scroll{overflow-x:auto;margin:0 0 14px}
+table{width:100%;border-collapse:collapse;background:var(--panel);border:1px solid var(--line);font-size:14.5px}
+th,td{text-align:left;padding:7px 10px;border-bottom:1px solid var(--line);vertical-align:top}
+th{font-size:12.5px;color:var(--mute);font-weight:600;white-space:nowrap}
+td:first-child{white-space:nowrap}
+ol,ul{margin:0 0 12px;padding-left:22px}
+li{margin:3px 0}
+.note{background:var(--warnbg);color:var(--warn);border-radius:10px;padding:10px 14px;margin:0 0 14px}
+.req{font-weight:700}
+</style>
+</head>
+<body>
+<main>
+<h1>Team link format</h1>
+<p class="sub">Version 1 · for sites that add an <b>Open in Stellar Optimizer</b> button</p>
+<p>A team link opens one or more teams (members, builds, rotation) in Stellar Optimizer. The player previews them and imports each as a new team. Everything rides in the link: no server, API key or CORS setup on either side.</p>
+<nav><a href="#link">Link</a><a href="#json">JSON</a><a href="#rotation">Rotation</a><a href="#code">Code</a><a href="#behavior">What happens</a><a href="#rules">Rules</a></nav>
+
+<h2 id="link">1. The link</h2>
+<pre><code>https://stellaroptimizer.com/#/teams/import?data=&lt;payload&gt;
+
+payload = "z." + base64url( deflateRaw( UTF-8 bytes of the JSON ) )</code></pre>
+<ul>
+<li><b>deflateRaw</b>: raw DEFLATE, no zlib or gzip header. Browser: <code>CompressionStream('deflate-raw')</code>. Node.js: <code>zlib.deflateRawSync</code>.</li>
+<li><b>base64url</b>: base64 with <code>-</code> for <code>+</code> and <code>_</code> for <code>/</code>, no <code>=</code> padding.</li>
+<li>Uncompressed is also accepted: <code>"j." + base64url( UTF-8 bytes of the JSON )</code>.</li>
+<li>The payload goes after <code>#</code>, so browsers never send it to a server.</li>
+</ul>
+
+<h2 id="json">2. The JSON</h2>
+<p>Smallest valid link data:</p>
+<pre><code>{ "format": "stellar-team", "version": 1, "teams": [ { "members": [ { "character": "Bennett" } ] } ] }</code></pre>
+<p>Keys are case-sensitive <a href="https://stellaroptimizer.com/#/doc/KeyNaming">GOOD keys</a>: <a href="https://stellaroptimizer.com/#/doc/CharacterKey">characters</a>, <a href="https://stellaroptimizer.com/#/doc/WeaponKey">weapons</a>, <a href="https://stellaroptimizer.com/#/doc/ArtifactSetKey">artifact sets</a>, <a href="https://stellaroptimizer.com/#/doc/StatKey">stats</a>. Percent stats are written as shown in game: <code>26.4</code> means 26.4%, not 0.264.</p>
+
+<p><span class="req">*</span> marks a required field. Every other field is optional and takes its default.</p>
+<h3>Top level</h3>
+<div class="scroll"><table>
+<tr><th>Field</th><th>Type</th><th>Default</th><th>Rules</th></tr>
+<tr><td><code>format</code> <span class="req">*</span></td><td>string</td><td></td><td>Exactly <code>"stellar-team"</code></td></tr>
+<tr><td><code>version</code> <span class="req">*</span></td><td>integer</td><td></td><td><code>1</code>: the version of this page you follow</td></tr>
+<tr><td><code>source</code></td><td>object</td><td></td><td><code>{ "name": string ≤ 60, "url": "https://…" }</code>, shown on the import page</td></tr>
+<tr><td><code>teams</code> <span class="req">*</span></td><td>Team[]</td><td></td><td>1–10 teams, each imported on its own</td></tr>
+<tr><td><code>extensions</code></td><td>object</td><td></td><td>Your own data: never read</td></tr>
+</table></div>
+
+<h3>Team</h3>
+<div class="scroll"><table>
+<tr><th>Field</th><th>Type</th><th>Default</th><th>Rules</th></tr>
+<tr><td><code>name</code></td><td>string</td><td>member names</td><td>≤ 60 characters</td></tr>
+<tr><td><code>description</code></td><td>string</td><td></td><td>≤ 2,000 characters</td></tr>
+<tr><td><code>url</code></td><td>string</td><td></td><td><code>https://</code> link to this team on your site</td></tr>
+<tr><td><code>members</code> <span class="req">*</span></td><td>Member[]</td><td></td><td>1–4, each character once. The first starts on the field.</td></tr>
+<tr><td><code>rotation</code></td><td>object</td><td></td><td>See <a href="#rotation">Rotation</a></td></tr>
+<tr><td><code>enemy</code></td><td>object</td><td>level 100, 10% RES</td><td><code>level</code> integer 1–200 · <code>resistance</code> % for every element · <code>resistances</code> % per element, over <code>resistance</code> (keys <code>physical pyro hydro electro cryo anemo geo dendro</code>) · <code>defenseReduction</code> % · <code>defenseIgnore</code> % · <code>hp</code> number</td></tr>
+<tr><td><code>buffs</code></td><td>object</td><td></td><td>Buffs the game data doesn't model (food, blessings): <code>{ "team": Stats, "&lt;CharacterKey&gt;": Stats }</code>, where Stats is <code>{ "&lt;StatKey&gt;": number }</code></td></tr>
+<tr><td><code>reference</code></td><td>object</td><td></td><td>Your result, shown beside the team: <code>dps</code>, <code>damage</code> (one rotation), <code>rotationSeconds</code>, <code>note</code> ≤ 200</td></tr>
+<tr><td><code>extensions</code></td><td>object</td><td></td><td>Never read</td></tr>
+</table></div>
+
+<h3>Member</h3>
+<div class="scroll"><table>
+<tr><th>Field</th><th>Type</th><th>Default</th><th>Rules</th></tr>
+<tr><td><code>character</code> <span class="req">*</span></td><td>CharacterKey</td><td></td><td>e.g. <code>RaidenShogun</code>, <code>TravelerAnemo</code></td></tr>
+<tr><td><code>level</code></td><td>integer</td><td>90</td><td>1–100</td></tr>
+<tr><td><code>ascension</code></td><td>integer</td><td>what the level needs</td><td>0–6. Only needed to tell 80/80 from 80/90.</td></tr>
+<tr><td><code>constellation</code></td><td>integer</td><td>0</td><td>0–6</td></tr>
+<tr><td><code>talents</code></td><td>object</td><td>10 each</td><td><code>{ "auto", "skill", "burst" }</code>, integers 1–10, <b>without</b> constellation +3 bonuses</td></tr>
+<tr><td><code>weapon</code></td><td>object</td><td></td><td><code>{ "key": WeaponKey, "level": 1–90 (90), "refinement": 1–5 (1) }</code>. The key must be this character's weapon type.</td></tr>
+<tr><td><code>artifacts</code></td><td>object</td><td></td><td>See below</td></tr>
+<tr><td><code>minEnergyRecharge</code></td><td>number</td><td></td><td>% the build must keep when the player re-optimizes it</td></tr>
+<tr><td><code>extensions</code></td><td>object</td><td></td><td>Never read</td></tr>
+</table></div>
+<p>A member with <code>weapon</code> or <code>artifacts</code> gets your build. A member with neither uses the player's own weapon and artifacts.</p>
+
+<h3>Member artifacts</h3>
+<div class="scroll"><table>
+<tr><th>Field</th><th>Type</th><th>Default</th><th>Rules</th></tr>
+<tr><td><code>sets</code></td><td>object</td><td><code>{}</code></td><td><code>{ "&lt;ArtifactSetKey&gt;": 2 | 4 }</code>, 5 pieces at most. <code>{}</code> means no set bonus.</td></tr>
+<tr><td><code>mainStats</code></td><td>object</td><td><code>atk_</code> each</td><td><code>{ "sands", "goblet", "circlet" }</code>. Flower is HP and plume ATK. Allowed: sands <code>hp_ atk_ def_ eleMas enerRech_</code> · goblet <code>hp_ atk_ def_ eleMas physical_dmg_ &lt;element&gt;_dmg_</code> · circlet <code>hp_ atk_ def_ eleMas critRate_ critDMG_ heal_</code></td></tr>
+<tr><td><code>substats</code></td><td>object</td><td>0 each</td><td><code>{ "&lt;SubstatKey&gt;": number }</code>: the <b>total</b> over all 5 pieces, as shown in game. SubstatKeys: <code>hp hp_ atk atk_ def def_ eleMas enerRech_ critRate_ critDMG_</code></td></tr>
+<tr><td><code>pieces</code></td><td>object</td><td>5★ at max level</td><td><code>{ "&lt;slot&gt;": { "rarity": 3 | 4 | 5, "level": 0–20 } }</code>, only for pieces that aren't 5★ +20. Slots: <code>flower plume sands goblet circlet</code></td></tr>
+</table></div>
+<p>Main stat values come from each piece's rarity and level: don't send them.</p>
+
+<h3>Full example</h3>
+<pre><code>{
+  "format": "stellar-team",
+  "version": 1,
+  "source": { "name": "Example Calcs", "url": "https://example.com" },
+  "teams": [{
+    "name": "Raiden National",
+    "url": "https://example.com/raiden#national",
+    "members": [
+      {
+        "character": "RaidenShogun",
+        "talents": { "auto": 9, "skill": 9, "burst": 10 },
+        "weapon": { "key": "TheCatch", "refinement": 5 },
+        "artifacts": {
+          "sets": { "EmblemOfSeveredFate": 4 },
+          "mainStats": { "sands": "enerRech_", "goblet": "electro_dmg_", "circlet": "critRate_" },
+          "substats": { "critRate_": 19.9, "critDMG_": 39.7, "atk_": 9.9, "enerRech_": 16.5 }
+        },
+        "minEnergyRecharge": 250
+      },
+      { "character": "Bennett", "constellation": 6,
+        "weapon": { "key": "SapwoodBlade", "refinement": 5 },
+        "artifacts": { "sets": { "NoblesseOblige": 4 } } },
+      { "character": "Xingqiu", "constellation": 6 },
+      { "character": "Xiangling", "constellation": 6 }
+    ],
+    "rotation": {
+      "text": "Xingqiu E D Q N1 -> Bennett Q N1 E -> Xiangling N1 Q N1 E D -> Bennett N1 E -> Raiden N1 Q N4 E N4 D N4 D N4 -> Bennett N2 E -> Xingqiu",
+      "opener": "Raiden E -> Xingqiu E D Q N1 -> Bennett Q N1 E -> Xiangling N1 Q N1 E D -> Bennett N1 E -> Raiden N1 Q N4 E N4 D N4 D N4"
+    },
+    "enemy": { "level": 100, "resistance": 10 },
+    "reference": { "dps": 41234, "rotationSeconds": 21.3 }
+  }]
+}</code></pre>
+<p>Raiden and Bennett come with builds. Xingqiu and Xiangling use the player's own gear.</p>
+
+<h2 id="rotation">3. Rotation</h2>
+<div class="scroll"><table>
+<tr><th>Field</th><th>Type</th><th>Default</th><th>Rules</th></tr>
+<tr><td><code>text</code> <span class="req">*</span></td><td>string</td><td></td><td>The repeating rotation, ≤ 5,000 characters</td></tr>
+<tr><td><code>opener</code></td><td>string</td><td></td><td>A different first rotation, same syntax</td></tr>
+<tr><td><code>ping</code></td><td>number</td><td>100</td><td>ms, 0–500. Sets swap time (100 ms = 12 frames).</td></tr>
+<tr><td><code>rotations</code></td><td><code>"steady"</code> or integer</td><td><code>"steady"</code></td><td><code>"steady"</code>: the settled pace (rotations 3–4). 1–6: that many rotations counted from the start.</td></tr>
+<tr><td><code>countOpener</code></td><td>boolean</td><td>false</td><td>With <code>rotations</code> 1–6: the opener counts as the first rotation</td></tr>
+</table></div>
+<p>Rotation text is <code>Who actions -&gt; Who actions -&gt; …</code>. Stellar Optimizer plays it on import, so timing and buffs come from the game data. Check a rotation by pasting it into Team optimize › Rotation › Write.</p>
+<ul>
+<li><b>Who</b>: the character key, the English name, or a unique start of either (3+ letters): <code>RaidenShogun</code>, <code>Raiden</code>, <code>rai</code>.</li>
+<li><b>Separators</b>: <code>-&gt;</code> (or a new line, <code>,</code>, <code>;</code>, <code>→</code>).</li>
+<li><b>Loop</b>: end with an action-less step (<code>-&gt; Xingqiu</code>) to mark who the rotation loops back to.</li>
+</ul>
+<div class="scroll"><table>
+<tr><th>Write</th><th>Means</th></tr>
+<tr><td><code>E</code> · <code>hE</code></td><td>Elemental Skill, tapped · held</td></tr>
+<tr><td><code>Q</code></td><td>Elemental Burst</td></tr>
+<tr><td><code>N1</code>–<code>N6</code></td><td>Normal Attack string of that many hits</td></tr>
+<tr><td><code>CA</code> · <code>P</code> · <code>HP</code> · <code>LP</code></td><td>Charged Attack · plunge · high plunge · low plunge</td></tr>
+<tr><td><code>D</code> · <code>J</code> · <code>WK</code></td><td>Dash · jump · walk</td></tr>
+<tr><td><code>W1.5</code> · <code>W90f</code></td><td>Wait 1.5 s · wait 90 frames</td></tr>
+<tr><td><code>E?</code> · <code>Q?</code></td><td>Only if ready, otherwise skipped</td></tr>
+<tr><td><code>3[N4 D]</code></td><td>Repeat the group 3 times (1–20)</td></tr>
+<tr><td><code>(…)</code></td><td>Comment, ignored</td></tr>
+</table></div>
+<p>Character-specific options exist, e.g. <code>CA[beams=2]</code> (Sandrone), <code>CA[bullets=4]</code> (Chasca), <code>C3F</code> (Mavuika), <code>hE[stacks=1]</code> (Beidou), <code>N3[movement=4]</code> (metres moved). The writer lists them.</p>
+
+<h2 id="code">4. Code</h2>
+<div class="note"><b>Build each link when the page renders</b> and put it on a plain <code>&lt;a target="_blank"&gt;</code>. Building it inside a click handler and then calling <code>window.open</code> after an <code>await</code> gets the new tab blocked as a popup.</div>
+<pre><code>// Browser: no library needed
+async function stellarTeamLink(data) {
+  const json = new TextEncoder().encode(JSON.stringify(data))
+  const packed = await new Response(
+    new Blob([json]).stream().pipeThrough(new CompressionStream('deflate-raw'))
+  ).arrayBuffer()
+  let binary = ''
+  for (const byte of new Uint8Array(packed)) binary += String.fromCharCode(byte)
+  const base64url = btoa(binary).replace(/\+/g, '-').replace(/\//g, '_').replace(/=+$/, '')
+  return 'https://stellaroptimizer.com/#/teams/import?data=z.' + base64url
+}
+
+// &lt;a id="open-in-stellar" target="_blank" rel="noopener"&gt;Open in Stellar Optimizer&lt;/a&gt;
+document.getElementById('open-in-stellar').href = await stellarTeamLink(data)</code></pre>
+<pre><code>// Node.js (server or build time)
+const zlib = require('node:zlib')
+const link = 'https://stellaroptimizer.com/#/teams/import?data=z.' +
+  zlib.deflateRawSync(Buffer.from(JSON.stringify(data))).toString('base64url')</code></pre>
+<p>A link, or the JSON itself, can also be pasted into Teams › Import.</p>
+
+<h2 id="behavior">5. What happens</h2>
+<ol>
+<li>The link opens a preview of each team: source, members, builds, rotation, your <code>reference</code>, and any problems. Nothing is saved yet.</li>
+<li><b>Import team</b> adds a new team. Your builds become theorycraft builds, and the rotation is played on Team optimize and KQM. The player's existing teams, characters and artifacts are never changed.</li>
+<li>On the team, the player picks <b>Imported builds</b> (run your builds as they are) or <b>My builds</b> (switch to their own characters, weapons and artifacts and optimize them). Members they don't own keep your build.</li>
+</ol>
+
+<h2 id="rules">6. Rules</h2>
+<ul>
+<li><b>Errors</b> stop that team from being imported, with a message; other teams in the link still import. An error is: an unknown character, weapon, set or stat key; a weapon of the wrong type; a main stat a slot can't have; sets over 5 pieces or counts other than 2 and 4; a character twice; 0 or more than 4 members.</li>
+<li><b>Numbers</b> out of range are clamped to it. A value of the wrong type uses the default. Both are noted.</li>
+<li><b>Unknown fields</b> are ignored and listed as notes, which helps catch typos. Put your own data in <code>extensions</code>.</li>
+<li><b>Compatibility</b>: new fields will be optional, so links made today keep working. A change that is not backward compatible gets a new <code>version</code>, and older versions stay readable. A link with a newer <code>version</code> than the site supports asks the player to reload.</li>
+<li><b>Limits</b>: 10 teams per link, 60,000 characters of payload, 512 KB of JSON after decompressing.</li>
+</ul>
+</main>
+</body>
+</html>

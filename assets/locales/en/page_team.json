@@ -7,9 +7,9 @@
   "importTeamBtn": "Import Team",
   "importForm": {
     "title": "Import Team",
-    "desc": "Import a team in JSON form below.",
+    "desc": "Paste a team’s JSON (from Export team), or a team link from another site.",
     "label": "JSON Data",
-    "placeholder": "Paste your Team JSON here",
+    "placeholder": "Paste a team’s JSON or a team link here",
     "importBtn": "Import",
     "error": {
       "verifi": "This file does not contain a valid team. Check the export version, member names, and roster.",
