@@ -163,9 +163,10 @@ payload = "z." + base64url( deflateRaw( UTF-8 bytes of the JSON ) )</code></pre>
 <tr><td><code>E</code> · <code>hE</code></td><td>Elemental Skill, tapped · held</td></tr>
 <tr><td><code>Q</code></td><td>Elemental Burst</td></tr>
 <tr><td><code>N1</code>–<code>N6</code></td><td>Normal Attack string of that many hits</td></tr>
+<tr><td><code>N3-4</code></td><td>The string carrying on: its 3rd to 4th hits (a plain <code>N2</code> after a Skill starts over at hit 1)</td></tr>
 <tr><td><code>CA</code> · <code>P</code> · <code>HP</code> · <code>LP</code></td><td>Charged Attack · plunge · high plunge · low plunge</td></tr>
 <tr><td><code>D</code> · <code>J</code> · <code>WK</code></td><td>Dash · jump · walk</td></tr>
-<tr><td><code>W1.5</code> · <code>W90f</code></td><td>Wait 1.5 s · wait 90 frames</td></tr>
+<tr><td><code>W1.5</code> · <code>W90f</code></td><td>Wait 1.5 s · 90 frames, from when the next action could start (as gcsim's <code>wait</code>)</td></tr>
 <tr><td><code>E?</code> · <code>Q?</code></td><td>Only if ready, otherwise skipped</td></tr>
 <tr><td><code>3[N4 D]</code></td><td>Repeat the group 3 times (1–20)</td></tr>
 <tr><td><code>(…)</code></td><td>Comment, ignored</td></tr>
