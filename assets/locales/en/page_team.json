@@ -142,7 +142,11 @@
       "allHitsCount_other": "all {{hits}} hits",
       "ofHits": "of {{hits}} hits",
       "critCapped": "CRIT Rate is {{value}} without it: already over the 100% cap",
-      "capped": "Capped at {{value}}"
+      "capped": "Capped at {{value}}",
+      "auto": "Auto",
+      "autoTip": "Set automatically for this rotation and team. Choose a state on the character’s weapon or artifacts to use another one.",
+      "useAuto": "Use auto",
+      "useAutoTip": "Set by hand. Let Team optimize decide it for this rotation and team instead."
     },
     "empty": {
       "action": "Team settings",
@@ -291,7 +295,7 @@
       "preparing": "Preparing…",
       "alternatives": "Next best builds",
       "buildsLabel": "Builds",
-      "buildsInfo": "How many team builds to find: the best one, then the next best ones (each changes one member’s artifacts).",
+      "buildsInfo": "Best build: only the team’s best build, the fastest. All builds: also the next best ones (up to 4 more, each changing one member’s artifacts), which takes longer.",
       "searchTip": "Quick first narrows each slot to the artifacts that can matter, then searches those exactly: much faster, and it rarely misses the best build (by a little when it does). Full searches every artifact.",
       "round": "Round {{round}}",
       "setup": "setting up the search",
@@ -302,7 +306,9 @@
       "energyFor": "energy check:",
       "exchange": "exchanges between members",
       "setRulesUnmet": "No team build fits the allowed sets of",
-      "setRulesUnmetWhy": "Even with the pieces the other members hold, no build of the artifacts they may use keeps to the sets allowed on their Optimize tab (Requirements → Artifact sets), with their main stats and the inventory settings. Allow more sets, or free up pieces of the sets they need."
+      "setRulesUnmetWhy": "Even with the pieces the other members hold, no build of the artifacts they may use keeps to the sets allowed on their Optimize tab (Requirements → Artifact sets), with their main stats and the inventory settings. Allow more sets, or free up pieces of the sets they need.",
+      "bestBuild": "Best build",
+      "allBuilds": "All builds"
     },
     "slot": {
       "circlet": "Circlet",
