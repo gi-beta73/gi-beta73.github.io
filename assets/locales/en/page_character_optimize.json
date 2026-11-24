@@ -167,6 +167,13 @@
       "legendSet": "same set",
       "legendMixed": "any set"
     },
+    "shapes": {
+      "label": "Builds may have",
+      "twoTwo": "2-piece + 2-piece",
+      "twoTwoTip": "Two 2-piece bonuses: 2+2+1 and 3+2 builds",
+      "mixed": "Mixed pieces",
+      "mixedTip": "Pieces whose set no other piece has: 2-piece + 3 mixed, 3-piece + 2 mixed and 5 mixed builds"
+    },
     "search": "Search sets",
     "view": {
       "label": "Which sets to show",
