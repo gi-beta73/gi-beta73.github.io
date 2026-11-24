@@ -303,8 +303,9 @@
       "exchange": "exchanges between members",
       "setRulesUnmet": "No team build fits the allowed sets of",
       "setRulesUnmetWhy": "Even with the pieces the other members hold, no build of the artifacts they may use keeps to the sets allowed on their Optimize tab (Requirements → Artifact sets), with their main stats and the inventory settings. Allow more sets, or free up pieces of the sets they need.",
-      "requirementsUnmet": "No team build reaches the minimums of",
-      "requirementsUnmetWhy": "The most any build of the artifacts and weapons it may use reaches (its main stats, the sets it may use, the artifact levels and the weapons ticked). Lower the minimum on its Optimize tab, or allow more."
+      "requirementsUnmet": "The search did not find a build that meets the minimums for",
+      "requirementsUnmetWhy": "The search uses the allowed sets, main stats, artifact levels and weapons. To change a manual minimum, open the member’s Optimize tab.",
+      "automaticErShortfall": "Automatic ER gets its target from the team’s ER calculator. It can change with the rotation and the team’s weapons."
     },
     "slot": {
       "circlet": "Circlet",
