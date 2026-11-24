@@ -1,0 +1,1 @@
+import{dt as e}from"./SheetUtil-0L3Z1or7.js";function t(t,n){return e(t,`icon`,n)||``}export{t};
