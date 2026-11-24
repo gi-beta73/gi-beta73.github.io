@@ -155,7 +155,8 @@
       "mixedOnly5": "5 mixed only",
       "effectsOn_one": "{{count}} on",
       "effectsOn_other": "{{count}} on",
-      "effectsNone": "None on"
+      "effectsNone": "None on",
+      "forced": "Every build wears 4 pieces of {{name}}"
     },
     "mixed": {
       "title": "Mixed pieces",
@@ -191,7 +192,7 @@
       "effectOf": "{{num}}-piece effect",
       "excludedNote": "not used, the {{num}}-piece bonus is excluded",
       "more": "More options for {{name}}",
-      "only4": "Use only this set for 4-piece"
+      "only4": "Use only this set: every build wears 4 of its pieces"
     },
     "empty": "No sets match.",
     "footer": {

@@ -292,7 +292,7 @@
       "preparing": "Preparing…",
       "alternatives": "Next best builds",
       "buildsLabel": "Builds",
-      "searchTip": "Quick first narrows each slot to the artifacts that can matter, then searches those exactly: much faster, and it rarely misses the best build (by a little when it does). Full searches every artifact.",
+      "searchTip": "Quick narrows each slot to the artifacts that can matter and searches in full only the weapons a quick estimate puts near the best: much faster, and it rarely misses the best build (by a little when it does). Full searches every artifact and every weapon.",
       "round": "Round {{round}}",
       "setup": "setting up the search",
       "searching": "searching {{total}} builds",
@@ -302,7 +302,9 @@
       "energyFor": "energy check:",
       "exchange": "exchanges between members",
       "setRulesUnmet": "No team build fits the allowed sets of",
-      "setRulesUnmetWhy": "Even with the pieces the other members hold, no build of the artifacts they may use keeps to the sets allowed on their Optimize tab (Requirements → Artifact sets), with their main stats and the inventory settings. Allow more sets, or free up pieces of the sets they need."
+      "setRulesUnmetWhy": "Even with the pieces the other members hold, no build of the artifacts they may use keeps to the sets allowed on their Optimize tab (Requirements → Artifact sets), with their main stats and the inventory settings. Allow more sets, or free up pieces of the sets they need.",
+      "requirementsUnmet": "No team build reaches the minimums of",
+      "requirementsUnmetWhy": "The most any build of the artifacts and weapons it may use reaches (its main stats, the sets it may use, the artifact levels and the weapons ticked). Lower the minimum on its Optimize tab, or allow more."
     },
     "slot": {
       "circlet": "Circlet",
