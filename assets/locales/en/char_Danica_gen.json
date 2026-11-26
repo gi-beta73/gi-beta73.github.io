@@ -1,8 +1,8 @@
 {
   "name": "Danica",
   "title": "Winter Palace's Attendant Shadow",
-  "description": "",
-  "constellationName": "",
+  "description": "The Head Maid of Zapolyarny Palace, exacting in her duties and formidable in combat.",
+  "constellationName": "Orcinus Orca",
   "auto": {
     "name": "Canon of Cleanliness",
     "fields": {
@@ -88,8 +88,8 @@
     },
     "skillParams": {
       "0": "Skill DMG",
-      "1": "Will to Protect DMG",
-      "2": "Will to Purge DMG",
+      "1": "Will to Protect Stellar-Conduct DMG",
+      "2": "Will to Purge Stellar-Conduct DMG",
       "3": "Storm Anchor Coordinated Attack DMG",
       "4": "Shield DMG Absorption",
       "5": "Storm Anchor Normal Attack 1-Hit Electro DMG",
@@ -250,7 +250,7 @@
   "constellation4": {
     "name": "Shield in the Bitter Cold",
     "description": {
-      "0": "Other nearby party members regenerate 3 Elemental Energy when the active character protected by Royal Aegis deals Stellar-Conduct reaction DMG to an opponent. This effect can be triggered once every 3.5s.",
+      "0": "Other nearby party members regenerate 3 Elemental Energy when an active character other than Danica who is protected by Royal Aegis deals Stellar-Conduct reaction DMG to an opponent. This effect can be triggered once every 3.5s.",
       "1": "Danica also creates a Royal Aegis when she enters <tooltip ns=tooltips_gen baseKey18=11470004 values=[]><strong>Maid: Cleaner</strong></tooltip> form. This shield lasts until she leaves this form or leaves the field."
     }
   },

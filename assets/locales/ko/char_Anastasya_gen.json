@@ -164,7 +164,7 @@
       "0": "원소전투 스킬 <strong>극성의 심판</strong> 발동 후, 아나스타샤가 보유한 가호에 따라 각각 다음 효과를 획득한다:",
       "1": [
         "<strong>「자애」</strong>: 파티 내 모든 캐릭터가 주는 별빛 반응 피해의 치명타 피해가 60% 증가한다. 지속 시간: 30초",
-        "<strong>「영광」</strong>: 아나스타샤의 일반 공격, 원소폭발 <strong>밤이 끝날 때</strong>, 봉인 해제 원소전투 스킬 <tooltip ns=tooltips_gen baseKey18=11490004 values=[]><strong>창백한 별의 칙령·단죄 소멸</strong></tooltip>이 기존의 125%에 해당하는 피해를 준다. 지속 시간: 15초"
+        "<strong>「영광」</strong>: 아나스타샤의 일반 공격, 원소폭발 <strong>밤이 끝날 때</strong>, 봉인 해제 원소전투 스킬 <tooltip ns=tooltips_gen baseKey18=11490004 values=[]><strong>창백한 별의 칙령·단죄 소멸</strong></tooltip>이 기존의 130%에 해당하는 피해를 준다. 지속 시간: 15초"
       ],
       "2": "<br/>",
       "3": "또한, 주변에 있는 파티 내 모든 캐릭터가 주는 별빛 반응 피해가 5% <tooltip ns=tooltips_gen baseKey18=11190007 values=[]><strong>승격</strong></tooltip>한다"

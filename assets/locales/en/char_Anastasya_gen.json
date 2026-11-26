@@ -2,7 +2,7 @@
   "name": "Anastasya",
   "title": "Frostcrown Revival",
   "description": "",
-  "constellationName": "",
+  "constellationName": "Autocratrix Anastasis",
   "auto": {
     "name": "The Dawn Beyond the Everwinter",
     "fields": {
@@ -230,7 +230,7 @@
       "0": "After Anastasya uses her Elemental Skill, <strong>Polestar's Divine Judgment</strong>, the following effects apply based on her current Blessing:",
       "1": [
         " <strong>Love</strong>: The CRIT DMG of Stellar Glimmer Reaction DMG dealt by all nearby party members is increased by 50% for 30s;",
-        " <strong>Honor</strong>: Anastasya's Normal Attacks, Elemental Burst <strong>The Evernight Yields to Dawn</strong>, and special Unsealing Elemental Skill <tooltip ns=tooltips_gen baseKey18=11490004 values=[]><strong>Palestar Edict: Doom</strong></tooltip> deal 125% of their original DMG for 15s."
+        " <strong>Honor</strong>: Anastasya's Normal Attacks, Elemental Burst <strong>The Evernight Yields to Dawn</strong>, and special Unsealing Elemental Skill <tooltip ns=tooltips_gen baseKey18=11490004 values=[]><strong>Palestar Edict: Doom</strong></tooltip> deal 130% of their original DMG for 15s."
       ],
       "2": "<br/>",
       "3": "Additionally, Stellar Glimmer Reaction DMG dealt by all nearby party members is <tooltip ns=tooltips_gen baseKey18=11190007 values=[]><strong>Elevated</strong></tooltip> by 5%."

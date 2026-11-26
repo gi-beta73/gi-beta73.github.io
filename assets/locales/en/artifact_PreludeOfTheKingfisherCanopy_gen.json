@@ -6,23 +6,23 @@
   },
   "pieces": {
     "flower": {
-      "name": "Flower of the Empyrean Sojourn",
+      "name": "Blossom of the Ephemeral Dawn",
       "desc": "It was a flower made of silk, gifted to her by a friend whose hands were as cold as ice."
     },
     "plume": {
-      "name": "Plume of the Empyrean Sojourn",
+      "name": "Plume of the Crystal Rill",
       "desc": "It was a feathered quill given to her followers, once used to pen the most absurd of dreams."
     },
     "sands": {
-      "name": "Sands of the Empyrean Sojourn",
+      "name": "Sundial of the Lingering Hours",
       "desc": "It was a fleeting moment she gave a certain silent alchemist to remind him of every item on his schedule."
     },
     "goblet": {
-      "name": "Goblet of the Empyrean Sojourn",
+      "name": "Goblet of Vernal Splendor",
       "desc": "It was a goblet of wine she had accepted in celebration from the hands of a colleague."
     },
     "circlet": {
-      "name": "Circlet of the Empyrean Sojourn",
+      "name": "Circlet of the Sunlit Firmament",
       "desc": "It was a delicate trinket awarded to her in praise by the hand of her only master."
     }
   }

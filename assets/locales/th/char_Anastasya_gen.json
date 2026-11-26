@@ -164,7 +164,7 @@
       "0": "หลังจากใช้สกิลธาตุ <strong>Polestar's Divine Judgment</strong> จะได้รับเอฟเฟกต์ดังต่อไปนี้ ตามพรที่ Anastasya มีอยู่:",
       "1": [
         " <strong>\"ความเมตตา\"</strong>: ความแรงคริของความเสียหายปฏิกิริยาประกายดาว ที่สร้างโดยตัวละครทั้งหมดในทีม จะเพิ่มขึ้น 60% เป็นเวลา 30 วินาที;",
-        " <strong>\"เกียรติยศ\"</strong>: การโจมตีปกติ, ท่าไม้ตาย <strong>The Evernight Yields to Dawn</strong> และสกิลธาตุปลดผนึก <tooltip ns=tooltips_gen baseKey18=11490004 values=[]><strong>Palestar Edict: Doom</strong></tooltip> ของ Anastasya จะสร้างความเสียหายเป็น 125% ของความเสียหายเดิม เป็นเวลา 15 วินาที"
+        " <strong>\"เกียรติยศ\"</strong>: การโจมตีปกติ, ท่าไม้ตาย <strong>The Evernight Yields to Dawn</strong> และสกิลธาตุปลดผนึก <tooltip ns=tooltips_gen baseKey18=11490004 values=[]><strong>Palestar Edict: Doom</strong></tooltip> ของ Anastasya จะสร้างความเสียหายเป็น 130% ของความเสียหายเดิม เป็นเวลา 15 วินาที"
       ],
       "2": "<br/>",
       "3": "นอกจากนี้ ความเสียหายปฏิกิริยาประกายดาว ที่สร้างโดยตัวละครทั้งหมดในทีมที่อยู่ใกล้เคียง จะได้รับการ<tooltip ns=tooltips_gen baseKey18=11190007 values=[]><strong>ยกระดับ</strong></tooltip> 5%"

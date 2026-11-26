@@ -163,7 +163,7 @@
       "0": "Verleiht nach dem Anwenden der Elementarfähigkeit <strong>Heilige Vollstreckung des Polarsterns</strong> abhängig von Anastasyas Schutz einen der folgenden Effekte:",
       "1": [
         " <strong>Güte</strong>: Erhöht den Kritischen Schaden von durch Stellarfunkeln-Reaktionen verursachten Schaden aller Truppenmitglieder 30 s lang um 60 %.",
-        " <strong>Ehre</strong>: Erhöht den durch Anastasyas Standardangriff, ihre Spezialfähigkeit <strong>Ewige Nacht weicht der Morgendämmerung</strong> und ihre Elementarfähigkeit zum Entsiegeln <tooltip ns=tooltips_gen baseKey18=11490004 values=[]><strong>Edikt des Bleichsterns – Vernichtung</strong></tooltip> verursachten Schaden 15 s lang auf 125 % ihres ursprünglichen Werts."
+        " <strong>Ehre</strong>: Erhöht den durch Anastasyas Standardangriff, ihre Spezialfähigkeit <strong>Ewige Nacht weicht der Morgendämmerung</strong> und ihre Elementarfähigkeit zum Entsiegeln <tooltip ns=tooltips_gen baseKey18=11490004 values=[]><strong>Edikt des Bleichsterns – Vernichtung</strong></tooltip> verursachten Schaden 15 s lang auf 130 % ihres ursprünglichen Werts."
       ],
       "2": "<br/>",
       "3": "<tooltip ns=tooltips_gen baseKey18=11190007 values=[]><strong>Steigert</strong></tooltip> zudem den Schaden durch Stellarfunkeln-Reaktionen aller Truppenmitglieder in der Nähe um 5 %."

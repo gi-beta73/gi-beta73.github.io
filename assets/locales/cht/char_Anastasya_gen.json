@@ -164,7 +164,7 @@
       "0": "施放元素戰技<strong>極星聖裁</strong>後，依據安娜絲塔夏持有的加護，將分別獲得以下效果：",
       "1": [
         "<strong>「慈愛」</strong>：隊伍中的所有角色造成的星爍反應傷害的暴擊傷害提升60%，持續30秒。",
-        "<strong>「榮耀」</strong>：安娜絲塔夏的普通攻擊、元素爆發<strong>永夜將明</strong>、解封元素戰技<tooltip ns=tooltips_gen baseKey18=11490004 values=[]><strong>蒼星聖敕·裁滅</strong></tooltip>會造成原本125%的傷害，持續15秒。"
+        "<strong>「榮耀」</strong>：安娜絲塔夏的普通攻擊、元素爆發<strong>永夜將明</strong>、解封元素戰技<tooltip ns=tooltips_gen baseKey18=11490004 values=[]><strong>蒼星聖敕·裁滅</strong></tooltip>會造成原本130%的傷害，持續15秒。"
       ],
       "2": "<br/>",
       "3": "此外，隊伍中附近的所有角色造成的星爍反應傷害<tooltip ns=tooltips_gen baseKey18=11190007 values=[]><strong>擢升</strong></tooltip>5%。"

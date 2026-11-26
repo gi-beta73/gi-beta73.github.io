@@ -167,7 +167,7 @@
       "0": "Tras usar la Habilidad Elemental, <strong>Juicio sagrado de la estrella polar</strong>, otorga los siguientes efectos respectivamente según la bendición que posea Anastasia:",
       "1": [
         "<strong>Amor</strong>: el Daño CRIT de la reacción de Destello Estelar infligido por todos los personajes del equipo aumenta un 60% durante 30 s.",
-        "<strong>Gloria</strong>: los Ataques Normales de Anastasia, su Habilidad Definitiva, <strong>Amanecer de la noche eterna</strong>, y su Habilidad Elemental de desellado, <tooltip ns=tooltips_gen baseKey18=11490004 values=[]><strong>Edicto Estrellalbina: Condena</strong></tooltip>, infligen un 125% del daño original durante 15 s."
+        "<strong>Gloria</strong>: los Ataques Normales de Anastasia, su Habilidad Definitiva, <strong>Amanecer de la noche eterna</strong>, y su Habilidad Elemental de desellado, <tooltip ns=tooltips_gen baseKey18=11490004 values=[]><strong>Edicto Estrellalbina: Condena</strong></tooltip>, infligen un 130% del daño original durante 15 s."
       ],
       "2": "<br/>",
       "3": "Además, el daño de Destello Estelar infligido por todos los personajes cercanos del equipo <tooltip ns=tooltips_gen baseKey18=11190007 values=[]><strong>asciende</strong></tooltip> en un 5%."

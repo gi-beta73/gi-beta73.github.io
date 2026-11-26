@@ -161,7 +161,7 @@
     "description": {
       "0": "元素スキル<strong>極星聖裁</strong>を発動した後、アナスターシャの所持する加護に応じ、それぞれ以下の効果を獲得する。",
       "1": "・<strong>「慈愛」</strong>　チーム内の全キャラクターが与える星反応ダメージの会心ダメージが60%アップする。継続時間30秒。",
-      "2": "・<strong>「栄光」</strong>　アナスターシャの通常攻撃、元素爆発<strong>永夜将明</strong>、封印解除元素スキル<tooltip ns=tooltips_gen baseKey18=11490004 values=[]><strong>蒼星の聖勅・裁滅</strong></tooltip>が本来の125%のダメージを与えるようになる。継続時間15秒。",
+      "2": "・<strong>「栄光」</strong>　アナスターシャの通常攻撃、元素爆発<strong>永夜将明</strong>、封印解除元素スキル<tooltip ns=tooltips_gen baseKey18=11490004 values=[]><strong>蒼星の聖勅・裁滅</strong></tooltip>が本来の130%のダメージを与えるようになる。継続時間15秒。",
       "3": "<br/>",
       "4": "さらに、チーム内の周囲にいる全キャラクターが与える星反応ダメージが5%<tooltip ns=tooltips_gen baseKey18=11190007 values=[]><strong>向上</strong></tooltip>する。JP3A"
     }

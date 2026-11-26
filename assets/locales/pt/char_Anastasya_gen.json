@@ -164,7 +164,7 @@
       "0": "Depois de lançar a Habilidade Elemental <strong>Julgamento Sagrado da Estrela Polar</strong>, Anastasya obtém os respectivos efeitos de acordo com a Bênção que obteve:",
       "1": [
         " <strong>Amor</strong>: aumenta o Dano CRIT de Reações de Brilho Estelar de todos os membros da equipe em 60% por 30s.",
-        " <strong>Honra</strong>: o Ataque Normal, Supremo <strong>Alvorada da Noite Eterna</strong> e Habilidade Elemental removedora de selos <tooltip ns=tooltips_gen baseKey18=11490004 values=[]><strong>Édito das Estrelas Azuis: Julgamento Exterminador</strong></tooltip> de Anastasya causam 125% do Dano original por 15s."
+        " <strong>Honra</strong>: o Ataque Normal, Supremo <strong>Alvorada da Noite Eterna</strong> e Habilidade Elemental removedora de selos <tooltip ns=tooltips_gen baseKey18=11490004 values=[]><strong>Édito das Estrelas Azuis: Julgamento Exterminador</strong></tooltip> de Anastasya causam 130% do Dano original por 15s."
       ],
       "2": "<br/>",
       "3": "Além disso, <tooltip ns=tooltips_gen baseKey18=11190007 values=[]><strong>Eleva</strong></tooltip> o Dano de Reações de Brilho Estelar causado por todos os membros próximos da equipe em 5%."

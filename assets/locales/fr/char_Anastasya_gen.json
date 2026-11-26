@@ -164,7 +164,7 @@
       "0": "Après qu'Anastasya utilise sa compétence élémentaire, <strong>Jugement divin de l'Étoile polaire</strong>, les effets suivants s'appliquent en fonction de sa Bénédiction actuelle :",
       "1": [
         " <strong>Amour</strong> : le DGT CRIT des DMG de Réaction Lueur stellaire infligés par tous les membres du groupe est augmenté de 60% pendant 30s ;",
-        " <strong>Honneur</strong> : les Attaques normales, le déchaînement élémentaire <strong>La nuit éternelle cède à l'aube</strong> et la compétence élémentaire spéciale de Déscellement <tooltip ns=tooltips_gen baseKey18=11490004 values=[]><strong>Édit de l'Étoile pâle : Doom</strong></tooltip> d'Anastasya infligent 125% de leurs DMG d'origine pendant 15s."
+        " <strong>Honneur</strong> : les Attaques normales, le déchaînement élémentaire <strong>La nuit éternelle cède à l'aube</strong> et la compétence élémentaire spéciale de Déscellement <tooltip ns=tooltips_gen baseKey18=11490004 values=[]><strong>Édit de l'Étoile pâle : Doom</strong></tooltip> d'Anastasya infligent 130% de leurs DMG d'origine pendant 15s."
       ],
       "2": "<br/>",
       "3": "De plus, les DMG de Réaction Lueur stellaire infligés par tous les membres du groupe à proximité sont <tooltip ns=tooltips_gen baseKey18=11190007 values=[]><strong>Amplifiés</strong></tooltip> de 5%."

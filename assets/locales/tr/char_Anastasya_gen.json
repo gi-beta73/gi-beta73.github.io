@@ -164,7 +164,7 @@
       "0": "Anastasya, <strong>Kutup Yıldızının İlahi Yargısı</strong> Element Becerisini kullandığında, mevcut Kutsanmasına bağlı olarak şu etkiler devreye girer:",
       "1": [
         " <strong>Sevgi</strong>: Tüm grup üyelerinin verdiği Yıldız Parıltısı Tepkimesi Hasarının Kritik Hasarı 30 saniyeliğine %60 artar.",
-        " <strong>Onur</strong>: Anastasya'nın Normal Saldırıları, Element Patlaması <strong>Ebedi Gece Yerini Şafağa Bırakır</strong> ve özel Mühür Açma Element Becerisi <tooltip ns=tooltips_gen baseKey18=11490004 values=[]><strong>Soluk Yıldız Fermanı: Kıyamet</strong></tooltip> 15 saniyeliğine orijinal Hasarlarının %125'i kadar Hasar verir."
+        " <strong>Onur</strong>: Anastasya'nın Normal Saldırıları, Element Patlaması <strong>Ebedi Gece Yerini Şafağa Bırakır</strong> ve özel Mühür Açma Element Becerisi <tooltip ns=tooltips_gen baseKey18=11490004 values=[]><strong>Soluk Yıldız Fermanı: Kıyamet</strong></tooltip> 15 saniyeliğine orijinal Hasarlarının %130'i kadar Hasar verir."
       ],
       "2": "<br/>",
       "3": "Ayrıca, yakındaki tüm grup üyelerinin verdiği Yıldız Parıltısı Tepkimesi Hasarı %5 <tooltip ns=tooltips_gen baseKey18=11190007 values=[]><strong>yükselir</strong></tooltip>."

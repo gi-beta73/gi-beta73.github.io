@@ -6,23 +6,23 @@
   },
   "pieces": {
     "flower": {
-      "name": "Flower of the Epochal Advent",
+      "name": "Blossom of Grace",
       "desc": "The high heavens bestowed an everlasting flower on their envoy, and greed was born of a life without end."
     },
     "plume": {
-      "name": "Plume of the Epochal Advent",
+      "name": "Pinion of Ordained Duty",
       "desc": "The high heavens bestowed a feather of rebirth on their envoy, with all sin to be forgiven where even fate meets its very end."
     },
     "sands": {
-      "name": "Sands of the Epochal Advent",
+      "name": "Sundial of the Everfaithful",
       "desc": "The high heavens bestowed a sundial of counter-time on their envoy, and an inviolable interdiction became a wellspring of rage."
     },
     "goblet": {
-      "name": "Goblet of the Epochal Advent",
+      "name": "Chalice of Steadfastness",
       "desc": "The high heavens bestowed sweet nectar on their envoy, and the unending feast opened wide the doors to desire."
     },
     "circlet": {
-      "name": "Circlet of the Epochal Advent",
+      "name": "Crown of Righteousness",
       "desc": "The high heavens bestowed a splendid crown on their envoy, and arrogance was born out of power unchecked."
     }
   }

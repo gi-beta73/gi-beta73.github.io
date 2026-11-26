@@ -164,7 +164,7 @@
       "0": "Setelah melancarkan Elemental Skill <strong>Polestar's Divine Judgment</strong>, Anastasya akan mendapatkan efek berikut berdasarkan berkat__ yang dimilikinya:",
       "1": [
         "<strong>Love</strong>: CRIT DMG Reaksi Stellar Glimmer yang diakibatkan seluruh Karakter dalam party meningkat 60% selama 30 detik;",
-        "<strong>Honor</strong>: Normal Attack, Elemental Burst <strong>The Evernight Yields to Dawn</strong>, dan Elemental Skill pembukaan segel <tooltip ns=tooltips_gen baseKey18=11490004 values=[]><strong>Palestar Edict: Doom</strong></tooltip> Anastasya mengakibatkan 125% dari DMG aslinya selama 15 detik."
+        "<strong>Honor</strong>: Normal Attack, Elemental Burst <strong>The Evernight Yields to Dawn</strong>, dan Elemental Skill pembukaan segel <tooltip ns=tooltips_gen baseKey18=11490004 values=[]><strong>Palestar Edict: Doom</strong></tooltip> Anastasya mengakibatkan 130% dari DMG aslinya selama 15 detik."
       ],
       "2": "<br/>",
       "3": "Selain itu, DMG Reaksi Stellar Glimmer yang diakibatkan seluruh Karakter di sekitar dalam party <tooltip ns=tooltips_gen baseKey18=11190007 values=[]><strong>bertumbuh</strong></tooltip> 5%."

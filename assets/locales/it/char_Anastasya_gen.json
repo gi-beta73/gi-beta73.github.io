@@ -164,7 +164,7 @@
       "0": "Dopo che Anastasya ha usato la sua abilità elementale, <strong>Giudizio divino della Stella polare</strong>, si applicano i seguenti effetti in base alla sua Benedizione attuale:",
       "1": [
         " <strong>Amore</strong>: i DAN da CRIT dei DAN delle reazioni di Barlume astrale inflitti da tutti i membri del gruppo aumentano di un 60% per 30 s;",
-        " <strong>Onore</strong>: l'Attacco normale di Anastasya, il Tripudio elementale <strong>La Notteterna cede all'alba</strong> e l'abilità elementale speciale di dissigillamento <tooltip ns=tooltips_gen baseKey18=11490004 values=[]><strong>Editto della Candida Stella: Rovina</strong></tooltip> infliggono DAN pari a un 125% dei loro DAN originali per 15 s."
+        " <strong>Onore</strong>: l'Attacco normale di Anastasya, il Tripudio elementale <strong>La Notteterna cede all'alba</strong> e l'abilità elementale speciale di dissigillamento <tooltip ns=tooltips_gen baseKey18=11490004 values=[]><strong>Editto della Candida Stella: Rovina</strong></tooltip> infliggono DAN pari a un 130% dei loro DAN originali per 15 s."
       ],
       "2": "<br/>",
       "3": "Inoltre, i DAN delle reazioni di Barlume astrale inflitti da tutti i membri del gruppo nelle vicinanze vengono <tooltip ns=tooltips_gen baseKey18=11190007 values=[]><strong>innalzati</strong></tooltip> di un 5%."

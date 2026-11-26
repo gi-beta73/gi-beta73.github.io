@@ -612,7 +612,7 @@
         "While on the field, Danica gains 25 Will to Cleanse when her Normal Attacks using the Storm Anchor hit an opponent. Each attack in her Normal Attack sequence can grant Will to Cleanse this way only once."
       ],
       "2": "<br/>",
-      "3": "Additionally, in Maid: Royal Guard form, Danica can only gain Will to Cleanse when your active character's Electro or Cryo attacks hit an opponent; in Maid: Cleaner form, she can only gain Will to Cleanse by hitting opponents with Normal Attacks using the Storm Anchor.",
+      "3": "Additionally, in Maid: Royal Guard form, Danica can only gain Will to Cleanse when Electro or Cryo attacks from other active characters hit an opponent; in Maid: Cleaner form, she can only gain Will to Cleanse by hitting opponents with Normal Attacks using the Storm Anchor.",
       "4": "<br/>",
       "5": "Danica can consume all her Will to Cleanse once it reaches the maximum of 100 to use a special Elemental Skill and enter the corresponding Attendant Form. The Skill and form depend on whether or not she is on the field."
     }
@@ -636,7 +636,7 @@
     "description": {
       "0": "Danica enters the corresponding special form after using a special Elemental Skill at maximum Will to Cleanse.",
       "1": "Danica enters Maid: Royal Guard form after using the special Elemental Skill Will to Protect when switched in.",
-      "2": "Danica enters Maid: Cleaner form after using the special Elemental Skill Will to Purge while on the field.",
+      "2": "Danica enters Maid: Cleaner form after using the special Elemental Skill Will to Purge while on the field. While in an Attendant Form, she can't enter the other Attendant Form for the rest of the current Storm Anchor's duration.",
       "3": "<br/>",
       "4": "Maid: Royal Guard: Resets the duration of the Storm Anchor upon entering this form.",
       "5": "Maid: Cleaner: Each use of the special Elemental Skill Will to Purge while in this form causes Danica's Normal Attack sequence using the Storm Anchor to skip 1 attack in the sequence, up to the first 3 attacks in the sequence. After 5 uses of the special Elemental Skill Will to Purge, the Storm Anchor is destroyed, causing Danica to leave this form."
