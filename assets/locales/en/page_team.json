@@ -223,6 +223,8 @@
     },
     "result": {
       "buildName": "{{team}} (team optimized)",
+      "saveAsHint": "Save as “{{name}}” for each changed member. Nothing moves between characters.",
+      "customizeSaveName": "Customize build name or default format",
       "saveTitle": "Save builds for team",
       "saveCountHint_one": "Creates 1 new build used by this team. Equipped gear is untouched.",
       "saveCountHint_other": "Creates {{count}} new builds used by this team. Equipped gear is untouched.",
