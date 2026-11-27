@@ -223,6 +223,14 @@
     },
     "result": {
       "buildName": "{{team}} (team optimized)",
+      "buildTagDefault": "team optimized",
+      "saveTitle": "Save builds for team",
+      "saveCountHint_one": "Creates 1 new build used by this team. Equipped gear is untouched.",
+      "saveCountHint_other": "Creates {{count}} new builds used by this team. Equipped gear is untouched.",
+      "buildTagLabel": "Label in parentheses (optional)",
+      "clearLabel": "Clear label",
+      "savedAsHeading": "Saved as",
+      "saveConfirm": "Save",
       "cancel": "Cancel",
       "discard": "Discard",
       "equip": "Equip",
@@ -276,7 +284,9 @@
       "undo": "Undo",
       "excluded": "Excluded",
       "include": "Use it again",
-      "exclude": "Exclude from this team's optimization"
+      "exclude": "Exclude from this team's optimization",
+      "autoRankAfter": "Auto-rank after optimize",
+      "autoRankShort": "Auto-rank"
     },
     "rotation": {
       "add": "Add attack",
@@ -309,6 +319,8 @@
       "alternatives": "Next best builds",
       "buildsLabel": "Builds",
       "searchTip": "Quick narrows each slot to the artifacts that can matter and searches in full only the weapons a quick estimate puts near the best: much faster, and it rarely misses the best build (by a little when it does). Full searches every artifact and every weapon.",
+      "autoRank": "Auto-rank equipment",
+      "autoRankTip": "Automatically compare alternative weapons and artifact sets right after team optimization finishes.",
       "round": "Round {{round}}",
       "setup": "setting up the search",
       "searching": "searching {{total}} builds",
