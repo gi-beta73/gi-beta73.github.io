@@ -1,4 +1,20 @@
 {
+  "artifactBenchmarks": {
+    "title": "Artifact benchmarks",
+    "rolls_one": "{{rolls}} useful roll",
+    "rolls_other": "{{rolls}} useful rolls",
+    "pieces": "{{equipped}} of 5 equipped",
+    "method": "Compares substat value in average 5★ rolls for the stats your optimization target or stat minimums use. Benchmarks cover five slots and account for equipped 4★ pieces and main-stat restrictions.",
+    "stats": "Useful stats · {{stats}}",
+    "noArtifacts": "Equip artifacts to compare them with KQM Standard, Good and Great.",
+    "noTarget": "Pick an optimization target to see how these artifacts compare.",
+    "noUsefulStats": "This optimization target has no artifact substats to compare.",
+    "met": "Benchmark met",
+    "above_one": "{{rolls}} roll above",
+    "above_other": "{{rolls}} rolls above",
+    "short_one": "{{rolls}} roll short",
+    "short_other": "{{rolls}} rolls short"
+  },
   "searchLabel": {
     "char": "Characters",
     "team": "Team Name"
@@ -570,6 +586,17 @@
         "active": "Calculator targets applied. ER is recalculated for each weapon choice during optimization. Editing a target switches back to manual ER requirements.",
         "weaponMode": "ER calculated per weapon.",
         "title": "Calculate the team’s ER needs",
+        "method": "Calculation method",
+        "methodAverage": "Rotation average",
+        "methodTimed": "Timed rotation",
+        "methodAverageHelp": "Estimate ER from the total Energy gained per rotation.",
+        "methodTimedHelp": "Check the Energy available at each Burst in the written rotation.",
+        "methodNeedsRotation": "Write a playable rotation to use timed tracking.",
+        "methodNoRotation": "Using rotation average until a playable written rotation is available.",
+        "methodEdits": "Using rotation average with your edited energy inputs.",
+        "methodCadence": "Using rotation average until the written rotation matches the Burst schedule.",
+        "methodSkippedBurst": "Using rotation average while the written rotation includes a Burst marked unused.",
+        "methodUseRotation": "Use rotation inputs",
         "source": "Based on ERC 7.3 · Source sheet",
         "intro": "Confirm skill uses, particle catching and field time for one rotation. ER is calculated for the whole team, then applied to KQM. Extra energy from abilities or effects goes in Bonus flat energy.",
         "rotation": "Rotation",
