@@ -132,8 +132,8 @@
   },
   "empty": {
     "title": "No characters yet",
-    "description": "Add the characters you play, then set their level, talents, constellation and gear in the character editor. Characters added here can be used in any team.",
-    "add": "Add characters"
+    "description": "Import them from your in-game Character Showcase with your UID, or add them by hand and set their level, talents, constellation and gear. Characters added here can be used in any team.",
+    "add": "Add by hand"
   },
   "multiSelect": {
     "count_one": "{{count}} of 4 characters picked",

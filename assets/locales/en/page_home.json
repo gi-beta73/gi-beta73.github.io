@@ -58,8 +58,9 @@
     "steps": {
       "characters": {
         "title": "Add your characters",
-        "description": "Pick the characters you play, then set their level, talents and constellation.",
-        "action": "Add characters"
+        "description": "Import them from your in-game Character Showcase with your UID, with the weapons and artifacts they wear. Or pick them by hand.",
+        "action": "Add by hand",
+        "enka": "Import from Enka"
       },
       "artifacts": {
         "title": "Bring in artifacts and weapons",
